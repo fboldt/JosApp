@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head><title>Agnodice</title></head>
+<head>
+  <title>Agnodice</title>
+</head>
 <style>
 table {
   border-collapse: collapse;
 }
 table, td, th {
   border: 1px solid black;
+}
+.highlight {
+  /*font-weight: bold;*/
+  background-color: rgba(255, 153, 0,.31);
 }
 </style>
 <body>
@@ -29,7 +35,15 @@ function showHint(str) {
   list += "<tr><th>Code</th><th>Latim</th><th>English</th><th>Spa&ntilde;ol</th></tr>";
   for (var i=0; i<terms[0].length; i++) {
     tmp = "<tr><td>"+terms[0][i]+"</td><td>"+terms[1][i]+"</td><td>"+terms[2][i]+"</td><td>"+terms[2][i]+"</td></tr>";
-    if (tmp.includes(str.toLowerCase())) list += tmp;
+    var regex = new RegExp(str, "ig");
+    if (tmp.match(regex)){//tmp.toLowerCase().includes(str.toLowerCase())) {
+      var matchStartPosition = tmp.match(regex).index;
+      var matchEndPosition = matchStartPosition + tmp.match(regex)[0].toString().length;
+      var originalTextFoundByRegex = tmp.substring(matchStartPosition, matchEndPosition);
+      //alert(originalTextFoundByRegex);
+      //tmp = tmp.replace(regex, `<spam class="highlight">${originalTextFoundByRegex}</spam>`);
+      list += tmp;
+    }
   }
   list += "</table>";
   document.getElementById("txtHint").innerHTML = list;
@@ -41,6 +55,7 @@ function getTerms(file){
   xhttp.send();
   return xhttp.responseText.split('\n');
 }
+
 </script>
 
 </body>
