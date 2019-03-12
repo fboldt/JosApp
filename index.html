@@ -35,19 +35,10 @@ function showHint(str) {
   list += "<tr><th>Code</th><th>Latim</th><th>English</th><th>Spa&ntilde;ol</th></tr>";
   for (var i=0; i<terms[0].length; i++) {
     tmp = "<tr><td>"+terms[0][i]+"</td><td>"+terms[1][i]+"</td><td>"+terms[2][i]+"</td><td>"+terms[2][i]+"</td></tr>";
-    var regex = new RegExp(str, "ig");
-    if (tmp.match(regex)){//tmp.toLowerCase().includes(str.toLowerCase())) {
-      var matchStartPosition = tmp.match(regex).index;
-      var matchEndPosition = matchStartPosition + tmp.match(regex)[0].toString().length;
-      var originalTextFoundByRegex = tmp.substring(matchStartPosition, matchEndPosition);
-      //alert(originalTextFoundByRegex);
-      //tmp = tmp.replace(regex, `<spam class="highlight">${originalTextFoundByRegex}</spam>`);
-      list += tmp;
-    }
+    list += highlight(tmp, str);
   }
   list += "</table>";
   document.getElementById("txtHint").innerHTML = list;
-  
 }
 function getTerms(file){
   xhttp = new XMLHttpRequest();
@@ -55,7 +46,18 @@ function getTerms(file){
   xhttp.send();
   return xhttp.responseText.split('\n');
 }
-
+function highlight(str, expr){
+  var regex = new RegExp(expr, "i");
+  var res = str.match(regex);
+  if (res){
+    var startpos = str.match(regex).index;
+    var endpos = startpos + str.match(regex)[0].toString().length;
+    var text = str.substring(startpos, endpos);
+    str = str.replace(regex, `<spam class="highlight">${text}</spam>`);
+    return str;
+  }
+  return "";
+}
 </script>
 
 </body>
