@@ -22,7 +22,6 @@ table, td, th {
 
 <p><span id="txtHint"></span></p> 
 
-
 <script>
 function getData() {
   var codes = getTerms("codes.txt");
@@ -38,17 +37,43 @@ function getData() {
     terms[i][3] = spanish[i];
   }
 }
+
 function showHint(str) {
   var list = "<table><tr><th>Code</th><th>Latim</th><th>English</th><th>Spa&ntilde;ol</th></tr>";
   if (str.length > 0) {
-    str = "("+str+")(?![^<]*>)";
-    var regex = new RegExp(str, "i");
+    var reg  = "("+str+")(?![^<]*>)";
+    var regex = new RegExp(reg, "i");
     var line = "";
-    var res, startpos, endpos, text;
+    var res, startpos, endpos, text, startswith;
+    //*
     for (var i=0; i<terms.length; i++) {
       line = "<tr><td>"+terms[i][0]+"</td><td>"+terms[i][1]+"</td><td>"+terms[i][2]+"</td><td>"+terms[i][3]+"</td></tr>";
+      startswith = false;
+      for (var j=0; j<4; j++) {
+        if (typeof terms[i][j]!=='undefined' && terms[i][j].toLowerCase().startsWith(str.toLowerCase())){
+          startswith = true;
+          break;
+        }
+      }
+      if (startswith){
+        res = line.match(regex);
+        startpos = res.index;
+        endpos = startpos + res[0].toString().length;
+        text = line.substring(startpos, endpos);
+        list += line.replace(regex, `<spam class="highlight">${text}</spam>`);
+      }
+    }//*/
+    for (var i=0; i<terms.length; i++) {
+      line = "<tr><td>"+terms[i][0]+"</td><td>"+terms[i][1]+"</td><td>"+terms[i][2]+"</td><td>"+terms[i][3]+"</td></tr>";
+      startswith = false;
+      for (var j=0; j<4; j++) {
+        if (typeof terms[i][j]!=='undefined' && terms[i][j].toLowerCase().startsWith(str.toLowerCase())){
+          startswith = true;
+          break;
+        }
+      }
       res = line.match(regex);
-      if (res){
+      if (!startswith && res){
         startpos = res.index;
         endpos = startpos + res[0].toString().length;
         text = line.substring(startpos, endpos);
@@ -59,6 +84,7 @@ function showHint(str) {
   list += "</table>";
   document.getElementById("txtHint").innerHTML = list;
 }
+
 function getTerms(file){
   xhttp = new XMLHttpRequest();
   xhttp.open("GET", file, false);
