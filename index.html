@@ -30,14 +30,29 @@ terms[1] = getTerms("terms.la");
 terms[2] = getTerms("terms.en");
 terms[3] = getTerms("terms.es");
 function showHint(str) {
-  var tmp;
-  var list = "<table>";
-  list += "<tr><th>Code</th><th>Latim</th><th>English</th><th>Spa&ntilde;ol</th></tr>";
-  for (var i=0; i<terms[0].length; i++) {
-    tmp = "<tr><td>"+terms[0][i]+"</td><td>"+terms[1][i]+"</td><td>"+terms[2][i]+"</td><td>"+terms[3][i]+"</td></tr>";
-    list += highlight(tmp, str);
+  var list = "";
+  if (str.length > 0) {
+    //var reg = "(" + str + ")(?![^<]*>|[^<>]*</)";
+    var regex = new RegExp(str, "i");
+    var line;
+    var res;
+    var startpos;
+    var endpos;
+    var text;
+    list = "<table>";
+    list += "<tr><th>Code</th><th>Latim</th><th>English</th><th>Spa&ntilde;ol</th></tr>";
+    for (var i=0; i<terms[0].length; i++) {
+      line = "<tr><td>"+terms[0][i]+"</td><td>"+terms[1][i]+"</td><td>"+terms[2][i]+"</td><td>"+terms[3][i]+"</td></tr>";
+      res = line.match(regex);
+      if (res){
+        startpos = res.index;
+        endpos = startpos + res[0].toString().length;
+        text = line.substring(startpos, endpos);
+        list += line.replace(regex, `<spam class="highlight">${text}</spam>`);
+      }
+    }
+    list += "</table>";
   }
-  list += "</table>";
   document.getElementById("txtHint").innerHTML = list;
 }
 function getTerms(file){
@@ -45,18 +60,6 @@ function getTerms(file){
   xhttp.open("GET", file, false);
   xhttp.send();
   return xhttp.responseText.split('\n');
-}
-function highlight(str, expr){
-  var regex = new RegExp(expr, "i");
-  var res = str.match(regex);
-  if (res){
-    var startpos = str.match(regex).index;
-    var endpos = startpos + str.match(regex)[0].toString().length;
-    var text = str.substring(startpos, endpos);
-    str = str.replace(regex, `<spam class="highlight">${text}</spam>`);
-    return str;
-  }
-  return "";
 }
 </script>
 
