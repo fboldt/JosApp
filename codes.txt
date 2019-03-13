@@ -1,4 +1,4 @@
-A01.0.00.001
+ÔªøA01.0.00.001
 A01.0.00.002
 A01.0.00.003
 A01.0.00.004
@@ -918,7 +918,8 @@ A02.4.01.010
 A02.4.01.011
 A02.4.01.012
 A02.3.04.001
-A02.3.04.003 /
+A02.3.04.002
+A02.3.04.003
 A02.3.04.004
 A02.4.01.013
 A02.4.01.014
@@ -1938,7 +1939,7 @@ A04.5.02.004
 A04.5.02.005
 A04.5.02.006
 A04.5.02.001
-A04.0.00.031  y tambiÈn 
+A04.0.00.031  y tambi√©n 
 A04.0.00.034 /5/6).*
 A04.5.02.006
 A04.5.02.006
@@ -5507,7 +5508,7 @@ A14.1.04.129
 A14.1.04.013
 A14.1.04.104
 A14.1.05.105 ) o mesencephali(ver 
-A14.1.06.202 ) sustituye al tÈr-mino corticobulbar y especifica los axones corticales que inervan los n\xc5\x93cleos motores y/o sensitivos de los nervios craneales.'b'
+A14.1.06.202 ) sustituye al t√©r-mino corticobulbar y especifica los axones corticales que inervan los n√∫cleos motores y/o sensitivos de los nervios craneales.'b'
 A14.1.04.130
 A14.1.04.131
 A14.1.04.132
@@ -6576,7 +6577,7 @@ A14.1.09.542
 A14.1.09.501
 A14.1.09.530
 A14.1.05.105 ) o mesencephali(ver 
-A14.1.06.202 ) sustituye al tÈr-mino corticobulbar y especifica los axones corticales que inervan los n\xc5\x93cleos motores y/o sensitivos de los nervios craneales.*
+A14.1.06.202 ) sustituye al t√©r-mino corticobulbar y especifica los axones corticales que inervan los n√∫cleos motores y/o sensitivos de los nervios craneales.*
 A14.1.09.531
 A14.1.09.543
 A14.1.09.544
@@ -8725,7 +8726,8 @@ A02.4.01.010
 A02.4.01.011
 A02.4.01.012
 A02.3.04.001
-A02.3.04.003 /
+A02.3.04.002
+A02.3.04.003
 A02.3.04.004
 A02.4.01.013
 A02.4.01.014
@@ -9745,7 +9747,7 @@ A04.5.02.004
 A04.5.02.005
 A04.5.02.006
 A04.5.02.001
-A04.0.00.031  y tambiÈn 
+A04.0.00.031  y tambi√©n 
 A04.0.00.034 /5/6).*
 A04.5.02.006
 A04.5.02.006
@@ -13314,7 +13316,7 @@ A14.1.04.129
 A14.1.04.013
 A14.1.04.104
 A14.1.05.105 ) o mesencephali(ver 
-A14.1.06.202 ) sustituye al tÈr-mino corticobulbar y especifica los axones corticales que inervan los n\xc5\x93cleos motores y/o sensitivos de los nervios craneales.'b'
+A14.1.06.202 ) sustituye al t√©r-mino corticobulbar y especifica los axones corticales que inervan los n√∫cleos motores y/o sensitivos de los nervios craneales.'b'
 A14.1.04.130
 A14.1.04.131
 A14.1.04.132
@@ -14383,7 +14385,7 @@ A14.1.09.542
 A14.1.09.501
 A14.1.09.530
 A14.1.05.105 ) o mesencephali(ver 
-A14.1.06.202 ) sustituye al tÈr-mino corticobulbar y especifica los axones corticales que inervan los n\xc5\x93cleos motores y/o sensitivos de los nervios craneales.*
+A14.1.06.202 ) sustituye al t√©r-mino corticobulbar y especifica los axones corticales que inervan los n√∫cleos motores y/o sensitivos de los nervios craneales.*
 A14.1.09.531
 A14.1.09.543
 A14.1.09.544

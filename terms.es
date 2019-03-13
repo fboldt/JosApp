@@ -1,7 +1,7 @@
 Vertical
 Horizontal
 Mediano
-Coronalï
+Coronal‚Ä¢
 Sagital
 Derecho
 Izquierdo
@@ -35,15 +35,15 @@ Profundo
 Proximal
 Distal
 Central
-PerifÈrico
+Perif√©rico
 Radial
-Ul;Cubital
+Ulnar;Cubital
 Fibu;Peroneal
 Tibial
 Pal;Volar
 Plantar
 Flexor
-Extensor'b'
+Extensor
 Cabeza
 Sincipucio
 Occipucio
@@ -51,18 +51,18 @@ Sien
 Oreja
 Cara
 Ojo
-Mejillaï
+Mejilla‚Ä¢
 Nariz
 Boca
-MentÛn
+Ment√≥n
 Cuello
-Tr\nonco
-TÛrax
+Tronco
+T√≥rax
 Pecho
 Abdomen
 Pelvis
 Espalda
-Miembro superiorï
+Miembro superior‚Ä¢
 Cintura escapularsuperioris
 Axila
 Brazo
@@ -74,28 +74,28 @@ Metacarpo
 Palma
 Dorso de la mano
 Dedos de la mano
-Miembro inferiorï
-Cintura pÈlvicainferioris
+Miembro inferior‚Ä¢
+Cintura p√©lvicainferioris
 Nalgas
 Cadera
 Muslo
 Rodilla
-Fosa popl\xe2\x84\xa2tea
+Fosa popl√≠tea
 Pierna
 Pantorrilla
 Pie
 Tarso
-TalÛn
+Tal√≥n
 Metatarso
 Planta
 Dorso del pie
 Dedos del pie
 Cavidades
 Cavidad craneal
-Cavidad tor‚cica
-Cavidad abdominal y pÈlvica
+Cavidad tor√¢cica
+Cavidad abdominal y p√©lvica
 Cavidad abdominal
-Cavidad pÈlvica2
+Cavidad p√©lvica
 Planes
 Planos fronta;Planos coronales
 Planos horizontales
@@ -103,145 +103,146 @@ Planos sagitales
 Plano me;Plano sagital y medio
 Planos paramedianos
 Planos transversos
-Plano transpilÛrico
+Plano transpil√≥rico
 Plano subcostal
 Plano supracrestal
 Plano intertubercular
 Plano interespinoso
-L\xe2\x84\xa2nea media anterior
-L\xe2\x84\xa2nea esternal
-L\xe2\x84\xa2nea paraesternal
+L√≠nea media anterior
+L√≠nea esternal
+L√≠nea paraesternal
 Iine
-L\xe2\x84\xa2nea mamilar
-L\xe2\x84\xa2nea axilar anterior
-L\xe2\x84\xa2nea axilar media
-L\xe2\x84\xa2nea axilar posterior
-L\xe2\x84\xa2nea escapular
-L\xe2\x84\xa2nea paravertebral
-L\xe2\x84\xa2nea media posterior
+L√≠nea mamilar
+L√≠nea axilar anterior
+L√≠nea axilar media
+L√≠nea axilar posterior
+L√≠nea escapular
+L√≠nea paravertebral
+L√≠nea media posterior
 Regiones de la cabeza
-RegiÛn frontal
-RegiÛn parietal
-RegiÛn occipital
-RegiÛn temporal
-RegiÛn auricular
-RegiÛn mastoidea
+Regi√≥n frontal
+Regi√≥n parietal
+Regi√≥n occipital
+Regi√≥n temporal
+Regi√≥n auricular
+Regi√≥n mastoidea
 Region facial
 Surco suprapalpebral
-RegiÛn orbitaria
+Regi√≥n orbitaria
 Surco infrapalpebral
-RegiÛn infraorbitaria
-RegiÛn de la mejilla
-RegiÛn parotidomaseterina
-RegiÛn cigom‚tica
-RegiÛn nasal
+Regi√≥n infraorbitaria
+Regi√≥n de la mejilla
+Regi√≥n parotidomaseterina
+Regi√≥n cigom√¢tica
+Regi√≥n nasal
 Surco nasolabial
-RegiÛn labial
+Regi√≥n labial
 Surco mentolabial
-RegiÛn mentoniana
+Regi√≥n mentoniana
 Regiones cervicales
-RegiÛn cervical anter;Tri‚ngulo cervicalcervicale anter;Trigonum colli anteriustriangleanter;Tri‚ngulo anterior del cuello
-Tri‚ngulo submandibular
-Tri‚ngulo carot\xe2\x84\xa2deo
-Tri‚ngulo muscu;Tri‚ngulo omotraqueal\nomotrachealetriangle
-Tri‚ngulo submentoniano
-RegiÛn esternocleidomastoidea
+Regi√≥n cervical anter;Tri√¢ngulo cervicalcervicale anter;Trigonum colli anteriustriangleanter;Tri√¢ngulo anterior del cuello
+Tri√¢ngulo submandibular
+Tri√¢ngulo carot√≠deo
+Tri√¢ngulo muscu;Tri√¢ngulo omotraqueal\nomotrachealetriangle
+Tri√¢ngulo submentoniano
+Regi√≥n esternocleidomastoidea
 Fosa supraclavicular menor
-RegiÛn cervical late;Tri‚ngulo cervicalposter;Trigonum colli lateraletriangleposter;Tri‚ngulo lateral del cuello
-Tri‚ngulo omoclaviculartriangle
+Regi√≥n cervical late;Tri√¢ngulo cervicalposter;Trigonum colli lateraletriangleposter;Tri√¢ngulo lateral del cuello
+Tri√¢ngulo omoclaviculartriangle
 Fosa supraclavicular mayor
-Puede ser empleado para ‚reas de la superficie corporal o tener un significado tridimensional.'b'
-RegiÛn cervical poster;RegiÛn posteriorposteriordel cuelloï
-Regiones tor‚cicas anteriores y laterales
-RegiÛn preesternal
+Planos--l√≠neas y regiones
+Regi√≥n cervical posterior; Regi√≥n posterior del cuello*
+Regiones tor√¢cicas anteriores y laterales
+Regi√≥n preesternal
 Fosa infraclavicular
-Tri‚ngulo clavipecto;Tri‚ngulodeltopectoraletriangledeltopectoral
-RegiÛn pectoral*
-RegiÛn pectoral lateral
-RegiÛn mamaria
-RegiÛn inframamaria
-RegiÛn axilar
+Tri√¢ngulo clavipecto;Tri√¢ngulodeltopectoraletriangledeltopectoral
+Regi√≥n pectoral*
+Regi√≥n pectoral lateral
+Regi√≥n mamaria
+Regi√≥n inframamaria
+Regi√≥n axilar
 Fosa axilar
 Regiones abdominales
-Hipocond;RegiÛn hipocondr\xe2\x84\xa2aca
-Epigast;RegiÛn epig‚stricaepigastrica
-Fla;RegiÛn lateral
-Ombl;RegiÛn umbilical
-In;RegiÛn inguinal
-Hipogast;RegiÛn p\xc5\x93bica
-Regiones de la espaldaï
-RegiÛn vertebral
-RegiÛn sacra
-(Foveola cox\xe2\x84\xa2gea)
-RegiÛn escapular*
-Tri‚ngulo de auscultaciÛnauscultation
-RegiÛn infraescapular
-RegiÛn lumbar
-(Tri‚ngulo lumbar inferior)*
-(Tri‚ngulo lumbar superior)
-RegiÛn perineal
-RegiÛn anal
-RegiÛn urogenital
+Hipocond;Regi√≥n hipocondr√≠aca
+Epigast;Regi√≥n epig√¢stricaepigastrica
+Fla;Regi√≥n lateral
+Ombl;Regi√≥n umbilical
+In;Regi√≥n inguinal
+Hipogast;Regi√≥n p√∫bica
+Regiones de la espalda‚Ä¢
+Regi√≥n vertebral
+Regi√≥n sacra
+(Foveola cox√≠gea)
+Regi√≥n escapular*
+Tri√¢ngulo de auscultaci√≥nauscultation
+Regi√≥n infraescapular
+Regi√≥n lumbar
+(Tri√¢ngulo lumbar inferior)*
+(Tri√¢ngulo lumbar superior)
+Regi√≥n perineal
+Regi√≥n anal
+Regi√≥n urogenital
 Regiones del miembro superior
-RegiÛn deltoidea
-RegiÛn braquialï
-RegiÛn anterior del br;RegiÛn braquialanterioranterior
-Surco bicipital late;Surco bicipitalbicipitalis radialisradial
-Surco bicipital med;Surco bicipitalbicipitalis ulnariscubital
-RegiÛn posterior del br;RegiÛn braquialposteriorposteriorposterior
-RegiÛn cubi;RegiÛn del codo
-RegiÛn anterior del codoï
-Fosa del codoï
-RegiÛn posterior del codoï
-RegiÛn antebraquial
-RegiÛn anterior del antebr;RegiÛnantebrachialis anteriorantebraquial anterior4
+Regi√≥n deltoidea
+Regi√≥n braquial‚Ä¢
+Regi√≥n anterior del brazo; Regi√≥n braquial anterior
+Surco bicipital lateral; Surco bicipital radial
+Surco bicipital medial; Surco bicipital cubital
+ Regi√≥n posterior del brazo; Regi√≥n braquial posterior
+Regi√≥n cubi;Regi√≥n del codo
+Regi√≥n anterior del codo‚Ä¢
+Fosa del codo‚Ä¢
+Regi√≥n posterior del codo‚Ä¢
+Regi√≥n antebraquial
+Regi√≥n anterior  del antebrazo; Regi√≥n antebraquial anterior
+Regi√≥n pectoral lateral
 el borde medial del m. rhomboideus majory el borde superior delm. latissimus dorsi
-Cuando est‚ presente se encuentra recubierto porel m. latissimus dorsiy el m. obliquus externus abdominiscon la fascia thoracolumbalisen su fondo. 
-RegiÛn posterior del antebr;RegiÛnantebrachialis posteriorantebraquial posterior
+Cuando est√¢ presente se encuentra recubierto porel m. latissimus dorsiy el m. obliquus externus abdominiscon la fascia thoracolumbalisen su fondo. 
+Regi√≥n posterior del antebr;Regi√≥nantebrachialis posteriorantebraquial posterior
 Borde rad;Borde lateral
-Borde cubi;Borde medialï
-RegiÛn de la mano
-RegiÛn carpianaï
-RegiÛn anterior del carpoï
-RegiÛn posterior del carpoï
-RegiÛn dorsal de la manoï
-Pa;RegiÛn palmarï
+Borde cubi;Borde medial‚Ä¢
+Regi√≥n de la mano
+Regi√≥n carpiana‚Ä¢
+Regi√≥n anterior del carpo‚Ä¢
+Regi√≥n posterior del carpo‚Ä¢
+Regi√≥n dorsal de la mano‚Ä¢
+Pa;Regi√≥n palmar‚Ä¢
 Eminencia tenar
 Eminencia hipotenar
-RegiÛn metacarpiana
+Regi√≥n metacarpiana
 Dedos de la manothumb
-Thumb
-Index finger\xc3\xaand;Segundo dedo [
-I]
-Ring finger
-Little finger
+Pul;Primer dedo [I]
+√çndice;Segundo dedo [II]
+Dedo me;Tercer dedo [III]
+Anu;Cuarto dedo [IV]
+Me\xc5\x92i;Quinto dedo [V]
 Caras palmares de los dedos
 Caras dorsales de los dedos
 Regiones del miembro inferior
-RegiÛn gl\xc5\x93tea
-Hendidura intergl\xc5\x93tea
-Surco gl\xc5\x93teo
-RegiÛn de la cadera
-RegiÛn del mu;RegiÛn femoral
-RegiÛn anterior del mu;RegiÛn femoralanterior
-Tri‚ngulo femoral
-RegiÛn posterior del mu;RegiÛn femoralposterior
-RegiÛn de la rodilla
-RegiÛn anterior de la rodilla
-RegiÛn posterior de la rodilla
-Fosa popl\xe2\x84\xa2teaï
-RegiÛn de la pierna
-RegiÛn anterior de la pierna
-RegiÛn posterior de la pierna
-RegiÛn sural
-RegiÛn anterior del tobilloankle region
-RegiÛn posterior del tobilloankle region
-RegiÛn retromaleolar lateral
-RegiÛn retromaleolar medial
-RegiÛn del pie
-RegiÛn calc‚nea
-Dorso del ;RegiÛn dorsal del pie
-Pla;RegiÛn plantar
+Regi√≥n gl√∫tea
+Hendidura intergl√∫tea
+Surco gl√∫teo
+Regi√≥n de la cadera
+Regi√≥n del mu;Regi√≥n femoral
+Regi√≥n anterior del mu;Regi√≥n femoralanterior
+Tri√¢ngulo femoral
+Regi√≥n posterior del mu;Regi√≥n femoralposterior
+Regi√≥n de la rodilla
+Regi√≥n anterior de la rodilla
+Regi√≥n posterior de la rodilla
+Fosa popl√≠tea‚Ä¢
+Regi√≥n de la pierna
+Regi√≥n anterior de la pierna
+Regi√≥n posterior de la pierna
+Regi√≥n sural
+Regi√≥n anterior del tobilloankle region
+Regi√≥n posterior del tobilloankle region
+Regi√≥n retromaleolar lateral
+Regi√≥n retromaleolar medial
+Regi√≥n del pie
+Regi√≥n calc√¢nea
+Dorso del ;Regi√≥n dorsal del pie
+Pla;Regi√≥n plantar
 Borde lateral del ;Borde fibular del ;pedisof f;Peroneal border of foot
 Borde medial del ;Borde tibial de piepedisof foot
 Arco longitudinal del pie
@@ -250,23 +251,23 @@ Parte medial
 Arco transverso proximal del pie
 Arco transverso distal del pie
  que conduce hacia el ano. 
-RegiÛn tarsiana
-RegiÛn metatarsiana
+Regi√≥n tarsiana
+Regi√≥n metatarsiana
 Dedos del pie
-Great toe [
-Second toe [
-I]
-Fourth toe [
-Little ;Fifth toe [
+Primer dedo [I];Dedo gordo‚Ä¢
+Segundo dedo [II]
+Tercer dedo [III]
+Cuarto dedo [IV]
+Quinto dedo [V];Dedo me\xc5\x92ique
 Cara plantar de los dedos
 Cara dorsal de los dedos6
-Hue;Sistema esquelÈtico
-PorciÛn Ûsea
+Hue;Sistema esquel√©tico
+Porci√≥n √≥sea
 Hueso cortical
 Hueso compacto
 Hueso esponj;Hueso trabeculartrabecularis
-PorciÛn cartilaginosa
-PorciÛn membranosa
+Porci√≥n cartilaginosa
+Porci√≥n membranosa
 Periostio
 Pericondrio
 Esqueleto axial
@@ -277,47 +278,47 @@ Hueso plano
 Hueso irregular
 Hueso neumatizado
 Hueso sesamoideo
-Di‚fisis
-Ep\xe2\x84\xa2fisis
-Cart\xe2\x84\xa2lago epifisario
-L‚mina epifisaria
-L\xe2\x84\xa2nea epifisaria
-Met‚fisis
-ApÛfisis
+Di√¢fisis
+Ep√≠fisis
+Cart√≠lago epifisario
+L√¢mina epifisaria
+L√≠nea epifisaria
+Met√¢fisis
+Ap√≥fisis
 Eminen;Tuberosidad
-TubÈrculo
+Tub√©rculo
 Tuberosidad
 Eminencia
-Proc;ApÛfisis
-CÛndilo
-EpicÛndilo
+Proc;Ap√≥fisis
+C√≥ndilo
+Epic√≥ndilo
 Cresta
-L\xe2\x84\xa2nea
+L√≠nea
 Incis;Escotadura
 Fosa
 Surco
 Cara articular
 Cavidad medular
-EndÛstio
-MÈdula Ûsea amarilla
-MÈdula Ûsea roja
+End√≥stio
+M√©dula √≥sea amarilla
+M√©dula √≥sea roja
 Foramen nutricio
 Canal nutricio
-Centro de osificaciÛnï
+Centro de osificaci√≥n‚Ä¢
 Primario
 Secundario
-que no es
-Cr‚neo
+End√≥stio
+Cr√¢neo
 Vista fac;Vista frontal
 Vista super;Vista vertical
 Vista occipital
 Vista lateral
 Vista infer;Vista basal
-Neurocr‚neo
-Viscerocr‚;Esqueleto facial
-Condrocr‚neo
-Desmocr‚neo
-Pericr‚;Periostio externo del cr‚neo
+Neurocr√¢neo
+Viscerocr√¢;Esqueleto facial
+Condrocr√¢neo
+Desmocr√¢neo
+Pericr√¢;Periostio externo del cr√¢neo
 Cavidad craneal
 Frente
 Occipucio
@@ -327,21 +328,21 @@ Lambda
 Inion
 Pterion
 Asterion
-Gonionï
+Gonion‚Ä¢
 Fosa temporal
-Arco cigom‚tico
-Fosa infratemporalï
+Arco cigom√¢tico
+Fosa infratemporal‚Ä¢
 Fosa pterigopalatina
 Fisura pterigomaxilar
 Fontanelas
-Fontanela anteriorï
-Fontanela posteriorï
-Fontanela esfenoi;Fontanelaanterolateralisanterolateralï
+Fontanela anterior‚Ä¢
+Fontanela posterior‚Ä¢
+Fontanela esfenoi;Fontanelaanterolateralisanterolateral‚Ä¢
 Fontanela mastoideaposterolateralis
 Calvaria
-VÈrtex
+V√©rtex
 Tabla externa
-D\xe2\x84\xa2ploe
+D√≠ploe
 Conductos diploicos
 Tabla interna
 Surco del seno sagital superior
@@ -350,29 +351,30 @@ Impresiones de los giros cerebra;digita;Juga cerebralia
 Surcos venosos
 Surcos arteriales
 (Huesos sutura;Huesos wormianos)
-Base del cr‚neo
-Cara interna de la base del cr‚neo
+Base del cr√¢neo
+Cara interna de la base del cr√¢neo
 Fisura esfenopetrosa
 Fisura petro-occipital
 Fosa craneal anterior
 Fosa craneal media
 Fosa craneal posterior
-Clivusï
+Clivus‚Ä¢
 Surco del seno petroso inferior
-Cara externa de la base del cr‚neo
-Foramen yugularï
-Foramen lacerumï8
-Paladar Ûseo
+Cara externa de la base del cr√¢neo
+Foramen yugular‚Ä¢
+Foramen lacerum‚Ä¢
+Paladar √≥seo
 Conducto palatino mayor
 Foramen palatino mayor
-For‚menes palatinos menores
+For√¢menes palatinos menores
 Fosa incisiva
 Conducto incisivo
-For‚menes incisivos
+For√¢menes incisivos
 (Rodete palatino)
 Conducto palatovaginal
 Conducto vomerovaginal
 Conducto vomerorrostral
+√ìrbita
 Cavidad orbitaria
 Orificio orbitario
 Borde orbitario
@@ -380,8 +382,8 @@ Borde supraorbitario
 Borde infraorbitario
 Borde lateral
 Borde medial
-Pared superiorï
-Pared inferiorï
+Pared superior‚Ä¢
+Pared inferior‚Ä¢
 Pared lateral
 Pared medial
 Foramen etmoidal anterior
@@ -391,33 +393,38 @@ Fosa del saco lagrimal
 Fisura orbitaria superior
 Fisura orbitaria inferior
 Conducto nasolagrimal
-Cavidad nasal Ûsea
-Tabique nasal Ûseo
+Cavidad nasal √≥sea
+Tabique nasal √≥seo
 Orificio piriforme
 Meato nasal superior
 Meato nasal medio
 Meato nasal inferior
 Orificio del conducto lagrimonasal
-Meato nasal com\xc5\x93n
+Meato nasal com√∫n
 Receso esfeno-etmoidal
-Meato nasofar\xe2\x84\xa2ngeo
+Meato nasofar√≠ngeo
 Co;Orificio nasal posterior
 Foramen esfenopalatino
-Huesos del cr‚neo
+Huesos del cr√¢neo
 Hueso parietal
 Cara interna
 Surco del seno sigmoideo
 Surco del seno sagital superior
-Surco de la arteria men\xe2\x84\xa2ngea media
+Surco de la arteria men√≠ngea media
 Surcos arteriales
 Cara externa
-L\xe2\x84\xa2nea temporal superior
-L\xe2\x84\xa2nea temporal inferior
+L√≠nea temporal superior
+L√≠nea temporal inferior
 Tuberosidad parie;Eminencia parietal
 Borde occipital
 Borde escamoso 
+Meato nasal com√∫n
 Borde sagital
 Borde frontal
+√Çngulo frontal
+√Çngulo occipital
+√Çngulo esfenoidal
+√Çngulo mastoideo
 Foramen parietal
 Hueso frontal
 Escama
@@ -425,26 +432,26 @@ Cara externa
 Frontal eminence
 Arco superciliar
 Glabela
-(Sutura fron;Sutura metÛpica)metopica)
+(Sutura fron;Sutura met√≥pica)metopica)
 Borde supraorbitario
 Escotadura supraorbitaria/foramensupraorbitalesupraorbitario
 Escotadura frontal/foramen frontal
 Cara temporal
 Borde parietal
-L\xe2\x84\xa2nea temporal
-ApÛfisis cigom‚ticaï
+L√≠nea temporal
+Ap√≥fisis cigom√¢tica‚Ä¢
 Cara interna
 Cresta frontal
 Surco del seno sagital superior
 Foramen ciego
-PorciÛn nasal
+Porci√≥n nasal
 Espina nasal
 Borde nasal
-PorciÛn orbitaria
+Porci√≥n orbitaria
 Cara orbitaria
 (Espina troclear)
 Fosita troclear
-Fosa de la gl‚ndula lagrimalfossa
+Fosa de la gl√¢ndula lagrimalfossa
 Borde esfenoidal
 Escotadura etmoidal
 Seno frontal
@@ -454,28 +461,28 @@ Hueso occipital
 Foramen ma;Foramen occipital
 Basion
 Opistion
-PorciÛn basilar
-Clivusï
-TubÈrculo far\xe2\x84\xa2ngeo
+Porci√≥n basilar
+Clivus‚Ä¢
+Tub√©rculo far√≠ngeo
 Surco del seno petroso inferior
-PorciÛn lateral
+Porci√≥n lateral
 Escama occipital
 Borde mastoideo
 Borde lambdoideo
 (Hueso interparietal)
-CÛndilo occipital
-Conducto cond\xe2\x84\xa2leoï
-Conducto del nervio hipoglosoï
-Fosa cond\xe2\x84\xa2lea
-TubÈrculo yugular
+C√≥ndilo occipital
+Conducto cond√≠leo‚Ä¢
+Conducto del nervio hipogloso‚Ä¢
+Fosa cond√≠lea
+Tub√©rculo yugular
 Escotadura yugular10
-ApÛfisis yugular
-ApÛfisis intrayugular
+Ap√≥fisis yugular
+Ap√≥fisis intrayugular
 Protuberancia occipital externa
 (Cresta occipital externa)
-L\xe2\x84\xa2nea nucal suprema
-L\xe2\x84\xa2nea nucal superior
-L\xe2\x84\xa2nea nucal inferior
+L√≠nea nucal suprema
+L√≠nea nucal superior
+L√≠nea nucal inferior
 Plano occipital
 Eminencia cruciforme
 Protuberancia occipital interna
@@ -484,22 +491,22 @@ Surco del seno transverso
 Surco del seno sigmoideo
 Surco del seno occipital
 Surco del seno marginal
-(ApÛfisis paramastoidea)
+(Ap√≥fisis paramastoidea)
 Fosa cerebral
 Fosa cerebelosa
 Hueso esfenoides
 Cuerpo
 Yugo esfenoidal
 Limbo esfenoidal
-Surco prequiasm‚tico
+Surco prequiasm√¢tico
 Silla turca
-TubÈrculo de la silla
-(ApÛfisis clinoides media)
+Tub√©rculo de la silla
+(Ap√≥fisis clinoides media)
 Fosa hipofisaria
-Dorso de la sillaï
-ApÛfisis clinoides posterior
-Surco carot\xe2\x84\xa2deo
-L\xe2\x84\xa2ngula esfenoidal
+Dorso de la silla‚Ä¢
+Ap√≥fisis clinoides posterior
+Surco carot√≠deo
+L√≠ngula esfenoidal
 Cresta esfenoidal
 Pico esfenoidal
 Seno esfenoidal
@@ -507,152 +514,152 @@ Tabique intersinusal esfenoidal
 Orificio del seno esfenoidal
 Cornete esfenoidal
 Ala menor
-Conducto Ûptico
-ApÛfisis clinoides anterior
-Fisura orbitaria superiorï
+Conducto √≥ptico
+Ap√≥fisis clinoides anterior
+Fisura orbitaria superior‚Ä¢
 Ala mayor
 Cara cerebral
 Cara temporal
 Cara infratemporal
-Cresta infratemporalï
+Cresta infratemporal‚Ä¢
 Cara maxilar
 Cara orbitaria
-Borde cigom‚tico
+Borde cigom√¢tico
 Borde frontal
 Borde parietal
 Borde escamoso
 Foramen redondo mayor
 Foramen oval
 (Foramen venoso)
-Foramen espinosoï
+Foramen espinoso‚Ä¢
 (Foramen petroso)
 Espina del esfenoides'b'
 Surco de la trompa auditivaauditoriae
-ApÛfisis pterigoides
-L‚mina lateral
-L‚mina medial
+Ap√≥fisis pterigoides
+L√¢mina lateral
+L√¢mina medial
 Escotadura pterigoidea
 Fosa pterigoidea
 Fosa escafoidea
-ApÛfisis vaginal
+Ap√≥fisis vaginal
 Surco palatovaginal
 Surco vomerovaginal
-Gancho de la apÛfisis pterigoides
-Surco del gancho de la apÛfisis pterigoides
-Conducto pterigoideoï
-ApÛfisis ptÈrigo-espinosa
+Gancho de la ap√≥fisis pterigoides
+Surco del gancho de la ap√≥fisis pterigoides
+Conducto pterigoideo‚Ä¢
+Ap√≥fisis pt√©rigo-espinosa
 Hueso temporal
-PorciÛn petrosaï
+Porci√≥n petrosa‚Ä¢
 Borde occipital
-ApÛfisis mastoides
+Ap√≥fisis mastoides
 Incisura mastoidea
 Surco del seno sigmoideo
 Surco de la arteria occipital
 Foramen mastoideo
 Conducto facial
 Rodilla del conducto facial
-Conductillo de la cuerda del t\xe2\x84\xa2mpano
-VÈrtice de la porciÛn petrosa
-Conducto carot\xe2\x84\xa2deo
-Orificio externo del conducto carot\xe2\x84\xa2deo
-Orificio interno del conducto carot\xe2\x84\xa2deo
-Conductillos carotidotimp‚nicos
-Conductos musculotub‚ricos
-Conducto para el m\xc5\x93sculo tensordel t\xe2\x84\xa2mpanoï
+Conductillo de la cuerda del t√≠mpano
+V√©rtice de la porci√≥n petrosa
+Conducto carot√≠deo
+Orificio externo del conducto carot√≠deo
+Orificio interno del conducto carot√≠deo
+Conductillos carotidotimp√¢nicos
+Conductos musculotub√¢ricos
+Conducto para el m√∫sculo tensordel t√≠mpano‚Ä¢
 Conducto para la trompa auditivatubae auditoriae
-Tabique del conducto musculotub‚rico
-Cara anterior de la porciÛn petrosa
-Techo del t\xe2\x84\xa2mpano
+Tabique del conducto musculotub√¢rico
+Cara anterior de la porci√≥n petrosa
+Techo del t√≠mpano
 Eminencia arcuata
 Hiato del conducto para el nervio petrosomayor
 Surco del nervio petroso mayor
 Hiato del conducto para el nervio petrosomenor
 Surco del nervio petroso menor
-ImpresiÛn trigeminal
-Borde superior de la porciÛn petrosa
+Impresi√≥n trigeminal
+Borde superior de la porci√≥n petrosa
 Surco del seno petroso superior
-Cara posterior de la porciÛn petrosa
+Cara posterior de la porci√≥n petrosa
 Orificio auditivo interno
 Conducto auditivo interno
 Fosa subarcuata
 Acueducto vestibular
 Orificio del acueducto vestibular
-Borde posterior de la porciÛn petrosa
+Borde posterior de la porci√≥n petrosa
 Surco del seno petroso inferior
 Escotadura yugular
-Cara inferior de la porciÛn petrosa
+Cara inferior de la porci√≥n petrosa
 Fosa yugular
 Conductillo coclear
 Orificio del conductillo coclear12
 Conductillo mastoideo
 Escotadura yugular
-ApÛfisis intrayugular
-ApÛfisis estiloides
+Ap√≥fisis intrayugular
+Ap√≥fisis estiloides
 Foramen estilomastoideo
-Conductillo timp‚nico
+Conductillo timp√¢nico
 Fosita petrosa
-Cavidad timp‚nica
-PorciÛn timp‚nica
-Anillo timp‚nico
+Cavidad timp√¢nica
+Porci√≥n timp√¢nica
+Anillo timp√¢nico
 Orificio auditivo externo
 Conducto auditivo externo
-Espina timp‚nica mayor
-Espina timp‚nica menor
-Surco timp‚nico
-Escotadura timp‚nica
-ApÛfisis vaginal de la apÛfisis estiloides
-PorciÛn escamosa
+Espina timp√¢nica mayor
+Espina timp√¢nica menor
+Surco timp√¢nico
+Escotadura timp√¢nica
+Ap√≥fisis vaginal de la ap√≥fisis estiloides
+Porci√≥n escamosa
 Borde parietal
 Escotadura parietal
 Borde esfenoidal
 Cara temporal
 Surco de la arteria temporal media
-ApÛfisis cigom‚tica
+Ap√≥fisis cigom√¢tica
 Cresta supramastoidea
-Fosita suprame‚ticasuprameatalis
-(Espina suprame‚tica)
+Fosita suprame√¢ticasuprameatalis
+(Espina suprame√¢tica)
 Fosa mandibular
 Cara articular
-TubÈrculo articularï
-Fisura petrotimp‚nica
+Tub√©rculo articular‚Ä¢
+Fisura petrotimp√¢nica
 Fisura petro-escamosa
 Fisura timpano-escamosa
 Fisura timpanomastoidea
 Cara cerebral
 Hueso etmoides
-L‚mina cribosa
-For‚menes de la l‚mina cribosa
-ApÛfisis crista galli
-Ala de la apÛfisis crista galli
-L‚mina perpendicular
+L√¢mina cribosa
+For√¢menes de la l√¢mina cribosa
+Ap√≥fisis crista galli
+Ala de la ap√≥fisis crista galli
+L√¢mina perpendicular
 Laberinto etmoidal
 Celdillas etmoidales anteriores
 Celdillas etmoidales medias
 Celdillas etmoidales posteriores
-L‚mina orbitariaï
+L√¢mina orbitaria‚Ä¢
 Cornete nasal supremo
 Cornete nasal superior
 Cornete nasal medio
 Bulla etmoidal
-ApÛfisis unciforme
-Infund\xe2\x84\xa2bulo etmoidal
+Ap√≥fisis unciforme
+Infund√≠bulo etmoidal
 Hiato semilunar
 Cornete nasal inferior
-ApÛfisis lagrimal
-ApÛfisis maxilar
-ApÛfisis etmoidal
+Ap√≥fisis lagrimal
+Ap√≥fisis maxilar
+Ap√≥fisis etmoidal
 Hueso lagrimal'b'
 Cresta lagrimal posterior
 Surco lagrimal
 Gancho lagrimal
 Hueso nasal
 Surco etmoidal
-For‚menes nasales
-VÛmer
+For√¢menes nasales
+V√≥mer
 Ala
 Surco vomeriano
-Cresta coanal del vÛmer
-PorciÛn cuneiforme del vÛmer
+Cresta coanal del v√≥mer
+Porci√≥n cuneiforme del v√≥mer
 Maxilar
 Cuerpo
 Cara orbitaria
@@ -666,196 +673,198 @@ Escotadura nasal
 Espina nasal anterior
 Sutura cigomaticomaxi;Suturainfraorbitalisinfraorbitaria
 Cara infratemporal
-For‚menes alveolaresï
-Conductos alveolaresï
+For√¢menes alveolares‚Ä¢
+Conductos alveolares‚Ä¢
 Tuberosidad del maxilar
 Cara nasal
 Surco lagrimal
 Cresta de la concha
 Borde lagrimal
 Hiato maxilar
-Surco palatino mayorï
+Surco palatino mayor‚Ä¢
 Seno maxilar
-ApÛfisis frontal
+Ap√≥fisis frontal
 Cresta lagrimal anterior
 Escotadura lagrimal
 Cresta etmoidal
-ApÛfisis cigom‚tica
-ApÛfisis palatina
+Ap√≥fisis cigom√¢tica
+Ap√≥fisis palatina
 Cresta nasal
 (Hueso incis;Premaxilar)
 Conductos incisivos
 (Sutura incisiva)
 Espinas palatinas
 Surcos palatinos
-ApÛfisis alveolar
+Ap√≥fisis alveolar
 Arco alveolar
 Alveolos dentarios
 Tabiques interradiculares
 Tabiques interalveolares
 Eminencias alveolares
-For‚menes incisivos
+For√¢menes incisivos
 Hueso palatino
-L‚mina perpendicular
+L√¢mina perpendicular
 Cara nasal
 Cara maxilar
-Escotadura esfenopalatina14
-Surco palatino mayorï
-ApÛfisis piramidal
+Escotadura esfenopalatina
+Surco palatino mayor‚Ä¢
+Ap√≥fisis piramidal
 Conductos palatinos menores
-Cresta de la conchaï
+Cresta de la concha‚Ä¢
 Cresta etmoidal
-ApÛfisis orbitaria
-ApÛfisis esfenoidal
-L‚mina horizontal
+Ap√≥fisis orbitaria
+Ap√≥fisis esfenoidal
+L√¢mina horizontal
 Cara nasal
 Cara palatina
-For‚menes palatinos menores
+For√¢menes palatinos menores
 Espina nasal posterior
 Cresta nasal
 Cresta palatina
-Hueso cigom‚tico
+Hueso cigom√¢tico
 Cara lateral
 Cara temporal
 Cara orbitaria
-ApÛfisis temporal
-ApÛfisis frontal
-TubÈrculo orbitario
-(TubÈrculo marginal)
-Foramen cigom‚tico-orbitario
+Ap√≥fisis temporal
+Ap√≥fisis frontal
+Tub√©rculo orbitario
+(Tub√©rculo marginal)
+Foramen cigom√¢tico-orbitario
 Foramen cigomaticofacial
 Foramen cigomaticotemporal
-Mand\xe2\x84\xa2bula
+Mand√≠bula
 Cuerpo
-Base de la mand\xe2\x84\xa2bula
-(S\xe2\x84\xa2nfisis mandibular)
+Base de la mand√≠bula
+(S√≠nfisis mandibular)
 Protuberancia mentoniana
-TubÈrculo mentoniano
+Tub√©rculo mentoniano
 Foramen mentoniano
-L\xe2\x84\xa2nea oblicua
-Fosa dig‚strica
-Espina mentoniana super;Espina genisuperiorgenial spinesuperior
+L√≠nea oblicua
+Fosa dig√¢strica
+Espina mentoniana superior;Espina geni superior
 Espina mentoniana infer;Espina geniinferiorgenial spineinferior
-L\xe2\x84\xa2nea milohioidea
+L√≠nea milohioidea
 (Reborde mandibular)
 Fosita sublingual
 Fosita submandibular
-PorciÛn alveolar
+Porci√≥n alveolar
 Arco alveolar
 Alveolos dentarios
 Tabiques interalveolares
 Tabiques interradiculares
 Eminencias alveolares
-Tr\xe2\x84\xa2gono retromolar
+Tr√≠gono retromolar
 Fosa retromolar
-Ramaï
+Rama‚Ä¢
+√Çngulo de la mand√≠bula
 (Tuberosidad maseterina)
 (Tuberosidad pterigoidea)
 Foramen mandibular
-L\xe2\x84\xa2ngula de la mand\xe2\x84\xa2bula
-Conducto mandibularï
+L√≠ngula de la mand√≠bula
+Conducto mandibular‚Ä¢
 Surco milohioideo
-ApÛfisis coronoides
+Ap√≥fisis coronoides
 Cresta temporal
-Escotadura mandibularï'b'
-ApÛfisis condilar
-Cabeza de la mand\xe2\x84\xa2b;CÛndilode la mand\xe2\x84\xa2bula
-Cuello de la mand\xe2\x84\xa2bula
+Escotadura mandibular‚Ä¢'b'
+Ap√≥fisis condilar
+Cabeza de la mand√≠b;C√≥ndilode la mand√≠bula
+Cuello de la mand√≠bula
 Fosita pterigoidea
 Hueso hioides
 Cuerpo
 Asta menor
 Asta mayor
-Huesecillos del o\xe2\x84\xa2do{vide paginam 149}{see page 149}{ver p‚gina 149}
+Huesecillos del o√≠do{vide paginam 149}{see page 149}{ver p√¢gina 149}
 Columna vertebral*
 Curvatura primaria
-Cifosis tor‚cica
+Cifosis tor√¢cica
 Cifosis sacra*
 Curvaturas secundarias
 Lordosis cervical
 Lordosis lumbar
 Escoliosis
-Conducto vertebralï
-VÈrtebra
+Conducto vertebral‚Ä¢
+V√©rtebra
 Cuerpo vertebral
 Cara intervertebral
-Ep\xe2\x84\xa2fisis anular
+Ep√≠fisis anular
 Arco vertebral
-Ped\xe2\x84\xa2culo
-L‚mina
-Foramen intervertebralï
+Ped√≠culo
+L√¢mina
+Foramen intervertebral‚Ä¢
 Escotadura vertebral superior
 Escotadura vertebral inferior
 Foramen vertebral
-ApÛfisis espinosa
-ApÛfisis transversa
-ApÛfisis articular super;superior
+Ap√≥fisis espinosa
+Ap√≥fisis transversa
+Ap√≥fisis articular super;superior
 Carilla articular superior
-ApÛfisis articular infer;inferior
+Ap√≥fisis articular infer;inferior
 Carilla articular inferior
-I - 
-ApÛfisis unciforme
+V√©rtebras cervicales [CI-CVII]
+Ap√≥fisis unciforme
 Foramen transverso
-TubÈrculo anterior
-TubÈrculo carot\xe2\x84\xa2deo
-TubÈrculo posterior
+Tub√©rculo anterior
+Tub√©rculo carot√≠deo
+Tub√©rculo posterior
 Surco del nervio espinal
-I]
+Atlas [CI]
 Masa lateral
 Carilla articular superior
 Carilla articular inferior
 Arco anterior
 Fosa odontoidea
-TubÈrculo anterior16
- al estar producidas por la acciÛn muscular fetal.'b'
+Tub√©rculo anterior16
+Curvatura primaria
+Curvaturas secundarias
 Arco posterior
 Surco de la arteria vertebral
 (Canal de la arteria vertebral)
-TubÈrculo posterior
-II]
-Die;ApÛfisis odontoides
-VÈrtice
+Tub√©rculo posterior
+Axis [CII]
+Die;Ap√≥fisis odontoides
+V√©rtice
 Carilla articular anterior
 Carilla articular posterior
-VI
-I - 
+V√©rtebra prominente [CVII]
+V√©rtebras tor√¢cicas [TI-TXII]
 Fosita costal superior
 Fosita costal inferior
-Fosita costal de la apÛfisis transversa
-Uncus de la primera vÈrtebra tor‚c;
-I - 
-ApÛfisis accesoriaï
-ApÛfisis costalï
-ApÛfisis mamilarï
-V]
+Fosita costal de la ap√≥fisis transversa
+Uncus de la primera v√©rtebra tor√¢c;
+V√©rtebras lumbares [LI-LV]
+Ap√≥fisis accesoria‚Ä¢
+Ap√≥fisis costal‚Ä¢
+Ap√≥fisis mamilar‚Ä¢
+Hueso sacro [v√©rtebras sacras I-V]
 Base
 Promontorio
 Ala
-ApÛfisis articular superior
-PorciÛn lateral
+Ap√≥fisis articular superior
+Porci√≥n lateral
 Carilla auricular
 Tuberosidad sacra
 Cara pelviana
-L\xe2\x84\xa2neas transversales
-For‚menes intervertebrales
-For‚menes sacros anteriores
+L√≠neas transversales
+For√¢menes intervertebrales
+For√¢menes sacros anteriores
 Cara dorsal
 Cresta sacra media
-For‚menes sacros posteriores
+For√¢menes sacros posteriores
 Cresta sacra intermedia
 Cresta sacra lateral
 Asta del sacro
 Conducto sacro
 Hiato sacro
-VÈrtice
-Coccyx [
+V√©rtice
+IV]
 Asta del coxis
-Esqueleto del tÛrax
+Esqueleto del t√≥rax
+I]
+I]
 XI
-VI
-II-
-XI
-Cart\xe2\x84\xa2lago costal
+I]
+Cart√≠lago costal
 Costilla'b'
 Cabeza
 Carilla articular
@@ -863,155 +872,164 @@ Cresta
 Cuello
 Cresta
 Cuerpo
-TubÈrculo
+Tub√©rculo
 Carilla articular
+√Çngulo
 Surco
 Cresta
 (Costilla cervi;Costilla del cuello)
-First rib [
-TubÈrculo del m\xc5\x93sculo escaleno anterior
+Primera costilla [I]
+Tub√©rculo del m√∫sculo escaleno anterior
 Surco de la arteria subclavia
 Surco de la vena subclavia
-Second rib [
-Tuberosidad para el m\xc5\x93sculo serrato anterior
+Segunda costilla [II]
+Tuberosidad para el m√∫sculo serrato anterior
 (Costilla lumbar)
-EsternÛn
+Estern√≥n
 Manubrio
 Escotadura clavicular
 Escotadura yugular
+√Çngulo infraesternal
 Cuerpo
-ApÛfisis xifoides
+Ap√≥fisis xifoides
 Escotaduras costales
 (Huesos supraesternales)
-I- 
-Caja tor‚cica
-Cavidad tor‚cica*
-Orificio tor‚cico superior*
-Orificio tor‚cico inferior
+V√©rtebras tor√¢cicas [TI-TXII]*
+Caja tor√¢cica
+Cavidad tor√¢cica*
+Orificio tor√¢cico superior*
+Orificio tor√¢cico inferior
 Surco pulmonar
 Arco costal
 Espacio intercostal
+√Çngulo infraesternal
 Huesos del miembro superior
-UL
-Esc‚pula
+CINTURA ESCAPULAR
+Esc√¢pula
 Cara cos;Cara anterior
 Fosa subescapular
 Cara posterior
-Espina de la esc‚pula
-TubÈrculo deltoideo
+Espina de la esc√¢pula
+Tub√©rculo deltoideo
 Fosa supraespinosa
 Fosa infraespinosa
 Acromion
-Carilla articular para la clav\xe2\x84\xa2cula
+Carilla articular para la clav√≠cula
+√Çngulo acromial
 Borde medial18
-NÛmina 
-As\xe2\x84\xa2
+Caja tor√°cica
+Cavidad tor√°cica
+Orificio tor√°cico superior
+Orificio tor√°cico inferior
 Borde lateral
 Borde superior
-Escotadura de la esc‚pulaï
+Escotadura de la esc√¢pula‚Ä¢
+√Çngulo inferior
+√Çngulo lateral
+√Çngulo superior
 Cavidad glenoidea
-TubÈrculo supraglenoideo
-TubÈrculo infraglenoideo
+Tub√©rculo supraglenoideo
+Tub√©rculo infraglenoideo
 Cuello
-ApÛfisis coracoides
-Clav\xe2\x84\xa2cula
+Ap√≥fisis coracoides
+Clav√≠cula
 Extremidad esternal
 Carilla articular esternal
-ImpresiÛn del ligamento costoclavicular
+Impresi√≥n del ligamento costoclavicular
 Cuerpo
-Surco para el m\xc5\x93sculo subclaviosubclavius
+Surco para el m√∫sculo subclaviosubclavius
 Extremidad acromial
 Carilla articular acromial
 Tuberosidad para el ligamento coracoclavicular
-TubÈrculo conoideo
-L\xe2\x84\xa2nea trapezoidea
+Tub√©rculo conoideo
+L√≠nea trapezoidea
 LI
-H\xc5\x93mero
+H√∫mero
 Cabeza
-Cuello anatÛmico
-Cuello quir\xc5\x93rgico
-TubÈrculo mayorï
-TubÈrculo menorï
+Cuello anat√≥mico
+Cuello quir√∫rgico
+Tub√©rculo mayor‚Ä¢
+Tub√©rculo menor‚Ä¢
 Surco intertubercu;Corredera bicipital
-Cresta del tubÈrculo ma;Labio lateralï
-Cresta del tubÈrculo me;Labio medialï
+Cresta del tub√©rculo ma;Labio lateral‚Ä¢
+Cresta del tub√©rculo me;Labio medial‚Ä¢
 Cuerpo
 Cara anteromedial
 Cara anterolateral
 Cara posterior
-Surco para el nervio radialïnerve
+Surco para el nervio radial‚Ä¢nerve
 Borde medial
-Cresta supracond\xe2\x84\xa2lea med;
-(ApÛfisis supracond\xe2\x84\xa2lea)
+Cresta supracond√≠lea med;
+(Ap√≥fisis supracond√≠lea)
 Borde lateral
-Cresta supracond\xe2\x84\xa2lea late;
-Tuberosidad deltoideaï
-CÛndilo humeral
+Cresta supracond√≠lea late;
+Tuberosidad deltoidea‚Ä¢
+C√≥ndilo humeral
 Cabeza
-TrÛclea
+Tr√≥clea
 Fosa olecraneana
-Fosa coronoideaï
-Fosa radialï
-EpicÛndilo medialï
+Fosa coronoidea‚Ä¢
+Fosa radial‚Ä¢
+Epic√≥ndilo medial‚Ä¢
 Surco para el nervio cubital
-EpincÛndilo lateralï
+Epinc√≥ndilo lateral‚Ä¢
 Radio
 Cabeza
 Fosita articular'b'
-Circunferencia articularï
+Circunferencia articular‚Ä¢
 Cuello
 Cuerpo
-Tuberosidad del radioï
+Tuberosidad del radio‚Ä¢
 Cara anterior
 Cara posterior
 Cara lateral
 Tuberosidad pronadora
-Borde interÛseo
+Borde inter√≥seo
 Borde anterior
 Borde posterior
-ApÛfisis estiloides
+Ap√≥fisis estiloides
 Cresta supraestiloidea
-TubÈrculo dorsal
-Canales para los m\xc5\x93sculos extensores
-Escotadura cubitalï
+Tub√©rculo dorsal
+Canales para los m√∫sculos extensores
+Escotadura cubital‚Ä¢
 Carilla articular carpiana
-U;C\xc5\x93bito
-OlÈcranon
-ApÛfisis coronoides
-Tuberosidad del c\xc5\x93bito
-Escotadura radialï
-Escotadura troclearï
+U;C√∫bito
+Ol√©cranon
+Ap√≥fisis coronoides
+Tuberosidad del c√∫bito
+Escotadura radial‚Ä¢
+Escotadura troclear‚Ä¢
 Cuerpo
 Cara anterior
 Cara posterior
 Cara medial
-Borde interÛseo
+Borde inter√≥seo
 Borde anterior
 Borde posterior
-Cresta del m\xc5\x93sculo supinador
+Cresta del m√∫sculo supinador
 Cabeza
 Circunferencia articular
-ApÛfisis estiloides del c\xc5\x93bito
+Ap√≥fisis estiloides del c√∫bito
 Huesos de la mano
 Huesos del ca;Huesos carpianos
 (Hueso central)
 Hueso escafoides
-TubÈrculo
+Tub√©rculo
 Hueso semilunar
 Hueso piramidal
 Hueso pisiforme
 Hueso trapecio
-TubÈrculo
+Tub√©rculo
 Hueso trapezoide
 Hueso grande
 Hueso ganchoso
 Gancho
 Canal carpiano
-V]
+Metacarpals [I-
 Base
 Cuerpo
 Cabeza
-ApÛfisis estiloides del tercer tertii [
+Ap√≥fisis estiloides del tercer tertii [II
 Huesos de los de;Falanges
 Falange proximal
 Falange media20
@@ -1020,73 +1038,74 @@ Tuberosidad
 Base
 Cuerpo
 Cabeza
-TrÛclea
+Tr√≥clea
 Huesos sesamoideos
 Huesos del miembro inferior
 UL
 V]
 Hueso coxal
-Acet‚buloï
-Borde acetabularï
+Acet√¢bulo‚Ä¢
+Borde acetabular‚Ä¢
 Fosa acetabular
-Escotadura acetabularï
+Escotadura acetabular‚Ä¢
 Carilla semilunar
 Rama isquiopubiana
 Foramen obtur;Foramen obturador
-Escotadura ci‚tica mayor
+Escotadura ci√¢tica mayor
 Hueso il;Ilion
 Cuerpo
-Surco supracetabularï
+Surco supracetabular‚Ä¢
 Ala
-L\xe2\x84\xa2nea arcuata
-Cresta il\xe2\x84\xa2aca
+L√≠nea arcuata
+Cresta il√≠aca
 Labio externo
-TubÈrculo il\xe2\x84\xa2aco
-L\xe2\x84\xa2nea intermedia
+Tub√©rculo il√≠aco
+L√≠nea intermedia
 Labio interno
-Espina il\xe2\x84\xa2aca anterior superior
-Espina il\xe2\x84\xa2aca anterior inferior
-Espina il\xe2\x84\xa2aca posterior superior
-Espina il\xe2\x84\xa2aca posterior inferior
-Fosa il\xe2\x84\xa2aca
-Cara gl\xc5\x93tea
-L\xe2\x84\xa2nea gl\xc5\x93tea anterior
-L\xe2\x84\xa2nea gl\xc5\x93tea posterior
-L\xe2\x84\xa2nea gl\xc5\x93tea inferior
+Espina il√≠aca anterior superior
+Espina il√≠aca anterior inferior
+Espina il√≠aca posterior superior
+Espina il√≠aca posterior inferior
+Fosa il√≠aca
+Cara gl√∫tea
+L√≠nea gl√∫tea anterior
+L√≠nea gl√∫tea posterior
+L√≠nea gl√∫tea inferior
 Cara sacropelviana
 Carilla auricular
-Tuberosidad il\xe2\x84\xa2aca
+Tuberosidad il√≠aca
 Hueso isqu;Isquion
 Cuerpo
 Rama
-Tuberosidad isqui‚tica
-Espina ci‚tica
-Escotadura ci‚tica menor
+Tuberosidad isqui√¢tica
+Espina ci√¢tica
+Escotadura ci√¢tica menor
 Hueso pu;Pubis
 Cuerpo
-Espina p\xc5\x93bica
-Superficie de la s\xe2\x84\xa2nfisis
+Espina p√∫bica
+Superficie de la s√≠nfisis
 Cresta del pubis
 Rama superior
-Eminencia iliop\xc5\x93bicaï
-Pecten del pu;Cresta pect\xe2\x84\xa2nea
+Eminencia iliop√∫bica‚Ä¢
+Pecten del pu;Cresta pect√≠nea
 Cresta obturadora'b'
 Surco obturador
-TubÈrculo obturador anterior
-(TubÈrculo obturador posterior)
+Tub√©rculo obturador anterior
+(Tub√©rculo obturador posterior)
 Rama inferior
 Pelvis
 Cavidad pelviana
 Arco del pubis
+√Çngulo subpubiano
 Pelvis mayor
 Pelvis menor
-L\xe2\x84\xa2nea terminal
+L√≠nea terminal
 Estrecho superior
 Estrecho inferior
 Eje de la pelvis
-Di‚metro transverso
-Di‚metro oblicuo
-Conjugado anatÛmico
+Di√¢metro transverso
+Di√¢metro oblicuo
+Conjugado anat√≥mico
 Conjugado verdadero
 Conjugado diagonal
 Conjugado recto
@@ -1094,69 +1113,71 @@ Conjugado mediano
 Conjugado externo
 Distancia interespinosadiameter
 Distancia intercrestaldiameter
-Distancia intertrocantÈrica
-InclinaciÛn de la pelvis
+Distancia intertrocant√©rica
+Inclinaci√≥n de la pelvis
 LI
-FÈ;Hueso femoral
+F√©;Hueso femoral
 Cabeza
-Fosita de la cabeza femoralï
+Fosita de la cabeza femoral‚Ä¢
 Cuello
-Tr\noc‚nter mayor
-Fosa trocantÈrica
-Tr\noc‚nter menor
-(Tercer troc‚nter)
-L\xe2\x84\xa2nea intertrocantÈrica
-Cresta intertrocantÈrica
-TubÈrculo cuadrado
+Tr\noc√¢nter mayor
+Fosa trocant√©rica
+Tr\noc√¢nter menor
+(Tercer troc√¢nter)
+L√≠nea intertrocant√©rica
+Cresta intertrocant√©rica
+Tub√©rculo cuadrado
 Cuerpo
-L\xe2\x84\xa2nea ‚spera
+L√≠nea √¢spera
 Labio lateral
 Labio medial
-L\xe2\x84\xa2nea pect\xe2\x84\xa2nea
-Tuberosidad gl\xc5\x93tea
-Cara popl\xe2\x84\xa2tea
-L\xe2\x84\xa2nea supracond\xe2\x84\xa2lea medial
-L\xe2\x84\xa2nea supracond\xe2\x84\xa2lea lateral
-CÛndilo medial
-EpicÛndilo medial
-TubÈrculo del aductor
-CÛndilo lateral
-EpicÛndilo lateral
-Surco popl\xe2\x84\xa2teo
-TrÛclea femo;Carilla rotuliana
-Fosa intercond\xe2\x84\xa2lea22
-L\xe2\x84\xa2nea intercond\xe2\x84\xa2lea
-Pate;RÛtula
+L√≠nea pect√≠nea
+Tuberosidad gl√∫tea
+Cara popl√≠tea
+L√≠nea supracond√≠lea medial
+L√≠nea supracond√≠lea lateral
+C√≥ndilo medial
+Epic√≥ndilo medial
+Tub√©rculo del aductor
+C√≥ndilo lateral
+Epic√≥ndilo lateral
+Surco popl√≠teo
+Tr√≥clea femo;Carilla rotuliana
+Fosa intercond√≠lea22
+L√≠nea intercond√≠lea
+Pate;R√≥tula
 Base
-VÈrtice
+V√©rtice
 Carilla articular
 Cara anterior
 Tibia
 Carilla articular superior
-CÛndilo medialï
-CÛndilo lateralï
+C√≥ndilo medial‚Ä¢
+C√≥ndilo lateral‚Ä¢
 Carilla articular peroneal
-Eminencia intercond\xe2\x84\xa2leaï
-TubÈrculo intercond\xe2\x84\xa2leo medialï
-TubÈrculo intercond\xe2\x84\xa2leo lateralï
+√Årea intercond√≠lea anterior
+√Årea intercond√≠lea posterior
+Eminencia intercond√≠lea‚Ä¢
+Tub√©rculo intercond√≠leo medial‚Ä¢
+Tub√©rculo intercond√≠leo lateral‚Ä¢
 Cuerpo
 Tuberosidad tibial
 Cara medial
 Cara posterior
-L\xe2\x84\xa2nea del sÛleoï
+L√≠nea del s√≥leo‚Ä¢
 Cara lateral
 Borde anterior
 Borde medial
-Borde interÛseo
+Borde inter√≥seo
 Maleolo medial
 Surco maleolar
 Carilla articular
 Escotadura peroneal
 Carilla articular inferior
-F\xe2\x84\xa2b;PeronÈ
+F√≠b;Peron√©
 Cabeza
 Carilla articular
-VÈrtice
+V√©rtice
 Cuello
 Cuerpo
 Cara lateral
@@ -1164,7 +1185,7 @@ Cara medial
 Cara posterior
 Cresta medial
 Borde anterior
-Borde interÛseo
+Borde inter√≥seo
 Borde posterior
 Maleolo lateral
 Carilla articular
@@ -1172,41 +1193,41 @@ Fosa maleolar lateral
 Surco maleolar
 Huesos del pie
 Huesos del ta;Huesos tarsianos
-Ta;Astr‚galo
+Ta;Astr√¢galo
 Cabeza
 Carilla articular navicular
 Carilla articular para el ligamento calcaneonavicularis plantarisligamentcalcaneonavicular plantar
-Carilla articular para la porciÛnligamenti bifurcatiof bifurcate ligamentcalcaneonavicular del ligamento bifurcado
-Carilla articular anterior para el calc‚neo'b'
+Carilla articular para la porci√≥nligamenti bifurcatiof bifurcate ligamentcalcaneonavicular del ligamento bifurcado
+Carilla articular anterior para el calc√¢neo'b'
 Cuello
-Carilla articular media para el calc‚neo
+Carilla articular media para el calc√¢neo
 Surco astragalino
 Cuerpo
-TrÛclea astragalina
+Tr√≥clea astragalina
 Carilla superior
 Carilla maleolar lateral
-ApÛfisis lateral
+Ap√≥fisis lateral
 Carilla maleolar medial
-ApÛfisis posterior
-Surco para el tendÛn del m\xc5\x93sculo flexor hallucis longilonguslargo del dedo gordo
-TubÈrculo lateral
-TubÈrculo medial
-Carilla articular posterior para el calc‚neo
-(Hueso tr\xe2\x84\xa2gono)
-Calc‚neo
-Tuberosidad calc‚nea
-ApÛfisis medial
-ApÛfisis lateral
-TubÈrculo del calc‚neo
-Sustentaculum t;Sustent‚culo del astr‚galoï
-Surco para el tendÛn del m\xc5\x93sculo flexor hallucis longilonguslargo del dedo gordo
-Surco del calc‚neo
+Ap√≥fisis posterior
+Surco para el tend√≥n del m√∫sculo flexor hallucis longilonguslargo del dedo gordo
+Tub√©rculo lateral
+Tub√©rculo medial
+Carilla articular posterior para el calc√¢neo
+(Hueso tr√≠gono)
+Calc√¢neo
+Tuberosidad calc√¢nea
+Ap√≥fisis medial
+Ap√≥fisis lateral
+Tub√©rculo del calc√¢neo
+Sustentaculum t;Sustent√¢culo del astr√¢galo‚Ä¢
+Surco para el tend√≥n del m√∫sculo flexor hallucis longilonguslargo del dedo gordo
+Surco del calc√¢neo
 Seno del tarso
-Carilla articular anterior para el astr‚galo
-Carilla articular medial para el astr‚galo
-Carilla articular posterior para el astr‚galo
-Surco para el tendÛn del m\xc5\x93sculo fibular la;
-TrÛclea fibu;TrÛclea peroneal
+Carilla articular anterior para el astr√¢galo
+Carilla articular medial para el astr√¢galo
+Carilla articular posterior para el astr√¢galo
+Surco para el tend√≥n del m√∫sculo fibular la;
+Tr√≥clea fibu;Tr√≥clea peroneal
 Carilla articular para el cuboides
 Hueso navicular
 Tuberosidad
@@ -1214,15 +1235,15 @@ Hueso cuneiforme medial
 Hueso cuneiforme intermediocuneiferm
 Hueso cuneiforme lateral
 Hueso cuboides
-Surco para el tendÛn del m\xc5\x93sculo fibular 
+Surco para el tend√≥n del m√∫sculo fibular 
 Tuberosidad
-ApÛfisis calc‚nea
-V]
+Ap√≥fisis calc√¢nea
+Metatarsals [I-
 Base
 Cuerpo
 Cabeza
-Tuberosity of first metatarsal bone [
-Tuberosity of fifth metatarsal bone [
+Tuberosidad del primer metatarsiano [I]
+Tuberosidad del quinto metatarsiano [V]
 Huesos de los de;Falanges
 Falange proximal
 Falange media
@@ -1231,40 +1252,40 @@ Tuberosidad de la falange distal
 Base
 Cuerpo
 Cabeza
-TrÛclea de la falange
+Tr√≥clea de la falange
 Huesos sesamoideos24
 Articulacio;Sistema articular
-ArticulaciÛn
+Articulaci√≥n
 Articulaciones de los huesos
 Sinartrosis
-ArticulaciÛn fibrosaï
+Articulaci√≥n fibrosa‚Ä¢
 Sindesmosis
 Socket
-Membrana interÛsea
+Membrana inter√≥sea
 Sutura
 Sutura plana
 Sutura escamosa
-Sutura l\xe2\x84\xa2mbica
+Sutura l√≠mbica
 Sutura serrata
 Sutura dentada
 Esquindilesis
-ArticulaciÛn cartilaginosa
+Articulaci√≥n cartilaginosa
 Sincondrosis
-S\xe2\x84\xa2nfisiscartilaginous joint
-Cart\xe2\x84\xa2lago epifisarioïcartilaginous joint
-ArticulaciÛn Û;Sinostosis
-ArticulaciÛn sinov;Diartrosis
+S√≠nfisiscartilaginous joint
+Cart√≠lago epifisario‚Ä¢cartilaginous joint
+Articulaci√≥n √≥;Sinostosis
+Articulaci√≥n sinov;Diartrosis
 Carilla articular
 Cavidad articular
 Fosa articular
 (Cabeza articular)
 Lab;Rodete articular
-C‚psula articular
+C√¢psula articular
 Membrana fibr;Capa fibrosa
 Membrana sinov;Capa sinovial
 Pliegues sinoviales
 Vellosidades sinoviales
-L\xe2\x84\xa2quido sinovial
+L√≠quido sinovial
 Disco articular
 Menisco articular
 Ligamentos
@@ -1274,59 +1295,59 @@ Ligs. extracapsulares
 Receso articular
 Bolsa sinovial
 Vaina sinovial
-ArticulaciÛn simple
+Articulaci√≥n simple
 Complejo articular
-ArticulaciÛn pl;Artrodia
-ArticulaciÛn cil\xe2\x84\xa2ndrica
-ArticulaciÛn trocoide
-G\xe2\x84\xa2ngl;TrÛclea
-ArticulaciÛn bicond\xe2\x84\xa2lea
-ArticulaciÛn en silla de montarï
-ArticulaciÛn cond\xe2\x84\xa2;ArticulaciÛn elipsoidea
-ArticulaciÛn esferoi;Enartrosisjoint
-ArticulaciÛn cotiloidea
+Articulaci√≥n pl;Artrodia
+Articulaci√≥n cil√≠ndrica
+Articulaci√≥n trocoide
+G√≠ngl;Tr√≥clea
+Articulaci√≥n bicond√≠lea
+Articulaci√≥n en silla de montar‚Ä¢
+Articulaci√≥n cond√≠;Articulaci√≥n elipsoidea
+Articulaci√≥n esferoi;Enartrosisjoint
+Articulaci√≥n cotiloidea
 Anfiartrosis
-AbducciÛn
-AducciÛn
-RotaciÛn late;RotaciÛn externa'b'
-RotaciÛn med;RotaciÛn internamedialis
-CircunducciÛn
-FlexiÛn
-ExtensiÛn
-PronaciÛn
-SupinaciÛn
-OposiciÛn
-ReposiciÛn
-Articulaciones del cr‚neo
-Articulaciones fibrosas del cr‚neo
-Sindesmosis del cr‚neo
-Lig. ptÈrigo-espinoso
+Abducci√≥n
+Aducci√≥n
+Rotaci√≥n late;Rotaci√≥n externa'b'
+Rotaci√≥n med;Rotaci√≥n internamedialis
+Circunducci√≥n
+Flexi√≥n
+Extensi√≥n
+Pronaci√≥n
+Supinaci√≥n
+Oposici√≥n
+Reposici√≥n
+Articulaciones del cr√¢neo
+Articulaciones fibrosas del cr√¢neo
+Sindesmosis del cr√¢neo
+Lig. pt√©rigo-espinoso
 Lig. estilohioideo
-Suturas del cr‚neo
-Sutura coronalï
-Sutura sagitalï
-Sutura lambdoideaï
+Suturas del cr√¢neo
+Sutura coronal‚Ä¢
+Sutura sagital‚Ä¢
+Sutura lambdoidea‚Ä¢
 Sutura occipitomastoidea
 Sutura esfenofrontal
 Sutura esfeno-etmoidal
 Sutura esfeno-escamosa
 Sutura esfenoparietal
 Sutura escamosa
-Sutura fron;Sutura metÛpica
+Sutura fron;Sutura met√≥pica
 Sutura parietomastoidea
 (Sutura escamomastoidea)
 Sutura frontonasal
 Sutura fronto-etmoidal
 Sutura frontomaxilar
 Sutura frontolagrimal
-Sutura frontocigom‚tica
+Sutura frontocigom√¢tica
 Sutura cigomaticomaxilar
 Sutura etmoidomaxilar
 Sutura etmoidolagrimal
 Sutura esfenovomeriana
-Sutura esfenocigom‚tica
+Sutura esfenocigom√¢tica
 Sutura esfenomaxilar
-Sutura temporocigom‚tica
+Sutura temporocigom√¢tica
 Sutura internasal
 Sutura nasomaxilar
 Sutura lagrimomaxilar
@@ -1338,30 +1359,30 @@ Sutura palatina media
 Sutura palatina transversa
 Gomphosis
 Periodonto
-Enc\xe2\x84\xa2a
-Periodonto de protecciÛn
-Periodonto de inserciÛn
+Enc√≠a
+Periodonto de protecci√≥n
+Periodonto de inserci√≥n
 Desmodonto
 Cemento
 Alveolo dental26
-Articulaciones cartilaginosas del cr‚neo
-Sincondrosis del cr‚neo
+Articulaciones cartilaginosas del cr√¢neo
+Sincondrosis del cr√¢neo
 Sincondrosis esfeno-occipital
 Sincondrosis esfenopetrosa
 Sincondrosis petro-occipital
 (Sincondrosis intraoccipital posterior)
 (Sincondrosis intraoccipital anterior)
 Sincondrosis esfeno-etmoidal
-Articulaciones sinoviales del cr‚neo
-ArticulaciÛn temporomandibular
-Disco articularï
+Articulaciones sinoviales del cr√¢neo
+Articulaci√≥n temporomandibular
+Disco articular‚Ä¢
 Lateral ligament
 Lig. medial
 Membrana sinovial superior
 Membrana sinovial inferior
 Lig. esfenomandibular
 Lig. estilomandibular
-ArticulaciÛn atlanto-occipital
+Articulaci√≥n atlanto-occipital
 Membrana atlanto-occipital anterior
 (Lig. atlanto-occipital anterior)
 Membrana atlanto-occipital posterior
@@ -1377,44 +1398,44 @@ Lig. longitudinal anterior
 Lig. longitudinal posterior
 Ligs. transversos
 Sincondrosis de la columna vertebral
-S\xe2\x84\xa2nfisis intervertebral
+S√≠nfisis intervertebral
 Disco intervertebral
 Anillo fibroso
-N\xc5\x93cleo pulposo
-Articulaciones sinoviales de las vÈrtebras
-ArticulaciÛn atlanto-axoidea medial
+N√∫cleo pulposo
+Articulaciones sinoviales de las v√©rtebras
+Articulaci√≥n atlanto-axoidea medial
 Ligs. alares
-Lig. del vÈrtice del dienteï
+Lig. del v√©rtice del diente‚Ä¢
 Lig. cruciforme del atlas
-Fasc\xe2\x84\xa2culos longitudinales
+Fasc√≠culos longitudinales
 Lig. transverso del atlas
 Membrana tectoria
-ArticulaciÛn atlanto-axoidea lateral
+Articulaci√≥n atlanto-axoidea lateral
 Articulaciones cigapofisarias
-ArticulaciÛn lumbosacra
+Articulaci√≥n lumbosacra
 Lig. iliolumbar
-ArticulaciÛn sacrocox\xe2\x84\xa2gea
-Lig. sacrocox\xe2\x84\xa2geo posterior superficial
-Lig. sacrocox\xe2\x84\xa2geo posterior profundo
-Lig. sacrocox\xe2\x84\xa2geo anterior
-Lig. sacrocox\xe2\x84\xa2geo lateral
-Articulaciones del tÛrax
-Sindesmosis del tÛrax
+Articulaci√≥n sacrocox√≠gea
+Lig. sacrocox√≠geo posterior superficial
+Lig. sacrocox√≠geo posterior profundo
+Lig. sacrocox√≠geo anterior
+Lig. sacrocox√≠geo lateral
+Articulaciones del t√≥rax
+Sindesmosis del t√≥rax
 Membrana intercostal externa
 Membrana intercostal interna
-Sincondrosis del tÛrax
+Sincondrosis del t√≥rax
 Sincondrosis costo-esternal
 Sincondrosis de la primera costilla
-Sincondrosis del esternÛn
-S\xe2\x84\xa2nfisis xifo-esternal
-S\xe2\x84\xa2nfisis manubrio-esternal
+Sincondrosis del estern√≥n
+S√≠nfisis xifo-esternal
+S√≠nfisis manubrio-esternal
 (Sincondrosis manubrio-esternal)
-Articulaciones sinoviales del tÛrax
+Articulaciones sinoviales del t√≥rax
 Articulaciones costovertebrales
-ArticulaciÛn de la cabeza de la costilla
+Articulaci√≥n de la cabeza de la costilla
 Lig. radiado de la cabeza de la costilla
 Lig. intraarticular de la cabezaof ribde la costilla
-ArticulaciÛn costotransversa
+Articulaci√≥n costotransversa
 Lig. costotransverso
 Lig. costotransverso superior
 Lig. costotransverso lateral
@@ -1427,63 +1448,63 @@ Membrana esternal
 Ligs. costoxifoideos
 Articulaciones costocondrales
 Articulaciones intercondrales
-Articulaciones de la cintura pelviana{vide paginam 30}{see page 30}{ver p‚gina 30}
+Articulaciones de la cintura pelviana{vide paginam 30}{see page 30}{ver p√¢gina 30}
 Articulaciones del miembro superior
 TU
 Syndesmoses cinguli membri superioris
 Lig. coraco-acromial
-Lig. transverso superior de la esc‚pulaï
-(Lig. transverso inferior de la esc‚pula)ï
+Lig. transverso superior de la esc√¢pula‚Ä¢
+(Lig. transverso inferior de la esc√¢pula)‚Ä¢
 Articulaciones sinoviales de la cintura
-ArticulaciÛn acromioclavicular
+Articulaci√≥n acromioclavicular
 Lig. acromioclavicular
 (Disco articular)
 Lig. coracoclavicular
 Lig. trapezoide
 Lig. conoide28
-ArticulaciÛn esternoclavicular
+Articulaci√≥n esternoclavicular
 Disco articular
 Lig. esternoclavicular anterior
 Lig. esternoclavicular posterior
 Lig. costoclavicular
 Lig. interclavicular
 TU
-Sindesmosis radiocubitalï
-Membrana interÛsea del antebrazo
+Sindesmosis radiocubital‚Ä¢
+Membrana inter√≥sea del antebrazo
 Cuerda oblicua
-Articulaciones sinoviales de la porciÛnlibre del miembro superior
-ArticulaciÛn del hom;glenohumeralis
-Labrum glenoideoï
+Articulaciones sinoviales de la porci√≥nlibre del miembro superior
+Articulaci√≥n del hom;glenohumeralis
+Labrum glenoideo‚Ä¢
 Ligs. glenohumerales
 Lig. coracohumeral
 Lig. humeral transverso
-ArticulaciÛn del codo
-ArticulaciÛn humerocubitalï
-ArticulaciÛn humerorradial
-ArticulaciÛn radiocubital proximalï
-Lig. colateral cubitalï
+Articulaci√≥n del codo
+Articulaci√≥n humerocubital‚Ä¢
+Articulaci√≥n humerorradial
+Articulaci√≥n radiocubital proximal‚Ä¢
+Lig. colateral cubital‚Ä¢
 Lig. colateral radial
 Lig. anular del radio
 Lig. cuadrado
-Receso sacciformeï
-ArticulaciÛn radiocubital distalï
-Disco articularï
-Receso sacciformeï
+Receso sacciforme‚Ä¢
+Articulaci√≥n radiocubital distal‚Ä¢
+Disco articular‚Ä¢
+Receso sacciforme‚Ä¢
 Articulaciones de la mano
-ArticulaciÛn radiocarpiana
+Articulaci√≥n radiocarpiana
 Lig. radiocarpiano dorsal
 Lig. radiocarpiano palmar
-Lig. cubitocarpiano dorsalï
-Lig. cubitocarpiano palmarï
-Lig. colateral cubital del carpoï
+Lig. cubitocarpiano dorsal‚Ä¢
+Lig. cubitocarpiano palmar‚Ä¢
+Lig. colateral cubital del carpo‚Ä¢
 Lig. colateral radial del carpojoint
 Articulaciones del ca;Articulacionesintercarpalesintercarpianas
-ArticulaciÛn mediocarpiana
+Articulaci√≥n mediocarpiana
 Lig. radiado del carpo
 Ligs. intercarpianos dorsales
 Ligs. intercarpianos palmares
-Ligs. intercarpianos interÛseos
-ArticulaciÛn del hueso pisiforme
+Ligs. intercarpianos inter√≥seos
+Articulaci√≥n del hueso pisiforme
 Lig. pisiganchoso
 Lig. pisimetacarpiano
 Tunel carpi;Canal del carpo
@@ -1491,154 +1512,154 @@ Canal cubital
 Articulaciones carpometacarpianas
 Ligs. carpometacarpianos dorsales
 Ligs. carpometacarpianos palmares
-ArticulaciÛn carpometacarpiana del pulgarï
+Articulaci√≥n carpometacarpiana del pulgar‚Ä¢
 Articulaciones intermetacarpianas
 Ligs. metacarpianos dorsales
 Ligs. metacarpianos palmares
-Ligs. metacarpianos interÛseos'b'
-Espacios interÛseos del metacarpo
-Articulaciones metacarpofal‚ngicas
+Ligs. metacarpianos inter√≥seos'b'
+Espacios inter√≥seos del metacarpo
+Articulaciones metacarpofal√¢ngicas
 Ligs. colaterales
 Ligs. palmares
 Lig. metacarpiano transverso profundo
-Articulaciones interfal‚ngicas
+Articulaciones interfal√¢ngicas
 Ligs. colaterales
 Ligs. palmares
 Articulaciones del miembro inferior
 TU
 Sindesmosis de la cintura pelviana
-Membrana obturatrizï
-Canal obturadorï
-S\xe2\x84\xa2nfisis del pubis
-Disco interpubi;Fibrocart\xe2\x84\xa2lago interpubiano
+Membrana obturatriz‚Ä¢
+Canal obturador‚Ä¢
+S√≠nfisis del pubis
+Disco interpubi;Fibrocart√≠lago interpubiano
 Lig. superior del pubis
 Lig. inferior del pubis
-ArticulaciÛn sacro-il\xe2\x84\xa2aca
-Ligs. sacro-il\xe2\x84\xa2acos anteriores
-Ligs. sacro-il\xe2\x84\xa2acos interÛseos
-Ligs. sacro-il\xe2\x84\xa2acos posteriores
-Lig. sacrotuberosoï
+Articulaci√≥n sacro-il√≠aca
+Ligs. sacro-il√≠acos anteriores
+Ligs. sacro-il√≠acos inter√≥seos
+Ligs. sacro-il√≠acos posteriores
+Lig. sacrotuberoso‚Ä¢
 Proceso falciforme
-Lig. sacro-espinosoï
-Foramen ci‚tico mayorï
-Foramen ci‚tico menorï
+Lig. sacro-espinoso‚Ä¢
+Foramen ci√¢tico mayor‚Ä¢
+Foramen ci√¢tico menor‚Ä¢
 TU
 Sindesmosis tibiopero;
-Membrana interÛsea de la pierna
-Lig. tibioperoneo anteriorï
-Lig. tibioperoneo posteriorï
-Articulaciones sinoviales de la porciÛn libre del miembro inferior
-ArticulaciÛn de la cad;
+Membrana inter√≥sea de la pierna
+Lig. tibioperoneo anterior‚Ä¢
+Lig. tibioperoneo posterior‚Ä¢
+Articulaciones sinoviales de la porci√≥n libre del miembro inferior
+Articulaci√≥n de la cad;
 Zona orbicular
 Iliofemoral ligament
-PorciÛn transversaï
-PorciÛn descendenteï
+Porci√≥n transversa‚Ä¢
+Porci√≥n descendente‚Ä¢
 Lig. isquiofemoral
 Lig. pubofemoral
-Labrum acetabularï
-Lig. transverso del acet‚bulo
-Lig. de la cabeza del fÈmurï
-ArticulaciÛn de la rodilla
+Labrum acetabular‚Ä¢
+Lig. transverso del acet√¢bulo
+Lig. de la cabeza del f√©mur‚Ä¢
+Articulaci√≥n de la rodilla
 Menisco lateral
 Lig. meniscofemoral anterior
 Lig. meniscofemoral posterior
 Menisco medial
-Lig. transverso de la rodillaï
+Lig. transverso de la rodilla‚Ä¢
 Lig. cruzado anterior
 Lig. cruzado posterior
-Plica sinovial infrarrotulianaï
+Plica sinovial infrarrotuliana‚Ä¢
 Plicas alares
-Lig. colateral peroneoï30
+Lig. colateral peroneo‚Ä¢30
 Lig. colateral tibial
-Lig. popl\xe2\x84\xa2teo oblicuo
-Lig. popl\xe2\x84\xa2teo arcuato
-Lig. rotulianoï
-Retin‚culo rotuliano medialï
-Retin‚culo rotuliano lateralï
+Lig. popl√≠teo oblicuo
+Lig. popl√≠teo arcuato
+Lig. rotuliano‚Ä¢
+Retin√¢culo rotuliano medial‚Ä¢
+Retin√¢culo rotuliano lateral‚Ä¢
 Cuerpo adiposo infrarrotuliano
-ArticulaciÛn tibioperoneaï
-Lig. anterior de la cabeza del peronÈ
-Lig. posterior de la cabeza del peronÈ
+Articulaci√≥n tibioperonea‚Ä¢
+Lig. anterior de la cabeza del peron√©
+Lig. posterior de la cabeza del peron√©
 Articulaciones del pie
-ArticulaciÛn talocruralï
+Articulaci√≥n talocrural‚Ä¢
 Lig. colateral med;Lig. deltoideo
-PorciÛn tibionavicularï
-PorciÛn tibiocalc‚nea
-PorciÛn tibiotalar anteriorï
-PorciÛn tibiotalar posteriorï
+Porci√≥n tibionavicular‚Ä¢
+Porci√≥n tibiocalc√¢nea
+Porci√≥n tibiotalar anterior‚Ä¢
+Porci√≥n tibiotalar posterior‚Ä¢
 Lig. colateral lateral
-Lig. talofibular anteriorï
-Lig. talofibular posteriorï
-Lig. calcaneofibularï
-ArticulaciÛn subta;ArticulaciÛn talocalc‚neaï
-Lig. talocalc‚neo lateralï
-Lig. talocalc‚neo medialï
-Lig. talocalc‚neo posteriorï
-ArticulaciÛn transversa del tarsoï
-ArticulaciÛn talocalcaneonavicularï
-Lig. calcaneonavicular plantarï
-ArticulaciÛn calcaneocuboidea
-ArticulaciÛn cuneonavicularï
+Lig. talofibular anterior‚Ä¢
+Lig. talofibular posterior‚Ä¢
+Lig. calcaneofibular‚Ä¢
+Articulaci√≥n subta;Articulaci√≥n talocalc√¢nea‚Ä¢
+Lig. talocalc√¢neo lateral‚Ä¢
+Lig. talocalc√¢neo medial‚Ä¢
+Lig. talocalc√¢neo posterior‚Ä¢
+Articulaci√≥n transversa del tarso‚Ä¢
+Articulaci√≥n talocalcaneonavicular‚Ä¢
+Lig. calcaneonavicular plantar‚Ä¢
+Articulaci√≥n calcaneocuboidea
+Articulaci√≥n cuneonavicular‚Ä¢
 Articulaciones intercuneiformes
 Ligamentos del tarso
-Ligs. interÛseos del tarso
-Lig. talocalc‚neo interÛseoï
-Lig. cubocuneiforme interÛseo
-Ligs. intercuneiformes interÛseosligaments
+Ligs. inter√≥seos del tarso
+Lig. talocalc√¢neo inter√≥seo‚Ä¢
+Lig. cubocuneiforme inter√≥seo
+Ligs. intercuneiformes inter√≥seosligaments
 Lig. dorsal del tarso
-Lig. talonavicularï
+Lig. talonavicular‚Ä¢
 Ligs. intercuneiformes dorsales
 Lig. cubocuneiforme dorsal
-Lig. cubonavicular dorsalï
+Lig. cubonavicular dorsal‚Ä¢
 Lig. bifurcado
-Lig. calcaneonavicularï
+Lig. calcaneonavicular‚Ä¢
 Lig. calcaneocuboideo
-Ligs. cuneonaviculares dorsalesï
+Ligs. cuneonaviculares dorsales‚Ä¢
 Lig. calcaneocuboideo dorsal
 Ligs. plantares del tarso
 Lig. plantar largo
 Lig. calcaneocuboideo plantar
-Lig. calcaneonavicular plantarï
-Ligs. cuneonaviculares plantaresï
-Lig. cubonavicular plantarï
+Lig. calcaneonavicular plantar‚Ä¢
+Ligs. cuneonaviculares plantares‚Ä¢
+Lig. cubonavicular plantar‚Ä¢
 Ligs. intercuneiformes plantares
 Lig. cubocuneiforme plantar
 Articulaciones tarsometatarsianas
 Ligs. tarsometatarsianos dorsales'b'
 Ligs. tarsometatarsianos plantares
-Ligs. cuneometatarsianos interÛseos
+Ligs. cuneometatarsianos inter√≥seos
 Articulaciones intermetatarsianas
-Ligs. metatarsianos interÛseos
+Ligs. metatarsianos inter√≥seos
 Ligs. metatarsianos dorsales
 Ligs. metatarsianos plantares
-Espacios interÛseos metatarsianos
-Articulaciones metatarsofal‚ngicas
+Espacios inter√≥seos metatarsianos
+Articulaciones metatarsofal√¢ngicas
 Ligs. colaterales
 Ligs. plantares
 Lig. intermetatarsiano transverso profundo
-Articulaciones interfal‚ngicas del pie
+Articulaciones interfal√¢ngicas del pie
 Ligs. colaterales
 Ligs. plantares32
-M\xc5\x93scu;Sistema muscular
+M√∫scu;Sistema muscular
 Cabeza
 Vientre
-InserciÛn
+Inserci√≥n
 Punto fijo
-Punto mÛvil
+Punto m√≥vil
 M. fusiforme
 M. ancho
 M. largo
 M. triangular
 M. cuadrado
-M. dig‚strico
-M. b\xe2\x84\xa2ceps
-M. tr\xe2\x84\xa2ceps
-M. cu‚driceps
+M. dig√¢strico
+M. b√≠ceps
+M. tr√≠ceps
+M. cu√¢driceps
 M. semipenifo;M. unipeniforme
 M. penifo;M. bipeniforme
 M. multipeniforme
 M. orbicular
-M. cut‚neo
+M. cut√¢neo
 M. abductor
 M. aductor
 M. rotador
@@ -1647,7 +1668,7 @@ M. extensor
 M. pronador
 M. supinador
 M. oponente
-M. esf\xe2\x84\xa2nter
+M. esf√≠nter
 M. dilatador
 Compartimento
 Fascia
@@ -1656,132 +1677,132 @@ Fascia del tronco
 Fascia parietal
 Fascia extraserosa
 Fascia visceral
-Los tÈrminos inserciÛn y origo/origen no se han utilizado para evitar confusiones.
+Los t√©rminos inserci√≥n y origo/origen no se han utilizado para evitar confusiones.
  fascia
  peritoneum
 Fascia de los miembros
-Fascia de los m\xc5\x93sculos
+Fascia de los m√∫sculos
 Fascia de revestimiento
 Fascia muscular propia
 Epimisio
 Perimisio
 Endomisio
-TendÛn
-TendÛn intermedio
-IntersecciÛn tendinosa
+Tend√≥n
+Tend√≥n intermedio
+Intersecci√≥n tendinosa
 Aponeurosis
 Arco tendinoso
-TrÛclea muscular
+Tr√≥clea muscular
 Bolsa sinovial
 Vaina sinovial
-M\xc5\x93sculos de la cabeza
-M\xc5\x93sculos del globo ocular{vide paginam 147}{see page 147}{ver p‚gina 147}
-M\xc5\x93sculos de los huesecillos del o\xe2\x84\xa2do{vide paginam 150}{see page 150}{ver p‚gina 150}
-M\xc5\x93sculos faciales
+M√∫sculos de la cabeza
+M√∫sculos del globo ocular{vide paginam 147}{see page 147}{ver p√¢gina 147}
+M√∫sculos de los huesecillos del o√≠do{vide paginam 150}{see page 150}{ver p√¢gina 150}
+M√∫sculos faciales
 M. epicraneano
 M. occipitofrontal
 Vientre frontal
 Vientre occipital
 M. temporoparietal
-Galea aponeurÛt;Aponeurosis epicraneal
-M. prÛcerï
+Galea aponeur√≥t;Aponeurosis epicraneal
+M. pr√≥cer‚Ä¢
 M. nasal
-PorciÛn transversa
-PorciÛn alar
-M. depresor del tabique nasalï
+Porci√≥n transversa
+Porci√≥n alar
+M. depresor del tabique nasal‚Ä¢
 M. orbicular de los ojos
-PorciÛn palpebral
-Fasc\xe2\x84\xa2culo ciliar*
-PorciÛn profunda
-PorciÛn orbitaria
+Porci√≥n palpebral
+Fasc√≠culo ciliar*
+Porci√≥n profunda
+Porci√≥n orbitaria
 M. corrugador superciliar
 M. depresor superciliar
 M. auricular anterior
 M. auricular superior
 M. auricular posterior
-M. orbicular de la bocaï
-PorciÛn marginal
-PorciÛn labial
-M. depresor del ‚ngulo de la boca
-M. transverso del mentÛn
+M. orbicular de la boca‚Ä¢
+Porci√≥n marginal
+Porci√≥n labial
+M. depresor del √¢ngulo de la boca
+M. transverso del ment√≥n
 M. risorio
-M. cigom‚tico mayor
-M. cigom‚tico menor
+M. cigom√¢tico mayor
+M. cigom√¢tico menor
 M. elevador del labio superior
 M. elevador del labio superiory del ala de la nariz
-M. depresor del labio inferiorï
-M. elevador del ‚ngulo de la bocaï
-Modiolo del ‚ngulo de la boca34
-Èsta se sit\xc5\x93a en la zona profunda de la pars palpebralis.
+M. depresor del labio inferior‚Ä¢
+M. elevador del √¢ngulo de la boca‚Ä¢
+Modiolo del √¢ngulo de la boca34
+√©sta se sit√∫a en la zona profunda de la pars palpebralis.
 M. buccinador
-M. mentonianoï
-M\xc5\x93sculos masticadores
+M. mentoniano‚Ä¢
+M√∫sculos masticadores
 M. masetero
-PorciÛn superficial
-PorciÛn profunda
+Porci√≥n superficial
+Porci√≥n profunda
 M. temporal
 M. pterigoideo lateral
-Cabeza superiorï
-Cabeza inferiorï
+Cabeza superior‚Ä¢
+Cabeza inferior‚Ä¢
 M. pterigoideo medial
-Fascia bucofar\xe2\x84\xa2ngea
+Fascia bucofar√≠ngea
 Fascia maseterina
-Fascia parot\xe2\x84\xa2dea
+Fascia parot√≠dea
 Fascia temporal
 Hoja superficial
 Hoja profunda
-M\xc5\x93sculos de la lengua {ver p‚gina 49}
-M\xc5\x93sculos del paladar y de las fauces{vide paginam 50}{see page 50}{ver p‚gina 50}
-M\xc5\x93sculos del cue;M\xc5\x93sculos cervicales
-Platismaï
+M√∫sculos de la lengua {ver p√¢gina 49}
+M√∫sculos del paladar y de las fauces{vide paginam 50}{see page 50}{ver p√¢gina 50}
+M√∫sculos del cue;M√∫sculos cervicales
+Platisma‚Ä¢
 M. largo del cuello
 M. largo de la cabeza
 M. escaleno anterior
 M. escaleno medio
 M. escaleno posterior
-(M. escaleno m\xe2\x84\xa2nimo)
+(M. escaleno m√≠nimo)
 M. esternocleidomastoideo
-M\xc5\x93sculos suboccipitales
+M√∫sculos suboccipitales
 M. recto anterior de la cabeza
 M. recto lateral de la cabeza
 M. recto posterior mayor de la cabeza
 M. recto posterior menor de la cabeza
-M. oblicuo menor de la cabezaï
-M. oblicuo mayor de la cabezaï
-M\xc5\x93sculos suprahioideos
-M. dig‚strico
+M. oblicuo menor de la cabeza‚Ä¢
+M. oblicuo mayor de la cabeza‚Ä¢
+M√∫sculos suprahioideos
+M. dig√¢strico
 Vientre anterior
 Vientre posterior
 M. estilohiodeo
 M. milohioideo
 M. genihioideo
-M\xc5\x93sculos infrahioideos
+M√∫sculos infrahioideos
 M. esternohioideo
 M. omohioideo
 Vientre superior
 Vientre inferior
 M. esternotiroideo
 M. tirohioideo
-(M. elevador de la gl‚ndula tiroides)
+(M. elevador de la gl√¢ndula tiroides)
 Fascia cervical
 Hoja superficial
 Espacio supraesternal
 Hoja pretraqueal'b'*
-Lig. suspensorio de la gl‚ndula tiroides
+Lig. suspensorio de la gl√¢ndula tiroides
 Hoja prevertebral
-Vaina carot\xe2\x84\xa2dea
-M\xc5\x93sculos far\xe2\x84\xa2ngeos {ver p‚gina 51}
-M\xc5\x93sculos lar\xe2\x84\xa2ngeos {ver p‚gina 59}
-M\xc5\x93sculos de la espalda
+Vaina carot√≠dea
+M√∫sculos far√≠ngeos {ver p√¢gina 51}
+M√∫sculos lar√≠ngeos {ver p√¢gina 59}
+M√∫sculos de la espalda
 M. trapecio
-PorciÛn descendente
-PorciÛn transversa
-PorciÛn ascendente
+Porci√≥n descendente
+Porci√≥n transversa
+Porci√≥n ascendente
 (M. transverso de la nuca)
 M. dorsal ancho
 M. romboides mayor
 M. romboides menor
-M. elevador de la esc‚pulaï
+M. elevador de la esc√¢pula‚Ä¢
 M. serrato posterior inferior
 M. serrato posterior superior
 Mm. intertransversos cervicales anterio;
@@ -1790,216 +1811,216 @@ Mm. intertransversos lumbares laterales
 Parte dorsal
 Parte ventral
 Fascia de la nuca*
-M\xc5\x93sculos propios de la espalda
-M\xc5\x93sculo erector de la columna
+M√∫sculos propios de la espalda
+M√∫sculo erector de la columna
 Aponeurosis del m. erector de la columna
 Tabique intermuscular
 M. iliocostal
 M. ilicostal lumbar
-PorciÛn lum;DivisiÛn lateralspinae lumborumof lumbar erector spinaedel m. erector de la columna lumbar
-PorciÛn tor‚cica
+Porci√≥n lum;Divisi√≥n lateralspinae lumborumof lumbar erector spinaedel m. erector de la columna lumbar
+Porci√≥n tor√¢cica
 M. iliocostal cervi;M.iliocostal del cuello
-M. long\xe2\x84\xa2simoï
-M. long\xe2\x84\xa2simo tor‚cicoï
-PorciÛn lum;DivisiÛn medial del m.spinae lumborumof lumbar erector spinaeerector de la columna lumbar
-M. long\xe2\x84\xa2simo cervi;M. long\xe2\x84\xa2simo del cuelloï
-M. long\xe2\x84\xa2simo de la cabezaï
+M. long√≠simo‚Ä¢
+M. long√≠simo tor√¢cico‚Ä¢
+Porci√≥n lum;Divisi√≥n medial del m.spinae lumborumof lumbar erector spinaeerector de la columna lumbar
+M. long√≠simo cervi;M. long√≠simo del cuello‚Ä¢
+M. long√≠simo de la cabeza‚Ä¢
 M. espinoso
-M. espinoso tor‚cico
+M. espinoso tor√¢cico
 M. espinoso cervi;M. espinoso del cuello*
 M. espinoso de la cabeza
-M\xc5\x93sculos espinotransversos
+M√∫sculos espinotransversos
 M. esplenio36
-LorÈ 
- est‚n inervados por rami posterioresy pueden considerarse como los \xc5\x93nicos m\xc5\x93sculosdorsales verdaderos. 
+Lor√© 
+ est√¢n inervados por rami posterioresy pueden considerarse como los √∫nicos m√∫sculosdorsales verdaderos. 
 puede ser una entidad separada. 
 M. esplenio de la cabeza
 M. esplenio cervi;M. esplenio del cuello
-M\xc5\x93sculos transverso-espinosos
-Mm. mult\xe2\x84\xa2fidos
-M. mult\xe2\x84\xa2fido lumbar
-M. mult\xe2\x84\xa2fido tor‚cico
-M. mult\xe2\x84\xa2fido cervi;M. mult\xe2\x84\xa2fidodel cuello
+M√∫sculos transverso-espinosos
+Mm. mult√≠fidos
+M. mult√≠fido lumbar
+M. mult√≠fido tor√¢cico
+M. mult√≠fido cervi;M. mult√≠fidodel cuello
 M. semiespinoso
-M. semiespinoso tor‚cico
+M. semiespinoso tor√¢cico
 M. semiespinoso cervi;
-M. semiespinoso de la cabezaï
+M. semiespinoso de la cabeza‚Ä¢
 Mm. rotadores
 (Mm. rotadores lumbares)
-Mm. rotadores tor‚cicos
+Mm. rotadores tor√¢cicos
 Mm. rotadores cervica;
-M\xc5\x93sculos interespinosos
+M√∫sculos interespinosos
 Mm. interespinosos lumbares
-Mm. interespinosos tor‚cicos
+Mm. interespinosos tor√¢cicos
 Mm. interespinosos cervica;
-M\xc5\x93sculos intertransversos
+M√∫sculos intertransversos
 Mm. intertransversos lumbares mediales
-Mm. intertransversos tor‚cicos
+Mm. intertransversos tor√¢cicos
 Mm. intertransversos cervicales posteriorescervi;Mm. intertransversarii posterioresmedia;Mm. intertransversos posterioresmediales collimediales del cuello
 Fascia toracolumbar
 Hoja posterior
 Hoja media
-Hoja anter;Hoja profu;Fasciamusculi quadratus lumborumlumborum fasciadel m\xc5\x93sculo cuadrado lumbar
-M\xc5\x93sculos del tÛrax
+Hoja anter;Hoja profu;Fasciamusculi quadratus lumborumlumborum fasciadel m√∫sculo cuadrado lumbar
+M√∫sculos del t√≥rax
 (M. esternal)
 M. pectoral mayor
-PorciÛn clavicular
-PorciÛn esternocostal
-PorciÛn abdominal
+Porci√≥n clavicular
+Porci√≥n esternocostal
+Porci√≥n abdominal
 M. pectoral menor
 M. subclavio
 M. serrato anterior
-Mm. elevadores de las costillasï
+Mm. elevadores de las costillas‚Ä¢
 Mm. elevadores largos de las costillas
 Mm. elevadores cortos de las costillas
 Mm. intercostales externos
 Membrana intercostal externa
 Mm. intercostales internos
 Membrana intercostal interna
-Mm. intercostales \xe2\x84\xa2ntimos
+Mm. intercostales √≠ntimos
 Mm. subcostales
-M. transverso del tÛraxï
+M. transverso del t√≥rax‚Ä¢
 Fascia pectoral
 Fascia clavipectoral
-Fascia tor‚cica
-Facia endotor‚cicathoracisof thorax
- el m. multifidusconsiste en una serie de m\xc5\x93sculos espinotransversos einervados segmentariamente. 
+Fascia tor√¢cica
+Facia endotor√¢cicathoracisof thorax
+ el m. multifidusconsiste en una serie de m√∫sculos espinotransversos einervados segmentariamente. 
 Diafragma
-PorciÛn lumbar
+Porci√≥n lumbar
 Pilar derecho
 Pilar izquierdo
 Lig. arcuato medio
-Lig. arcuato medialï
-Lig. arcuato lateralï
-PorciÛn costal
-PorciÛn esternal
-Hiato aÛrtico
-Hiato esof‚gico
-Lig. freno-esof‚gico
+Lig. arcuato medial‚Ä¢
+Lig. arcuato lateral‚Ä¢
+Porci√≥n costal
+Porci√≥n esternal
+Hiato a√≥rtico
+Hiato esof√¢gico
+Lig. freno-esof√¢gico
 Centro tendinoso
 Foramen de la vena cava
-Tri‚ngulo esternocostal
-Tri‚ngulo lumbocostal
-Fascia diafragm‚tica
-M\xc5\x93sculos del abdomen
+Tri√¢ngulo esternocostal
+Tri√¢ngulo lumbocostal
+Fascia diafragm√¢tica
+M√∫sculos del abdomen
 M. recto del abdomen
 Intersecciones tendinosas
-Vaina de los m\xc5\x93sculos rectos del abdomen
+Vaina de los m√∫sculos rectos del abdomen
 Capa anterior
 Capa posterior
-L\xe2\x84\xa2nea arcuata
+L√≠nea arcuata
 M. piramidal
 M. oblicuo externo del abdomen
 Lig. ingui;Arco inguinal
 Lig. lacunar
-Lig. pect\xe2\x84\xa2neo
+Lig. pect√≠neo
 Lig. reflejo
 Anillo inguinal superficial
 Pilar medial
 Pilar lateral
 Fibras intercrurales
 M. oblicuo interno del abdomen
-M. crem‚ster
+M. crem√¢ster
 M. transverso del abdomen
-TendÛn conju;Hoz inguinal
+Tend√≥n conju;Hoz inguinal
 Anillo inguinal profundo
-L\xe2\x84\xa2nea alba
+L√≠nea alba
 Anillo umbilical
-Admin\xe2\x84\xa2culo de la l\xe2\x84\xa2nea alba
-L\xe2\x84\xa2nea semilunar
+Admin√≠culo de la l√≠nea alba
+L√≠nea semilunar
 Conducto inguinal
 M. cuadrado lumbar*
 Fascias del abdomen
 Fascia abdominal visceral
-Fascia propia de los Ûrganos organintraperitoneales
+Fascia propia de los √≥rganos organintraperitoneales
 Fascia extraperitoneal
 Lig. extraperitoneal*
 Fascia abdominal parie;
-Incluye as\xe2\x84\xa2 un n\xc5\x93merode tÈrminos para los que la denominaciÛn de fasciano se recomienda (ver nota al pie de p‚g. 
- sino tambiÈn la extraperitoneal y la visceral en el abdomen y pelvis.'b'
-Fascia propia de los Ûrganosorganextraperitoneales
-Fascia iliops;Fascia il\xe2\x84\xa2aca
-PorciÛn del psoas
-PorciÛn il\xe2\x84\xa2aca
-Arco ileopect\xe2\x84\xa2neo
+Incluye as√≠ un n√∫merode t√©rminos para los que la denominaci√≥n de fasciano se recomienda (ver nota al pie de p√¢g. 
+ sino tambi√©n la extraperitoneal y la visceral en el abdomen y pelvis.'b'
+Fascia propia de los √≥rganosorganextraperitoneales
+Fascia iliops;Fascia il√≠aca
+Porci√≥n del psoas
+Porci√≥n il√≠aca
+Arco ileopect√≠neo
 Fascia transversalis
 Lig. interfoveolar
-Tracto iliop\xc5\x93bico
+Tracto iliop√∫bico
 Fascia umbilical
 Fascia de revestimiento abdominal
 Fascia de revestimiento profunda
 Fascia de revestimiento intermedia
 Fascia de revestimiento superficial
-Lig. suspensorio del cl\xe2\x84\xa2toris
+Lig. suspensorio del cl√≠toris
 Lig. suspensorio del pene
 Tejido conectivo laxo
-Tejido subcut‚neo del abdomen
+Tejido subcut√¢neo del abdomen
 Capa membranosa
-Lig. fundiforme del cl\xe2\x84\xa2toris
+Lig. fundiforme del cl√≠toris
 Lig. fundiforme del pene
-Pan\xe2\x84\xa2culo adiposo
+Pan√≠culo adiposo
 Fascia de la pel;Fascia pelviana
 Fascia pelviana visceral
-Fascia propia de los Ûrganos intraperitoneales
-Fascia rectoprost‚t;Tabiquerectovesicalseptumrectovesical
+Fascia propia de los √≥rganos intraperitoneales
+Fascia rectoprost√¢t;Tabiquerectovesicalseptumrectovesical
 Fascia rectovagi;Tabiquerectovaginale
 Fascia extraperitoneal
 Lig. extraperitoneal
 Fascia pelviana parie;Fascia endopelviana
-Fascia propia de los Ûrganos extraperitoneales
+Fascia propia de los √≥rganos extraperitoneales
 Fascia obturatriz
 Arco tendinoso de la fascia pelviana
-Fascia del m\xc5\x93sculo piriforme
-Fascia superior del diafragma pÈlvico
+Fascia del m√∫sculo piriforme
+Fascia superior del diafragma p√©lvico
 Lig. pubovesi;Lig. medialpuboprostaticum
 Lig. medial pubovesical
 M. pubovesical
-Lig. puboprost‚t;Lig. lateralpuboprostaticum
+Lig. puboprost√¢t;Lig. lateralpuboprostaticum
 Lig. lateral pubovesical
 Lig. lateral vesical
 M. rectovesical
 Fascia presacra
 Fascia rectosacra
-Fascia inferior del diafragma pÈlvico
-Diafragma pÈlvico
-Fascia superior del diafragma pÈlvico
-Fascia inferior del diafragma pÈlvico
+Fascia inferior del diafragma p√©lvico
+Diafragma p√©lvico
+Fascia superior del diafragma p√©lvico
+Fascia inferior del diafragma p√©lvico
 M. elevador del ano
-M. pubocox\xe2\x84\xa2geo
+M. pubocox√≠geo
 M. puboperineal
-M. puboprost‚t;M. elevador de la prÛstata
+M. puboprost√¢t;M. elevador de la pr√≥stata
 M. pubovaginal
 M. pubo-anal
 Orda 
  sino las fascias extraperitoneal y visceral del abdomen y de la pelvis.'b'
 M. puborrectal
-M. iliocox\xe2\x84\xa2geo
-(Arco tendinoso del m\xc5\x93sculo elevadordel ano)
+M. iliocox√≠geo
+(Arco tendinoso del m√∫sculo elevadordel ano)
 Hiato urogenital
-M. isquiocox\xe2\x84\xa2;M cox\xe2\x84\xa2geo
-M. esf\xe2\x84\xa2nter externo del ano
-PorciÛn subcut‚nea
-PorciÛn superficial
-PorciÛn profunda*
-Cuerpo anocox\xe2\x84\xa2;Lig. anocox\xe2\x84\xa2geoligament
-TendÛn del m\xc5\x93sculo pubocox\xe2\x84\xa2geo
-Rafe del m\xc5\x93sculo iliocox\xe2\x84\xa2geo
-InserciÛn de la porciÛn superficial sphincteris ani externiianal sphincterdel m\xc5\x93sculo esf\xe2\x84\xa2nter externo del ano
-Mm. del perinÈ {ver p‚gina 71}
-M\xc5\x93sculos del miembro superior
+M. isquiocox√≠;M cox√≠geo
+M. esf√≠nter externo del ano
+Porci√≥n subcut√¢nea
+Porci√≥n superficial
+Porci√≥n profunda*
+Cuerpo anocox√≠;Lig. anocox√≠geoligament
+Tend√≥n del m√∫sculo pubocox√≠geo
+Rafe del m√∫sculo iliocox√≠geo
+Inserci√≥n de la porci√≥n superficial sphincteris ani externiianal sphincterdel m√∫sculo esf√≠nter externo del ano
+Mm. del perin√© {ver p√¢gina 71}
+M√∫sculos del miembro superior
 Compartimentos
 Compartimento braquial anter;
 Compartimentum brachii extensorum
 Compartimento antebraquial anter;
-PorciÛn superficial
-PorciÛn profunda
+Porci√≥n superficial
+Porci√≥n profunda
 Compartimento antebraquial poster;
-PorciÛn late;PorciÛn radial
-M\xc5\x93sculos
+Porci√≥n late;Porci√≥n radial
+M√∫sculos
 M. deltoides
-PorciÛn clavicular
-PorciÛn acromial
-PorciÛn espinal
+Porci√≥n clavicular
+Porci√≥n acromial
+Porci√≥n espinal
 M. supraespinoso
 Fascia supraespinosa
 M. infraespinoso
@@ -2007,48 +2028,48 @@ Fascia infraespinosa
 M. redondo menor
 M. redondo mayor
 M. subescapular
-M. b\xe2\x84\xa2ceps braquial
+M. b√≠ceps braquial
 Cabeza larga
 Cabeza corta
-Aponeurosis del m\xc5\x93sculo b\xe2\x84\xa2ceps braqu;
+Aponeurosis del m√∫sculo b√≠ceps braqu;
 M. coracobraquial
-M. braquialï
-M. tr\xe2\x84\xa2ceps braquial
+M. braquial‚Ä¢
+M. tr√≠ceps braquial
 Cabeza larga
-Cabeza lateralï
-Cabeza med;Cabeza profundaï
-M. ancÛneo
+Cabeza lateral‚Ä¢
+Cabeza med;Cabeza profunda‚Ä¢
+M. anc√≥neo
 M. articular del codo
 M. pronador redondo
 Cabeza humeral40
 mejor que el de ligamentum
-Cabeza cubitalï
-M. flexor radial del carpoï
-M. palmar largoï
-M. flexor cubital del carpoï
+Cabeza cubital‚Ä¢
+M. flexor radial del carpo‚Ä¢
+M. palmar largo‚Ä¢
+M. flexor cubital del carpo‚Ä¢
 Cabeza humeral
-Cabeza cubitalï
+Cabeza cubital‚Ä¢
 M. flexor superficial de los dedos
-Cabeza humerocubitalï
+Cabeza humerocubital‚Ä¢
 Cabeza radial
 M. flexor profundo de los dedos
 M. flexor largo del pulgar
 M. pronador cuadrado
-M. braquiorradialï
-M. extensor radial largo del carpoï
-M. extensor radial corto del carpoï
+M. braquiorradial‚Ä¢
+M. extensor radial largo del carpo‚Ä¢
+M. extensor radial corto del carpo‚Ä¢
 M. extensor de los dedos
 Conexiones intertendinosas
 M. extensor del me\xc5\x92ique
-M. extensor cubital del carpoï
+M. extensor cubital del carpo‚Ä¢
 Cabeza humeral
-Cabeza cubitalï
-M. supinadorï
+Cabeza cubital‚Ä¢
+M. supinador‚Ä¢
 M. abductor largo del pulgar
 M. extensor corto del pulgar
 M. extensor largo del pulgar
-M. extensor del \xe2\x84\xa2ndice
-M. palmar cortoï
+M. extensor del √≠ndice
+M. palmar corto‚Ä¢
 M. abductor corto del pulgar
 M. flexor corto del pulgar
 Cabeza superficial
@@ -2061,8 +2082,8 @@ M. abductor del me\xc5\x92ique
 M. flexor corto del me\xc5\x92ique
 M. oponente del me\xc5\x92ique
 Mm. lumbricales
-Mm. interÛseos dorsales
-Mm. interÛseos palmares
+Mm. inter√≥seos dorsales
+Mm. inter√≥seos palmares
 Fascias
 Fascia axilar
 Lig. suspensorio de la axila
@@ -2072,76 +2093,76 @@ T\nabique intermuscular medial del brazo
 T\nabique intermuscular lateral del brazo
 Fascia antebraquial
 Fascia dorsal de la mano
-Retin‚culo extensor
+Retin√¢culo extensor
 Lig. metacarpiano transverso superficialligament
 Aponeurosis palmar
-Retin‚culo flexor
+Retin√¢culo flexor
 Quiasma tendinoso'b'
-M\xc5\x93sculos del miembro inferior
+M√∫sculos del miembro inferior
 Compartimentos
 Compartimento femoral anter;
 Compartimento femoral poster;
 Compartimento femoral med;
 Compartimento anterior de la pie;
 Compartimento posterior de la pie;
-PorciÛn superfic;PorciÛn gastrocne;
-PorciÛn profu;PorciÛn sÛlea
+Porci√≥n superfic;Porci√≥n gastrocne;
+Porci√≥n profu;Porci√≥n s√≥lea
 Compartimento lateral de la pie;
-M\xc5\x93sculos
-M. iliopsoasï
-M. il\xe2\x84\xa2aco
+M√∫sculos
+M. iliopsoas‚Ä¢
+M. il√≠aco
 M. psoas mayor
 (M. psoas menor)
-M. gl\xc5\x93teo mayor
-M. gl\xc5\x93teo medio
-M. gl\xc5\x93teo menor
-Aponeurosis gl\xc5\x93tea
+M. gl√∫teo mayor
+M. gl√∫teo medio
+M. gl√∫teo menor
+Aponeurosis gl√∫tea
 M. tensor de la fascia lata
-M. piriformeï
+M. piriforme‚Ä¢
 M. obturador interno
 M. gemelo superior
 M. gemelo inferior
 M. cuadrado femoral
 M. sartorio
-M. cu‚driceps femoral
-M. recto femoralï
+M. cu√¢driceps femoral
+M. recto femoral‚Ä¢
 Cabeza directa
 Cabeza refleja
 M. vasto lateral
-M. vasto intermedioï
+M. vasto intermedio‚Ä¢
 M. vasto medial
-M. articular de la rodillaïof knee
-M. pect\xe2\x84\xa2neo
-M. aductor largoï
-M. aductor cortoï
+M. articular de la rodilla‚Ä¢of knee
+M. pect√≠neo
+M. aductor largo‚Ä¢
+M. aductor corto‚Ä¢
 M. aductor mayor
-M. aductor m\xe2\x84\xa2nimo
-M. gr‚cilï
+M. aductor m√≠nimo
+M. gr√¢cil‚Ä¢
 M. obturador externo
-M. b\xe2\x84\xa2ceps femoral
+M. b√≠ceps femoral
 Cabeza larga
 Cabeza corta
 M. semitendinoso
 M. semimembranoso
 M. tibial anterior
 M. extensor largo de los dedos
-M. tercer peroneoï
+M. tercer peroneo‚Ä¢
 M. extensor largo del dedo gordo
 M. peroneo largo
 M. peroneo corto42
-M. tr\xe2\x84\xa2ceps sural
-M. gastrocnemioï
-Cabeza lateralï
-Cabeza medialï
-M. sÛleo
-TendÛn calc‚neo
+M. tr√≠ceps sural
+M. gastrocnemio‚Ä¢
+Cabeza lateral‚Ä¢
+Cabeza medial‚Ä¢
+M. s√≥leo
+Tend√≥n calc√¢neo
 M. plantar
-M. popl\xe2\x84\xa2teo
+M. popl√≠teo
 M. tibial posterior
 M. flexor largo de los dedos
 M. flexor largo del dedo gordo
 M. extensor corto del dedo gordo
-M. extensor corto de los dedosï
+M. extensor corto de los dedos‚Ä¢
 M. abductor del dedo gordo
 M. flexor corto del dedo gordo
 Cabeza medial
@@ -2156,8 +2177,8 @@ M. flexor corto del quinto dedo
 M. flexor corto de los dedos
 M. cuadrado plan;M. flexor accesorio
 Mm. lumbricales
-Mm. interÛseos dorsales
-Mm. interÛseos plantares
+Mm. inter√≥seos dorsales
+Mm. inter√≥seos plantares
 Fascias
 Fascia lata
 Tracto iliotibial
@@ -2166,12 +2187,12 @@ Tabique intermuscular femoral medial
 Conducto aductor
 Tabique intermuscular vastoaducto;
 Hiato aductor
-Fascia il\xe2\x84\xa2aca
+Fascia il√≠aca
 Laguna muscular
-Arco ileopect\xe2\x84\xa2neoï
+Arco ileopect√≠neo‚Ä¢
 Laguna vascular
 Conducto femoral
-Tri‚ngulo femoral
+Tri√¢ngulo femoral
 Anillo femoral
 Tabique femoral
 Hiato safeno
@@ -2182,163 +2203,164 @@ Faxcia cribiforme
 Fascia profunda de la pierna
 Tabique intermuscular anterior de la pierna
 Tabique intermuscular posterior de la pierna
-Arco tendinoso del sÛleo
-Retin‚culo superior de los m\xc5\x93sculos superiusextensores
-Retin‚culo de los m\xc5\x93sculos flexores
-Retin‚culo inferior de los m\xc5\x93sculos inferiusextensores'b'
-Retin‚culo superior de los m\xc5\x93sculos fibula;super;Retinaculum musculorum
-Retin‚culo inferior de los m\xc5\x93sculos fibula;
+Arco tendinoso del s√≥leo
+Retin√¢culo superior de los m√∫sculos superiusextensores
+Retin√¢culo de los m√∫sculos flexores
+Retin√¢culo inferior de los m√∫sculos inferiusextensores'b'
+Retin√¢culo superior de los m√∫sculos fibula;super;Retinaculum musculorum
+Retin√¢culo inferior de los m√∫sculos fibula;
 Fascia dorsal del pie
 Aponeurosis plantar
-Fasc\xe2\x84\xa2culos transversos
+Fasc√≠culos transversos
 Lig. metatarsiano transverso superficial
 Vainas tendinosas y bolsas
-Bolsa subcut‚nea
+Bolsa subcut√¢nea
 Bolsa submuscular
 Bolsa subfascial
 Bolsa subtendinosa
 Vaina tendinosa
 Capa fibr;Vaina fibrosa
 Synovial sheath
-MesotendÛn
+Mesotend√≥n
 Bolsas del cuello
-Bolsa del m\xc5\x93sculo tensor del velo del paladar
-Bolsa subcut‚nea de la prominencia lar\xe2\x84\xa2ngeaprominence
+Bolsa del m√∫sculo tensor del velo del paladar
+Bolsa subcut√¢nea de la prominencia lar√≠ngeaprominence
 Bolsa infrahioidea
 Bursa retrohioidea
 Bolsas del miembro superior
-Bolsa subtendinosa del m\xc5\x93sculo trapecio
-(Bolsa subcut‚nea acromial)
+Bolsa subtendinosa del m√∫sculo trapecio
+(Bolsa subcut√¢nea acromial)
 Bolsa subacromial
 Bolsa subdeltoidea
-(Bolsa del m\xc5\x93sculo coracobraquial)
-Bolsa subtendinosa del m\xc5\x93sculo infraespinoso
-Bolsa subtendinosa del m\xc5\x93sculo subescapular
-Bolsa subtendinosa del m\xc5\x93sculo redondo mayor
-Bolsa subtendinosa del m\xc5\x93sculo dorsal ancho
-Bolsa subcut‚nea del olÈcranon
-(Bolsa intratendinosa del olÈcranon)
-Bolsa subtendinosa del m\xc5\x93sculo tr\xe2\x84\xa2ceps braquial
+(Bolsa del m√∫sculo coracobraquial)
+Bolsa subtendinosa del m√∫sculo infraespinoso
+Bolsa subtendinosa del m√∫sculo subescapular
+Bolsa subtendinosa del m√∫sculo redondo mayor
+Bolsa subtendinosa del m√∫sculo dorsal ancho
+Bolsa subcut√¢nea del ol√©cranon
+(Bolsa intratendinosa del ol√©cranon)
+Bolsa subtendinosa del m√∫sculo tr√≠ceps braquial
 Bolsa bicipitorradial
-(Bolsa interÛsea del codo)
+(Bolsa inter√≥sea del codo)
 Vainas tendinosas del miembro superior
 Vaina tendinosa intertubercular
 Vainas tendinosas del carpo
 Vainas tendinosas palmares del carpo
-Vaina tendinosa del m\xc5\x93sculo flexor largo longilongusdel pulgar
-Vaina tendinosa del m\xc5\x93sculo flexor radialradialisradialisde carpo
-Vaina tendinosa com\xc5\x93n de los m\xc5\x93sculosflexorumflexores
+Vaina tendinosa del m√∫sculo flexor largo longilongusdel pulgar
+Vaina tendinosa del m√∫sculo flexor radialradialisradialisde carpo
+Vaina tendinosa com√∫n de los m√∫sculosflexorumflexores
 Vainas tendinosas dorsales del carpo
-Vaina tendinosa de los m\xc5\x93sculos abductorlongi et extensoris pollicis brevislongus and extensor pollicis brevis largo y extensor corto del pulgar
-Vaina tendinosa de los m\xc5\x93sculos carpi radialiumcarpi radialesextensores radiales del carpo
-Vaina tendinosa del m\xc5\x93sculo extensor longipollicislongus largo del pulgar
-Vaina tendinosa de los m\xc5\x93sculos extensoresdigitorum et extensoris indicisdigitorum and extensor indicisde los dedos y extensor del \xe2\x84\xa2ndice44
-Vaina tendinosa del m\xc5\x93sculo extensorminimi brevisminimi brevisdel me\xc5\x92ique
-Vaina tendinosa del m\xc5\x93sculo extensorulnarisulnariscubital del carpo
+Vaina tendinosa de los m√∫sculos abductorlongi et extensoris pollicis brevislongus and extensor pollicis brevis largo y extensor corto del pulgar
+Vaina tendinosa de los m√∫sculos carpi radialiumcarpi radialesextensores radiales del carpo
+Vaina tendinosa del m√∫sculo extensor longipollicislongus largo del pulgar
+Vaina tendinosa de los m√∫sculos extensoresdigitorum et extensoris indicisdigitorum and extensor indicisde los dedos y extensor del √≠ndice44
+Vaina tendinosa del m√∫sculo extensorminimi brevisminimi brevisdel me\xc5\x92ique
+Vaina tendinosa del m√∫sculo extensorulnarisulnariscubital del carpo
 Vainas fibrosas de los dedos de la mano
-PorciÛn anular de las vainas fibrosas
-PorciÛn cruciforme de las vainas fibrosas
+Porci√≥n anular de las vainas fibrosas
+Porci√≥n cruciforme de las vainas fibrosas
 Vainas sinoviales de los dedos de la mano
-V\xe2\x84\xa2nculos tendinosos
-V\xe2\x84\xa2nculo largo
-V\xe2\x84\xa2nculo corto
+V√≠nculos tendinosos
+V√≠nculo largo
+V√≠nculo corto
 Bolsas del miembro inferior
-Bolsa subcut‚nea troncantÈrea
-Bolsa trocantÈrea del m\xc5\x93sculo gl\xc5\x93teo mayor
-Bolsa trocantÈrea del m\xc5\x93sculo gl\xc5\x93teo mediano
-Bolsa trocantÈrea del m\xc5\x93sculo gl\xc5\x93teo menor
-Bolsa del m\xc5\x93sculo piriforme
-Bolsa ci‚tica del m\xc5\x93sculo obturador interno
-Bolsa subtendinosa del m\xc5\x93sculo obturadorinterniinternusinterno
-Bolsas intermusculares de los m\xc5\x93sculos gluteorumgl\xc5\x93teos
-Bolsa ci‚tica del m\xc5\x93sculo gl\xc5\x93teo mayor
-Bolsa subtendinosa il\xe2\x84\xa2aca
-Bolsa superior del m\xc5\x93sculo b\xe2\x84\xa2ceps femoral
-Bolsa subcut‚nea prerrotuliana
+Bolsa subcut√¢nea troncant√©rea
+Bolsa trocant√©rea del m√∫sculo gl√∫teo mayor
+Bolsa trocant√©rea del m√∫sculo gl√∫teo mediano
+Bolsa trocant√©rea del m√∫sculo gl√∫teo menor
+Bolsa del m√∫sculo piriforme
+Bolsa ci√¢tica del m√∫sculo obturador interno
+Bolsa subtendinosa del m√∫sculo obturadorinterniinternusinterno
+Bolsas intermusculares de los m√∫sculos gluteorumgl√∫teos
+Bolsa ci√¢tica del m√∫sculo gl√∫teo mayor
+Bolsa subtendinosa il√≠aca
+Bolsa superior del m√∫sculo b√≠ceps femoral
+Bolsa subcut√¢nea prerrotuliana
 (Bolsa subfascial prerrotuliana)
 (Bolsa subtendinosa prerrotuliana)
 Bolsa suprarrotuliana
-Bolsa subcut‚nea infrarrotuliana
+Bolsa subcut√¢nea infrarrotuliana
 Bolsa profunda infrarrotuliana
-Bolsa subcut‚nea de la tuberosidad of tibiade la tibia
-Bolsa subtendinosa del m\xc5\x93sculo sartorio
-Bolsa anserinaï
-Bolsa subtendinosa del m\xc5\x93sculo b\xe2\x84\xa2ceps femorisfemoral
-Receso subpopl\xe2\x84\xa2teo
-Bursa subtendinosa lateral del m\xc5\x93sculolateralisof gastrocnemiusgastrocnemio
-Bursa subtendinosa medial del m\xc5\x93sculomedialisof gastrocnemiusgastrocnemio
-Bursa del m\xc5\x93sculo semimembranoso
-Bursa subcut‚nea del maleolo lateral
-Bursa subcut‚nea del maleolo medial
-Bursa subtendinosa del m\xc5\x93sculo tibial anterior
-Bursa subcut‚nea calc‚nea
-Bursa tendinosa del tendÛn calc‚neocalcaneal ten;Retrocalcaneal bursa
+Bolsa subcut√¢nea de la tuberosidad of tibiade la tibia
+Bolsa subtendinosa del m√∫sculo sartorio
+Bolsa anserina‚Ä¢
+Bolsa subtendinosa del m√∫sculo b√≠ceps femorisfemoral
+Receso subpopl√≠teo
+Bursa subtendinosa lateral del m√∫sculolateralisof gastrocnemiusgastrocnemio
+Bursa subtendinosa medial del m√∫sculomedialisof gastrocnemiusgastrocnemio
+Bursa del m√∫sculo semimembranoso
+Bursa subcut√¢nea del maleolo lateral
+Bursa subcut√¢nea del maleolo medial
+Bursa subtendinosa del m√∫sculo tibial anterior
+Bursa subcut√¢nea calc√¢nea
+Bursa tendinosa del tend√≥n calc√¢neocalcaneal ten;Retrocalcaneal bursa
 Vainas tendinosas del miembro inferior
 Vainas tendinosas tarsales anteriores
-Vaina tendinosa del m\xc5\x93sculo tibial anterior
-Vaina tendinosa del m\xc5\x93sculo extensor hallucis longihallucis longuslargo del dedo gordo
-Vaina tendinosa del m\xc5\x93sculo extensor digitorum longidigitorum longuslargo de los dedos
+Vaina tendinosa del m√∫sculo tibial anterior
+Vaina tendinosa del m√∫sculo extensor hallucis longihallucis longuslargo del dedo gordo
+Vaina tendinosa del m√∫sculo extensor digitorum longidigitorum longuslargo de los dedos
 Vainas tendinosas tibiales del tarso
-Vaina tendinosa del m\xc5\x93sculo flexor largodigitorum longidigitorum longusde los dedos
-Vaina tendinosa del m\xc5\x93sculo tibial posterior'b'
-Vaina tendinosa del m\xc5\x93sculo flexor largo longi longusdel dedo gordo
+Vaina tendinosa del m√∫sculo flexor largodigitorum longidigitorum longusde los dedos
+Vaina tendinosa del m√∫sculo tibial posterior'b'
+Vaina tendinosa del m√∫sculo flexor largo longi longusdel dedo gordo
 Vainas tendinosas peroneas del tarso
-Vaina tendinosa com\xc5\x93n de los m\xc5\x93sculosfibular;Vagina communis tendinumof fibula;Common tendinous fibula;Vaina tendinosa com\xc5\x93n musculorum peroneorumsheath of peroneide los m\xc5\x93sculos peroneos
-Vaina tendinosa plantar del m\xc5\x93sculo lo;Vagina plantaris tendinis musculilon;
+Vaina tendinosa com√∫n de los m√∫sculosfibular;Vagina communis tendinumof fibula;Common tendinous fibula;Vaina tendinosa com√∫n musculorum peroneorumsheath of peroneide los m√∫sculos peroneos
+Vaina tendinosa plantar del m√∫sculo lo;Vagina plantaris tendinis musculilon;
 Vainas tendinosas de los dedos del pie
 Vainas fibrosas de los dedos del pie
-PorciÛn anular de la vaina fibrosa
-PorciÛn cruciforme de la vaina fibrosa
+Porci√≥n anular de la vaina fibrosa
+Porci√≥n cruciforme de la vaina fibrosa
 Vainas sinoviales de los dedos del pie
-V\xe2\x84\xa2nculos tendinosos46
+V√≠nculos tendinosos46
 Sistema digestivo
 Boca
 Cavidad bu;Cavidad oral
 Mucosa de la boca
-Vest\xe2\x84\xa2bulo bucal
+Vest√≠bulo bucal
 Orificio de la boca
 Labios
 Labio superior
 Filtrum
-TubÈrculo
+Tub√©rculo
 Labio inferior
 Frenillo del labio superior
 Frenillo del labio inferior
 Comisura labial
+√Çngulo de la boca
 Mejilla
 Cuerpo adiposo de la boca
-Papila del conducto parot\xe2\x84\xa2deo
+Papila del conducto parot√≠deo
 Cavidad bucal propiamente dicha
 Paladar
 Paladar duro
 Soft palate
 Rafe palatino
 Pliegues palatinos transver;Rugosidades
-Papila incisivaï
+Papila incisiva‚Ä¢
 Enc\xe2\x84\x;Gingiva
 Borde gingival
 Papila gingi;Papila interdental
 Surco gingival
-Car\xc5\x93ncula sublingual
+Car√∫ncula sublingual
 Pliegue sublingual
-Gl‚ndulas de la boca
-Gl‚ndulas salivares mayores
-Gl‚ndula parÛtida
-PorciÛn superficial
-PorciÛn profunda
-Gl‚ndula parÛtida accesoria
-Conducto parot\xe2\x84\xa2deo
-Gl‚ndulas sublinguales
+Gl√¢ndulas de la boca
+Gl√¢ndulas salivares mayores
+Gl√¢ndula par√≥tida
+Porci√≥n superficial
+Porci√≥n profunda
+Gl√¢ndula par√≥tida accesoria
+Conducto parot√≠deo
+Gl√¢ndulas sublinguales
 Conducto sublingual mayor
 Conductos sublinguales menores
-Gl‚ndula submandibular
+Gl√¢ndula submandibular
 Conducto submandibular
-Gl‚ndulas salivares menores
-Gl‚ndulas labiales
-Gl‚ndulas bucales
-Gl‚ndulas molares
-Gl‚ndulas palatinas
-Gl‚ndulas linguales
+Gl√¢ndulas salivares menores
+Gl√¢ndulas labiales
+Gl√¢ndulas bucales
+Gl√¢ndulas molares
+Gl√¢ndulas palatinas
+Gl√¢ndulas linguales
 Zenker 
 Dientes
 Arco dental maxi;Arco dental superiorsuperiorarcade
@@ -2349,28 +2371,30 @@ Diente premolar
 Diente molar
 Tercer mo;Muela del juicio
 Corona
-C\xc5\x93spide
-C\xc5\x93spide accesoria
-TubÈrculo
+C√∫spide
+√Åpex de la c√∫spide
+C√∫spide accesoria
+Tub√©rculo
 Cresta transversa
 Cresta triangular
 Cresta oblicua
 Fisura oclusal
 Fosa oclusal
-C\xc5\x93spide bucal
-C\xc5\x93spide palatina
-C\xc5\x93spide lingual
-C\xc5\x93spide mesiobucal
-C\xc5\x93spide mesiopalatina
-C\xc5\x93spide mesiolingual
-C\xc5\x93spide distobucal
-C\xc5\x93spide distopalatina
-C\xc5\x93spide distolingual
-C\xc5\x93spide distal
-Corona cl\xe2\x84\xa2nica
+C√∫spide bucal
+C√∫spide palatina
+C√∫spide lingual
+C√∫spide mesiobucal
+C√∫spide mesiopalatina
+C√∫spide mesiolingual
+C√∫spide distobucal
+C√∫spide distopalatina
+C√∫spide distolingual
+C√∫spide distal
+Corona cl√≠nica
 Cuello
-Ra\xe2\x84\xa2z
-Ra\xe2\x84\xa2z cl\xe2\x84\xa2nica
+Ra√≠z
+√Åpex de la ra√≠z
+Ra√≠z cl√≠nica
 Cara oclusal
 Cara vestibular
 Cara bucal
@@ -2380,7 +2404,8 @@ Cara palatina
 Cara mesial
 Cara distal
 Cara proximalsurface
-C\xe2\x84\xa2ngulo
+√Årea de contacto
+C√≠ngulo
 Cresta marginal
 Borde incisal
 Cavidad pulpar
@@ -2391,56 +2416,56 @@ Pulpa dental
 Pulpa coronal
 Pulpa radicular
 Papila dental
-Dentinaï
+Dentina‚Ä¢
 Esmalte
 Cemento48
 Periodonto
 Mamelones
-Estr\xe2\x84\xa2a can;Surco canino
+Estr√≠a can;Surco canino
 Fosa canina
-FÛvea mesial
-FÛvea distal
-Ra\xe2\x84\xa2z bucal
-Ra\xe2\x84\xa2z palatina
-Ra\xe2\x84\xa2z mesial
-Ra\xe2\x84\xa2z distal
-Ra\xe2\x84\xa2z mesiobucal
-Ra\xe2\x84\xa2z mesiolingual
-Ra\xe2\x84\xa2z accesoria
-(TubÈrculo anÛmalo)
-C\xc5\x93spide paramo;TubÈrculo paramolar
-TubÈrculo molar
+F√≥vea mesial
+F√≥vea distal
+Ra√≠z bucal
+Ra√≠z palatina
+Ra√≠z mesial
+Ra√≠z distal
+Ra√≠z mesiobucal
+Ra√≠z mesiolingual
+Ra√≠z accesoria
+(Tub√©rculo an√≥malo)
+C√∫spide paramo;Tub√©rculo paramolar
+Tub√©rculo molar
 Alveolo dental
 Curvas oclusales
-Dientes dec\xe2\x84\xa2duosï
+Dientes dec√≠duos‚Ä¢
 Dientes permanentes
 (Diastema)
 Lengua
 Cuerpo
-Ra\xe2\x84\xa2z
+Ra√≠z
 Dorso
-PorciÛn anterior
-PorciÛn posterior
+Porci√≥n anterior
+Porci√≥n posterior
 Cara inferior
-Pliegue fimbriadoï
+Pliegue fimbriado‚Ä¢
 Borde
-VÈrtice
+V√©rtice
 Mucosa
 Frenillo lingual
 Papilas linguales
 Papilas filiformes
 Papilas fungiformes
-Papilas circunvaladasï
+Papilas circunvaladas‚Ä¢
 Papilas foliadas
 Surco mediosulcus of tongue
-Surco terminalï
+Surco terminal‚Ä¢
 Foramen ciego
 (Conducto tirogloso)
-Tonsila ling;Am\xe2\x84\xa2gdala lingual
+Tonsila ling;Am√≠gdala lingual
 Lingual 
 Tabique lingual
 Aponeurosis lingual
-M\xc5\x93sculos de la lengua
+M√∫sculos de la lengua
 M. geniogloso
 M. hiogloso
 M. condrogloso
@@ -2456,125 +2481,126 @@ Istmo de las faucesisthmus
 Paladar bla;Velo del paladar
 Arco palatogl;Pilar anterior del velofauciumof faucesdel paladar
 (Pliegue triangular)
-Arco palatofar\xe2\x84\xa2n;Pilar posteriorfauciumpillar of faucesdel velo del paladar
+Arco palatofar√≠n;Pilar posteriorfauciumpillar of faucesdel velo del paladar
 (Pliegue semilunar)
 Fosa tonsi;Seno tonsilar
 Fosa supratonsilar
-Tonsila palat;Am\xe2\x84\xa2gdala palatina
-C‚psula tonsilar*
+Tonsila palat;Am√≠gdala palatina
+C√¢psula tonsilar*
 (Fisura tonsi;Fisura intratonsilar)
 Fosillas tonsilares
 Criptas tonsilares
-M\xc5\x93sculos del paladar blando y de las fauces
+M√∫sculos del paladar blando y de las fauces
 Aponeurosis palatina
-M. elevador del velo del paladarï
-M. tensor del velo del paladarï
-M. de la \xc5\x93vula
+M. elevador del velo del paladar‚Ä¢
+M. tensor del velo del paladar‚Ä¢
+M. de la √∫vula
 M. palatogloso
-M. palatofar\xe2\x84\xa2ngeo
-Fasc\xe2\x84\xa2culo anterior
-Fasc\xe2\x84\xa2sculo poster;M. esf\xe2\x84\xa2nterpalatopharyngeussphincterpalatofar\xe2\x84\xa2ngeo
+M. palatofar√≠ngeo
+Fasc√≠culo anterior
+Fasc√≠sculo poster;M. esf√≠nterpalatopharyngeussphincterpalatofar√≠ngeo
 YN
-Cavidad far\xe2\x84\xa2ngea
+Cavidad far√≠ngea
 Nasofaringe
-FÛrnix far\xe2\x84\xa2ngeo
-HipÛfisis far\xe2\x84\xa2ngea
-Tonsila far\xe2\x84\xa2n;Am\xe2\x84\xa2gdala far\xe2\x84\xa2ngeaï
+F√≥rnix far√≠ngeo
+Hip√≥fisis far√≠ngea
+Tonsila far√≠n;Am√≠gdala far√≠ngea‚Ä¢
 Fosillas tonsilares
 Criptas tonsilares
 Iymphoid nodules
-(Bolsa far\xe2\x84\xa2ngea)
+(Bolsa far√≠ngea)
 Ostium pharyngeum tubae auditoriae
-Torus tub‚ricoï
-Pliegue salpingofar\xe2\x84\xa2ngeo
+Torus tub√¢rico‚Ä¢
+Pliegue salpingofar√≠ngeo
 Pliegue salpingopalatino
-Torus del elevadorï
-Tonsila tub‚r;Am\xe2\x84\xa2gdala tub‚rica
-Receso far\xe2\x84\xa2ngeo
-Cresta palatofar\xe2\x84\xa2ngea
+Torus del elevador‚Ä¢
+Tonsila tub√¢r;Am√≠gdala tub√¢rica
+Receso far√≠ngeo
+Cresta palatofar√≠ngea
 Orofaringe
-VallÈcula epiglÛticaï
-Pliegue gloso-epiglÛtico medio
-Pliegue gloso-epiglÛtico lateral
+Vall√©cula epigl√≥tica‚Ä¢
+Pliegue gloso-epigl√≥tico medio
+Pliegue gloso-epigl√≥tico lateral
 Laringofari;Hipofaringe
-Receso piriformeï
-Pliegue del nervio lar\xe2\x84\xa2ngeo superior
-Estrechamiento faringo-esof‚gico
+Receso piriforme‚Ä¢
+Pliegue del nervio lar√≠ngeo superior
+Estrechamiento faringo-esof√¢gico
 Fascia faringobasilar50
  y que va desapareciendo du-rante la infancia y la pubertad. 
 Submucosa
 Muc;Capa mucosa
-Gl‚ndulas far\xe2\x84\xa2ngeas
-M\xc5\x93sculos far\xe2\x84\xa2ng;Capa muscularpharyngisof pharynxde la faringe
-Rafe far\xe2\x84\xa2ngeo
+Gl√¢ndulas far√≠ngeas
+M√∫sculos far√≠ng;Capa muscularpharyngisof pharynxde la faringe
+Rafe far√≠ngeo
 Rafe pterigomandibular
 M. constrictor superior de la faringe
-PorciÛn pterigofar\xe2\x84\xa2ngea
-PorciÛn bucofar\xe2\x84\xa2ngea
-PorciÛn milofar\xe2\x84\xa2ngea
-PorciÛn glosofar\xe2\x84\xa2ngea
+Porci√≥n pterigofar√≠ngea
+Porci√≥n bucofar√≠ngea
+Porci√≥n milofar√≠ngea
+Porci√≥n glosofar√≠ngea
 M. constrictor medio de la faringe
-PorciÛn condrofar\xe2\x84\xa2ngea
-PorciÛn ceratofar\xe2\x84\xa2ngea
+Porci√≥n condrofar√≠ngea
+Porci√≥n ceratofar√≠ngea
 M. constrictor inferior de la faringe
 Thyropharyngeus
 Cricopharyngeal p;Cricopharyngeus
-M. estilofar\xe2\x84\xa2ngeo
-M. salpingofar\xe2\x84\xa2ngeo
-M. palatofar\xe2\x84\xa2ngeo
-Fascia bucofar\xe2\x84\xa2ngea
-Espacio perifar\xe2\x84\xa2ngeo
-Espacio retrofar\xe2\x84\xa2ngeo
-Espacio laterofar\xe2\x84\xa2n;Espacio far\xe2\x84\xa2ngeopharyngeum later;Spatiumpharyngeal spacelate;Espacio parafar\xe2\x84\xa2ngeoparapharyngeum
+M. estilofar√≠ngeo
+M. salpingofar√≠ngeo
+M. palatofar√≠ngeo
+Fascia bucofar√≠ngea
+Espacio perifar√≠ngeo
+Espacio retrofar√≠ngeo
+Espacio laterofar√≠n;Espacio far√≠ngeopharyngeum later;Spatiumpharyngeal spacelate;Espacio parafar√≠ngeoparapharyngeum
 PH
-PorciÛn cervical
-PorciÛn tor‚cica
-Estrechamiento tor‚c;Estrechamientobronchoaorticconstrictionbronco-aÛrtico
-Estrechamiento frÈn;Estrechamientodiaphragmaticadiafragm‚ticoï
-PorciÛn abdominal
+Porci√≥n cervical
+Porci√≥n tor√¢cica
+Estrechamiento tor√¢c;Estrechamientobronchoaorticconstrictionbronco-a√≥rtico
+Estrechamiento fr√©n;Estrechamientodiaphragmaticadiafragm√¢tico‚Ä¢
+Porci√≥n abdominal
 Ser;Capa serosa
 Subser;Capa subserosa
 Adventicia
 Capa muscular
-TendÛn crico-esof‚gicoï
-M. bronco-esof‚gico
-M. pleuro-esof‚gico
+Tend√≥n crico-esof√¢gico‚Ä¢
+M. bronco-esof√¢gico
+M. pleuro-esof√¢gico
 Submucosa
 Muc;Capa mucosa
 Muscularis mucosae
-Gl‚ndulas del esÛfago
+Gl√¢ndulas del es√≥fago
 ER
 Pared anterior
 Pared posterior
 Curvatura mayor
 Curvatura menor
-Incisura angularï
+Incisura angular‚Ä¢
 Cardias
 Orificio del cardias
-Fundus g‚strico
-FÛrnix g‚strico'b'
+Fundus g√¢strico
+F√≥rnix g√¢strico'b'
 Incisura del cardias
-Cuerpo g‚strico
-Canal g‚strico
-PorciÛn pilÛrica
-Antro pilÛrico
-Canal pilÛrico
-P\xe2\x84\xa2loro
-Orificio pilÛrico
+Cuerpo g√¢strico
+Canal g√¢strico
+Porci√≥n pil√≥rica
+Antro pil√≥rico
+Canal pil√≥rico
+P√≠loro
+Orificio pil√≥rico
 Ser;Capa serosa
 Subser;Capa subserosa
 Capa muscular
 Capa longitudinal
 Capa circular
-M. esf\xe2\x84\xa2nter pilÛrico
+M. esf√≠nter pil√≥rico
 Fibras oblicuas
 Submucosa
 Muc;Capa mucosa
-Pliegues g‚stricos
+Pliegues g√¢stricos
 Muscularis mucosae
+√Åreas g√¢stricas
 Pliegues vellosos
-Fosillas g‚stricasï
-Gl‚ndulas g‚stricas
+Fosillas g√¢stricas‚Ä¢
+Gl√¢ndulas g√¢stricas
 Intestino delgado
 Ser;Capa serosa
 Subser;Capa subserosa
@@ -2586,31 +2612,31 @@ Submucosa
 Muc;Capa mucosa
 Muscularis mucosae
 Vellosidades intestinales
-Gl‚ndulas intestinales
-Ganglios linf‚ticos solitarios
-Ganglios linf‚ticos agregados
+Gl√¢ndulas intestinales
+Ganglios linf√¢ticos solitarios
+Ganglios linf√¢ticos agregados
 EN
-PorciÛn superior
+Porci√≥n superior
 Ampo;Bulbo duodenal
-Flexura superior del duodenoï
-PorciÛn descendente
+Flexura superior del duodeno‚Ä¢
+Porci√≥n descendente
 Flexura inferior del duodeno
-PorciÛn horizon;PorciÛn inferiorï
-PorciÛn ascendente
-Flexura duodenoyeyunalï
-PorciÛn retroperitoneal
+Porci√≥n horizon;Porci√≥n inferior‚Ä¢
+Porci√≥n ascendente
+Flexura duodenoyeyunal‚Ä¢
+Porci√≥n retroperitoneal
 M. suspensorio del duodenoduodeni
-PorciÛn frenicocel\xe2\x84\xa2aca
-PorciÛn celiacoduodenal52
-Estos nuevos tÈrminos reconocen que la disposiciÛn de las fibras en las capas musculares de la pa-red del intestino delgado no es realmente longitudinal o circular
+Porci√≥n frenicocel√≠aca
+Porci√≥n celiacoduodenal52
+Estos nuevos t√©rminos reconocen que la disposici√≥n de las fibras en las capas musculares de la pa-red del intestino delgado no es realmente longitudinal o circular
 Pliegue longitudinal del duodeno
-Papila duodenal mayorï
-Papila duodenal menorï
-Gl‚ndulas duodenales
+Papila duodenal mayor‚Ä¢
+Papila duodenal menor‚Ä¢
+Gl√¢ndulas duodenales
 NU
 MI
-PorciÛn terminal
-(Divert\xe2\x84\xa2culo ileal)
+Porci√≥n terminal
+(Divert√≠culo ileal)
 Intestino grueso
 Ser;Capa serosa
 Subser;Capa subserosa
@@ -2618,32 +2644,32 @@ Capa muscular
 Submucosa
 Muc;Capa mucosa
 Muscularis mucosae
-Gl‚ndulas intestinales
+Gl√¢ndulas intestinales
 UM
 Papila ileal
 Orificio ileal
 Frenillo del orificio ileal
-Labio ileocÛl;Labio superior
+Labio ileoc√≥l;Labio superior
 Labio ileoce;Labio inferior
-ApÈndice vermiforme
-Orificio del apÈndice vermiforme
+Ap√©ndice vermiforme
+Orificio del ap√©ndice vermiforme
 Aggregated 
-(Fascia prececocÛlica)
+(Fascia prececoc√≥lica)
 NC
 Colon ascendente
-Flexura cÛlica dere;Flexura hep‚ticadel colonï
+Flexura c√≥lica dere;Flexura hep√¢ticadel colon‚Ä¢
 Colon transveso
-Flexura cÛlica izquie;Flexura esplÈnicadel colonï
+Flexura c√≥lica izquie;Flexura espl√©nicadel colon‚Ä¢
 Colon descendente
 Colon sigmoideo
 Pliegues semilunares del colon
 Haustra del colon
-ApÈndices omenta;ApÈndices adipososadiposae c;Appendices epiploicaeof colondel co;ApÈndices epiploicos
+Ap√©ndices omenta;Ap√©ndices adipososadiposae c;Appendices epiploicaeof colondel co;Ap√©ndices epiploicos
 Capa muscular
 Capa longitudinal
 Tenias del colon
-Tenia mesocÛlica
-Tenia omentalï
+Tenia mesoc√≥lica
+Tenia omental‚Ä¢
 Tenia libre
 Capa circular
 UM
@@ -2657,7 +2683,7 @@ Pliegues transversos del recto
 Ampolla rectal
 Capa muscular
 Capa longitudinal
-M. rectocox\xe2\x84\xa2geo
+M. rectocox√≠geo
 Mm. anorrectoperinea; rectourethrales
 M. rectoperin;M. recto-uretral superiorsuperiorsuperior
 M. anoperin;M. recto-uretral inferiorinferiorinferior
@@ -2666,95 +2692,96 @@ Capa circular
 Lig. lateral del recto
 LI
 Flexura anorrec;Flexura perineal
-UniÛn anorrectal
+Uni√≥n anorrectal
 Columnas anales
-V‚lvulas analesï
+V√¢lvulas anales‚Ä¢
 Senos anales
-Zona de transiciÛn anal
-L\xe2\x84\xa2nea anocut‚nea
-L\xe2\x84\xa2nea pect\xe2\x84\xa2nea
+Zona de transici√≥n anal
+L√≠nea anocut√¢nea
+L√≠nea pect√≠nea
 Pecten anal
-M. esf\xe2\x84\xa2nter interno del ano
+M. esf√≠nter interno del ano
 Surco interesfinteriano
-M. esf\xe2\x84\xa2nter externo del ano
-PorciÛn profunda
-PorciÛn superficial
-PorciÛn subcut‚nea
+M. esf√≠nter externo del ano
+Porci√≥n profunda
+Porci√≥n superficial
+Porci√≥n subcut√¢nea
 Ano
-H\xe2\x84\xa2gado
-Cara diafragm‚tica
-PorciÛn superior
-ImpresiÛn card\xe2\x84\xa2aca
-PorciÛn anterior
-PorciÛn derecha
-PorciÛn posterior
+H√≠gado
+Cara diafragm√¢tica
+Porci√≥n superior
+Impresi√≥n card√≠aca
+Porci√≥n anterior
+Porci√≥n derecha
+Porci√≥n posterior
+√Årea desnuda‚Ä¢
 Surco de la vena cava
 Fisura del ligamento venoso
 Lig. venoso
 Cara visceral
-Fosa de la ves\xe2\x84\xa2cula biliarï
+Fosa de la ves√≠cula biliar‚Ä¢
 Fisura del ligamento redondofor round ligament
-Lig. redondo del h\xe2\x84\xa2gado
-Porta hep‚ticaï
-TubÈrculo omentalï
-ImpresiÛn esof‚gica
-ImpresiÛn g‚strica54
-ImpresiÛn duodenal
-ImpresiÛn cÛlica
-ImpresiÛn renal
-ImpresiÛn suprarrenal
+Lig. redondo del h√≠gado
+Porta hep√¢tica‚Ä¢
+Tub√©rculo omental‚Ä¢
+Impresi√≥n esof√¢gica
+Impresi√≥n g√¢strica54
+Impresi√≥n duodenal
+Impresi√≥n c√≥lica
+Impresi√≥n renal
+Impresi√≥n suprarrenal
 Borde inferior
 Incisura del ligamento redondo
-LÛbulo derecho del h\xe2\x84\xa2gado
-LÛbulo izquierdo del h\xe2\x84\xa2gado
-ApÈndice fibroso del h\xe2\x84\xa2gado
-LÛbulo cuadrado
-LÛbulo caudado
+L√≥bulo derecho del h√≠gado
+L√≥bulo izquierdo del h√≠gado
+Ap√©ndice fibroso del h√≠gado
+L√≥bulo cuadrado
+L√≥bulo caudado
 Proceso papilar
 Proceso caudado
 Hepatic portal segmentation: parts
 Fisura umbilical
 Fisura portal principal
 Fisura portal derecha
-PorciÛn hep‚tica izquierda
-DivisiÛn lateral izquierda
+Porci√≥n hep√¢tica izquierda
+Divisi√≥n lateral izquierda
 Segmento lateral izquie;Segmento 
 Segmento anterior lateral izquie;
-DivisiÛn medial izquierda
+Divisi√≥n medial izquierda
 IV
-PorciÛn posterior del h\xe2\x84\xa2g;LÛbulo 
-Segmento poster;LÛbulo caud;
-PorciÛn hep‚tica derecha
-DivisiÛn medial derecha
+Porci√≥n posterior del h√≠g;L√≥bulo 
+Segmento poster;L√≥bulo caud;
+Porci√≥n hep√¢tica derecha
+Divisi√≥n medial derecha
 VSegmento anterior medial dere;
 Segmento posterior medial dere;
-DivisiÛn lateral derecha
+Divisi√≥n lateral derecha
 Segmentum 
 Segmentum 
 Ser;Capa serosa
 Subser;Capa subserosa
 Capa fibrosa
-C‚psula fibrosa perivascular
-Lobulillos del h\xe2\x84\xa2gado
+C√¢psula fibrosa perivascular
+Lobulillos del h√≠gado
 Aa. interlobulillares
 Vv. interlobulillares
 Vv. centrales
  izquierdo y cuadrado
 J.-
- divisiones et segmenta\xe2\x80\xa6stas son las unidades del h\xe2\x84\xa2gado diferenciables en el desarrollo
+ divisiones et segmenta\xe2\x80\xa6stas son las unidades del h√≠gado diferenciables en el desarrollo
 Conductos biliares interlobulillares
-Conducto hep‚tico com\xc5\x93n
-Conducto hep‚tico derecho
+Conducto hep√¢tico com√∫n
+Conducto hep√¢tico derecho
 R. anterior
 R. posterior
-Conducto hep‚tico izquierdo
+Conducto hep√¢tico izquierdo
 R. lateral
 R. medial
-Conducto derecho del lÛbulo caudado
-Conducto izquierdo del lÛbulo caudado
-Ves\xe2\x84\xa2cula biliar
+Conducto derecho del l√≥bulo caudado
+Conducto izquierdo del l√≥bulo caudado
+Ves√≠cula biliar
 Fondofelleae
-Infund\xe2\x84\xa2bulovesicae felleae
+Infund√≠bulovesicae felleae
 Cuerpo
 Cuello
 Ser;Capa serosa
@@ -2762,19 +2789,19 @@ Subser;Capa subserosa
 Capa muscular
 Muc;Capa mucosa
 Pliegues de la muc;Rugosidades
-Conducto c\xe2\x84\xa2stico
+Conducto c√≠stico
 Pliegue espiral
-Conducto colÈd;Conducto biliar
+Conducto col√©d;Conducto biliar
 M. sphincter ductus biliaris
-M. esf\xe2\x84\xa2nter superior
-M. esf\xe2\x84\xa2nter inferior
-Ampolla hepatopancre‚t;Ampollabiliaropancreatica 
-M. esf\xe2\x84\xa2nter de la ampolla
-Gl‚ndulas del conducto colÈd;ductus biliaris
-P‚ncreas
+M. esf√≠nter superior
+M. esf√≠nter inferior
+Ampolla hepatopancre√¢t;Ampollabiliaropancreatica 
+M. esf√≠nter de la ampolla
+Gl√¢ndulas del conducto col√©d;ductus biliaris
+P√¢ncreas
 Cabeza
 Proceso unciforme
-Incisura pancre‚tica
+Incisura pancre√¢tica
 Cuello
 Cuerpo
 Cara anterosuperior
@@ -2783,38 +2810,38 @@ Cara antero-inferior
 Borde superior
 Borde anterior
 Borde inferior
-TubÈrculo omentalï
+Tub√©rculo omental‚Ä¢
 Cola
-Conducto pancre‚tico
-M. esf\xe2\x84\xa2nter del conducto pancre‚tico
-Conducto pancre‚tico accesorio
-(P‚ncreas accesorio)
-Islotes pancre‚ticos56
+Conducto pancre√¢tico
+M. esf√≠nter del conducto pancre√¢tico
+Conducto pancre√¢tico accesorio
+(P√¢ncreas accesorio)
+Islotes pancre√¢ticos56
 Sistema respiratorio
 SN
-Ra\xe2\x84\xa2z
+Ra√≠z
 Dorso
-VÈrtice
+V√©rtice
 Ala
-Cart\xe2\x84\xa2lagos nasales
-Cart\xe2\x84\xa2lago alar mayor
+Cart√≠lagos nasales
+Cart√≠lago alar mayor
 Pilar medial
-PorciÛn mÛvil del tabique nasal
+Porci√≥n m√≥vil del tabique nasal
 Pilar lateral
-Cart\xe2\x84\xa2lagos alares menores
-Cart\xe2\x84\xa2lagos nasales accesorios
-Cart\xe2\x84\xa2lago del tabique nasal
-ApÛfisis lateral
-ApÛfisis poster;ApÛfisis esfenoidal
-Cart\xe2\x84\xa2lago vomeronasal
+Cart√≠lagos alares menores
+Cart√≠lagos nasales accesorios
+Cart√≠lago del tabique nasal
+Ap√≥fisis lateral
+Ap√≥fisis poster;Ap√≥fisis esfenoidal
+Cart√≠lago vomeronasal
 Cavidad na;Fosa nasal
 Nari;Orificios nasales
 Coanas
 Tabique nasal
-PorciÛn membranosa
-PorciÛn cartilaginosa
-PorciÛn Ûsea
-Vest\xe2\x84\xa2bulo nasal
+Porci√≥n membranosa
+Porci√≥n cartilaginosa
+Porci√≥n √≥sea
+Vest√≠bulo nasal
 Limen nasal
 Surco olfatorio
 Cornete supremo
@@ -2823,21 +2850,21 @@ Cornete nasal medio
 Cornete nasal infer;Concha
 Plexos cavernosos de los cornetes
 Membrana mucosa
-PorciÛn respiratoria
-PorciÛn olfatoria
-Gl‚ndulas nasales
+Porci√≥n respiratoria
+Porci√≥n olfatoria
+Gl√¢ndulas nasales
 Agger n;Eminencia nasal
 Receso esfeno-etmoidal
 Meato nasal superior
 Meato nasal medio
 Atrio del meato medio
 Bulla etmoidal
-Infund\xe2\x84\xa2bulo etmoidal
+Infund√≠bulo etmoidal
 Hiato semilunar
 Meato nasal inferior
 Orificio del conducto nasolagrimal
-Meato nasal com\xc5\x93n
-Meato nasofar\xe2\x84\xa2ngeo
+Meato nasal com√∫n
+Meato nasofar√≠ngeo
 (Conducto incisivo)
 Senos paranasales
 Seno maxilar
@@ -2848,15 +2875,15 @@ Celdillas etmoidales anteriores
 Celdillas etmoidales medias
 Celdillas etmoidales posteriores
 NX
-Cart\xe2\x84\xa2lagos y articulaciones lar\xe2\x84\xa2ngeas
-Cart\xe2\x84\xa2lago tiroides
-Prominencia lar\xe2\x84\xa2ngea
-L‚mina derecha/izquierda
+Cart√≠lagos y articulaciones lar√≠ngeas
+Cart√≠lago tiroides
+Prominencia lar√≠ngea
+L√¢mina derecha/izquierda
 Incisura tiroidea superior
 Incisura tiroidea inferior
-TubÈrculo tiroideo superior
-TubÈrculo tiroideo inferior
-L\xe2\x84\xa2nea oblicua
+Tub√©rculo tiroideo superior
+Tub√©rculo tiroideo inferior
+L√≠nea oblicua
 Asta superior
 Asta inferior
 (Foramen tiroideo)
@@ -2865,176 +2892,177 @@ Lig. tirohioideo medio
 Bolsa retrohioidea
 Bolsa infrahioidea
 Lig. tirohioideo lateral
-Cart\xe2\x84\xa2lago triticio
-Cart\xe2\x84\xa2lago cricoides
-Arco del cart\xe2\x84\xa2lago cricoides
-L‚mina del cart\xe2\x84\xa2lago cricoidesï
+Cart√≠lago triticio
+Cart√≠lago cricoides
+Arco del cart√≠lago cricoides
+L√¢mina del cart√≠lago cricoides‚Ä¢
 Superficie articular aritenoidea
 Superficie articular tiroidea
-ArticulaciÛn cricotiroidea
-C‚psula de la articulaciÛn cricotiroidea
+Articulaci√≥n cricotiroidea
+C√¢psula de la articulaci√≥n cricotiroidea
 Lig. ceratocricoideo
 Lig. cricotiroideo medio
 Lig. cricotraqueal
-Cart\xe2\x84\xa2lago aritenoides
+Cart√≠lago aritenoides
 Cara articular
 Base
 Cara anterolateral
-ApÛfisis vocal
+Ap√≥fisis vocal
 Cresta arcuata
-Col\xe2\x84\xa2culo
+Col√≠culo
 Fosa oblonga
 Fosa triangular
 Cara medial
 Cara posterior
-VÈrtice
-ApÛfisis muscular
-ArticulaciÛn crico-aritenoidea
-C‚psula de la articulaciÛn crico-aritenoidea
-Lig. crico-aritenoideoï
-Lig. cricofar\xe2\x84\xa2ngeo
-(Cart\xe2\x84\xa2lago sesamoideo)
-Cart\xe2\x84\xa2lago corniculado
-TubÈrculo corniculado
-Cart\xe2\x84\xa2lago cuneiforme
-TubÈrculo cuneiforme
+V√©rtice
+Ap√≥fisis muscular
+Articulaci√≥n crico-aritenoidea
+C√¢psula de la articulaci√≥n crico-aritenoidea
+Lig. crico-aritenoideo‚Ä¢
+Lig. cricofar√≠ngeo
+(Cart√≠lago sesamoideo)
+Cart√≠lago corniculado
+Tub√©rculo corniculado
+Cart√≠lago cuneiforme
+Tub√©rculo cuneiforme
 Epiglotis
-Cart\xe2\x84\xa2lago epiglÛtico
-Tallo epiglÛtico
-TubÈrculo epiglÛtico58
-Lig. tiro-epliglÛtico
-Lig. hio-epiglÛtico
-Cuerpo adiposo preepiglÛtico
-M\xc5\x93sculos lar\xe2\x84\xa2ngeos
+Cart√≠lago epigl√≥tico
+Tallo epigl√≥tico
+Tub√©rculo epigl√≥tico58
+Lig. tiro-epligl√≥tico
+Lig. hio-epigl√≥tico
+Cuerpo adiposo preepigl√≥tico
+M√∫sculos lar√≠ngeos
 M. cricotiroideo
-PorciÛn recta
-PorciÛn oblicua
-M. crico-aritenoideo posteriorï
+Porci√≥n recta
+Porci√≥n oblicua
+M. crico-aritenoideo posterior‚Ä¢
 (M. ceratocricoideo)
 M. crico-aritenoideo lateral
 M. vocal
 M. tiro-aritenoideo
-PorciÛn tiroepiglÛticaï
+Porci√≥n tiroepigl√≥tica‚Ä¢
 M. aritenoideo oblicuo
-PorciÛn ari-epiglÛtica
+Porci√≥n ari-epigl√≥tica
 M. aritenoideo transverso
-Cavidad lar\xe2\x84\xa2ngea
-Aditus lar\xe2\x84\xa2n;Entrada a la laringe
-Pliegue ari-epiglÛtico
-TubÈrculo corniculado
-TubÈrculo cuneiforme
-Incisura interaritenoideaï
-Vest\xe2\x84\xa2bulo lar\xe2\x84\xa2ngeoï
-Pliegue vestibularï
-Rima vestibularï
-Ventr\xe2\x84\xa2culo lar\xe2\x84\xa2ngeo
-S‚culo lar\xe2\x84\xa2ngeoï
+Cavidad lar√≠ngea
+Aditus lar√≠n;Entrada a la laringe
+Pliegue ari-epigl√≥tico
+Tub√©rculo corniculado
+Tub√©rculo cuneiforme
+Incisura interaritenoidea‚Ä¢
+Vest√≠bulo lar√≠ngeo‚Ä¢
+Pliegue vestibular‚Ä¢
+Rima vestibular‚Ä¢
+Ventr√≠culo lar√≠ngeo
+S√¢culo lar√≠ngeo‚Ä¢
 Glotis
-Pliegue vocalï
-Rima glÛtica
-PorciÛn intermembranosa
-PorciÛn intercartilaginosa
+Pliegue vocal‚Ä¢
+Rima gl√≥tica
+Porci√≥n intermembranosa
+Porci√≥n intercartilaginosa
 Pliegue interaritenoideo
-Cavidad infraglÛtica
+Cavidad infragl√≥tica
 Muc;Capa mucosa
-Gl‚ndulas lar\xe2\x84\xa2ngeas
-Membrana fibroel‚stica lar\xe2\x84\xa2ngea
+Gl√¢ndulas lar√≠ngeas
+Membrana fibroel√¢stica lar√≠ngea
 Membrana cuadrangular
 Lig. vestibular
-Cono el‚st;Membrana cricovocal
+Cono el√¢st;Membrana cricovocal
 Lig. vocal
-HE
-PorciÛn cervical
-PorciÛn tor‚cica
-Cart\xe2\x84\xa2lagos traqueales
+Tr√°chea
+Porci√≥n cervical
+Porci√≥n tor√¢cica
+Cart√≠lagos traqueales
 M. traqueal
 Ligs. anula;Ligs. traqueales
 Pared membranosa
-BifurcaciÛn traqueal
+Bifurcaci√≥n traqueal
 Carina traqueal
 Muc;Capa mucosa
-Gl‚ndulas traqueales
+Gl√¢ndulas traqueales
 CH
+√Årbol bronquial
 Bronquio principal derecho
 Bronquio principal izquierdo'b'
 Bronquios lobares y segmentarios
 Bronquio lobar superior derecho
+Apical segmental bronchus [B 
+Posterior segmental bronchus [B 
 I]
-II]
-II
 Bronquio lobar medio
-IV]
-V]
+Lateral segmental bronchus [B 
+Medial segmental bronchus [B 
 Bronquio lobar inferior derecho
-VI]
+Superior segmental bronchus [B 
 Bronquio segmentario basal med;
-Bronquio segmentario basal anterioranterior [
-IX]
-X]
+Bronquio segmentario basal anterioranterior [B 
+Lateral basal segmental bronchus [B 
+Posterior basal segmental bronchus [B 
 Bronquio lobar superior izquierdo
-Bronquio segmentario apicoposterior[
-II
-IV]
-V]
+Bronquio segmentario apicoposterior[B 
+I]
+Superior lingular bronchus [B 
+Inferior lingular bronchus [B 
 Bronquio lobar inferior izquierdo
-VI]
+Superior segmental bronchus [B 
 Bronquio segmentario basal med;
-Bronquio segmentario basal anterior[
-IX]
-X]
+Bronquio segmentario basal anterior[B 
+Lateral basal segmental bronchus [B 
+Posterior basal segmental bronchus [B 
 Bronquios intrasegmentarios
 Capa fibromusculocartilaginosa
 Submucosa
 Muc;Capa mucosa
-Gl‚ndulas bronquiales
+Gl√¢ndulas bronquiales
 ON
-PulmÛn izquierdo
-PulmÛn derecho
+Pulm√≥n izquierdo
+Pulm√≥n derecho
 Base
-VÈrtice
+V√©rtice
 Cara costal
-PorciÛn vertebral
-Cara mediast\xe2\x84\xa2nica
-ImpresiÛn card\xe2\x84\xa2aca
-Cara diafragm‚tica
+Porci√≥n vertebral
+Cara mediast√≠nica
+Impresi√≥n card√≠aca
+Cara diafragm√¢tica
 Cara interlobar
 Borde anterior
-Incisura card\xe2\x84\xa2aca del pulmÛn izquierdo
+Incisura card√≠aca del pulm√≥n izquierdo
 Borde inferior
 Hilio pulmonar
-Ra\xe2\x84\xa2z pulmonar
-LÛbulo superior
-L\xe2\x84\xa2ngula del pulmÛn izquierdo
-LÛbulo medio del pulmÛn derecho
-LÛbulo inferior
+Ra√≠z pulmonar
+L√≥bulo superior
+L√≠ngula del pulm√≥n izquierdo
+L√≥bulo medio del pulm√≥n derecho
+L√≥bulo inferior
 Fisura oblicua
-Fisura horizontal del pulmÛn derecho
-Vasos sangu\xe2\x84\xa2neos intrapulmonares
+Fisura horizontal del pulm√≥n derecho
+Vasos sangu√≠neos intrapulmonares
 Segmentos broncopulmonares
 Right lung
+Apical segment [S 
+Posterior segment [S 
 I]
+Right lung
+Lateral segment [S 
+Medial segment [S 
+Right lung
+Superior segment [S 
+VI
 II]
-II
-Right lung
-IV]
-V]
-Right lung
-VI]
-S 
-VI
-IX]
-X]
+Lateral basal segment [S 
+Posterior basal segment [S 
 Left lung
-I + 
-II
-IV]
-V]
+II]
+I]
+Superior lingular segment [S 
+Inferior lingular segment [S 
 Left lung
-VI]
-S 
+Superior segment [S 
 VI
-IX]
-X]
+II]
+Lateral basal segment [S 
+Posterior basal segment [S 
 Bronquiolos
 Lobulillo'b'
 Cavitas thoracica
@@ -3044,19 +3072,19 @@ Pleura visce;Pleura pulmonar
 Ser;Capa serosa
 Subser;Capa subserosa
 Pleura parietal
-C\xc5\x93pula pleural
-PorciÛn costal
-PorciÛn diafragm‚tica
-PorciÛn mediast\xe2\x84\xa2nica
+C√∫pula pleural
+Porci√≥n costal
+Porci√≥n diafragm√¢tica
+Porci√≥n mediast√≠nica
 Ser;Capa serosa
 Subser;Capa subserosa
 Recesos pleurales
-Receso costodiafragm‚tico
-Receso costomediast\xe2\x84\xa2nico
-Receso frenicomediast\xe2\x84\xa2nico
-Receso vertebromediast\xe2\x84\xa2nico
-Lig. pulmonarï
-Fascia endotor‚c;Fascia parietal del tÛraxthoracisof thorax
+Receso costodiafragm√¢tico
+Receso costomediast√≠nico
+Receso frenicomediast√≠nico
+Receso vertebromediast√≠nico
+Lig. pulmonar‚Ä¢
+Fascia endotor√¢c;Fascia parietal del t√≥raxthoracisof thorax
 Membrana suprapleural
 Fascia frenicopleural
 Mediastino
@@ -3065,12 +3093,12 @@ Mediastino inferior
 Mediastino anterior
 Mediastino medio
 Mediastino posterior
-Cavidad peric‚rdica {ver p‚gina 77}62
+Cavidad peric√¢rdica {ver p√¢gina 77}62
 Sistema urinario
 RO
 Borde lateral
 Borde medial
-Hilio del ri\xc5\x92Ûn
+Hilio del ri\xc5\x92√≥n
 Seno renal
 Cara anterior
 Cara posterior
@@ -3078,24 +3106,25 @@ Extremidad super;Polo superior
 Extremidad infer;Polo inferior
 Fascia renal
 Cuerpo adiposo pararrenal
-C‚psula adiposa
-C‚psula fibrosa
-LÛbulos del ri\xc5\x92Ûn
+C√¢psula adiposa
+C√¢psula fibrosa
+L√≥bulos del ri\xc5\x92√≥n
 Corteza renal
 Laberinto cortical
 Corteza cortical
 Radios medulares
 Columnas renales
-MÈdula renal
+M√©dula renal
 Zona externa
-Estr\xe2\x84\xa2a externa
-Estr\xe2\x84\xa2a interna
-Fasc\xe2\x84\xa2culos vasculares
-RegiÛn interfascicular
+Estr√≠a externa
+Estr√≠a interna
+Fasc√≠culos vasculares
+Regi√≥n interfascicular
 Zona interna
 Papilas renales
 Cresta renal
-Pir‚mides renales
+Pir√¢mides renales
+√Årea cribosa
 Orificios papilares
 Segmentos renales
 Segmento superior
@@ -3107,8 +3136,8 @@ Arterias intrarrenales
 Aa. interlobulares
 Aa. arcuatas
 Aa. corticales radia;Aa. interlobulillaresarteries
-Arteriola aferente del glomÈrulo
-Arteriola eferente del glomÈrulo
+Arteriola aferente del glom√©rulo
+Arteriola eferente del glom√©rulo
 Aa. perforantes radiadas
 Arteriolas rec;Vasos rectos
 Ramas capsulares
@@ -3116,58 +3145,58 @@ Venas intrarrenales
 Vv. interlobulares
 Vv. arcuatas
 Vv. corticales radia;Vv.interlobulillaresveins
-VÈnulas rectas
+V√©nulas rectas
 Vv. estrelladas
-ComisiÛn 
+Comisi√≥n 
  ver las publicaciones mencionadas en 
 Pelvis renal
-Tipos de ramificaciÛn
-C‚lices renales mayores
+Tipos de ramificaci√≥n
+C√¢lices renales mayores
 Superior calyx
-C‚liz medio
-C‚liz inferior
-C‚lices renales menores
+C√¢liz medio
+C√¢liz inferior
+C√¢lices renales menores
 (Tipo ampular)
 Adventi;Capa adventicia
 Capa muscular
 Muc;Capa mucosa
 ER
-PorciÛn abdominal
-PorciÛn pÈlvica
-PorciÛn intramural
+Porci√≥n abdominal
+Porci√≥n p√©lvica
+Porci√≥n intramural
 Adventi;Capa adventicia
 Capa muscular
 Muc;Capa mucosa
 CA 
-VÈrtice
+V√©rtice
 Cuerpo
-Fondoï
+Fondo‚Ä¢
 Cuello
-Lig. umbilical medioï
+Lig. umbilical medio‚Ä¢
 Ser;Capa serosa
 Subser;Capa subserosa
 Capa muscular
-Mm. del tr\xe2\x84\xa2gono vesical
-M. superficial del tr\xe2\x84\xa2gono
-M. profundo del tr\xe2\x84\xa2gono
+Mm. del tr√≠gono vesical
+M. superficial del tr√≠gono
+M. profundo del tr√≠gono
 M. detrusor de la vejiga
-PorciÛn no estratificada
-PorciÛn del cuello de la vejiga
+Porci√≥n no estratificada
+Porci√≥n del cuello de la vejiga
 Capa longitudinal externa
 Capa circular
 Capa longitudinal interna
 M. pubovesical
 M. rectovesical
-M. vesicoprost‚tico
+M. vesicoprost√¢tico
 M. vesicovaginal
 Submuc;Capa submucosa
 Muc;Capa mucosa
-Tr\xe2\x84\xa2gono vesical
-Pliegue interuretÈrico
+Tr√≠gono vesical
+Pliegue interuret√©rico
 Orificio ureteral*
 Orificio interno de la uretra
-Uretra femenina {ver p‚gina 67}
-Uretra masculina {ver p‚gina 70}64
+Uretra femenina {ver p√¢gina 67}
+Uretra masculina {ver p√¢gina 70}64
 Sin embargo
 Sistemas genitales
 Sistema genital femenino
@@ -3177,27 +3206,27 @@ Hilio
 Cara medial
 Cara lateral
 Borde libre
-Borde mesov‚rico
-Extremidad tub‚rica
+Borde mesov√¢rico
+Extremidad tub√¢rica
 Extremidad uterina
-T\xc5\x93nica albug\xe2\x84\xa2nea
+T√∫nica albug√≠nea
 Estroma
 Corteza
-MÈdula
-Fol\xe2\x84\xa2culos ov‚ricos vesiculares
-Cuerpo rubroï
-Cuerpo l\xc5\x93teoï
-Cuerpo albicansï
-Lig. propio del ova;Lig. \xc5\x93tero-ov‚rico
-Lig. suspensorio del ovarioï
+M√©dula
+Fol√≠culos ov√¢ricos vesiculares
+Cuerpo rubro‚Ä¢
+Cuerpo l√∫teo‚Ä¢
+Cuerpo albicans‚Ä¢
+Lig. propio del ova;Lig. √∫tero-ov√¢rico
+Lig. suspensorio del ovario‚Ä¢
 UT
 Orificio abdominal
-Infund\xe2\x84\xa2bulo
+Infund√≠bulo
 Franjas
-Franja ov‚rica
+Franja ov√¢rica
 Ampolla
 Istmo
-PorciÛn uter;PorciÛn intramural
+Porci√≥n uter;Porci√≥n intramural
 Orificio uterino
 Ser;Capa serosa
 Subser;Capa subserosa
@@ -3212,95 +3241,95 @@ Bordes laterales
 Cara intesti;Cara posterior
 Cavidad uterina
 Cara vesi;Cara anterior
-Orificio anatÛmico interno
-Cuelloï
-PorciÛn supravaginal
-Istmo del \xc5\x93tero
-Orificio histolÛgico interno del \xc5\x93tero
+Orificio anat√≥mico interno
+Cuello‚Ä¢
+Porci√≥n supravaginal
+Istmo del √∫tero
+Orificio histol√≥gico interno del √∫tero
 Frankl 
-PorciÛn vaginal
+Porci√≥n vaginal
 Orificio externo
 Labio anterior
 Labio posterior
-Conducto del cuello del \xc5\x93tero
+Conducto del cuello del √∫tero
 Pliegues palmeados
-Gl‚ndulas cervicales
+Gl√¢ndulas cervicales
 Parametrio
-ParacÈrvix
+Parac√©rvix
 Ser;Capa ser;Perimetrio
 Subser;Capa subserosa
 Capa muscu;Miometrio
 M. recto-uterino
 Muc;Capa muc;Endometrio
-Gl‚ndulas uterinas
-Lig. redondo del \xc5\x93tero
+Gl√¢ndulas uterinas
+Lig. redondo del √∫tero
 Lig. pubocervical
 Lig. cardi;Lig cervical transversocervical lig.
-Lig. recto-uterinoïligament
+Lig. recto-uterino‚Ä¢ligament
 NA
-Fondo de saco vaginalï
-PorciÛn anterior
-PorciÛn posterior
-PorciÛn lateral
+Fondo de saco vaginal‚Ä¢
+Porci√≥n anterior
+Porci√≥n posterior
+Porci√≥n lateral
 Pared anterior
 Pared posterior
 Himen
-Car\xc5\x93nculas himenales
+Car√∫nculas himenales
 Capa muscular
 Muc;Capa mucosa
 Pliegues de la vagina
 Columnas rugosas
 Columna rugosa anterior
 Columna rugosa posterior
-Carina uretral de la vaginaï
+Carina uretral de la vagina‚Ä¢
 Capa esponjosa
-EpoÛforo
+Epo√≥foro
 Conducto longitudinal
 Conductillos transversos
-ApÈndices vesiculares
-ParaÛforo
+Ap√©ndices vesiculares
+Para√≥foro
 (Conducto deferente vestigial)
 ND
-Monte del pubisï
+Monte del pubis‚Ä¢
 Labio mayor
 Comisura anterior
 Comisura posterior
 Hendidura vulvar
 Labio menor
 Frenillo de los labios menores
-Prepucio del cl\xe2\x84\xa2toris
-Frenillo del cl\xe2\x84\xa2toris
-Vest\xe2\x84\xa2bulo de la vagina
-Fosa del vest\xe2\x84\xa2bulo de la vagina66
-Bulbo del vest\xe2\x84\xa2bulo
+Prepucio del cl√≠toris
+Frenillo del cl√≠toris
+Vest√≠bulo de la vagina
+Fosa del vest√≠bulo de la vagina66
+Bulbo del vest√≠bulo
 Comisura de los bulbos
 Orificio vaginal
-Gl‚ndula vestibular mayor
-Gl‚ndulas vestibulares menores
-Cl\xe2\x84\xa2toris
+Gl√¢ndula vestibular mayor
+Gl√¢ndulas vestibulares menores
+Cl√≠toris
 Pilar
 Cuerpo
-Glande del cl\xe2\x84\xa2toris
+Glande del cl√≠toris
 Cuerpo cavernoso
 Tabique de los cuerpos cavernosos
-Fascia del cl\xe2\x84\xa2toris
+Fascia del cl√≠toris
 Lig. suspensorio
 Lig. fundiforme
 Uretra femenina
 Orificio interno de la uretraurinary meatus
-Orificio uretral interno en replecciÛn
-Orificio uretral interno en deplecciÛn
-PorciÛn intramural
+Orificio uretral interno en replecci√≥n
+Orificio uretral interno en deplecci√≥n
+Porci√≥n intramural
 Cresta uretral
 Orificio externo de la uretra
-M. esf\xe2\x84\xa2nter externo de la uretra
+M. esf√≠nter externo de la uretra
 Capa muscular
 Capa circular
-Esf\xe2\x84\xa2nter interno de la uretra
+Esf√≠nter interno de la uretra
 Capa longitudinal
 Capa esponjosa
 Muc;Capa mucosa
-Gl‚ndulas uretrales
+Gl√¢ndulas uretrales
 Lagunas de la uretra
 (Conductos parauretrales)
 CH
@@ -3310,54 +3339,54 @@ Cara lateral
 Cara medial
 Borde anterior
 Borde posterior
-T\xc5\x93nica vaginal
+T√∫nica vaginal
 Capa parietal
 Capa visceral
-Lig. superior del epid\xe2\x84\xa2dimo
-Lig. inferior del epid\xe2\x84\xa2dimo
-Seno del epid\xe2\x84\xa2dimo
+Lig. superior del epid√≠dimo
+Lig. inferior del epid√≠dimo
+Seno del epid√≠dimo
 Ser;Capa serosa
 Subser;Capa subserosa
-T\xc5\x93nica albug\xe2\x84\xa2nea
+T√∫nica albug√≠nea
 Capa vascular
 Mediastino testicular
 Tabiques testiculares
 Lobulillos testiculares
 Sin embargo
-ParÈnquima testicular
-T\xc5\x93bulos semin\xe2\x84\xa2feros contorneadosseminiferous tubules
-T\xc5\x93bulos semin\xe2\x84\xa2feros rectos
+Par√©nquima testicular
+T√∫bulos semin√≠feros contorneadosseminiferous tubules
+T√∫bulos semin√≠feros rectos
 Red testicular
-Conductillos eferentes del test\xe2\x84\xa2culo
+Conductillos eferentes del test√≠culo
 ID
 Cabeza
-LÛbulillos del epid\xe2\x84\xa2d;Lobulillos cÛnicoslobules of epididymidisdel epid\xe2\x84\xa2dimo
+L√≥bulillos del epid√≠d;Lobulillos c√≥nicoslobules of epididymidisdel epid√≠dimo
 Cuerpo
 Cola
 Conducto
 Conductillos aberrantes
 (Conductillo aberrante superior)
 (Conductillo aberrante inferior)
-ApÈndice del test\xe2\x84\xa2culoï
-(ApÈndice del epid\xe2\x84\xa2dimo)ï
-DI
-CU
-Fascia esperm‚tica externa
-M. crem‚ster
-Fascia cremastÈrica
-Fascia esperm‚tica internaï
+Ap√©ndice del test√≠culo‚Ä¢
+(Ap√©ndice del epid√≠dimo)‚Ä¢
+(PARAD√çDIMO)
+CORD√ìN ESPERM√ÅTICO
+Fascia esperm√¢tica externa
+M. crem√¢ster
+Fascia cremast√©rica
+Fascia esperm√¢tica interna‚Ä¢
 (Vestigio del proceso vaginal)
 US 
-PorciÛn escrotal
-PorciÛn funicular
-PorciÛn inguinal
-PorciÛn pÈlvica
+Porci√≥n escrotal
+Porci√≥n funicular
+Porci√≥n inguinal
+Porci√≥n p√©lvica
 Ampolla
-Divert\xe2\x84\xa2culos
+Divert√≠culos
 Adventi;Capa adventicia
 Capa muscular
 Muc;Capa mucosa*
-DU
+ VES√çCULA SEMINAL; GL√ÅNDULA SEMINAL‚Ä¢
 Adventi;Capa adventicia
 Capa muscular
 Muc;Capa mucosa
@@ -3365,32 +3394,33 @@ Conducto excretor
 Conducto eyaculador*
 TA
 Base
-PorciÛn proximal
+Porci√≥n proximal
 Zona glandular periuretral
-PorciÛn distal68
-ya que este Ûrgano no es un reservorio de semen
- que \xc5\x93nicamente comprende alrededor de dos terceras partes del tejidocontenido dentro de la c‚psula prost‚tica.'b'
-VÈrtice
+Porci√≥n distal68
+ya que este √≥rgano no es un reservorio de semen
+ que √∫nicamente comprende alrededor de dos terceras partes del tejidocontenido dentro de la c√¢psula prost√¢tica.'b'
+V√©rtice
 Cara anterior
 Cara posterior
 Cara inferolateral
-LÛbulos prost‚ticos
+L√≥bulos prost√¢ticos
 Lobulillo inferoposterior
 Lobulillo inferolateral
 Lobulillo superomedial
 Lobulillo anteromedial
-(LÛbulo medio)
+(L√≥bulo medio)
 Is;Comisuraof prostate
-C‚psula prÛst‚tica
-ParÈnquima
-Conductillos prost‚ticos
+C√¢psula pr√≥st√¢tica
+Par√©nquima
+Conductillos prost√¢ticos
 Tejido muscular
-M. puboprost‚tico
-M. vesicoprost‚tico
-DU
-Conducto de la gl‚ndula bulbo-uretral
+M. puboprost√¢tico
+M. vesicoprost√¢tico
+√Årea trapezoidea
+GL√ÅNDULA BULBO-URETRAL
+Conducto de la gl√¢ndula bulbo-uretral
 SP
-Ra\xe2\x84\xa2z
+Ra√≠z
 Cuerpo
 Pilar
 Dorso
@@ -3405,11 +3435,11 @@ Rafe
 Cuerpo cavernoso
 Cuerpo esponjoso
 Bulbo del pene
-T\xc5\x93nica albug\xe2\x84\xa2nea de los cuerpos cavernosos
-T\xc5\x93nica albug\xe2\x84\xa2nea del cuerpo esponjoso
+T√∫nica albug√≠nea de los cuerpos cavernosos
+T√∫nica albug√≠nea del cuerpo esponjoso
 Tabique
-TrabÈculas de los cuerpos cavernosos
-TrabÈculas del cuerpo esponjoso
+Trab√©culas de los cuerpos cavernosos
+Trab√©culas del cuerpo esponjoso
 Cavidades de los cuerpos cavernosos
 Cavidades del cuerpo esponjoso
 Aa. helicinas
@@ -3417,37 +3447,37 @@ Vv. cavernosas
 Fascia
 Lig. suspensorio del pene
 Los lobulillos inferoposterior/inferolateral combinados
- limitada superiormente por el m. rectoperinealisaplicado a la prÛstata
-Tejido subcut‚neo
+ limitada superiormente por el m. rectoperinealisaplicado a la pr√≥stata
+Tejido subcut√¢neo
 Lig. fundiforme del pene
-Gl‚ndulas prepuciales
+Gl√¢ndulas prepuciales
 HR
 Orificio interno de la uretraurinary meatus
-Orificio uretral interno en replecciÛn
-Orificio uretral interno en deplecciÛn
-PorciÛn intramu;PorciÛn preprost‚tica
-Uretra prost‚tica
-PorciÛn supracolicular
-PorciÛn infracolicular
+Orificio uretral interno en replecci√≥n
+Orificio uretral interno en deplecci√≥n
+Porci√≥n intramu;Porci√≥n preprost√¢tica
+Uretra prost√¢tica
+Porci√≥n supracolicular
+Porci√≥n infracolicular
 Cresta uretral
-Col\xe2\x84\xa2culo seminalï
-Utr\xe2\x84\xa2culo prost‚tico
-Seno prost‚tico
+Col√≠culo seminal‚Ä¢
+Utr√≠culo prost√¢tico
+Seno prost√¢tico
 Capa muscular
 Capa circular
 Supracollicular sphinc;Preprostatic supracolicularsphincter
 Capa longitudinal
 Muc;Capa mucosa
-M. esf\xe2\x84\xa2nter externo de la uretra*
-PorciÛn interme;Uretra membranosa
+M. esf√≠nter externo de la uretra*
+Porci√≥n interme;Uretra membranosa
 Capa muscular
 Capa longitudinal
 Muc;Capa mucosa
 Uretra esponjosa
 Fosa navicular de la uretra
-(V‚lvula de la fosa navicular)
+(V√¢lvula de la fosa navicular)
 Lagunas uretrales
-Gl‚ndulas uretrales
+Gl√¢ndulas uretrales
 Conductos parauretrales
 Capa muscular
 Capa longitudinal
@@ -3457,48 +3487,48 @@ TU
 Rafe escrotal
 Dartosof scrotum
 Tabique escrotal
-M\xc5\x93sculo dartos70
+M√∫sculo dartos70
 Sin embargo
- la pars membranaceaha pasado a ser tÈrmino equ\xe2\x84\xa2voco
-PerinÈ
+ la pars membranaceaha pasado a ser t√©rmino equ√≠voco
+Perin√©
 Rafe perineal
 Mm. perineales
-M. de la regiÛn anal
-M. esf\xe2\x84\xa2nter externo del ano
-Mm. de la regiÛn urogenital
-Cuerpo perin;Centro del perinÈ
-Cuerpo anocox\xe2\x84\xa2;Lig. anocox\xe2\x84\xa2geoligament
-Tejido subcut‚neo del perinÈ
+M. de la regi√≥n anal
+M. esf√≠nter externo del ano
+Mm. de la regi√≥n urogenital
+Cuerpo perin;Centro del perin√©
+Cuerpo anocox√≠;Lig. anocox√≠geoligament
+Tejido subcut√¢neo del perin√©
 Capa membranosa
-Bolsa subcut‚nea del perinÈ
+Bolsa subcut√¢nea del perin√©
 Compartimento superficial del per;
-Fascia del per;Fascia de recubrimientosuperficialisfascia of perin;Deep perineal fasciasuperficial del perinÈ
-M. transverso superficial del perinÈ
+Fascia del per;Fascia de recubrimientosuperficialisfascia of perin;Deep perineal fasciasuperficial del perin√©
+M. transverso superficial del perin√©
 M. isquiocavernoso
 M. bulboesponjoso
 Deep perineal po;Deep perineal
 Membrana perineal
-Lig. transverso del perinÈ
-M. transverso profundo del perinÈ
-M. esf\xe2\x84\xa2nter externo de la uretra
-M. esf\xe2\x84\xa2nter externo de la uretra
+Lig. transverso del perin√©
+M. transverso profundo del perin√©
+M. esf√≠nter externo de la uretra
+M. esf√≠nter externo de la uretra
 M. compresor de la uretra
-M. esf\xe2\x84\xa2nter uretrovaginal
+M. esf√≠nter uretrovaginal
 Fosa isqui-oanal
 Cuerpo adiposo de la fosa isquio-anal
 Conducto pudendo
  como el de fascia
-El cuerpo perineal es fibromuscular m‚s que tendinoso y muy diferente del centrum ten-dineumdel diafragma.
+El cuerpo perineal es fibromuscular m√¢s que tendinoso y muy diferente del centrum ten-dineumdel diafragma.
 mejor que ligamentum
-Las extravasaciones o colecciones en el saco subcut‚neo puedenextenderse
+Las extravasaciones o colecciones en el saco subcut√¢neo puedenextenderse
 Milley 
-Los m\xc5\x93sculos femeninos son una parte del esf\xe2\x84\xa2nter urogenital descrito por 
+Los m√∫sculos femeninos son una parte del esf√≠nter urogenital descrito por 
 Cavidades del abdomen y de la pelvis\n
 Cavidad del abdo;Cavidad abdominal
 Cavidad de la pel;Cavidad pelviana
 Espacio extraperitoneal
 Espacio retroperitoneal
-Espacio retrop\xc5\x93bico
+Espacio retrop√∫bico
 Espacio retroinguinal
 Cavidad peritoneal
 Peritoneo
@@ -3507,31 +3537,31 @@ Subser;Capa subserosa
 Peritoneo parietal
 Peritoneo visceral
 Mesenterio
-Ra\xe2\x84\xa2z del mesenterio
+Ra√≠z del mesenterio
 Mesocolon
 Mesocolon transverso
 (Mesocolon ascendente)
 (Mesocolon descendente)
 Mesocolon sigmoideo
-Meso-apÈndice
-Omento me;EpiplÛn menor
-Lig. hepatodiafragm‚tico
-Lig. hepato-esof‚gico
-Lig. hepatog‚strico
+Meso-ap√©ndice
+Omento me;Epipl√≥n menor
+Lig. hepatodiafragm√¢tico
+Lig. hepato-esof√¢gico
+Lig. hepatog√¢strico
 Lig. hepatoduodenal
-(Lig. hepatocÛlico)
-Omento ma;EpiplÛn mayor
-Lig. gastrofrÈnico
-Lig. gastro-esplÈnicoï
-Pliegue preesplÈnico
-(Lig. gastrocÛlico)
-Lig. freno-esplÈnico
-Lig. esplenorrenalïligament
-Lig. pancreato-esplÈnico
-Lig. pancreatococÛlico
-Lig. esplenocÛlico
-Lig. frenocÛlico
-Ligamentos hep‚ticos
+(Lig. hepatoc√≥lico)
+Omento ma;Epipl√≥n mayor
+Lig. gastrofr√©nico
+Lig. gastro-espl√©nico‚Ä¢
+Pliegue preespl√©nico
+(Lig. gastroc√≥lico)
+Lig. freno-espl√©nico
+Lig. esplenorrenal‚Ä¢ligament
+Lig. pancreato-espl√©nico
+Lig. pancreatococ√≥lico
+Lig. esplenoc√≥lico
+Lig. frenoc√≥lico
+Ligamentos hep√¢ticos
 Lig. coronario
 Lig. falciforme
 Lig. triangular derecho
@@ -3540,12 +3570,12 @@ Lig. hepatorrenal
 Recesses
 Transcavidad de los epiplo;Bolsa omental
 Foramen omen;Foramen epiploico
-Vest\xe2\x84\xa2bulo
+Vest√≠bulo
 Receso superior
 Receso inferior
-Receso esplÈn;Receso lienal
-Pliegue gastropancre‚tico
-Pliegue hepatopancre‚tico72
+Receso espl√©n;Receso lienal
+Pliegue gastropancre√¢tico
+Pliegue hepatopancre√¢tico72
 Pliegue duodenal super;Pliegueduodenojejunalis
 Receso duodenal superior
 Pliegue duodenal infer;Pliegueduodenomesocolica
@@ -3560,79 +3590,79 @@ Receso ileocecal inferior
 Pliegue ileocecal
 Receso retrocecal
 Pliegues cecales
-Surcos paracÛlicos
-Receso subfrÈnicoï
-Receso subhep‚tico
+Surcos parac√≥licos
+Receso subfr√©nico‚Ä¢
+Receso subhep√¢tico
 Receso hepatorrenal
-Tr\xe2\x84\xa2gono cistohep‚tico
+Tr√≠gono cistohep√¢tico
 Pliegue umbilical medio
 Fosa supravesical
 Pliegue umbilical medial
 Fosa inguinal medial
-Tr\xe2\x84\xa2gono inguinal
-Pliegue umbilical late;Pliegue epig‚strico
+Tr√≠gono inguinal
+Pliegue umbilical late;Pliegue epig√¢strico
 Fosa inguinal lateral
 Peritoneo urogenital
 Fosa paravesical
 Pliegue vesical transverso
-Fondo de saco vÈsico-uterino 
-Lig. ancho del \xc5\x93tero
+Fondo de saco v√©sico-uterino 
+Lig. ancho del √∫tero
 Mesometrio 
-Mesos‚lpinx 
+Mesos√¢lpinx 
 Mesovario 
-Tri‚ngulo parietal lateral de la pelvis 
-Fosa ov‚rica 
+Tri√¢ngulo parietal lateral de la pelvis 
+Fosa ov√¢rica 
 Lig. suspensorio del ovario 
 Pliegue recto-uterino 
 Fondo de saco recto-uterino 
 Fondo de saco rectovesical
 Fosa pararrectal
- que est‚ limitado anteriormente por el lig. te-res
-Gl‚ndulas endocrinas
-HipÛfi;Gl‚ndula pituitaria
+ que est√¢ limitado anteriormente por el lig. te-res
+Gl√¢ndulas endocrinas
+Hip√≥fi;Gl√¢ndula pituitaria
 Anterior lobe
-PorciÛn tuberal
-PorciÛn intermedia
-PorciÛn dis;PorciÛn anterior
-NeurohipÛfi;LÛbulo posterior
-Infund\xe2\x84\xa2bulo
-LÛbulo nervi;PorciÛn nerviosa*
-Gl‚ndula pin;Cuerpo pin;Ep\xe2\x84\xa2fisis
-Gl‚ndula tiroides
-LÛbulo
+Porci√≥n tuberal
+Porci√≥n intermedia
+Porci√≥n dis;Porci√≥n anterior
+Neurohip√≥fi;L√≥bulo posterior
+Infund√≠bulo
+L√≥bulo nervi;Porci√≥n nerviosa*
+Gl√¢ndula pin;Cuerpo pin;Ep√≠fisis
+Gl√¢ndula tiroides
+L√≥bulo
 Istmo
-(LÛbulo piramidal)
-Gl‚ndulas tiroideas accesorias
-C‚psula fibrosa
+(L√≥bulo piramidal)
+Gl√¢ndulas tiroideas accesorias
+C√¢psula fibrosa
 Estroma
-ParÈnquima
+Par√©nquima
 Lobulillos
-Gl‚ndula paratiroides
-Gl‚ndula paratiroides superior
-Gl‚ndula paratiroides inferior
-Gl‚ndulas paratiroides accesorias
-Gl‚ndula suprarre;Gl‚ndula adrenal
+Gl√¢ndula paratiroides
+Gl√¢ndula paratiroides superior
+Gl√¢ndula paratiroides inferior
+Gl√¢ndulas paratiroides accesorias
+Gl√¢ndula suprarre;Gl√¢ndula adrenal
 Cara anterior
 Cara posterior
 Cara renal
 Borde superior
 Borde medial
 Corteza
-MÈdula
+M√©dula
 Hilio
 V. central
-Gl‚ndulas suprarrenales accesorias
-Islotes pancre‚ticos74
+Gl√¢ndulas suprarrenales accesorias
+Islotes pancre√¢ticos74
  ej. epiphysis cerebri
- el tÈrmino ep\xe2\x84\xa2fisis es ampliamente utilizado.'b'
+ el t√©rmino ep√≠fisis es ampliamente utilizado.'b'
 Sistema cardiovascular
-Vaso sangu\xe2\x84\xa2neo
+Vaso sangu√≠neo
 Anastomosis arteriovenosa
 Arteria
 A. nutricia
 Arteriola
-C\xe2\x84\xa2rculo arterial
-C\xe2\x84\xa2rculo vascular
+C√≠rculo arterial
+C√≠rculo vascular
 Cisterna
 Sangre
 Plexo vascular
@@ -3642,70 +3672,70 @@ Rete mirabile
 Red vascular articular
 Red venosa
 Seno venoso
-T\xc5\x93nica externa
-T\xc5\x93nica \xe2\x84\xa2ntima
-T\xc5\x93nica media
-V‚lvula
+T√∫nica externa
+T√∫nica √≠ntima
+T√∫nica media
+V√¢lvula
 Valva
-C\xc5\x93sp;Valva
-V‚lvula venosa
-Vaso anastomÛtico
+C√∫sp;Valva
+V√¢lvula venosa
+Vaso anastom√≥tico
 Vaso capilar
 Vaso colateral
 Vaso sinusoide
 Vasa vasorum
 Vasa nervorum
 Vena
-V. satÈlite
-V. cut‚nea
+V. sat√©lite
+V. cut√¢nea
 V. emisaria
 V. nutricia
 V. profunda
 V. superficial
-VÈnula
-Vaso linf‚tico
-Vaso linf‚tico superficial
-Vaso linf‚tico profundo
-Plexo linf‚tico
-V‚lvula linf‚tica
+V√©nula
+Vaso linf√¢tico
+Vaso linf√¢tico superficial
+Vaso linf√¢tico profundo
+Plexo linf√¢tico
+V√¢lvula linf√¢tica
 Linfa
-Capilar linf‚tico
-Red linf‚tica
-CorazÛn
+Capilar linf√¢tico
+Red linf√¢tica
+Coraz√≥n
 Base
 Cara esternocos;Cara anterior
-Cara diafragm‚t;Cara inferior
+Cara diafragm√¢t;Cara inferior
 Left pulmonary surface
 Anastomosis arteriovenosaes ampliamente utilizado
 Borde derecho
-VÈrtice
-Cisura del vÈrtice del corazÛn
+V√©rtice
+Cisura del v√©rtice del coraz√≥n
 Surco interventricular anterior
 Surco interventricular posterior
 Surco coronario
 Left ventricle
 Septo interventricu;Tabiqueinterventricular
-PorciÛn muscular
-PorciÛn membranosa
-Septo atrioventricu;Tabique atrioventricularï
-Atrio derecho/izquierdoï
+Porci√≥n muscular
+Porci√≥n membranosa
+Septo atrioventricu;Tabique atrioventricular‚Ä¢
+Atrio derecho/izquierdo‚Ä¢
 Orejuela
 Septo interatr;Tabique interatrial
-TrabÈculas carnosas
-VÛrtice del corazÛn
+Trab√©culas carnosas
+V√≥rtice del coraz√≥n
 Mm. papilares
 Cuerdas tendinosas
 Cuerdas tendinosas falsasspuriae
-Tr\xe2\x84\xa2gono fibroso derecho
-Tr\xe2\x84\xa2gono fibroso izquierdo
+Tr√≠gono fibroso derecho
+Tr√≠gono fibroso izquierdo
 Left fibrous ring
-TendÛn del infund\xe2\x84\xa2bulo
-TendÛn de la v‚lvula de la vena cava inferior
-Tr\xe2\x84\xa2gono del nodo atrioventricularï
-Atrio dere;Aur\xe2\x84\xa2cula derecha
+Tend√≥n del infund√≠bulo
+Tend√≥n de la v√¢lvula de la vena cava inferior
+Tr√≠gono del nodo atrioventricular‚Ä¢
+Atrio dere;Aur√≠cula derecha
 Orejuela derecha
 Cresta terminal
-Orificio de las venas card\xe2\x84\xa2acas m\xe2\x84\xa2nimas
+Orificio de las venas card√≠acas m√≠nimas
 Fosa oval
 Limbo de la fosa ovalfossa
 (Foramen oval)
@@ -3715,71 +3745,71 @@ Orificio de la vena cava inferior
 Orificio de la vena cava superior
 Seno de la vena cava
 Surco terminal
-TubÈrculo intervenoso
-V‚lvula de la vena cava inferior
-V‚lvula del seno coronario
-Ventr\xe2\x84\xa2culo derecho
-Orificio atrioventricular derechoï
-V‚lvula atrioventricular dere;tricuspidalisvalve
-Valva anteriorï
-Valva posteriorï
-Valva septalï
+Tub√©rculo intervenoso
+V√¢lvula de la vena cava inferior
+V√¢lvula del seno coronario
+Ventr√≠culo derecho
+Orificio atrioventricular derecho‚Ä¢
+V√¢lvula atrioventricular dere;tricuspidalisvalve
+Valva anterior‚Ä¢
+Valva posterior‚Ä¢
+Valva septal‚Ä¢
 Cresta supraventricular
-Cono arteri;Infund\xe2\x84\xa2bulo
+Cono arteri;Infund√≠bulo
 Orificio del tronco pulmonar
-V‚lvula pulmonar76
+V√¢lvula pulmonar76
 Valva semilunar derecha
 Valva semilunar izquierda
 Valva semilunar anterior
-NÛdulos de las valvas semilunares
-L\xc5\x93nulas de las valvas semilunares
+N√≥dulos de las valvas semilunares
+L√∫nulas de las valvas semilunares
 Comisuras de las valvas semilunares
 M. papilar anterior
 M. papilar posterior
 M. papilar septal
-TrabÈcula septomarginalïband
-TrabÈcula carnosa
-Atrio izquie;Aur\xe2\x84\xa2cula izquierda
+Trab√©cula septomarginal‚Ä¢band
+Trab√©cula carnosa
+Atrio izquie;Aur√≠cula izquierda
 Orejuela izquierda
-Mm. pect\xe2\x84\xa2neos
+Mm. pect√≠neos
 Orificios de las venas pulmonares
-V‚lvula del foramen oval
-Ventr\xe2\x84\xa2culo izquierdo
-Orificio atrioventricular izquierdoï
-V‚lvula atrioventricular izquie;mitralisvalve
-Valva anteriorï
-Valva posteriorï
-Valvas comisuralesï
+V√¢lvula del foramen oval
+Ventr√≠culo izquierdo
+Orificio atrioventricular izquierdo‚Ä¢
+V√¢lvula atrioventricular izquie;mitralisvalve
+Valva anterior‚Ä¢
+Valva posterior‚Ä¢
+Valvas comisurales‚Ä¢
 M. papilar anterior
 M. papilar posterior
-Vest\xe2\x84\xa2bulo de la aortaï
+Vest√≠bulo de la aorta‚Ä¢
 Orificio de la aorta
-TrabÈculas carnosas
-V‚lvula aÛrtica
+Trab√©culas carnosas
+V√¢lvula a√≥rtica
 V\nalva semilunar dere;Valva coronariacoronaria dextracuspderecha
 V\nalva semilunar izquie;Valva coronariacoronaria sinistracusp izquierda
 Noncoronary cupsno coronaria
-NÛdulos de las valvas semilunares
-L\xc5\x93nulas de las valvas semilunares
+N√≥dulos de las valvas semilunares
+L√∫nulas de las valvas semilunares
 Comisuras de las valvas semilunares
 Endocardio
 Miocardio
-Sistema de conducciÛn del corazÛnconducente cordis
-Nodo sino-atrialï
-Nodo atrioventricularï
-Fasc\xe2\x84\xa2culo atrioventricularï
+Sistema de conducci√≥n del coraz√≥nconducente cordis
+Nodo sino-atrial‚Ä¢
+Nodo atrioventricular‚Ä¢
+Fasc√≠culo atrioventricular‚Ä¢
 Rama derecha
 Rama izquierda
-Rr. subendoc‚rdicos
-Cavidad peric‚rdica
+Rr. subendoc√¢rdicos
+Cavidad peric√¢rdica
 Seno transverso del pericardio
- las valvas de la v‚lvula pulmonar son denominadas de acuerdo con sus posiciones enanatom\xe2\x84\xa2a fetal. 
- las valvas de la v‚lvula aÛrtica son denominadas de acuerdo con sus posiciones en anatom\xe2\x84\xa2a fetal ycon los or\xe2\x84\xa2genes de las arterias coronarias. 
+ las valvas de la v√¢lvula pulmonar son denominadas de acuerdo con sus posiciones enanatom√≠a fetal. 
+ las valvas de la v√¢lvula a√≥rtica son denominadas de acuerdo con sus posiciones en anatom√≠a fetal ycon los or√≠genes de las arterias coronarias. 
 Seno oblicuo del pericardio
 Pericardio
 Pericardio fibroso
-Ligs. esternoperic‚rdicos*
-Membrana broncoperic‚rdica
+Ligs. esternoperic√¢rdicos*
+Membrana broncoperic√¢rdica
 Pericardio seroso
 Hoja parietal
 Hoja visce;Epicardio
@@ -3790,7 +3820,7 @@ Arterias
 US 
 Seno del tronco pulmonar
 Cresta supravalvular
-BifurcaciÛn del tronco pulmonar
+Bifurcaci√≥n del tronco pulmonar
 Arteria pulmonar derecha
 Aa. lobares superiores
 A. segmentaria apical
@@ -3805,7 +3835,7 @@ A. segmentaria medial
 A. segmentaria lateral
 Aa. lobares inferiores
 A. segmentaria superior
-PorciÛn basal
+Porci√≥n basal
 A. segmentaria basal anterior
 A. segmentaria basal lateral
 A. segmentaria basal medial
@@ -3821,31 +3851,31 @@ A. segmentaria posterior
 R. ascendente
 R. descendente
 A. lingular78
- a travÈs de la pared dorsal del pericardio
+ a trav√©s de la pared dorsal del pericardio
 A. lingular inferior
 A. lingular superior
 Aa. lobares inferiores
 A. segmentaria superior
-PorciÛn basal
+Porci√≥n basal
 A. segmentaria basal anterior
 A. segmentaria basal lateral
 A. segmentaria basal medial
 A. segmentaria basal posterior
 A\n
 Aorta ascendente
-Seno aÛrtico
+Seno a√≥rtico
 Cresta supravalvular
-Bulbo aÛrtico
+Bulbo a√≥rtico
 Arteria coronaria derecha
-Rr. atrioventricularesï
+Rr. atrioventriculares‚Ä¢
 R. del cono arterioso
-R. del nodo sino-atrialï
-Rr. atrialesï
+R. del nodo sino-atrial‚Ä¢
+Rr. atriales‚Ä¢
 R. marginal derecha
-R. atrial intermediaï
+R. atrial intermedia‚Ä¢
 R. interventricular posterior
 Rr. interventriculares septales
-R. del nodo atrioventricularï
+R. del nodo atrioventricular‚Ä¢
 (R. posterolateral derecha)
 Arteria coronaria izquierda
 R. interventricular anterior
@@ -3853,36 +3883,36 @@ R. del cono arterioso
 R. lateral
 Rr. interventriculares septales
 R. circunfleja
-R. atrial anastomÛticaï
-Rr. atrioventricularesï
+R. atrial anastom√≥tica‚Ä¢
+Rr. atrioventriculares‚Ä¢
 A. marginal izquierda
-R. atrial intermediaï
-R. posterior del ventr\xe2\x84\xa2culo izquierdo
-(R. del nodo sino-atrial)ï
-(R. del nodo atrioventricular)ï
-Rr. atrialesï
-Arco aÛrt;Cayado aÛrtico
-(Istmo aÛrtico)
-Cuerpos paraaÛrti;Cuerpos aÛrticos
-Tr\nonco braquiocef‚lico
+R. atrial intermedia‚Ä¢
+R. posterior del ventr√≠culo izquierdo
+(R. del nodo sino-atrial)‚Ä¢
+(R. del nodo atrioventricular)‚Ä¢
+Rr. atriales‚Ä¢
+Arco a√≥rt;Cayado a√≥rtico
+(Istmo a√≥rtico)
+Cuerpos paraa√≥rti;Cuerpos a√≥rticos
+Tr\nonco braquiocef√¢lico
 (A. tiroidea ima)
-Arteria carÛtida com\xc5\x93n
-Glomus carot\xe2\x84\xa2;Cuerpo carot\xe2\x84\xa2deo
-Seno carot\xe2\x84\xa2deo
-BifurcaciÛn carot\xe2\x84\xa2dea
-Arteria carÛtida externa
+Arteria car√≥tida com√∫n
+Glomus carot√≠;Cuerpo carot√≠deo
+Seno carot√≠deo
+Bifurcaci√≥n carot√≠dea
+Arteria car√≥tida externa
 A. tiroidea superior
 R. infrahioidea'b'
 R. esternocleidomastoidea
-A. lar\xe2\x84\xa2ngea superior
+A. lar√≠ngea superior
 R. cricotiroidea
 R. glandular anterior
 R. glandular posterior
 R. glandular lateral
-Arteria far\xe2\x84\xa2ngea ascendente
-A. men\xe2\x84\xa2ngea posterior
-Rr. far\xe2\x84\xa2ngeas
-A. timp‚nica inferior
+Arteria far√≠ngea ascendente
+A. men√≠ngea posterior
+Rr. far√≠ngeas
+A. timp√¢nica inferior
 (Tronco linguofacial)
 Arteria lingual
 R. suprahioidea
@@ -3891,7 +3921,7 @@ A. sublingual
 A. lingual profunda
 Arteria facial
 A. palatina ascendente
-R. tonsilarï
+R. tonsilar‚Ä¢
 A. submentoniana
 Rr. glandulares
 A. labial inferior
@@ -3904,41 +3934,41 @@ R. mastoidea
 R. auricular
 Rr. esternocleidomastoideas
 Rr. occipitales
-(R. men\xe2\x84\xa2ngea)
+(R. men√≠ngea)
 R. descendente
 Arteria auricular posterior
 A. estilomastoidea
-A. timp‚nica posterior
+A. timp√¢nica posterior
 Rr. mastoideas
-(R. estapedia)ï
+(R. estapedia)‚Ä¢
 R. auricular
 R. occipital
-R. parot\xe2\x84\xa2dea
+R. parot√≠dea
 Arteria temporal superficial
-R. parot\xe2\x84\xa2dea
-A. facial transversaï
+R. parot√≠dea
+A. facial transversa‚Ä¢
 Rr. auriculares anteriores
-A. cigom‚tico-orbitaria
+A. cigom√¢tico-orbitaria
 A. temporal media
 R. frontal
 R. parietal
 Arteria maxilar
 A. auricular profunda
-A. timp‚nica anterior
-A. alveolar inferiorï
+A. timp√¢nica anterior
+A. alveolar inferior‚Ä¢
 Rr. dentales
 Rr. peridentales
 R. mentoniana
 R. milohioidea
-A. men\xe2\x84\xa2ngea media
+A. men√≠ngea media
 R. accesoria80
 R. frontal
 R. orbitaria
 R. parietal
 R. petrosa
-A. timp‚nica superior
-Rama anastomÛtica con la a. lagrimalartery
-A. pterigomen\xe2\x84\xa2ngea
+A. timp√¢nica superior
+Rama anastom√≥tica con la a. lagrimalartery
+A. pterigomen√≠ngea
 A. maseterina
 A. temporal profunda anterior
 A. temporal profunda posterior
@@ -3951,56 +3981,56 @@ A. infraorbitaria
 Aa. alveolares superiores anteriores
 Rr. dentales
 Rr. peridentales
-A. del conducto pterigoideoï
-R. far\xe2\x84\xa2ngea
+A. del conducto pterigoideo‚Ä¢
+R. far√≠ngea
 A. palatina descendente
 A. palatina mayor
 Aa. palatinas menores
-R. far\xe2\x84\xa2ngea
+R. far√≠ngea
 A. esfenopalatina
 Aa. nasales posteriores laterales
 Rr. septales posteriores
-Arteria carÛtida interna
-PorciÛn cervical
-Seno carot\xe2\x84\xa2deo
-PorciÛn petrosa
-Aa. carotidotimp‚nicas
-A. del conducto pterigoideoï
-PorciÛn cavernosa
-R. basal del tentorioï
-R. marginal del tentorioï
-R. men\xe2\x84\xa2ngea
+Arteria car√≥tida interna
+Porci√≥n cervical
+Seno carot√≠deo
+Porci√≥n petrosa
+Aa. carotidotimp√¢nicas
+A. del conducto pterigoideo‚Ä¢
+Porci√≥n cavernosa
+R. basal del tentorio‚Ä¢
+R. marginal del tentorio‚Ä¢
+R. men√≠ngea
 R. del seno cavernoso
 A. hipofisaria inferior
-Rr. del ganglio del trigÈmino
+Rr. del ganglio del trig√©mino
 Rr. nervorum
-PorciÛn cerebral
-A. oft‚lmica
+Porci√≥n cerebral
+A. oft√¢lmica
 A. hipofisaria superior
 A. comunicante posterior
 A. coroidea anterior
 A. del uncus
 Rr. del clivus
-R. men\xe2\x84\xa2ngea
-SifÛn carot\xe2\x84\xa2deo
-Arteria oft‚lmica
+R. men√≠ngea
+Sif√≥n carot√≠deo
+Arteria oft√¢lmica
 A. central de la retina
-PorciÛn extraocular
-PorciÛn intraocular
+Porci√≥n extraocular
+Porci√≥n intraocular
 A. lagrimal'b'
-R. anastomÛtica con la a. men\xe2\x84\xa2ngea mediameningeal artery
+R. anastom√≥tica con la a. men√≠ngea mediameningeal artery
 Aa. palpebrales laterales
-R. men\xe2\x84\xa2ngea recurrente
+R. men√≠ngea recurrente
 Aa. ciliares posteriores cortas
 Aa. ciliares posteriores largas
 Aa. musculares
 Aa. ciliares anteriores
 Aa. conjuntivales anteriores
 Aa. epiesclerales
-A. supraorbitariaï
+A. supraorbitaria‚Ä¢
 R. diploica
 A. etmoidal anterior
-R. men\xe2\x84\xa2ngea anterior
+R. men√≠ngea anterior
 Rr. septales anteriores
 Rr. nasales anteriores laterales
 A. etmoidal posterior
@@ -4009,42 +4039,42 @@ Aa. conjuntivales posteriores
 Arco palpebral inferior
 Arco palpebral superior
 A. supratroclear
-A. nasal dorsalï
-Arterias del encÈfalo
+A. nasal dorsal‚Ä¢
+Arterias del enc√©falo
 A. coroidea anterior
-Rr. coroideas del ventr\xe2\x84\xa2culo lateral
-(Rr. coroideas del tercer ventr\xe2\x84\xa2culo)
+Rr. coroideas del ventr√≠culo lateral
+(Rr. coroideas del tercer ventr√≠culo)
 Rr. de la sustancia perforada anteriorsubstance
-Rr. quiasm‚ticasto optic chiasma
-Rr. del tracto Ûptico
+Rr. quiasm√¢ticasto optic chiasma
+Rr. del tracto √≥ptico
 Rr. del cuerpo geniculado lateral
  genu
 
 
-Rr. del globo p‚lido
-Rr. de la cola del n\xc5\x93cleo caudado
+Rr. del globo p√¢lido
+Rr. de la cola del n√∫cleo caudado
 Rr. del hipocampo
 (Rr. del uncus)
 Rr. del cuerpo amigdalino
-(Rr. del t\xc5\x93ber cinereum)
-(Rr. de los n\xc5\x93cleos del hipot‚lamo)
-Rr. de los n\xc5\x93cleos del t‚lamo
+(Rr. del t√∫ber cinereum)
+(Rr. de los n√∫cleos del hipot√¢lamo)
+Rr. de los n√∫cleos del t√¢lamo
 Rr. de la sustancia negra
-Rr. del n\xc5\x93cleo rojo
-Rr. de la base del ped\xc5\x93nculo
+Rr. del n√∫cleo rojo
+Rr. de la base del ped√∫nculo
 Arteria cerebral anterior
-PorciÛn precomunica;Segmento A1
+Porci√≥n precomunica;Segmento A1
 Aa. centrales anteromediales
 Aa. estriadas mediales proximales
-A. supraÛptica
+A. supra√≥ptica
 Aa. perforantes anteriores
-Aa. preÛpticas
+Aa. pre√≥pticas
 A. comunicante anterior
 Aa. centrales anteromediales
-A. supraquiasm‚tica
+A. supraquiasm√¢tica
 A. comisural media82
 A. callosa media
-PorciÛn potscomunica;Segmento A2
+Porci√≥n potscomunica;Segmento A2
 A. estriada medial distal
 A. frontobasal med;A. orbitofrontalmedialisorbitofrontalarterymedial
 A. del polo frontal
@@ -4058,21 +4088,21 @@ A. pericallosa
 (Rr. paracentrales)
 Rr. precuneales
 Rr. parieto-occipitales
-Arteria cerebral mediaï
-PorciÛn esfenoi;PorciÛn horizon;
+Arteria cerebral media‚Ä¢
+Porci√≥n esfenoi;Porci√≥n horizon;
 Aa. centrales anterolatera;
 Rr. estriadas proximales laterales
 Rr. estriadas distales laterales
 (A. del uncus)
 A. del polo temporal
 A. temporal anterior
-PorciÛn insu;Segmento M2
+Porci√≥n insu;Segmento M2
 Aa. insulares
 Rr. terminales inferio;Rr. corticalesinferio;Segmetum M2cortical branc; M2 segmentinferio;Segmento M2
 R. temporal anterior
 R. temporal media
 R. temporal posterior
-R. tÈmporo-occipital
+R. t√©mporo-occipital
 R. del giro angular
 Rr. terminales superio;Rr. corticalessuperio;Segmentum M2cortical branc; M2 segmentsuperio;Segmento M2
 A. frontobasal late;A. orbitofrontallateralisorbitofrontalarterylateral
@@ -4086,16 +4116,16 @@ Arteria comunicante posterior
 Aa. centrales posteromediales
 Rr. anteriores
 Rr. posteriores
-R. quiasm‚tica
-A. del t\xc5\x93ber cinereum
+R. quiasm√¢tica
+A. del t√∫ber cinereum
 Rr. mediales
 Rr. laterales
 A. talamotube;A. premamilarartery
-R. hipotal‚mica
+R. hipotal√¢mica
 Aa. mamilares
 R. del nervio oculomotor
-C\xe2\x84\xa2rculo arterial cerebral
-A. carÛtida interna
+C√≠rculo arterial cerebral
+A. car√≥tida interna
 A. cerebral anterior'b'
 A. comunicante anterior
 A. cerebral media
@@ -4103,12 +4133,12 @@ A. comunicante posterior
 A. basilar
 A. cerebral posterior
 Arteria cerebral posterior
-PorciÛn precomunica;Segmento P1
+Porci√≥n precomunica;Segmento P1
 Aa. centrales posteromedia;
 Aa. circunferenciales cortas
 A. talamoperforante
-A. colicu;A. cuadrigÈmina
-PorciÛn postcomunica;Segmento P2
+A. colicu;A. cuadrig√©mina
+Porci√≥n postcomunica;Segmento P2
 Aa. centrales posterolaterales
 A. talamogeniculada
 Rr. coroideas posteriores mediales
@@ -4126,53 +4156,53 @@ R. calcarina
 R. occipitotemporal
 Arteria subclavia
 Arteria vertebral
-PorciÛn prevertebral
-PorciÛn transve;PorciÛn cervical
+Porci√≥n prevertebral
+Porci√≥n transve;Porci√≥n cervical
 Rr. espinales
 Rr. radiculares
 A. medular segmentaria
 Rr. musculares
-PorciÛn atloidea
-PorciÛn intracraneal
-Rr. men\xe2\x84\xa2ngeas
+Porci√≥n atloidea
+Porci√≥n intracraneal
+Rr. men√≠ngeas
 A. cerebelosa posteroinferior
 A. espinal posterior
-R. de la am\xe2\x84\xa2gdala cerebelosa
-R. coroidea del cuarto ventr\xe2\x84\xa2culo
+R. de la am√≠gdala cerebelosa
+R. coroidea del cuarto ventr√≠culo
 A. espinal anterior
 Rr. bulbares mediales
 Rr. bulbares laterales
 Arteria basilar
 A. cerebelosa anteroinferior
-A. laber\xe2\x84\xa2ntica
+A. laber√≠ntica
 Aa. pontinas
 Rr. media;Rr. pontinas paramedianasbranches
 Rr. latera;Rr. pontinas circunferencialespontine branches
-Aa. mesencef‚licas
+Aa. mesencef√¢licas
 A. cerebelosa superior84
 R. medialcerebellar artery
 R. vermiana superior
 R. lateralcerebellar artery
 A. cerebral posterior
-Arteria tor‚cica internaï
-Rr. mediast\xe2\x84\xa2nicas
-Rr. t\xe2\x84\xa2micas
+Arteria tor√¢cica interna‚Ä¢
+Rr. mediast√≠nicas
+Rr. t√≠micas
 (Rr. bronquiales)
 (Rr. traqueales)
-A. pericardiofrÈnicaï
+A. pericardiofr√©nica‚Ä¢
 Rr. esternales
 Rr. perforantes
 Rr. mamarias mediales
 (R. costal lateral)
 Rr. intercostales anteriores
-A. musculofrÈnica
-A. epig‚strica superior
+A. musculofr√©nica
+A. epig√¢strica superior
 Tr\nonco tirocervical
 A. tiroidea inferior
-A. lar\xe2\x84\xa2ngea inferior
+A. lar√≠ngea inferior
 Rr. glandulares
-Rr. far\xe2\x84\xa2ngeas
-Rr. esof‚gicas
+Rr. far√≠ngeas
+Rr. esof√¢gicas
 Rr. traqueales
 A. cervical ascendente
 Rr. espinales
@@ -4182,8 +4212,8 @@ A. transversa del cue;A. cervicaltransversa
 R. superficial
 R. ascendente
 R. descendente
-R. profu;A. dorsal de la esc‚pulaï
-(A. dorsal de la esc‚pula)
+R. profu;A. dorsal de la esc√¢pula‚Ä¢
+(A. dorsal de la esc√¢pula)
 Tr\nonco costocervical
 A. cervical profunda
 A. intercostal suprema
@@ -4194,14 +4224,14 @@ Rr. espinales
 RI
 Arteria axilar
 Rr. subescapulares
-A. tor‚cica superior
-A. toraco-acrom;A. acromiotor‚cica
+A. tor√¢cica superior
+A. toraco-acrom;A. acromiotor√¢cica
 R. acromial
 Red acromial
 R. clavicular
 R. deltoidea
 Rr. pectorales
-A. tor‚cica lateralï
+A. tor√¢cica lateral‚Ä¢
 Rr. mamarias laterales
 A. subescapular
 A. toracodorsal'b'
@@ -4211,12 +4241,12 @@ A. circunfleja humeral posterior
 Arteria braqu;Arteria humeral
 (A. braquial superficial)
 A. braquial profu;A. profunda del brazoof arm
-Aa. nutricias del h\xc5\x93mero
+Aa. nutricias del h√∫mero
 R. deltoidea
 A. colateral medial
 A. colateral radial
-A. colateral cubital superiorï
-A. colateral cubital inferiorï
+A. colateral cubital superior‚Ä¢
+A. colateral cubital inferior‚Ä¢
 Arteria radial
 A. recurrente radial
 A. nutricia del radio
@@ -4227,22 +4257,22 @@ Arco dorsal del carpo
 Aa. dorsales del metacarpo
 Aa. digitales dorsales
 A. principal del pulgar
-A. radial del \xe2\x84\xa2ndice
+A. radial del √≠ndice
 Arco palmar profundo
 Aa. metacarpianas palmares
 Rr. perforantes
 Arteria cubi;Arteria ulnar
-A. recurrente cubitalï
+A. recurrente cubital‚Ä¢
 R. anterior
 R. posterior
-Red anastomÛtica del codo
-A. nutricia del c\xc5\x93bito
-A. interÛsea com\xc5\x93n
-A. interÛsea anterior
-A. medi;A. satÈlite del nervio mediano
-A. interÛsea posterior
+Red anastom√≥tica del codo
+A. nutricia del c√∫bito
+A. inter√≥sea com√∫n
+A. inter√≥sea anterior
+A. medi;A. sat√©lite del nervio mediano
+A. inter√≥sea posterior
 R. perforante
-A. interÛsea recurrente
+A. inter√≥sea recurrente
 R. dorsal del carpo
 R. palmar del carpo
 R. palmar profunda
@@ -4250,16 +4280,16 @@ Arco palmar superficial
 Aa. digitales palmares comunes
 Aa. digitales palmares propias
 Aorta descendente
-Aorta tor‚cica
+Aorta tor√¢cica
 Rr. bronquiales
-Rr. esof‚gicas
-Rr. peric‚rdicas
-Rr. mediast\xe2\x84\xa2nicas
-Aa. frÈnicas superioresï
+Rr. esof√¢gicas
+Rr. peric√¢rdicas
+Rr. mediast√≠nicas
+Aa. fr√©nicas superiores‚Ä¢
 Aa. intercostales posteriores
 R. dorsal
-R. cut‚nea medial
-R. cut‚nea lateral86
+R. cut√¢nea medial
+R. cut√¢nea lateral86
 Rr. espinales
 R. postcentral
 R. prelaminar
@@ -4267,13 +4297,13 @@ A. radicular posterior
 A. radicular anterior
 A. medular segmentaria
 R. colateral
-R. cut‚nea lateral
+R. cut√¢nea lateral
 Rr. mamarias laterales
 A. subcostal
 R. dorsal
 R. espinal
 Aorta abdominal
-A. frÈnica inferiorï
+A. fr√©nica inferior‚Ä¢
 Aa. suprarrenales superiores
 Aa. lumbares
 R. dorsal
@@ -4282,70 +4312,70 @@ A. medular segmentaria
 A. sacra media
 Aa. lumbares inferiores
 Rr. sacras laterales
-Glomus cox\xe2\x84\xa2;Cuerpo cox\xe2\x84\xa2geo
-Tr\nonco cel\xe2\x84\xa2aco
-A. g‚strica izquierdaï
-Rr. esof‚gicas
-A. hep‚tica com\xc5\x93n
+Glomus cox√≠;Cuerpo cox√≠geo
+Tr\nonco cel√≠aco
+A. g√¢strica izquierda‚Ä¢
+Rr. esof√¢gicas
+A. hep√¢tica com√∫n
 A. gastroduodenal
 (A. supraduodenal)
 A. pancreatoduodenal superior posteriorposteriorpancreaticoduodenal artery
-Rr. pancre‚ticas
+Rr. pancre√¢ticas
 Rr. duodenales
 Aa. retroduodenales
 A. gastro-omental dere;gastro-epiploic artery
-Rr. g‚stricas
-Rr. omentalesï
+Rr. g√¢stricas
+Rr. omentales‚Ä¢
 A. pancreatoduodenal superior anteriorpancreaticoduodenal artery
-Rr. pancre‚ticas
+Rr. pancre√¢ticas
 Rr. duodenales
-A. g‚strica derechaï
-A. hep‚tica propia
+A. g√¢strica derecha‚Ä¢
+A. hep√¢tica propia
 R. derecha
-A. c\xe2\x84\xa2stica
-A. del lÛbulo caudado
+A. c√≠stica
+A. del l√≥bulo caudado
 A. segmentaria anterior
 A. segmentaria posterior
 R. izquierda
-A. del lÛbulo caudado
+A. del l√≥bulo caudado
 A. segmentaria medial
 A. segmentaria lateral
 otra que camina por delante de la lamina arcus vertebrae(ramo prelaminaris)
 R. intermedia
-A. esplÈnica
-Rr. pancre‚ticas
-A. pancre‚tica dorsal
-A. pancre‚tica inferior
-A. prepancre‚tica
-A. pancre‚tica mayor
-A. de la cola del p‚ncreas
+A. espl√©nica
+Rr. pancre√¢ticas
+A. pancre√¢tica dorsal
+A. pancre√¢tica inferior
+A. prepancre√¢tica
+A. pancre√¢tica mayor
+A. de la cola del p√¢ncreas
 A. gastro-omental izquie;
-Rr. g‚stricas
-Rr. omentalesï
-Aa. g‚stricas cortas
-Rr. esplÈnicas
-A. g‚strica posterior
-Arteria mesentÈrica superior
+Rr. g√¢stricas
+Rr. omentales‚Ä¢
+Aa. g√¢stricas cortas
+Rr. espl√©nicas
+A. g√¢strica posterior
+Arteria mesent√©rica superior
 A. pancreatoduodenal inferior
 R. anterior
 R. posterior
 Aa. yeyunales
 Aa. ileales
-A. ileocÛlica
+A. ileoc√≥lica
 A. cecal anterior
 A. cecal posterior
 A. apendicular
 R. ileal
-R. cÛlica
-A. cÛlica derecha
-A. del ‚ngulo cÛlico derecho
-A. cÛlica media
-A. marginal del co;A. yuxtacÛl;marginalis coli
-A. mesentÈrica inferior
+R. c√≥lica
+A. c√≥lica derecha
+A. del √¢ngulo c√≥lico derecho
+A. c√≥lica media
+A. marginal del co;A. yuxtac√≥l;marginalis coli
+A. mesent√©rica inferior
 R. ascendente
-A. cÛlica izquierda
+A. c√≥lica izquierda
 Aa. sigmoideas
-A. rectal superiorï
+A. rectal superior‚Ä¢
 A. suprarrenal media
 A. renal
 Rr. capsulares
@@ -4359,85 +4389,85 @@ R. posterior
 A. segmentaria posterior
 Rr. ureterales*
 Aa. intrarrenales
-A. ov‚rica
+A. ov√¢rica
 Rr. ureterales 
-Rr. tub‚ricas 
+Rr. tub√¢ricas 
 A. testicular
 Rr. ureterales
 Rr. epididimarias88
- ver la publicaciÛn mencionada anteriormente en 
+ ver la publicaci√≥n mencionada anteriormente en 
 Sistema cardiovascular89
-BifurcaciÛn aÛrtica
-Arteria il\xe2\x84\xa2aca com\xc5\x93nï
-Arteria il\xe2\x84\xa2aca internaï
+Bifurcaci√≥n a√≥rtica
+Arteria il√≠aca com√∫n‚Ä¢
+Arteria il√≠aca interna‚Ä¢
 R. lumbar
 R. espinal
-R. il\xe2\x84\xa2aca
+R. il√≠aca
 Aa. sacras laterales
 Rr. espinales
 A. obturatriz
-R. p\xc5\x93bica
+R. p√∫bica
 R. acetabular
 R. anterior
 R. posterior
-A. gl\xc5\x93tea superior
+A. gl√∫tea superior
 R. superficial
 R. profunda
 R. superior
 R. inferior
-A. gl\xc5\x93tea inferior
-A. del nervio ci‚ticoï
+A. gl√∫tea inferior
+A. del nervio ci√¢tico‚Ä¢
 A. umbilical
-PorciÛn permeable
-A. del conducto deferenteïto vas deferens
+Porci√≥n permeable
+A. del conducto deferente‚Ä¢to vas deferens
 Rr. ureterales
 Aa. vesicales superiores
-PorciÛn obliterada
+Porci√≥n obliterada
 Ligamento de la a. umbilical
 A. vesical inferior
-Rr. prost‚ticas
+Rr. prost√¢ticas
 A. uterina 
-Rr. helicinas ï
+Rr. helicinas ‚Ä¢
 Rr. vaginales 
-(A. ‚cigos de la vagina) 
-Rr. ov‚ricas 
-R. tub‚rica 
+(A. √¢cigos de la vagina) 
+Rr. ov√¢ricas 
+R. tub√¢rica 
 A. vaginal
-A. rectal mediaï
+A. rectal media‚Ä¢
 Rr. vaginales 
-Rr. prost‚ticas
+Rr. prost√¢ticas
 A. pudenda interna
-A. rectal inferiorï
+A. rectal inferior‚Ä¢
 A. perineal
 Rr. labiales posteriores 
 Rr. escrotales posteriores
 A. uretral
-A. del bulbo del vest\xe2\x84\xa2bulo 
+A. del bulbo del vest√≠bulo 
 A. del bulbo del pene
-A. dorsal del cl\xe2\x84\xa2toris 
+A. dorsal del cl√≠toris 
 A. dorsal del pene
-A. profunda del cl\xe2\x84\xa2toris 
+A. profunda del cl√≠toris 
 A. profunda del pene
 Aa. perforantes del pene'b'
 RI
-Arteria il\xe2\x84\xa2aca externa
-A. epig‚strica inferior
-R. p\xc5\x93bica
+Arteria il√≠aca externa
+A. epig√¢strica inferior
+R. p√∫bica
 R. obturatriz
 (A. obturatriz accesoria)
-A. cremastÈricaï
-A. del ligamento redondo del \xc5\x93tero
-A. circunfleja il\xe2\x84\xa2aca profunda
+A. cremast√©rica‚Ä¢
+A. del ligamento redondo del √∫tero
+A. circunfleja il√≠aca profunda
 R. ascendente
 Arteria femoral
-A. epig‚strica superficial
-A. circunfleja il\xe2\x84\xa2aca superficial
+A. epig√¢strica superficial
+A. circunfleja il√≠aca superficial
 A. pudenda externa superficial
 A. pudenda externa profunda
 Rr. labiales anteriores 
 Rr. escrotales anteriores
 Rr. inguinales
-A. descendente de la rodillaï
+A. descendente de la rodilla‚Ä¢
 R. safena
 Rr. articulares
 Arteria femoral profunda
@@ -4452,8 +4482,8 @@ R. ascendente
 R. descendente
 R. transversa
 Aa. perforantes
-Aa. nutricias del fÈmurfemoris
-Arteria popl\xe2\x84\xa2tea
+Aa. nutricias del f√©murfemoris
+Arteria popl√≠tea
 A. superior lateral de la rodilla
 A. superior medial de la rodilla
 A. media de la rodilla
@@ -4461,14 +4491,14 @@ Aa. surales
 A. inferior lateral de la rodilla
 A. inferior medial de la rodilla
 Red articular de la rodilla
-Red patelarï
+Red patelar‚Ä¢
 Arteria tibial anterior
 A. recurrente tibial anterior
 (A. recurrente tibial posterior)
 A. maleolar anterior lateral
 A. maleolar anterior medial
 Red maleolar lateral
-Arteria dorsal del pieïof foot
+Arteria dorsal del pie‚Ä¢of foot
 A. lateral del tarso
 Aa. mediales del tarso
 (A. arcuata)
@@ -4479,7 +4509,7 @@ Arteria tibial posterior
 R. circunfleja fibu;R. circunflejaperonealisperoneal branchperoneal90
 Rr. maleolares mediales
 Red maleolar medial
-Rr. calc‚neas
+Rr. calc√¢neas
 A. nutricia de la tibia
 Arteria plantar medial
 R. profunda
@@ -4495,92 +4525,92 @@ Arteria fibu;Arteria peronea
 R. perforante
 R. comunicante
 Rr. maleolares laterales
-Rr. calc‚neas
-Red calc‚nea
-A. nutricia peroneaï
+Rr. calc√¢neas
+Red calc√¢nea
+A. nutricia peronea‚Ä¢
 Venas
-Venas del corazÛn
+Venas del coraz√≥n
 Seno coronario
-V. card\xe2\x84\xa2aca magna
+V. card√≠aca magna
 V. interventricular anterior
 V. marginal izquierda
-V(v). posterior(es) del ventr\xe2\x84\xa2culo izquierdo
-V. oblicua del atr\xe2\x84\xa2o izquierdoï
+V(v). posterior(es) del ventr√≠culo izquierdo
+V. oblicua del atr√≠o izquierdo‚Ä¢
 Lig. de la vena cava izquierda
-V. card\xe2\x84\xa2aca me;V. card\xe2\x84\xa2aca interventricular
-V. card\xe2\x84\xa2aca menor
+V. card√≠aca me;V. card√≠aca interventricular
+V. card√≠aca menor
 V. marginal derecha
-V(v). anterior(es) del ventr\xe2\x84\xa2culo dere;cardiacae anterio;Vv. cordis anteriores
-Vv. card\xe2\x84\xa2acas m\xe2\x84\xa2nimas
-Vv. atriales derechasï
+V(v). anterior(es) del ventr√≠culo dere;cardiacae anterio;Vv. cordis anteriores
+Vv. card√≠acas m√≠nimas
+Vv. atriales derechas‚Ä¢
 Vv. ventriculares derechas
-(Vv. atriales izquierdas)ï
+(Vv. atriales izquierdas)‚Ä¢
 (Vv. ventriculares izquierdas)
 Venas pulmonares
 Vena pulmonar superior derecha
 V. api;R. apical
-PorciÛn intrasegmentaria
+Porci√≥n intrasegmentaria
 V. anter;R. anterior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. poster;R. posterior
-PorciÛn infralobar
-PorciÛn intralobar
-V. del lÛbulo me;R. del lÛbulo medio
-PorciÛn lateral
-PorciÛn medial'b'
+Porci√≥n infralobar
+Porci√≥n intralobar
+V. del l√≥bulo me;R. del l√≥bulo medio
+Porci√≥n lateral
+Porci√≥n medial'b'
 Vena pulmonar inferior derecha
 V. super;R. superior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
-V. basal com\xc5\x93n
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
+V. basal com√∫n
 V. basal superior
 V. basal anter;R. basal anteriorbranch
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. basal inferior
 Vena pulmonar superior izquierda
 V. apicoposter;R. apicoposteriorbranch
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. anter;R. anterior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. lingu;R. lingular
-PorciÛn superior
-PorciÛn inferior
+Porci√≥n superior
+Porci√≥n inferior
 Vena pulmonar inferior izquierda
 V. super;R. superior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
-V. basal com\xc5\x93n
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
+V. basal com√∫n
 V. basal superior
 V. basal anter;R. basal anteriorbranch
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. basal inferior
 CA
-Vena braquiocef‚lica
+Vena braquiocef√¢lica
 V. tiroidea inferior
 Plexo tiroideo impar
-V. lar\xe2\x84\xa2ngea inferior
-Vv. t\xe2\x84\xa2micas
-Vv. peric‚rdicas
-Vv. pericardiacofrÈnicas
-Vv. mediast\xe2\x84\xa2nicas
+V. lar√≠ngea inferior
+Vv. t√≠micas
+Vv. peric√¢rdicas
+Vv. pericardiacofr√©nicas
+Vv. mediast√≠nicas
 Vv. bronquiales
 Vv. traqueales
-Vv. esof‚gicas
+Vv. esof√¢gicas
 V. vertebral
 V. occipital
 V. vertebral anterior
 (V. vertebral accesoria)
 Plexo venoso suboccipital
 V. cervical profunda
-Vv. tor‚cicas internas
-Vv. epig‚stricas superiores
-Vv. subcut‚neas abdominales
-Vv. musculofrÈnicas
+Vv. tor√¢cicas internas
+Vv. epig√¢stricas superiores
+Vv. subcut√¢neas abdominales
+Vv. musculofr√©nicas
 Vv. intercostales anteriores
 V. intercostal suprema
 V. intercostal superior izquierda92
@@ -4589,18 +4619,18 @@ Bulbo superior de la vena yugular
 Glomus yugu;Cuerpo yugular
 V. del acueducto coclear
 Bulbo inferior de la vena yugular
-Plexo far\xe2\x84\xa2ngeo
-Vv. far\xe2\x84\xa2ngeas
-Vv. men\xe2\x84\xa2ngeas
+Plexo far√≠ngeo
+Vv. far√≠ngeas
+Vv. men√≠ngeas
 V. lingual
 Vv. dorsales de la lengua
-V. satÈlite del nervio hipogloso
-V. sublingualï
+V. sat√©lite del nervio hipogloso
+V. sublingual‚Ä¢
 V. profunda de la lengua
 V. tiroidea superior
 Vv. tiroideas medias
 V. esternocleidomastoidea
-V. lar\xe2\x84\xa2ngea superior
+V. lar√≠ngea superior
 Vena facial
 V. angular
 Vv. supratrocleares
@@ -4617,16 +4647,16 @@ V. submentoniana
 Vena retromandibular
 Vv. temporales superficiales
 V. temporal media
-V. facial transversaï
+V. facial transversa‚Ä¢
 Vv. maxilares
 Plexo pterigoideo
-Vv. men\xe2\x84\xa2ngeas medias
+Vv. men√≠ngeas medias
 Vv. temporales profundas
 V. del conducto pterigoideo
 Vv. auriculares anteriores
-Vv. parot\xe2\x84\xa2deas
+Vv. parot√≠deas
 Vv. articulares
-Vv. timp‚nicas
+Vv. timp√¢nicas
 V. estilomastoidea
 Vena yugular externa
 V. auricular posterior
@@ -4642,12 +4672,12 @@ Seno occipital
 Plexo basilar
 Seno petro-escamoso
 Seno sigmoideo
-Seno sagital superiorï'b'
+Seno sagital superior‚Ä¢'b'
 Lagunas laterales
-Seno sagital inferiorï
+Seno sagital inferior‚Ä¢
 Seno recto
 Seno petroso inferior
-Vv. laber\xe2\x84\xa2nticas
+Vv. laber√≠nticas
 Seno petroso superior
 Seno cavernoso
 Seno intercavernoso anterior
@@ -4661,13 +4691,13 @@ V. diploica occipital
 Venas emisarias
 V. emisaria parietal
 V. emisaria mastoidea
-V. emisaria cond\xe2\x84\xa2lea
+V. emisaria cond√≠lea
 V. emisaria occipital
 Plexo venoso del conducto del hipogloso
 Plexo venoso del foramen oval
-Plexo venoso carot\xe2\x84\xa2deo interno
+Plexo venoso carot√≠deo interno
 Vv. portales hipofisarias
-Venas del encÈfalo
+Venas del enc√©falo
 Venas superficiales del cerebro
 Vv. cerebrales superiores
 Vv. prefrontales
@@ -4676,8 +4706,8 @@ Vv. parietales
 Vv. temporales
 Vv. occipitales
 V. cerebral media superficial
-V. anastomÛtica inferior
-V. anastomÛtica superior
+V. anastom√≥tica inferior
+V. anastom√≥tica superior
 Vv. cerebrales inferiores
 V. del uncus
 Vv. orbitarias
@@ -4687,7 +4717,7 @@ V. basal
 Vv. cerebrales anteriores
 V. cerebral media profunda
 Vv. insulares
-Vv. t‚lamo-estriadas inferiores
+Vv. t√¢lamo-estriadas inferiores
 V. del giro olfatorio
 V. ventricular inferior
 V. coroidea inferior
@@ -4695,31 +4725,31 @@ Vv. pedunculares
 V. cerebral magna
 Vv. internas del cerebro
 V. coroidea superior
-V. t‚lamo-estriada super;V. terminal
+V. t√¢lamo-estriada super;V. terminal
 V. anterior del septum pellucidum
 V. posterior del septum pellucidum
-V. medial del ventr\xe2\x84\xa2culo lateral
-V. lateral del ventr\xe2\x84\xa2culo lateral94
-Vv. del n\xc5\x93cleo caudado
+V. medial del ventr√≠culo lateral
+V. lateral del ventr√≠culo lateral94
+Vv. del n√∫cleo caudado
 Vv. directas laterales
 V. posterior del cuerpo call;V. dorsalcorporis callosi
-Venas del tronco del encÈfalo
-V. pontomesencef‚lica
+Venas del tronco del enc√©falo
+V. pontomesencef√¢lica
 Vv. interpedunculares
 V. intercolicular
-V. mesencef‚lica lateral
+V. mesencef√¢lica lateral
 Vv. pontinas
 V. pontina anteromedial
 V. pontina anterolateral
 Vv. pontinas transversas
 V. pontina lateral
-Vv. del bulbo raqu\xe2\x84\xa2deo
+Vv. del bulbo raqu√≠deo
 V. bulbar anteromedial
 V. bulbar anterolateral
 Vv. bulbares transversas
 Vv. bulbares dorsales
 V. bulbar posteromedial
-V. del receso lateral del cuarto ventr\xe2\x84\xa2culo
+V. del receso lateral del cuarto ventr√≠culo
 V\n. de la cisterna cerebelobulbar
 Venas del cerebelo
 V. superior del vermis
@@ -4729,7 +4759,7 @@ Vv. cerebelosas inferiores
 V. cerebelosa precentral
 V. petrosa
 Venas orbitarias
-Vena oft‚lmica superior
+Vena oft√¢lmica superior
 V. nasofrontal
 Vv. etmoidales
 V. lagrimal
@@ -4739,22 +4769,22 @@ Vv. ciliares anteriores
 Seno venoso de la esclera
 Vv. esclerales
 V. central de la retina
-PorciÛn extraocular
-PorciÛn intraocular
+Porci√≥n extraocular
+Porci√≥n intraocular
 Vv. epiesclerales
 Vv. palpebrales
 Vv. conjuntivales
-Vena oft‚lmica inferior
-Vena ‚cigos
-Arco de la vena ‚cigosï
+Vena oft√¢lmica inferior
+Vena √¢cigos
+Arco de la vena √¢cigos‚Ä¢
 V. intercostal superior derecha
-V. hemi‚cigosïvein
-V. hemi‚cigos accesoriaïhemi-azygos vein
-Vv. esof‚gicas
+V. hemi√¢cigos‚Ä¢vein
+V. hemi√¢cigos accesoria‚Ä¢hemi-azygos vein
+Vv. esof√¢gicas
 Vv. bronquiales
-Vv. peric‚rdicas
-Vv. mediast\xe2\x84\xa2nicas'b'
-Vv. frÈnicas superioresï
+Vv. peric√¢rdicas
+Vv. mediast√≠nicas'b'
+Vv. fr√©nicas superiores‚Ä¢
 V. lumbar ascendente
 Vv. lumbares
 V. subcostal
@@ -4767,32 +4797,32 @@ Plexo venoso vertebral externo anterior
 Plexo venoso vertebral externo posterior
 Plexo venoso vertebral interno anterior
 Vv. basivertebrales
-Vv. de la mÈdula espinal
+Vv. de la m√©dula espinal
 Vv. espinales anteriores
 Vv. espinales posteriores
 Plexo venoso vertebral interno posterior
 E 
 Vena subclavia
 Vv. pectorales
-V. dorsal de la esc‚pula
+V. dorsal de la esc√¢pula
 Vena axilar
 V. subescapular
 V. circunfleja escapular
 V. toracodorsal
-V. circunfleja posterior del h\xc5\x93mero
-V. circunfleja anterior del h\xc5\x93mero
-V. tor‚cica lateralï
-Vv. tÛraco-epig‚stricas
+V. circunfleja posterior del h√∫mero
+V. circunfleja anterior del h√∫mero
+V. tor√¢cica lateral‚Ä¢
+Vv. t√≥raco-epig√¢stricas
 Plexo venoso areolar
 Venas superficiales del miembro superior
-V. cef‚lica
+V. cef√¢lica
 Thoraco-acromial vein
-(V. cef‚lica accesoria)
-V. bas\xe2\x84\xa2lica
+(V. cef√¢lica accesoria)
+V. bas√≠lica
 V. mediana cubital
 V. mediana antebraqu;V. mediana delvein of forearmantebrazo
-V. cef‚lica del antebrazo
-V. bas\xe2\x84\xa2lica del antebrazo
+V. cef√¢lica del antebrazo
+V. bas√≠lica del antebrazo
 Red venosa dorsal de la mano
 Vv. intercapitulares
 Vv. metacarpianas dorsales
@@ -4802,72 +4832,72 @@ Venas profundas del miembro superior
 Vv. braquiales
 Vv. cubita;Vv. ulnares
 Vv. radiales
-Vv. interÛseas anteriores
-Vv. interÛseas posteriores
+Vv. inter√≥seas anteriores
+Vv. inter√≥seas posteriores
 Arco venoso palmar profundo
 Vv. metacarpianas palmares
 CA
-Vv. frÈnicas inferioresï
+Vv. fr√©nicas inferiores‚Ä¢
 Vv. lumbares96
 V. lumbar ascendente
-Vv. hep‚ticas
-V. hep‚tica derecha
-V. hep‚tica intermedia
-V. hep‚tica izquierda
+Vv. hep√¢ticas
+V. hep√¢tica derecha
+V. hep√¢tica intermedia
+V. hep√¢tica izquierda
 Vv. renales
 Vv. capsulares
 V. suprarrenal izquierda
-V. ov‚rica izquierda
+V. ov√¢rica izquierda
 V. testicular izquierda
 Vv. intrarrenales
 V. suprarrenal derecha
-V. ov‚rica derecha
+V. ov√¢rica derecha
 V. testicular derecha
 Plexo pampiniforme
-Vena il\xe2\x84\xa2aca com\xc5\x93nï
+Vena il√≠aca com√∫n‚Ä¢
 V. sacra media
 V. iliolumbar
-Vena il\xe2\x84\xa2aca internaï
-Vv. gl\xc5\x93teas superiores
-Vv. gl\xc5\x93teas inferiores
+Vena il√≠aca interna‚Ä¢
+Vv. gl√∫teas superiores
+Vv. gl√∫teas inferiores
 Vv. obturatrices
 Vv. sacras laterales
 Plexo venoso sacro
-Plexo venoso rectalï
+Plexo venoso rectal‚Ä¢
 Vv. vesicales
 Plexo venoso vesical
-Plexo venoso prost‚tico
-V. dorsal profunda del cl\xe2\x84\xa2toris
+Plexo venoso prost√¢tico
+V. dorsal profunda del cl√≠toris
 V. dorsal profunda del pene
 Vv. uterinas
 Plexo venoso uterino
 Plexo venoso vaginal
-Vv. rectales mediasï
+Vv. rectales medias‚Ä¢
 V. pudenda interna
-V. profunda del cl\xe2\x84\xa2toris
+V. profunda del cl√≠toris
 V. profunda del pene
-Vv. rectales inferioresï
+Vv. rectales inferiores‚Ä¢
 Vv. labiales posteriores
 Vv. escrotales posteriores
-V. del bulbo del vest\xe2\x84\xa2bulo
+V. del bulbo del vest√≠bulo
 V. del bulbo del pene
-Vena il\xe2\x84\xa2aca externa
-V. epig‚strica inferior
+Vena il√≠aca externa
+V. epig√¢strica inferior
 Pubic v;Pubic branch 
-V. circunfleja il\xe2\x84\xa2aca profunda
+V. circunfleja il√≠aca profunda
  ver las publicaciones mencionadas en 
 E 
 Venas superficiales del miembro inferior
-V. safena magnaïsaphenous vein
+V. safena magna‚Ä¢saphenous vein
 Vv. pudendas externas
-V. circunfleja il\xe2\x84\xa2aca superficial
-V. epig‚strica superficial
+V. circunfleja il√≠aca superficial
+V. epig√¢strica superficial
 V. safena accesoria
-Vv. dorsales superficiales del cl\xe2\x84\xa2toris
+Vv. dorsales superficiales del cl√≠toris
 Vv. dorsales superficiales del pene
 Vv. labiales anteriores
 Vv. escrotales anteriores
-V\n. safena menorïsaphenous vein
+V\n. safena menor‚Ä¢saphenous vein
 Red venosa dorsal del pie
 Arco venoso dorsal del pie
 Vv. metatarsianas dorsales
@@ -4885,125 +4915,125 @@ V. femoral profundaof thigh
 Vv. circunflejas femorales mediales
 Vv. circunflejas femorales laterales
 Vv. perforantes
-V. popl\xe2\x84\xa2tea
+V. popl√≠tea
 Vv. surales
-Vv. genicularesï
+Vv. geniculares‚Ä¢
 Vv. tibiales anteriores
 Vv. tibiales posteriores
 Vv. fibula;Vv. peroneas
-PO
+VENA PORTA HEP√ÅTICA
 R. derecha
 R. anterior
 R. posterior
 R. izquierda
-PorciÛn transversa
-Rr. del lÛbulo caudado
-PorciÛn umbilical
+Porci√≥n transversa
+Rr. del l√≥bulo caudado
+Porci√≥n umbilical
 Lig. venoso
 Rr. laterales
 V. umbilical
-Lig. redondo del h\xe2\x84\xa2gado
+Lig. redondo del h√≠gado
 Rr. mediales
-V. c\xe2\x84\xa2stica
+V. c√≠stica
 Vv. paraumbilicales
 V. pancreatoduodenal superior posteriorvein
-V. g‚strica izquierdaï
-V. g‚strica derechaï
-V. prepilÛrica
-Vena mesentÈrica superior
+V. g√¢strica izquierda‚Ä¢
+V. g√¢strica derecha‚Ä¢
+V. prepil√≥rica
+Vena mesent√©rica superior
 Vv. yeyunales98
 Vv. ileales
 V. gastro-omental dere; dextragastro-epiploic vein
-Vv. pancre‚ticas
+Vv. pancre√¢ticas
 Vv. pancreatoduodenales
-V. ileocÛlica
+V. ileoc√≥lica
 V. apendicular
-V. cÛlica derecha
-V. cÛlica media
-Vena esplÈnica
-Vv. pancre‚ticas
-Vv. g‚stricas cortas
+V. c√≥lica derecha
+V. c√≥lica media
+Vena espl√©nica
+Vv. pancre√¢ticas
+Vv. g√¢stricas cortas
 V. gastro-omental izquie; sinistragastro-epiploic vein
-V. mesentÈrica inferior
-V. cÛlica izquierda
+V. mesent√©rica inferior
+V. c√≥lica izquierda
 Vv. sigmoideas
-V. rectal superiorï
-Tr\noncos y conductos linf‚ticos
+V. rectal superior‚Ä¢
+Tr\noncos y conductos linf√¢ticos
 Tr\nonco yugular
 Tr\nonco subclavio
-Plexo linf‚tico axilar
-Tr\nonco broncomediast\xe2\x84\xa2nico
-Conducto linf‚tico dere;Conducto tor‚cicodexterductderecho
-Conducto tor‚cico
-Arco del conducto tor‚cicoï
-PorciÛn cervical
-PorciÛn tor‚cica
-PorciÛn abdominal
+Plexo linf√¢tico axilar
+Tr\nonco broncomediast√≠nico
+Conducto linf√¢tico dere;Conducto tor√¢cicodexterductderecho
+Conducto tor√¢cico
+Arco del conducto tor√¢cico‚Ä¢
+Porci√≥n cervical
+Porci√≥n tor√¢cica
+Porci√≥n abdominal
 Cisterna ch;Cisterna del quilo
 Tr\nonco lumbar
 Tr\noncos intestinales
-Ganglios linf‚ticos regionales (vide paginam 101)(see page 101)(ver p‚gina 101)'b'
-Sistema linf‚tico
-NA 
-MÈdula Ûsea
+Ganglios linf√¢ticos regionales (vide paginam 101)(see page 101)(ver p√¢gina 101)'b'
+Sistema linf√¢tico
+√ìRGANOS LINF√ÅTICOS PRIMARIOS
+M√©dula √≥sea
 Timo
-LÛbulo
-LÛbulos del timo
+L√≥bulo
+L√≥bulos del timo
 Corteza del timo
-MÈdula del timo
-(LÛbulos accesorios del timo)
-NA 
+M√©dula del timo
+(L√≥bulos accesorios del timo)
+√ìRGANOS LINF√ÅTICOS SECUNDARIOS
 Bazo
-C‚psula fibrosa
-TrabÈculas esplÈnicas
-Pulpa esplÈnica
+C√°psula fibrosa
+Trab√©culas espl√©nicas
+Pulpa espl√©nica
 Pulpa roja
 Pulpa blanca
-Cara diafragm‚tica
+Cara diafragm√¢tica
 Cara visceral
-ImpresiÛn renal
-ImpresiÛn g‚strica
-ImpresiÛn cÛlica
-(ImpresiÛn pancre‚tica)
+Impresi√≥n renal
+Impresi√≥n g√¢strica
+Impresi√≥n c√≥lica
+(Impresi√≥n pancre√¢tica)
 Extremidad anterior
 Extremidad posterior
 Borde inferior
 Borde superior
-Hilio esplÈnico
+Hilio espl√©nico
 Ser;Capa serosa
-Seno esplÈnico
+Seno espl√©nico
 Penicilios
-Ganglios linf‚ticos esplÈnicoslymphoidei lienales
+Ganglios linf√¢ticos espl√©nicoslymphoidei lienales
 (Bazo accesorio)
-Anillo linf‚tico far\xe2\x84\xa2ngeo
-Tonsila ling;Am\xe2\x84\xa2gdala lingual
+Anillo linf√¢tico far√≠ngeo
+Tonsila ling;Am√≠gdala lingual
 Criptas tonsilares
-Ganglios linf‚ticos
-Tonsila palat;Am\xe2\x84\xa2gdala palatina
+Ganglios linf√¢ticos
+Tonsila palat;Am√≠gdala palatina
 Fosas tonsilares
 Criptas tonsilares
-C‚psula tonsilar
-Tonsila far\xe2\x84\xa2n;Am\xe2\x84\xa2gdala far\xe2\x84\xa2ngeaï
+C√¢psula tonsilar
+Tonsila far√≠n;Am√≠gdala far√≠ngea‚Ä¢
 Fosas tonsilares
 Criptas tonsilares
-Ganglios linf‚ticos
-Tonsila tub‚r;Am\xe2\x84\xa2gdala tub‚rica
+Ganglios linf√¢ticos
+Tonsila tub√¢r;Am√≠gdala tub√¢rica
 Criptas tonsilares
-Ganglios linf‚ti;NÛdulos linf‚ticos
-C‚psula
-TrabÈcula
+Ganglios linf√¢ti;N√≥dulos linf√¢ticos
+C√¢psula
+Trab√©cula
 Hilio
 Corteza100
-MÈdula
-Ganglios linf‚ticos solitarios
-Ganglios linf‚ticos agregados
-Ganglios linf‚ticos agregados del apÈndicevermiformisvermiforme
-Ganglios linf‚ticos regiona;NÛduloslinf‚ticos regionales
-Ganglios linf‚ticos de la cabeza y cue;
+M√©dula
+Ganglios linf√¢ticos solitarios
+Ganglios linf√¢ticos agregados
+Ganglios linf√¢ticos agregados del ap√©ndicevermiformisvermiforme
+Ganglios linf√¢ticos regiona;N√≥duloslinf√¢ticos regionales
+Ganglios linf√¢ticos de la cabeza y cue;
 Ganglios occipitales
 Ganglios mastoideos
-Ganglios parot\xe2\x84\xa2deos superficiales
-Ganglios parot\xe2\x84\xa2deos profundos
+Ganglios parot√≠deos superficiales
+Ganglios parot√≠deos profundos
 Ganglios preauriculares
 Ganglios infraauriculares
 Ganglios intraglandulares
@@ -5019,26 +5049,26 @@ Ganglios cervicales anteriores
 Ganglios superficia;Ganglios yugularesanterioresnodesanteriores
 Ganglios profundos
 Ganglios infrahioideos
-Ganglios prelar\xe2\x84\xa2ngeos
+Ganglios prelar√≠ngeos
 Ganglios tiroideos
 Ganglios pretraqueales
-Ganglios paratraquealesï
-Ganglios retrofar\xe2\x84\xa2ngeos
+Ganglios paratraqueales‚Ä¢
+Ganglios retrofar√≠ngeos
 Ganglios cervicales laterales
-Ganglios superficialesï
-Ganglios profundos superioresï
-Ganglios yugulodig‚stricosï
+Ganglios superficiales‚Ä¢
+Ganglios profundos superiores‚Ä¢
+Ganglios yugulodig√¢stricos‚Ä¢
 Ganglio lateral
 Ganglio anterior
 Ganglios profundos inferiores
-Ganglio y\xc5\x93gulo-omohioideo
+Ganglio y√∫gulo-omohioideo
 Ganglio lateral
 Ganglio anterior
-Ganglios supraclavicularesï
+Ganglios supraclaviculares‚Ä¢
 Ganglios accesorios
-Ganglios retrofar\xe2\x84\xa2ngeos
-Ganglios linf‚ticos del miembro super;
-Ganglios linf‚ticos axilares
+Ganglios retrofar√≠ngeos
+Ganglios linf√¢ticos del miembro super;
+Ganglios linf√¢ticos axilares
 Ganglios apicales
 Ganglios humera;Ganglios laterales
 Ganglios subescapula;Ganglios posteriores
@@ -5051,92 +5081,92 @@ Ganglios cubitales
 Ganglios supratrocleares'b'
 Ganglios superficiales
 Ganglios profundos
-Ganglios linf‚ticos tor‚ci;NÛduloslinf‚ticos tor‚cicos
+Ganglios linf√¢ticos tor√¢ci;N√≥duloslinf√¢ticos tor√¢cicos
 Ganglios paramamarios
 Ganglios paraesternales
 Ganglios intercostales
-Ganglios frÈnicos superiores
-Ganglios preperic‚rdicos
-Ganglios braquiocef‚licos
+Ganglios fr√©nicos superiores
+Ganglios preperic√¢rdicos
+Ganglios braquiocef√¢licos
 (Ganglio del ligamento arterioso)
-(Ganglio del arco de la vena ‚cigos)
-Ganglios peric‚rdicos laterales
+(Ganglio del arco de la vena √¢cigos)
+Ganglios peric√¢rdicos laterales
 Ganglios paratraqueales
 Ganglios traqueobronquiales
 Ganglios traqueobronquiales superiores
-Ganglios traqueobronquiales inferioresï
+Ganglios traqueobronquiales inferiores‚Ä¢
 Ganglios broncopulmonares
 Ganglios intrapulmonares
-Ganglios yuxtaesof‚gicos
+Ganglios yuxtaesof√¢gicos
 Ganglios prevertebrales
-Ganglios linf‚ticos abdomina;NÛduloslinf‚ticos abdominales
-Ganglios linf‚ticos parietales
+Ganglios linf√¢ticos abdomina;N√≥duloslinf√¢ticos abdominales
+Ganglios linf√¢ticos parietales
 Ganglios lumbares izquierdos
-Ganglios aÛrticos laterales
-Ganglios preaÛrticos
-Ganglios retroaÛrti;Ganglios postaÛrticos
-Ganglios lumbares intermediosï
+Ganglios a√≥rticos laterales
+Ganglios prea√≥rticos
+Ganglios retroa√≥rti;Ganglios posta√≥rticos
+Ganglios lumbares intermedios‚Ä¢
 Ganglios lumbares derechos
 Ganglios laterales de la cava
 Ganglios precavos
 Ganglios retroca;Ganglios postcavos
-Ganglios frÈnicos inferiores
-Ganglios epig‚stricos inferiores
-Ganglios linf‚ticos viscerales
-Ganglios cel\xe2\x84\xa2acos
-Ganglios g‚stricos derechos/izquierdos
-(Anillo linf‚tico del cardias)
-Ganglios gastro-omentales der\ne c h o s / i z q u i e rd o sï
-Ganglios pilÛricos
-(Ganglio suprapilÛrico)
-(Ganglio subpilÛrico)
-(Ganglio retropilÛrico)
-Ganglios pancre‚ticos
+Ganglios fr√©nicos inferiores
+Ganglios epig√¢stricos inferiores
+Ganglios linf√¢ticos viscerales
+Ganglios cel√≠acos
+Ganglios g√¢stricos derechos/izquierdos
+(Anillo linf√¢tico del cardias)
+Ganglios gastro-omentales der\ne c h o s / i z q u i e rd o s‚Ä¢
+Ganglios pil√≥ricos
+(Ganglio suprapil√≥rico)
+(Ganglio subpil√≥rico)
+(Ganglio retropil√≥rico)
+Ganglios pancre√¢ticos
 Ganglios superiores
 Ganglios inferiores
-Ganglios esplÈnicos
+Ganglios espl√©nicos
 Ganglios pancreatoduodenales
 Ganglios superiores
 Ganglios inferiores
-Ganglios hep‚ticos
-Ganglio c\xe2\x84\xa2stico
+Ganglios hep√¢ticos
+Ganglio c√≠stico
 Ganglio del foramen omentalforamen
-Ganglios mesentÈricos superiores
+Ganglios mesent√©ricos superiores
 Ganglios yuxtaintestinales
 Ganglios centrales superiores
-Ganglios ileocÛlicos
+Ganglios ileoc√≥licos
 Ganglios prececales
 Ganglios retrocecales
 Ganglios apendiculares102
-Ganglios mesocÛlicos
-Ganglios paracÛlicos
-Ganglios cÛlicos derechos/medios/izquierdos
-Ganglios mesentÈricos inferiores
+Ganglios mesoc√≥licos
+Ganglios parac√≥licos
+Ganglios c√≥licos derechos/medios/izquierdos
+Ganglios mesent√©ricos inferiores
 Ganglios sigmoideos
 Ganglios rectales superiores
-Ganglios linf‚ticos pÈlvi;NÛdulos linf‚ticos pÈlvicos
+Ganglios linf√¢ticos p√©lvi;N√≥dulos linf√¢ticos p√©lvicos
 Ganglios parietales
-Ganglios il\xe2\x84\xa2acos comunes
+Ganglios il√≠acos comunes
 Ganglios mediales
 Ganglios intermedios
 Ganglios laterales
-Ganglios subaÛrticos
+Ganglios suba√≥rticos
 Ganglios del promontorio
-Ganglios il\xe2\x84\xa2acos externos
+Ganglios il√≠acos externos
 Ganglios mediales
 Ganglios intermedios
 Ganglios laterales
 (Ganglio lagunar medial)
 (Ganglio lagunar intermedio)
 (Ganglio lagunar lateral)
-Ganglios interil\xe2\x84\xa2acos
+Ganglios interil√≠acos
 Ganglios obturatrices
-Ganglios il\xe2\x84\xa2acos internos
-Ganglios gl\xc5\x93teos
+Ganglios il√≠acos internos
+Ganglios gl√∫teos
 Ganglios superiores
 Ganglios inferiores
 Ganglios sacros
-Ganglios linf‚ticos viscerales
+Ganglios linf√¢ticos viscerales
 Ganglios paravesicales
 Ganglios prevesicales
 Ganglios postvesicales
@@ -5144,17 +5174,17 @@ Ganglios vesicales laterales
 Ganglios parauterinos 
 Ganglios paravaginales 
 Ganglios pararrecta;Ganglios anorrectales
-Ganglios linf‚ticos del miembro infer;
-Ganglios linf‚ticos inguinales
+Ganglios linf√¢ticos del miembro infer;
+Ganglios linf√¢ticos inguinales
 Ganglios superficiales
 Ganglios superomediales
 Ganglios superolaterales
 Ganglios inferiores
 Ganglios inguinales profundos
 (Ganglio proximal)
-(Ganglio intermedio)ï
+(Ganglio intermedio)‚Ä¢
 Ganglio distal
-Ganglios popl\xe2\x84\xa2teos
+Ganglios popl√≠teos
 Ganglios superficiales
 Ganglios profundos
 (Ganglio tibial anterior)
@@ -5165,34 +5195,34 @@ Fibra nerviosa
 Neurona
 Pericarion
 Sinapsis
-Neurogl\xe2\x84\xa2a
+Neurogl√≠a
 Sistema nervioso centralnervosum centrale
 Sustancia gris
-N\xc5\x93cleos
-N\xc5\x93cleos de los nervios craneales
-N\xc5\x93cleos de origen
-N\xc5\x93cleos de terminaciÛn
+N√∫cleos
+N√∫cleos de los nervios craneales
+N√∫cleos de origen
+N√∫cleos de terminaci√≥n
 Columna
-L‚mina
+L√¢mina
 Sustancia blanca
-CordÛn
+Cord√≥n
 Tra;Haz
-Fasc\xe2\x84\xa2culo
+Fasc√≠culo
 Comisura
 Lemnisco
 Fibra
-Fibra de asociaciÛn
+Fibra de asociaci√≥n
 Fibra comisural
-Fibra de proyecciÛn
-DecusaciÛn
-Estr\xe2\x84\xa2a
-FormaciÛn reticular
-EpÈndimo
+Fibra de proyecci√≥n
+Decusaci√≥n
+Estr√≠a
+Formaci√≥n reticular
+Ep√©ndimo
 NG
 Paquimeni;Duramadre
 Leptomeni;Aracnoides y piamadreand pia mater
 Duramadre
-Duramadre cran;Duramadre encef‚lica
+Duramadre cran;Duramadre encef√¢lica
 Hoz del cerebro
 Tento;Tienda del cerebelotentorium
 Incisura del tentorio
@@ -5204,58 +5234,58 @@ Cavum trigeminal*
 Duramadre espinal
 Espacio epidural
 Aracnoides*
-Espacio subaracnoi;Espacio leptomeningeumspaceleptomen\xe2\x84\xa2ngeo104
- en condiciones normales la aracnoides se adhiere a la dura y Èsta lohace al cr‚neo
-El espacio est‚ limitado internamente por la hojaexterna de la pia mater
-L\xe2\x84\xa2quido cefalorraqu\xe2\x84\xa2deo
-Aracnoides cran;Aracnoides encef‚licamater encephali
+Espacio subaracnoi;Espacio leptomeningeumspaceleptomen√≠ngeo104
+ en condiciones normales la aracnoides se adhiere a la dura y √©sta lohace al cr√¢neo
+El espacio est√¢ limitado internamente por la hojaexterna de la pia mater
+L√≠quido cefalorraqu√≠deo
+Aracnoides cran;Aracnoides encef√¢licamater encephali
 Granulaciones aracnoideas
-Tr‚beculas aracnoideas
+Tr√¢beculas aracnoideas
 Cisternas subaracnoideas
 Cisterna cerebelobulbar poster;
 Cisterna cerebelobulbar lateral
 Cisterna de la fosa cerebral lateral
-Cisterna quiasm‚tica
+Cisterna quiasm√¢tica
 Cisterna interpeduncular
 Cisterna ambiens
 Cisterna pericallosa
 Cisterna pontocerebelosa
-Cisterna de la l‚mina terminal
-Cisterna cuadrigÈm;Cisterna de la venacerebri magnaeof great cerebral veincerebral magna
+Cisterna de la l√¢mina terminal
+Cisterna cuadrig√©m;Cisterna de la venacerebri magnaeof great cerebral veincerebral magna
 Aracnoides espinal
 Cisterna lumbar
 Piamadre
-Piamadre cran;Piamadre encef‚lica
-Tela coroidea del cuarto ventr\xe2\x84\xa2culo
-Plexo coroideo del cuarto ventr\xe2\x84\xa2culo
-Tela coroidea del tercer ventr\xe2\x84\xa2culo
-Plexo coroideo del tercer ventr\xe2\x84\xa2culo
-Plexo coroideo del ventr\xe2\x84\xa2culo lateral
+Piamadre cran;Piamadre encef√¢lica
+Tela coroidea del cuarto ventr√≠culo
+Plexo coroideo del cuarto ventr√≠culo
+Tela coroidea del tercer ventr√≠culo
+Plexo coroideo del tercer ventr√≠culo
+Plexo coroideo del ventr√≠culo lateral
 Glomus coroideo
 Piamadre espinal
 Lig. dentado
 Tabique cervical intermedio
 Filum terminal
-PorciÛn du;Lig. cocc\xe2\x84\xa2;Filum terminalterminale externumexterno
-PorciÛn p;Filum terminal internoterminale internum
-MÈdula espinal
+Porci√≥n du;Lig. cocc√≠;Filum terminalterminale externumexterno
+Porci√≥n p;Filum terminal internoterminale internum
+M√©dula espinal
 Intumescencia cervical
 Intumescencia lumbosacra
 Cono medular
-PorciÛn espinal del filum terminal
-Ventr\xe2\x84\xa2culo terminal
+Porci√≥n espinal del filum terminal
+Ventr√≠culo terminal
 Fisura media anter;Fisura media ventral median fissure
 Surco medio poster;Surco medio dorsalsulcusmedian dorsal
 Tabique medio poster;Tabique mediomedian septumdorsal
 Surco anterolate;Surco ventrolateral
 Surco posterolate;Surco dorsolateral
 Surco intermedio poster;Surcointermediate sulcusintermedio dorsal
-Cordones de la mÈdula espinal
-PorciÛn cervi;Segmentos cervicales [1-8]
-PorciÛn tor‚c;Segmentos tor‚cicos [1-12]
-PorciÛn lum;Segmentos lumbares [1-5]
-PorciÛn sa;Segmentos sacros [1-5]
-PorciÛn cox\xe2\x84\xa2;Segmentos cox\xe2\x84\xa2geos [1-3]'b'
+Cordones de la m√©dula espinal
+Porci√≥n cervi;Segmentos cervicales [1-8]
+Porci√≥n tor√¢c;Segmentos tor√¢cicos [1-12]
+Porci√≥n lum;Segmentos lumbares [1-5]
+Porci√≥n sa;Segmentos sacros [1-5]
+Porci√≥n cox√≠;Segmentos cox√≠geos [1-3]'b'
 Conducto central
 Sustancia gris
 Asta anter;Asta ventral
@@ -5267,48 +5297,48 @@ Columnas grises
 Columna anter;Columna ventral
 Asta anter;Asta ventral*
 I-
-N\xc5\x93cleo anterolate;N\xc5\x93cleo ventrolateralnucleus
-N\xc5\x93cleo anterior
-N\xc5\x93cleo anteromed;N\xc5\x93cleo ventromedialnucleus
-N\xc5\x93cleo posterolate;N\xc5\x93cleo dorsolateralnucleus
-N\xc5\x93cleo retroposterolate;N\xc5\x93cleo
-N\xc5\x93cleo posteromed;N\xc5\x93cleo dorsomedialnucleus
-N\xc5\x93cleo central
-N\xc5\x93cleo del nervio accesorio
-N\xc5\x93cleo del nervio frÈn;N\xc5\x93cleo frÈniconucleus
+N√∫cleo anterolate;N√∫cleo ventrolateralnucleus
+N√∫cleo anterior
+N√∫cleo anteromed;N√∫cleo ventromedialnucleus
+N√∫cleo posterolate;N√∫cleo dorsolateralnucleus
+N√∫cleo retroposterolate;N√∫cleo
+N√∫cleo posteromed;N√∫cleo dorsomedialnucleus
+N√∫cleo central
+N√∫cleo del nervio accesorio
+N√∫cleo del nervio fr√©n;N√∫cleo fr√©niconucleus
 Dorsal column
 Dorsal horn
-VÈrtice
+V√©rtice
 IMarginal nucleus: 
 Cabeza
 Gelatinous substa;Spinal lamina 
 Cuello
 I 
-VL‚mina espinal 
+VL√¢mina espinal 
 Base
 Spinal lamina 
 Sustancia gris visceral secundaria
-N\xc5\x93cleo basal interno
-N\xc5\x93cleo cervical lateral
-N\xc5\x93cleo cervical medial
-N\xc5\x93cleo posterior del cordÛn lateral
+N√∫cleo basal interno
+N√∫cleo cervical lateral
+N√∫cleo cervical medial
+N√∫cleo posterior del cord√≥n lateral
 Columna interme;Zona intermedia
 ISpinal lamina 
 Asta lateral
-N\xc5\x93cleo intermediolateral
+N√∫cleo intermediolateral
 Sustancia intermedia central
-N\xc5\x93cleo tor‚cico poster;N\xc5\x93cleo tor‚cicodorsalisthoracic nucleusdorsal
+N√∫cleo tor√¢cico poster;N√∫cleo tor√¢cicodorsalisthoracic nucleusdorsal
 Sustancia intermedia lateral
-N\xc5\x93cleo intermediomedial
-N\xc5\x93cleos parasimp‚ticos sacros
-N\xc5\x93cleo del nervio pudendo
-FormaciÛn reticular espinal
-N\xc5\x93cleo medial anter;N\xc5\x93cleo ventral medial nucleusmedial106
+N√∫cleo intermediomedial
+N√∫cleos parasimp√¢ticos sacros
+N√∫cleo del nervio pudendo
+Formaci√≥n reticular espinal
+N√∫cleo medial anter;N√∫cleo ventral medial nucleusmedial106
 I-
 Sustancia blanca
-CordÛn anter;CordÛn ventral
-Fasc\xe2\x84\xa2culo propio anter;Fasc\xe2\x84\xa2culo propiofasciculus propriusventral
-Fasc\xe2\x84\xa2culo surcomarginal
+Cord√≥n anter;Cord√≥n ventral
+Fasc√≠culo propio anter;Fasc√≠culo propiofasciculus propriusventral
+Fasc√≠culo surcomarginal
 Tracto corticoespinal anter;Tractocorticospinal tractcorticoespinal ventral
 Tracto vestibuloespinal lateral
 Tracto vestibuloespinal medial
@@ -5318,9 +5348,9 @@ Tracto intersticioespinal
 Tracto tectoespinal
 Tracto rafe-espinal anter;Tractoraphespinal tractrafe-espinal ventral
 Fibras olivoespinales
-Tracto espinotal‚mico anter;Tractospinothalamic tractespinotal‚mico ventral
-CordÛn lateral
-Fasc\xe2\x84\xa2culo lateral propio
+Tracto espinotal√¢mico anter;Tractospinothalamic tractespinotal√¢mico ventral
+Cord√≥n lateral
+Fasc√≠culo lateral propio
 Tracto fastigioespinal
 Tracto interpositoespinal
 Tracto corticoespinal lateral
@@ -5328,11 +5358,11 @@ Tracto rubroespinal
 T\nracto bulborreticuloespi;Tractoreticulospinal tr;Lateral reticuloespinal lateralreticulospinal trac
 Fibras olivoespinales
 Tracto espinotectal
-Tracto espinotal‚mico lateral
+Tracto espinotal√¢mico lateral
 Tracto espinocerebeloso anter;Tractospinocerebellar tractespinocerebeloso ventral
 Tracto espinocerebeloso poster;Tractospinocerebellar tractespinocerebeloso dorsal
 Tracto posterolate;Tracto dorsolateral
-PorciÛn posterior del cordÛn lateral
+Porci√≥n posterior del cord√≥n lateral
 Tracto espinolivar
 Tracto espinorreticular
 Tracto ceruleoespinal
@@ -5341,61 +5371,62 @@ Tracto rafe-espinal lateral
 Tracto solitarioespinal
 Tracto espinocervical
 Tracto espinovestibular
-Tracto trigÈminoespinal
-CordÛn poster;CordÛn dorsal
-Fasc\xe2\x84\xa2culo propio poster;Fasc\xe2\x84\xa2culo propiofasciculuspropriusdorsal
-Fasc\xe2\x84\xa2culo septomarginal
-Fasc\xe2\x84\xa2culo interfascicu;Fasc\xe2\x84\xa2culo semilunarsemilunaris
-Fasc\xe2\x84\xa2culo gr‚cil
-Fasc\xe2\x84\xa2culo cuneiforme
+Tracto trig√©minoespinal
+Cord√≥n poster;Cord√≥n dorsal
+Fasc√≠culo propio poster;Fasc√≠culo propiofasciculuspropriusdorsal
+Fasc√≠culo septomarginal
+Fasc√≠culo interfascicu;Fasc√≠culo semilunarsemilunaris
+Fasc√≠culo gr√¢cil
+Fasc√≠culo cuneiforme
  los tractus corticospinales
 Sin embargo
- nucleus gracilisynucleus cuneatusson referidos colectiva y com\xc5\x93nmente como n\xc5\x93cleos y fasc\xe2\x84\xa2culos de los cordones posteriores.'b'
+ nucleus gracilisynucleus cuneatusson referidos colectiva y com√∫nmente como n√∫cleos y fasc√≠culos de los cordones posteriores.'b'
 Fibras cuneoespinales
 Fibras gracilespinales*
 Fibras espinocuneiformes*
-Fibras espinogr‚ciles
-Estructuras centrales de la mÈdula espinal*
-X\xc3\xa7rea espinal;L‚mina espinal 
+Fibras espinogr√¢ciles
+Estructuras centrales de la m√©dula espinal*
+√Årea espinal;L√¢mina espinal 
 Comisura gris anter;Comisura gris ventralgrey commissure*
 Comisura gris poster;Comisura gris dorsalgrey commissure
 Comisura blanca anter;Comisura blancawhite commissureventral
 Comisura blanca poster;Comisura blancawhite commissuredorsal
 Conducto cent;Conducto ependimario
-EncÈfalo
-RombencÈf;Cerebro posterior*
-MielencÈf;MÈdula oblong;Bulbo
-MetencÈf;Puente y cerebelo
-MesencÈf;Cerebro medio
-ProsencÈf;Cerebro anterior
-DiencÈfalo
-TelencÈfalo
-Tr\nonco del encÈfalo*
-Bulbraqu\xe2\x84\xa2deo
+Enc√©falo
+Rombenc√©f;Cerebro posterior*
+Mielenc√©f;M√©dula oblong;Bulbo
+Metenc√©f;Puente y cerebelo
+Mesenc√©f;Cerebro medio
+Prosenc√©f;Cerebro anterior
+Dienc√©falo
+Telenc√©falo
+Tr\nonco del enc√©falo*
+Bulbraqu√≠deo
 Pue;Protuberancia
-MesencÈf;Cerebro medio
+Mesenc√©f;Cerebro medio
 EN
 Fisura media anter;Fisura media ventral median fissure
-Foramen ciego del bulbo raqu\xe2\x84\xa2deooblongata
-Pir‚mide bulbar
-DecusaciÛn piramidaldecussation
+Foramen ciego del bulbo raqu√≠deooblongata
+Pir√¢mide bulbar
+Decusaci√≥n piramidaldecussation
 Surco anterolate;Surco ventrolateralsulcus
 Surco preolivar
-CordÛn lateral
+Cord√≥n lateral
 Oliva inferior
 Fibras arcuatas externas anteriores
 Surco retrolivar
+√Årea retrolivar
 Surco posterolate;Surco dorsolateralsulcus108
-Estas fibras son colectiva y com\xc5\x93nmente denominadas fibras postsin‚pticas de la columna dorsal.*
+Estas fibras son colectiva y com√∫nmente denominadas fibras postsin√¢pticas de la columna dorsal.*
 Consecuentemente
 Strong 
-Ped\xc5\x93nculo cerebeloso inferior
+Ped√∫nculo cerebeloso inferior
 Cuerpo restiforme
-TubÈrculo trigeminal
-Fasc\xe2\x84\xa2culo cuneiforme
-TubÈrculo cuneiforme
-Fasc\xe2\x84\xa2culo gr‚cil
-TubÈrculo gr‚cil
+Tub√©rculo trigeminal
+Fasc√≠culo cuneiforme
+Tub√©rculo cuneiforme
+Fasc√≠culo gr√¢cil
+Tub√©rculo gr√¢cil
 Surco medio poster;Surco medio dorsalmedian sulcus
 Morphologia interna
 Sustancia blanca
@@ -5403,35 +5434,35 @@ Tracto piramidal
 Fibras corticoespinales
 Fibras corticonucleares bulbares
 Fibras corticorreticulares
-DecusaciÛn piramidalïdecussation
-Fasc\xe2\x84\xa2culo gr‚cil
-Fasc\xe2\x84\xa2culo cuneiforme
+Decusaci√≥n piramidal‚Ä¢decussation
+Fasc√≠culo gr√¢cil
+Fasc√≠culo cuneiforme
 Fibras arcuatas internas
-DecusaciÛn del lemnisco medial
+Decusaci√≥n del lemnisco medial
 Lemnisco medial
 Tracto tectoespinal
-Fasc\xe2\x84\xa2culo longitudinal medial
+Fasc√≠culo longitudinal medial
 Fasciculus longitudinalis dorsalis
-Tracto espinal del nervio trigÈmino
+Tracto espinal del nervio trig√©mino
 Amiculum de la oliva
 Tracto espino-olivar
 Tracto olivocerebeloso
-Ped\xc5\x93nculo cerebeloso inferior
+Ped√∫nculo cerebeloso inferior
 Cuerpo yuxtarrestiforme
 Cuerpo restiforme
 Tracto solitario
 Ventral external arcuate fib;arciformes externas ventrales
 Dorsal external arcuate fibresarciformes externas posteriores
-Rafe del bulbo raqu\xe2\x84\xa2deo
+Rafe del bulbo raqu√≠deo
 Tracto rafe-espinal anterior
-Tracto reticuloespinal anter;Tractoreticulospinal tractret\xe2\x84\xa2culoespinal ventral
+Tracto reticuloespinal anter;Tractoreticulospinal tractret√≠culoespinal ventral
 Tracto espinocerebeloso anter;Tracto spinocerebellar tractespinocerebeloso ventral
 Fibras hipotalamoespinales
 Tracto intersticioespinal
 Tracto rafe-espinal lateral
 Tracto bulborreticuloespinal lateral
 Sin embargo
- utilizado com\xc5\x93nmente en la terminolog\xe2\x84\xa2a en el pasado
+ utilizado com√∫nmente en la terminolog√≠a en el pasado
 Fibras bulborreticuloespinales
 Tracto vestibuloespinal lateral
 Tracto espinocerebeloso poster;Tractospinocerebellar tractespinocerebeloso dorsal
@@ -5440,116 +5471,118 @@ Tracto rubrobulbar
 Tracto rubro-olivar
 Tracto rubroespinal*
 Lemnisco espi;Tracto anterolate;
-Fibras espinotal‚micas
+Fibras espinotal√¢micas
 Fibras espinorreticulares
-Fibras espinomesencef‚licas
+Fibras espinomesencef√¢licas
 Fibras espinotectales
 Fibras espinoperiacueductales
-Fibras espinohipotal‚micas
+Fibras espinohipotal√¢micas
 Fibras espinobulbares
 Fibras espino-olivares
 Tracto espinovestibular
 Tracto tectobulbar
 Sustancia gris*
-N\xc5\x93cleo gr‚cil
-PorciÛn central
-PorciÛn rostral
-ZSubn\xc5\x93cleo rostrodor;Grupo celular 
-N\xc5\x93cleo cuneiforme
-PorciÛn central
-PorciÛn rostral
-N\xc5\x93cleo cuneiforme accesorio
-N\xc5\x93cleo precuneiforme acceso;Grupo
-N\xc5\x93cleo espinal del nervio trigÈmino{vide etiam paginum 113}{see also page 113}{ver tambiÈn p‚gina 113}
-PorciÛn caudal
-Subn\xc5\x93cleo zonal
-Subn\xc5\x93cleo gelatinoso
-Subn\xc5\x93cleo magnocelular
-PorciÛn interpolar
-N\xc5\x93cleo retrotrigeminal
-N\xc5\x93cleo retrofacial
-Complejo olivar infer;N\xc5\x93cleos olivaresinferioresinferiores
-N\xc5\x93cleo olivar principal
+N√∫cleo gr√¢cil
+Porci√≥n central
+Porci√≥n rostral
+ZSubn√∫cleo rostrodor;Grupo celular 
+N√∫cleo cuneiforme
+Porci√≥n central
+Porci√≥n rostral
+N√∫cleo cuneiforme accesorio
+N√∫cleo precuneiforme acceso;Grupo
+N√∫cleo espinal del nervio trig√©mino{vide etiam paginum 113}{see also page 113}{ver tambi√©n p√¢gina 113}
+Porci√≥n caudal
+Subn√∫cleo zonal
+Subn√∫cleo gelatinoso
+Subn√∫cleo magnocelular
+Porci√≥n interpolar
+N√∫cleo retrotrigeminal
+N√∫cleo retrofacial
+Complejo olivar infer;N√∫cleos olivaresinferioresinferiores
+N√∫cleo olivar principal
 Laminilla posterior
 Laminilla anterior
 Laminilla lateral
-Hilio del n\xc5\x93cleo olivar inferior
-N\xc5\x93cleo olivar accesorio poster;N\xc5\x93cleo
-N\xc5\x93cleo olivar accesorio medial
-N\xc5\x93cleo del nervio hipogloso
-N\xc5\x93cleo paramediano poster;N\xc5\x93cleoparamedian nucleusparamediano dorsal
+Hilio del n√∫cleo olivar inferior
+N√∫cleo olivar accesorio poster;N√∫cleo
+N√∫cleo olivar accesorio medial
+N√∫cleo del nervio hipogloso
+N√∫cleo paramediano poster;N√∫cleoparamedian nucleusparamediano dorsal
 Dorsal nucleus of vagus nervedorsal del nervio vago110
  a este respecto
  nucleus gracilisynucleus cuneatus
-N\xc5\x93cleos del tracto solita;N\xc5\x93cleo solitario
-N\xc5\x93cleo parasolitario
-N\xc5\x93cleo comisural
-N\xc5\x93cleo solitario gelatinoso
-N\xc5\x93cleo solitario intermedio
-N\xc5\x93cleo solitario intersticial
-N\xc5\x93cleo solitario medial
-N\xc5\x93cleo solitario paracomisural
-N\xc5\x93cleo solitario poster;N\xc5\x93cleo solitariosolitary nucleusdorsal
-N\xc5\x93cleo solitario posterolate;N\xc5\x93cleo
-N\xc5\x93cleo solitario anter;N\xc5\x93cleo solitariosolitary nucleusventral
-N\xc5\x93cleo solitario anterolate;N\xc5\x93cleo solitario
-N\xc5\x93cleos vestibulares {ver tambiÈn p‚gina 114}
-N\xc5\x93cleo vestibular inferior
-PorciÛn magnocelular del n\xc5\x93cleo vestibularinferiorisvestibular nucl;Cell group 
-N\xc5\x93cleo vestibular medial
-N\xc5\x93cleo marginal del cuerpo restifo;Grupo
-N\xc5\x93cleos cocleares {ver tambiÈn p‚gina 114}
-N\xc5\x93cleo coclear poster;N\xc5\x93cleo coclearcochlear nucleusdorsal
-N\xc5\x93cleo coclear anter;N\xc5\x93cleo coclearcochlear nucleusventral
-PorciÛn anterior
-PorciÛn posterior
-N\xc5\x93cleo comisural del nervio vago
-N\xc5\x93cleo ambiguo
-N\xc5\x93cleo retroambiguo
-N\xc5\x93cleo salivar inferior
-N\xc5\x93cleo arcuato
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo endolemniscal
-N\xc5\x93cleo pericuneiforme medial
-N\xc5\x93cleo pericuneiforme lateral
-N\xc5\x93cleos perihipoglosos
-N\xc5\x93cleo subhipogloso
-N\xc5\x93cleo intercalado
-N\xc5\x93cleo prepÛsito
-N\xc5\x93cleo peritrigeminal
-N\xc5\x93cleo pontobulbar
-N\xc5\x93cleo supraespinal
-N\xc5\x93cleos reticulares
-N\xc5\x93cleo gigantocelular
-PorciÛn alfa
-N\xc5\x93cleo reticular gigantocelular anter;
-N\xc5\x93cleo reticular paragigantocelular lateralnucleus
-N\xc5\x93cleo interfascicular del nervio hipoglosonerve
-N\xc5\x93cleo reticular intermedio
-N\xc5\x93cleo reticular lateral
+N√∫cleos del tracto solita;N√∫cleo solitario
+N√∫cleo parasolitario
+N√∫cleo comisural
+N√∫cleo solitario gelatinoso
+N√∫cleo solitario intermedio
+N√∫cleo solitario intersticial
+N√∫cleo solitario medial
+N√∫cleo solitario paracomisural
+N√∫cleo solitario poster;N√∫cleo solitariosolitary nucleusdorsal
+N√∫cleo solitario posterolate;N√∫cleo
+N√∫cleo solitario anter;N√∫cleo solitariosolitary nucleusventral
+N√∫cleo solitario anterolate;N√∫cleo solitario
+N√∫cleos vestibulares {ver tambi√©n p√¢gina 114}
+N√∫cleo vestibular inferior
+Porci√≥n magnocelular del n√∫cleo vestibularinferiorisvestibular nucl;Cell group 
+N√∫cleo vestibular medial
+N√∫cleo marginal del cuerpo restifo;Grupo
+N√∫cleos cocleares {ver tambi√©n p√¢gina 114}
+N√∫cleo coclear poster;N√∫cleo coclearcochlear nucleusdorsal
+N√∫cleo coclear anter;N√∫cleo coclearcochlear nucleusventral
+Porci√≥n anterior
+Porci√≥n posterior
+N√∫cleo comisural del nervio vago
+N√∫cleo ambiguo
+N√∫cleo retroambiguo
+N√∫cleo salivar inferior
+N√∫cleo arcuato
+N√∫cleos del rafe
+√Årea postrema
+N√∫cleo endolemniscal
+N√∫cleo pericuneiforme medial
+N√∫cleo pericuneiforme lateral
+N√∫cleos perihipoglosos
+N√∫cleo subhipogloso
+N√∫cleo intercalado
+N√∫cleo prep√≥sito
+N√∫cleo peritrigeminal
+N√∫cleo pontobulbar
+N√∫cleo supraespinal
+N√∫cleos reticulares
+N√∫cleo gigantocelular
+Porci√≥n alfa
+N√∫cleo reticular gigantocelular anter;
+N√∫cleo reticular paragigantocelular lateralnucleus
+N√∫cleo interfascicular del nervio hipoglosonerve
+N√∫cleo reticular intermedio
+N√∫cleo reticular lateral
 ynucleus reticularis pontis caudalis
 G.
-PorciÛn magnocelular
-PorciÛn parvocelular
-PorciÛn subtrigeminal
-N\xc5\x93cleo reticular parvocelular
-N\xc5\x93cleo reticular paragigantocelular poster;nucl;Dorsal paragigantocellular
-N\xc5\x93cleo reticular central
-PorciÛn dorsal
-PorciÛn ventral
-N\xc5\x93cleo reticular medial
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo oscuro del rafe
-N\xc5\x93cleo p‚lido del rafe
-N\xc5\x93cleo magno del rafe
+Porci√≥n magnocelular
+Porci√≥n parvocelular
+Porci√≥n subtrigeminal
+N√∫cleo reticular parvocelular
+N√∫cleo reticular paragigantocelular poster;nucl;Dorsal paragigantocellular
+N√∫cleo reticular central
+Porci√≥n dorsal
+Porci√≥n ventral
+N√∫cleo reticular medial
+N√∫cleos del rafe
+N√∫cleo oscuro del rafe
+N√∫cleo p√¢lido del rafe
+N√∫cleo magno del rafe
 PO
 Surco bulbopontino
 Surco basilar
-Ped\xc5\x93nculo cerebeloso medio
+Ped√∫nculo cerebeloso medio
+√Çngulo pontocerebeloso
 Frenillo del velo
-Ped\xc5\x93nculo cerebeloso superior
+Ped√∫nculo cerebeloso superior
 Velo medular superior
-PorciÛn basilar del puente
+Porci√≥n basilar del puente
 Sustancia blanca
 Fibras longitudinales del puente
 Fibras corticoespinales
@@ -5560,20 +5593,20 @@ Fibras tectopontinas
 Fibras transversas del puente
 Fibras pontocerebelosas
 Sustancia gris
-N\xc5\x93cleos del puente
+N√∫cleos del puente
 Ventral nucleus
-N\xc5\x93cleo lateral
-N\xc5\x93cleo mediano
-N\xc5\x93cleo paramediano
-N\xc5\x93cleo peduncu;N\xc5\x93cleo peripeduncularnucleus
-N\xc5\x93cleo poster;N\xc5\x93cleo dorsal
-N\xc5\x93cleo posterolate;N\xc5\x93cleo dorsolateralnucleus
-N\xc5\x93cleo posteromed;N\xc5\x93cleo dorsomedialnucleus
-N\xc5\x93cleo reticulotegmental
+N√∫cleo lateral
+N√∫cleo mediano
+N√∫cleo paramediano
+N√∫cleo peduncu;N√∫cleo peripeduncularnucleus
+N√∫cleo poster;N√∫cleo dorsal
+N√∫cleo posterolate;N√∫cleo dorsolateralnucleus
+N√∫cleo posteromed;N√∫cleo dorsomedialnucleus
+N√∫cleo reticulotegmental
 Tegmento del pue;Calotaprotuberancial
 Sustancia blanca
 Rafe del puente
-Fasc\xe2\x84\xa2culo longitudinal medial
+Fasc√≠culo longitudinal medial
 Dorsal longitudinal fasciculuslongitudinal dorsal
 Lemnisco medial112
 Tracto tectoespinal
@@ -5581,27 +5614,27 @@ Fibras pretecto-olivares
 Fibras tecto-olivares
 Fibras tectorreticulares
 Lemnisco espi;Tracto anterolate;
-Fibras espinotal‚micas
+Fibras espinotal√¢micas
 Fibras espinorreticulares
-Fibras espinomesencÈfalicas
+Fibras espinomesenc√©falicas
 Fibras espinotectales
 Fibras espinoperiacueductales
-Fibras espinohipotal‚micas
+Fibras espinohipotal√¢micas
 Fibras espinobulbares
 Fibras espino-olivares
-Tracto espinal del nervio trigÈmino
-Trigeminothalamic tracttrigeminotal‚mico
-Tracto trigeminotal‚mico anter;Tracto
-Tracto trigeminotal‚mico poster;Tracto
-Tracto mesencef‚lico del nervio trigÈmino
+Tracto espinal del nervio trig√©mino
+Trigeminothalamic tracttrigeminotal√¢mico
+Tracto trigeminotal√¢mico anter;Tracto
+Tracto trigeminotal√¢mico poster;Tracto
+Tracto mesencef√¢lico del nervio trig√©mino
 Rodilla del nervio facial
 Cuerpo trapezoide
 Tracto olivococlear
 Lemnisco lateral
-Estr\xe2\x84\xa2as medulares del cuarto ventr\xe2\x84\xa2culo
-Estr\xe2\x84\xa2a ac\xc5\x93stica anter;Estr\xe2\x84\xa2a ac\xc5\x93stica acoustic striaventral
-Estr\xe2\x84\xa2a ac\xc5\x93stica intermedia
-Estr\xe2\x84\xa2a ac\xc5\x93stica poster;Estr\xe2\x84\xa2a ac\xc5\x93stica acoustic striadorsal
+Estr√≠as medulares del cuarto ventr√≠culo
+Estr√≠a ac√∫stica anter;Estr√≠a ac√∫stica acoustic striaventral
+Estr√≠a ac√∫stica intermedia
+Estr√≠a ac√∫stica poster;Estr√≠a ac√∫stica acoustic striadorsal
 Tracto pontorreticuloespinal anter;Tracto
 Ventral
 Comisura coclear del puente
@@ -5616,82 +5649,83 @@ Tracto rubroespinal
 Tracto tectobulbar
 Tracto tectopontino
 Sustancia gris
-N\xc5\x93cleos del rafe
-FormaciÛn reticular
-N\xc5\x93cleo espinal del nervio trigÈmino{vide etiam paginam 110}{see also page 110}{ver tambiÈn p‚gina 110}
-Subn\xc5\x93cleo oral
-N\xc5\x93cleo sensitivo principal del nervio nervetrigÈmino
+N√∫cleos del rafe
+Formaci√≥n reticular
+N√∫cleo espinal del nervio trig√©mino{vide etiam paginam 110}{see also page 110}{ver tambi√©n p√¢gina 110}
+Subn√∫cleo oral
+N√∫cleo sensitivo principal del nervio nervetrig√©mino
  a este respecto
- este fasc\xe2\x84\xa2culo contiene axones que se originan en todos los n\xc5\x93cleos sensitivos del nervio trigÈmino. 
-para distinguirlo m‚s claramente de la porciÛn oral del n\xc5\x93cleoespinal del nervio trigÈmino que tambiÈn se encuentra en el tegmentum pontis.'b'
-N\xc5\x93cleo posteromed;N\xc5\x93cleo dorsomedialnucleus
-N\xc5\x93cleo anterolate;N\xc5\x93cleo ventrolateralnucleus
-N\xc5\x93cleo mesencef‚lico del nervio trigÈminonerve
-N\xc5\x93cleo motor del nervio trigÈmino
-N\xc5\x93cleo del nervio abducens
-N\xc5\x93cleo motor del nervio facial
-N\xc5\x93cleo salivar superior
-N\xc5\x93cleo lagrimal
-N\xc5\x93cleo olivar super;Complejo olivarolivary complexsuperior
-N\xc5\x93cleo olivar superior lateral
-N\xc5\x93cleo olivar superior medial
-N\xc5\x93cleos periolivares
-N\xc5\x93cleos mediales
-N\xc5\x93cleos laterales
-N\xc5\x93cleo del cuerpo trapezoide
-N\xc5\x93cleo anterior del cuerpo trapezo;Ventral nucleus of trapezoid body
-N\xc5\x93cleo lateral del cuerpo trapezoide
-N\xc5\x93cleo medial del cuerpo trapezoide
-N\xc5\x93cleos vestibulares {ver tambiÈn p‚gina 111}
-N\xc5\x93cleo vestibular medial
-N\xc5\x93cleo vestibular lateral
-LPorciÛn parvocelu;Grupo celular 
-N\xc5\x93cleo vestibular superior
-N\xc5\x93cleos cocleares {ver tambiÈn p‚gina 111}
-N\xc5\x93cleos del lemnisco lateral
-N\xc5\x93cleo posterior del lemnisco late;Dorsal nucleus of lateral lemniscus
-N\xc5\x93cleo intermedio del lemnisco laterallemniscus
-N\xc5\x93cleo anterior del lemnisco late;N\xc5\x93cleo
-N\xc5\x93cleo tegmental anter;N\xc5\x93cleo tegmentaltegmental nucleusventral
-N\xc5\x93cleo cer\xc5\x93leo
-N\xc5\x93cleo subcer\xc5\x93leo
-N\xc5\x93cleo intersticial del fasc\xe2\x84\xa2culo longitudinalmedialislongitudinal fasciculusmedial
-N\xc5\x93cleos parabraquiales
-N\xc5\x93cleo subparabraquial
-N\xc5\x93cleo parabraquial lateral
-PorciÛn late;Subn\xc5\x93cleo lateral
-PorciÛn med;Subn\xc5\x93cleo medial
-PorciÛn poster;PorciÛn dor; subnucl;Dorsal subnucleus
-PorciÛn anter;PorciÛn vent; subnucl;Ventral subnucleus
-N\xc5\x93cleo parabraquial medial
-PorciÛn med;Subn\xc5\x93cleo medial
-PorciÛn late;Subn\xc5\x93cleo lateral
-N\xc5\x93cleo tegmental poster;N\xc5\x93cleo tegmentaltegmental nucleusdorsal
-N\xc5\x93cleo supralemniscal
-N\xc5\x93cleos reticulares*
-N\xc5\x93cleo reticular caudal del puente
-N\xc5\x93cleo reticular oral del puente
-N\xc5\x93cleo paralemniscal114
+ este fasc√≠culo contiene axones que se originan en todos los n√∫cleos sensitivos del nervio trig√©mino. 
+para distinguirlo m√¢s claramente de la porci√≥n oral del n√∫cleoespinal del nervio trig√©mino que tambi√©n se encuentra en el tegmentum pontis.'b'
+N√∫cleo posteromed;N√∫cleo dorsomedialnucleus
+N√∫cleo anterolate;N√∫cleo ventrolateralnucleus
+N√∫cleo mesencef√¢lico del nervio trig√©minonerve
+N√∫cleo motor del nervio trig√©mino
+N√∫cleo del nervio abducens
+N√∫cleo motor del nervio facial
+N√∫cleo salivar superior
+N√∫cleo lagrimal
+N√∫cleo olivar super;Complejo olivarolivary complexsuperior
+N√∫cleo olivar superior lateral
+N√∫cleo olivar superior medial
+N√∫cleos periolivares
+N√∫cleos mediales
+N√∫cleos laterales
+N√∫cleo del cuerpo trapezoide
+N√∫cleo anterior del cuerpo trapezo;Ventral nucleus of trapezoid body
+N√∫cleo lateral del cuerpo trapezoide
+N√∫cleo medial del cuerpo trapezoide
+N√∫cleos vestibulares {ver tambi√©n p√¢gina 111}
+N√∫cleo vestibular medial
+N√∫cleo vestibular lateral
+LPorci√≥n parvocelu;Grupo celular 
+N√∫cleo vestibular superior
+N√∫cleos cocleares {ver tambi√©n p√¢gina 111}
+N√∫cleos del lemnisco lateral
+N√∫cleo posterior del lemnisco late;Dorsal nucleus of lateral lemniscus
+N√∫cleo intermedio del lemnisco laterallemniscus
+N√∫cleo anterior del lemnisco late;N√∫cleo
+N√∫cleo tegmental anter;N√∫cleo tegmentaltegmental nucleusventral
+N√∫cleo cer√∫leo
+N√∫cleo subcer√∫leo
+N√∫cleo intersticial del fasc√≠culo longitudinalmedialislongitudinal fasciculusmedial
+N√∫cleos parabraquiales
+N√∫cleo subparabraquial
+N√∫cleo parabraquial lateral
+Porci√≥n late;Subn√∫cleo lateral
+Porci√≥n med;Subn√∫cleo medial
+Porci√≥n poster;Porci√≥n dor; subnucl;Dorsal subnucleus
+Porci√≥n anter;Porci√≥n vent; subnucl;Ventral subnucleus
+N√∫cleo parabraquial medial
+Porci√≥n med;Subn√∫cleo medial
+Porci√≥n late;Subn√∫cleo lateral
+N√∫cleo tegmental poster;N√∫cleo tegmentaltegmental nucleusdorsal
+N√∫cleo supralemniscal
+N√∫cleos reticulares*
+N√∫cleo reticular caudal del puente
+N√∫cleo reticular oral del puente
+N√∫cleo paralemniscal114
 ynucleus reticularis pontis caudalis
-N\xc5\x93cleo reticular paramediano
-N\xc5\x93cleo reticulotegmental del puente
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo magno del rafe
-N\xc5\x93cleo pontino del rafe
-N\xc5\x93cleo mediano del rafenucleus
-N\xc5\x93cleo posterior del r;N\xc5\x93cleo dorsal delrafenucleus
-Cuarto ventr\xe2\x84\xa2culo
-Fosa romboi;Suelo del cuarto ventr\xe2\x84\xa2culoventricle
+N√∫cleo reticular paramediano
+N√∫cleo reticulotegmental del puente
+N√∫cleos del rafe
+N√∫cleo magno del rafe
+N√∫cleo pontino del rafe
+N√∫cleo mediano del rafenucleus
+N√∫cleo posterior del r;N√∫cleo dorsal delrafenucleus
+Cuarto ventr√≠culo
+Fosa romboi;Suelo del cuarto ventr√≠culoventricle
 Surco medio
 Eminencia media
-Col\xe2\x84\xa2culo facialï
-Locus cer\xc5\x93leo
-Estr\xe2\x84\xa2as medulares del cuarto ventr\xe2\x84\xa2culoï
-Tr\xe2\x84\xa2gono del nervio hipogl;Tr\xe2\x84\xa2gonoof hypoglossal nervehipoglosoï
-Tr\xe2\x84\xa2gono del nervio v;Tr\xe2\x84\xa2gono vagalï
-Fun\xe2\x84\xa2culus separans
+Col√≠culo facial‚Ä¢
+Locus cer√∫leo
+Estr√≠as medulares del cuarto ventr√≠culo‚Ä¢
+Tr√≠gono del nervio hipogl;Tr√≠gonoof hypoglossal nervehipogloso‚Ä¢
+Tr√≠gono del nervio v;Tr√≠gono vagal‚Ä¢
+√Årea vestibular‚Ä¢
+Fun√≠culus separans
 Taenia cinerea
-Techo del cuarto ventr\xe2\x84\xa2culo
+Techo del cuarto ventr√≠culo
 Fastigio
 Plexo coroideo
 Tela coroidea
@@ -5701,29 +5735,30 @@ Velo medular superior
 Frenillo del velo medular superiorvellum
 Velo medular inferior
 Orificio medio
+√Årea postrema
 Surco limitante
 Fosita superior
 Fosita inferior
 NC
 Fosa interpeduncular
-Sustancia perforada posteriorï
+Sustancia perforada posterior‚Ä¢
 Surco para el nervio oculomotor
-Ped\xc5\x93nculo cerebral
+Ped√∫nculo cerebral
 Pie peduncular
-Surco lateral mesencef‚lico
-Tegmento mesencef‚lico
-Tri‚ngulo del lemnisco lateral
-Ped\xc5\x93nculo cerebeloso superior
+Surco lateral mesencef√¢lico
+Tegmento mesencef√¢lico
+Tri√¢ngulo del lemnisco lateral
+Ped√∫nculo cerebeloso superior
 Frenillo del velo medular superior
-L‚mina tec;L‚mina cuadrigÈmina
-Brazo del col\xe2\x84\xa2culo inferiorï
-Brazo del col\xe2\x84\xa2culo superiorï
-TubÈrculo cuadrigÈmino infer;Col\xe2\x84\xa2culoinferior
-TubÈrculo cuadrigÈmino super;Col\xe2\x84\xa2culosuperior
+L√¢mina tec;L√¢mina cuadrig√©mina
+Brazo del col√≠culo inferior‚Ä¢
+Brazo del col√≠culo superior‚Ä¢
+Tub√©rculo cuadrig√©mino infer;Col√≠culoinferior
+Tub√©rculo cuadrig√©mino super;Col√≠culosuperior
  por claridad
 Morphologia interna
-Ped\xc5\x93nculo cerebral
-Base del ped\xc5\x93nculo*
+Ped√∫nculo cerebral
+Base del ped√∫nculo*
 Pie peduncular
 Tracto piramidal
 Fibras corticoespinales
@@ -5735,37 +5770,37 @@ Fibras parietopontinas
 Fibras temporopontinas
 Fibras corticorreticulares*
 Sustancia negra
-PorciÛn compacta
-PorciÛn lateral
-PorciÛn reticular
-PorciÛn retrorrubral
-Tegmento del mesencÈf;Calota delmesencÈfalo
+Porci√≥n compacta
+Porci√≥n lateral
+Porci√≥n reticular
+Porci√≥n retrorrubral
+Tegmento del mesenc√©f;Calota delmesenc√©falo
 Sustancia blanca
 Tracto tegmental central
 Fibras rubro-olivares
 Fibras cerebelo-olivares
-Fibras corticonucleares mesencef‚licas
+Fibras corticonucleares mesencef√¢licas
 Fibras hipotalamoespinales
 Lemnisco lateral
 Tracto tectopontino
 Tracto tectobulbar lateral
 Lemnisco medial
 Lemnisco trigeminal
-Fasc\xe2\x84\xa2culo longitudinal medial
-Tracto mesencef‚lico del nervio trigÈminoï
+Fasc√≠culo longitudinal medial
+Tracto mesencef√¢lico del nervio trig√©mino‚Ä¢
 Dorsal longitudinal fasciculuslongitudinal dorsal
 Tracto rubronuclear
 Tracto rubroespinal
 Tracto rubro-olivar*
 Lemnisco espi;Tracto anterolate;
-Fibras espinotal‚micas
+Fibras espinotal√¢micas
 Fibras espinorreticulares
-Fibras espinomesencef‚licas
+Fibras espinomesencef√¢licas
 Fibras espinotectales
 Fibras espinoperiacueductales
-Fibras espinohipotal‚micas
-Ped\xc5\x93nculo cerebeloso superior
-DecusaciÛn de los ped\xc5\x93nculos cerebelosossuperiorumpedunclessuperiores
+Fibras espinohipotal√¢micas
+Ped√∫nculo cerebeloso superior
+Decusaci√≥n de los ped√∫nculos cerebelosossuperiorumpedunclessuperiores
 Tracto tectobulbar
 Tracto tectopontino
 Tracto tectoespinal
@@ -5775,65 +5810,65 @@ Algunosautores incluyen la substantia nigracomo parte de la basis pedunculi
  a este respecto
 Fibras tecto-olivares
 Decusaciones tegmentales
-DecusaciÛn tegmental poster;DecusaciÛn
-DecusaciÛn tegmental anter;DecusaciÛn
-Fibras corticomesencef‚licas
+Decusaci√≥n tegmental poster;Decusaci√≥n
+Decusaci√≥n tegmental anter;Decusaci√≥n
+Fibras corticomesencef√¢licas
 Sustancia gris
-N\xc5\x93cleo del nervio oculomotor
-N\xc5\x93cleos accesorios del nervio oculomotor
-N\xc5\x93cleos viscera;N\xc5\x93cleos autonÛmicos
-N\xc5\x93cleo anteromed;N\xc5\x93cleo ventromedialmedial nucleus
-N\xc5\x93cleo dor;N\xc5\x93cleo posterior
-N\xc5\x93cleo intersticial
-N\xc5\x93cleo precomisural central
-N\xc5\x93cleo comisural posterior
-PorciÛn ventral
-PorciÛn intersticial
-PorciÛn dorsal
-N\xc5\x93cleo interpeduncular
-N\xc5\x93cleos accesorios del tracto Ûptico
-N\xc5\x93cleo poster;N\xc5\x93cleo dorsal
-N\xc5\x93cleo lateral
-N\xc5\x93cleo medial
-N\xc5\x93cleo tegmental posterolate;N\xc5\x93cleo
-N\xc5\x93cleo del tracto mesencef‚lico del nervionervetrigÈmino
-N\xc5\x93cleo del nervio troclearï
-N\xc5\x93cleo parabigeminal
+N√∫cleo del nervio oculomotor
+N√∫cleos accesorios del nervio oculomotor
+N√∫cleos viscera;N√∫cleos auton√≥micos
+N√∫cleo anteromed;N√∫cleo ventromedialmedial nucleus
+N√∫cleo dor;N√∫cleo posterior
+N√∫cleo intersticial
+N√∫cleo precomisural central
+N√∫cleo comisural posterior
+Porci√≥n ventral
+Porci√≥n intersticial
+Porci√≥n dorsal
+N√∫cleo interpeduncular
+N√∫cleos accesorios del tracto √≥ptico
+N√∫cleo poster;N√∫cleo dorsal
+N√∫cleo lateral
+N√∫cleo medial
+N√∫cleo tegmental posterolate;N√∫cleo
+N√∫cleo del tracto mesencef√¢lico del nervionervetrig√©mino
+N√∫cleo del nervio troclear‚Ä¢
+N√∫cleo parabigeminal
 Sustancia gris cent;Sustancia gris
-N\xc5\x93cleo peripeduncular
-N\xc5\x93cleo rojo
-PorciÛn magnocelular
-PorciÛn parvocelular
-PorciÛn posteromed;PorciÛn dorsomedial
-FormaciÛn reticular{vide nuclei reticulares paginam 118}{see reticular nuclei page 118}{ver n\xc5\x93cleos reticulares p‚gina 118}
-N\xc5\x93cleo sagulum
-N\xc5\x93cleo sub-braquial
-N\xc5\x93cleos tegmentales anterio;N\xc5\x93cleostegmental nucleitegmentales ventrales
-N\xc5\x93cleo interfascicular
-N\xc5\x93cleo pigmentado parabraquial
-N\xc5\x93cleo paranigral
-N\xc5\x93cleo cuneiforme
-N\xc5\x93cleo subcuneiforme
-N\xc5\x93cleo tegmental pedunculopontino
-PorciÛn compacta
-PorciÛn dispersa
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo posterior del r;N\xc5\x93cleo dorsal nucleusdel rafe
-N\xc5\x93cleo linear inferior
+N√∫cleo peripeduncular
+N√∫cleo rojo
+Porci√≥n magnocelular
+Porci√≥n parvocelular
+Porci√≥n posteromed;Porci√≥n dorsomedial
+Formaci√≥n reticular{vide nuclei reticulares paginam 118}{see reticular nuclei page 118}{ver n√∫cleos reticulares p√¢gina 118}
+N√∫cleo sagulum
+N√∫cleo sub-braquial
+N√∫cleos tegmentales anterio;N√∫cleostegmental nucleitegmentales ventrales
+N√∫cleo interfascicular
+N√∫cleo pigmentado parabraquial
+N√∫cleo paranigral
+N√∫cleo cuneiforme
+N√∫cleo subcuneiforme
+N√∫cleo tegmental pedunculopontino
+Porci√≥n compacta
+Porci√≥n dispersa
+N√∫cleos del rafe
+N√∫cleo posterior del r;N√∫cleo dorsal nucleusdel rafe
+N√∫cleo linear inferior
  tales como la substantia nigra
- adyacente al col\xe2\x84\xa2culo inferior. 
-N\xc5\x93cleo linear intermedio
-N\xc5\x93cleo linear superior
-Acueducto del mesencÈf;Acueductocerebriaqueduct cerebricerebral
-Orificio del acueducto mesencef‚l;
-Techo del mesencÈfalo
-L‚mina tec;L‚mina cuadrigÈmina
-Col\xe2\x84\xa2culo infer;TubÈrculo cuadrigÈminoinferior
-N\xc5\x93cleos del col\xe2\x84\xa2culo inferior
-N\xc5\x93cleo central
-N\xc5\x93cleo exte;N\xc5\x93cleo lateral
-N\xc5\x93cleo pericentral*
-Col\xe2\x84\xa2culo super;TubÈrculo cuadrigÈminosuperior
+ adyacente al col√≠culo inferior. 
+N√∫cleo linear intermedio
+N√∫cleo linear superior
+Acueducto del mesenc√©f;Acueductocerebriaqueduct cerebricerebral
+Orificio del acueducto mesencef√¢l;
+Techo del mesenc√©falo
+L√¢mina tec;L√¢mina cuadrig√©mina
+Col√≠culo infer;Tub√©rculo cuadrig√©minoinferior
+N√∫cleos del col√≠culo inferior
+N√∫cleo central
+N√∫cleo exte;N√∫cleo lateral
+N√∫cleo pericentral*
+Col√≠culo super;Tub√©rculo cuadrig√©minosuperior
 ICapa zo;Capa 
 Superficial grey la;Layer 
 IOptic la;Layer 
@@ -5841,24 +5876,24 @@ Intermediate grey la;Laver
 VCapa medular interme;Capa 
 Deep grey la;Layer 
 IDeep white la;Layer 
-Brazo del col\xe2\x84\xa2culo inferiorï
-Brazo del col\xe2\x84\xa2culo superiorï
-Comisura del col\xe2\x84\xa2culo inferior
-Comisura del col\xe2\x84\xa2culo superior
-DecusaciÛn de las fibras del nervio troclear
-N\xc5\x93cleos reticulares
-N\xc5\x93cleo cuneiforme
-N\xc5\x93cleo subcuneiforme
-N\xc5\x93cleo tegmental pedunculopontino
-PorciÛn compacta
-PorciÛn dispersa
-N\xc5\x93cleo parapeduncular
+Brazo del col√≠culo inferior‚Ä¢
+Brazo del col√≠culo superior‚Ä¢
+Comisura del col√≠culo inferior
+Comisura del col√≠culo superior
+Decusaci√≥n de las fibras del nervio troclear
+N√∫cleos reticulares
+N√∫cleo cuneiforme
+N√∫cleo subcuneiforme
+N√∫cleo tegmental pedunculopontino
+Porci√≥n compacta
+Porci√≥n dispersa
+N√∫cleo parapeduncular
 BE
 Fisuras del cerebelo
-L‚minas del cerebelo
-II - 
-VallÈcula del cerebeloï
-I-
+L√¢minas del cerebelo
+H 
+Vall√©cula del cerebelo‚Ä¢
+X]
 Vestibulocerebelo*
 Espinocerebelo*
 Pontocerebelo*
@@ -5866,290 +5901,297 @@ Archicerebelo*
 Paleocerebelo*
 Neocerebelo
 Cuerpo del cerebelo
-LÛbulo anterior del cerebelo
-Lingula [
- y de n\xc5\x93cleos de lamÈdula espinal
+L√≥bulo anterior del cerebelo
+L√≠ngula [I]118
+ y de n√∫cleos de lam√©dula espinal
 Fisura precent;Fisura postlingual
-II
-Anterior p;Ventral part [
 I]
+Porci√≥n anter;Porci√≥n ventral [II]
+Posterior p;Dorsal part [II
 Ala del lobulillo central
 II]
-II
+Porci√≥n super;Porci√≥n dorsal [HIII]
 Fisura preculmi;Fisura postcentral
-V]
-Anterior p;Ventral part [
+Culmen [IV y V]
+Porci√≥n anter;Porci√≥n ventral [IV]
 Fisura intraculminar
-Posterior p;Dorsal part [
-Lobulillo cuadrangular anterior [
-IV]
-V]
+Porci√≥n poster;Porci√≥n dorsal [V]
+Lobulillo cuadrangular anterior [H 
+Anterior part [H 
+Posterior p;Dorsal part [H 
 Fisura pr;Fisura preclival
-LÛbulo posterior del cerebelo
-VI et 
-Declive [
+L√≥bulo posterior del cerebelo
 VI]
+Declive [VI]
+Posterior quadrangular lobule [H 
 Fisura posterior super;Fisura postclivalclivalisfissure
-I 
-Lobulillos semiluna;Lobulillo ansiforme[
-Lobulillo semilunar super;Crus primeralobuli ansiformis [
+A]
+Lobulillos semiluna;Lobulillo ansiforme[H 
+Lobulillo semilunar super;Crus primeralobuli ansiformis [H 
 Fisura horizon;Fisura intercrural
-Lobulillo semilunar infer;Crus segundasecundum lobuli ansiformis [
-Fisura lunogr‚;Fisura ansoparamedianaansoparamedianisfissure
-B]
-Lobulillo gr‚;Lobulillo paramediano[
-Fisura predig‚str;Fisura prepiramidal
+Lobulillo semilunar infer;Crus segundasecundum lobuli ansiformis [H 
+Fisura lunogr√¢;Fisura ansoparamedianaansoparamedianisfissure
+Tuber [VI
+Lobulillo gr√¢;Lobulillo paramediano[H 
+Fisura predig√¢str;Fisura prepiramidal
+Pyramis [VI
 II]
 VI
-H 
-Fisura intradig‚str;Fisura anteroinferiorinferiorfissure
-PorciÛn medial del lobulillo dig‚str;parafloccularis dorsalis [
+Fisura intradig√¢str;Fisura anteroinferiorinferiorfissure
+Porci√≥n medial del lobulillo dig√¢str;parafloccularis dorsalis [H 
 Fisura secu;Fisura postpiramidal
-Uvula [
-Am\xe2\x84\xa2gdala del cereb;ParaflÛculo ventral[
+Am√≠gdala del cereb;Parafl√≥culo ventral[H 
 Surco posterolateral
-LÛbulo floculonodular
-Nodule [
-Ped\xc5\x93nculo del flÛculo
-X]
-CÛrtex cerebel;Corteza cerebelosa
+L√≥bulo floculonodular
+N√≥dulo [X]
+Ped√∫nculo del fl√≥culo
+Fl√≥culo [HX]
+√Årbol de la vida
+C√≥rtex cerebel;Corteza cerebelosa
 Capa granulosa
 Capa de 
 Capa molecular 
-Esta capa de cÈlulas morfolÛgicamente especializadas es conocida universalmentepor este tÈrmino propio. 
-N\xc5\x93cleos del cerebelo
-N\xc5\x93cleo dent;N\xc5\x93cleo lateral del cerebelocerebelli
-Hilio del n\xc5\x93cleo dentado
-N\xc5\x93cleo interpÛsito anter;N\xc5\x93cleoemboliformis
-N\xc5\x93cleo interpÛsito poster;N\xc5\x93cleo globosoglobosus
-N\xc5\x93cleo del fasti;N\xc5\x93cleo medial cerebellidel cerebeloï
-Ped\xc5\x93nculos del cerebelo
-Ped\xc5\x93nculo cerebeloso inferior
+Esta capa de c√©lulas morfol√≥gicamente especializadas es conocida universalmentepor este t√©rmino propio. 
+N√∫cleos del cerebelo
+N√∫cleo dent;N√∫cleo lateral del cerebelocerebelli
+Hilio del n√∫cleo dentado
+N√∫cleo interp√≥sito anter;N√∫cleoemboliformis
+N√∫cleo interp√≥sito poster;N√∫cleo globosoglobosus
+N√∫cleo del fasti;N√∫cleo medial cerebellidel cerebelo‚Ä¢
+Ped√∫nculos del cerebelo
+Ped√∫nculo cerebeloso inferior
 Cuerpo restiforme
 Cuerpo yuxtarrestiforme
-Ped\xc5\x93nculo cerebeloso medio
-Ped\xc5\x93nculo cerebeloso superior
+Ped√∫nculo cerebeloso medio
+Ped√∫nculo cerebeloso superior
 Sustancia blanca del cerebelo
 Comisura del cerebelo
-Fasc\xe2\x84\xa2culo uncinado del cerebelo
+Fasc√≠culo uncinado del cerebelo
 CE
-Epit‚lamo
-HabÈnula
-Surco de la habÈnula
-Tri‚ngulo de la habÈnula
-Gl‚ndula pin;Ep\xe2\x84\xa2fisis
+Epit√¢lamo
+Hab√©nula
+Surco de la hab√©nula
+Tri√¢ngulo de la hab√©nula
+Gl√¢ndula pin;Ep√≠fisis
 Thalamus
-TubÈrculo anterior del t‚lamo
-Adhesio intertal‚m;Comisura grisintermedia
+Tub√©rculo anterior del t√¢lamo
+Adhesio intertal√¢m;Comisura grisintermedia
 Pulvinar
-Tenia del t‚lamo
-Estr\xe2\x84\xa2a medular del t‚lamo
-Subt‚l;T‚lamo ventral
-Metat‚lamo
+Tenia del t√¢lamo
+Estr√≠a medular del t√¢lamo
+Subt√¢l;T√¢lamo ventral
+Metat√¢lamo
 Cuerpo geniculado lateral
 Cuerpo geniculado medial
-Hipot‚lamo
-TubÈrculo mamilar
-NeurohipÛfisis
-Infund\xe2\x84\xa2bulo
-PorciÛn nerviosa
-Quiasma Ûptico
-Tracto Ûptico
-Ra\xe2\x84\xa2z lateral
-Ra\xe2\x84\xa2z medial
-T\xc5\x93ber cinereum
+Hipot√¢lamo
+Tub√©rculo mamilar
+Neurohip√≥fisis
+Infund√≠bulo
+Porci√≥n nerviosa
+Quiasma √≥ptico
+Tracto √≥ptico
+Ra√≠z lateral
+Ra√≠z medial
+√Årea pre√≥ptica
+T√∫ber cinereum
 Eminencia media
-Tercer ventr\xe2\x84\xa2culo
+Tercer ventr√≠culo
 Foramen interventricular120
  \xc3\x92emboliforme\xc3\x93
-Tenia del t‚lamo
+Tenia del t√¢lamo
 Tela coroidea
 Plexo coroideo
-Estr\xe2\x84\xa2a medular del t‚lamo
+Estr√≠a medular del t√¢lamo
 Receso suprapineal
 Comisura habenular
 Receso pineal
-Comisura poster;Comisura epital‚micaïepithalamica
-Orificio del acueducto mesencef‚l;aqueductus cerebri
+Comisura poster;Comisura epital√¢mica‚Ä¢epithalamica
+Orificio del acueducto mesencef√¢l;aqueductus cerebri
 Receso infundibular
-Receso supraÛptico
-L‚mina terminal
-Columna del fÛrnix
+Receso supra√≥ptico
+L√¢mina terminal
+Columna del f√≥rnix
 Comisura anterior
-Surco hipotal‚mico
-Adhesio intertal‚m;Comisura gris
-Epit‚lamo
+Surco hipotal√¢mico
+Adhesio intertal√¢m;Comisura gris
+Epit√¢lamo
 Comisura habenular
 Fasciculus retroflexus
-N\xc5\x93cleo habenular lateral
-N\xc5\x93cleo habenular medial
-Comisura poster;Comisura epital‚micaepithalamica
-N\xc5\x93cleos pretectales
-N\xc5\x93cleo pretectal anterior
-N\xc5\x93cleo del tracto Ûptico
-N\xc5\x93cleo pretectal olivar
-N\xc5\x93cleo pretectal posterior
-T‚lamo
-Sustancia gris del t‚lamo
-N\xc5\x93cleos anteriores del t‚lamo
-N\xc5\x93cleo anterodorsal
-N\xc5\x93cleo anteromedial
-N\xc5\x93cleo anteroventral
-N\xc5\x93cleos dorsales del t‚lamo
-N\xc5\x93cleo lateral dorsal
-N\xc5\x93cleo lateral posterior
-N\xc5\x93cleos pulvinares
-N\xc5\x93cleo pulvinar anterior
-N\xc5\x93cleo pulvinar inferior
-N\xc5\x93cleo pulvinar lateral
-N\xc5\x93cleo pulvinar medial
-N\xc5\x93cleos intralaminares del t‚lamo
-N\xc5\x93cleo central lateral
-N\xc5\x93cleo central medial
-N\xc5\x93cleo centromediano
-N\xc5\x93cleo paracentral
-N\xc5\x93cleo parafascicular
-N\xc5\x93cleos mediales del t‚lamo'b'
-N\xc5\x93cleo medial dor;N\xc5\x93cleo dorsomedialnucleus
-PorciÛn parvocelular lateral
-PorciÛn magnocelular medial
-PorciÛn paralami;PorciÛn laminar
-N\xc5\x93cleo medial ventral
-N\xc5\x93cleos medianos del t‚lamo
-N\xc5\x93cleo paratenial
-N\xc5\x93cleos paraventriculares del t‚lamo
-N\xc5\x93cleo paraventricular anterior
-N\xc5\x93cleo paraventricular posterior
-N\xc5\x93cleo reuniens
-N\xc5\x93cleo romboidal
-N\xc5\x93cleos posteriores del t‚l;Complejonuclear posterior del t‚lamo
-N\xc5\x93cleo limitans
-N\xc5\x93cleo posterior
-N\xc5\x93cleo suprageniculado
-N\xc5\x93cleo reticular del t‚lamo
-N\xc5\x93cleos ventrales del t‚lamo
-N\xc5\x93cleos ventrobasa;Complejo ventrobasal
-N\xc5\x93cleo ventral posterolateral
-N\xc5\x93cleo ventral posteromedial
-PorciÛn parvocelular
-N\xc5\x93cleos ventrales media;Complejoventral medial
-N\xc5\x93cleo basal ventral medial
-N\xc5\x93cleo principal ventral medial
-N\xc5\x93cleo submedial
-N\xc5\x93cleo ventral posterior inferior
-N\xc5\x93cleos ventrales latera;Complejo ventral lateral
-N\xc5\x93cleo anterior ventrolateral
-N\xc5\x93cleo posterior ventrolateral
-N\xc5\x93cleo ventral anterior
-PorciÛn magnocelular
-PorciÛn principal
-N\xc5\x93cleo ventral intermedio
-N\xc5\x93cleo ventral posterolateral
-N\xc5\x93cleo ventral posterior interno
-N\xc5\x93cleo ventral posterior parvocelular
-Sustancia blanca del t‚lamo
-L‚mina medular lateral
-L‚mina medular medial
-RadiaciÛn ac\xc5\x93stica
+N√∫cleo habenular lateral
+N√∫cleo habenular medial
+Comisura poster;Comisura epital√¢micaepithalamica
+√Årea pretectal
+N√∫cleos pretectales
+N√∫cleo pretectal anterior
+N√∫cleo del tracto √≥ptico
+N√∫cleo pretectal olivar
+N√∫cleo pretectal posterior
+T√¢lamo
+Sustancia gris del t√¢lamo
+N√∫cleos anteriores del t√¢lamo
+N√∫cleo anterodorsal
+N√∫cleo anteromedial
+N√∫cleo anteroventral
+N√∫cleos dorsales del t√¢lamo
+N√∫cleo lateral dorsal
+N√∫cleo lateral posterior
+N√∫cleos pulvinares
+N√∫cleo pulvinar anterior
+N√∫cleo pulvinar inferior
+N√∫cleo pulvinar lateral
+N√∫cleo pulvinar medial
+N√∫cleos intralaminares del t√¢lamo
+N√∫cleo central lateral
+N√∫cleo central medial
+N√∫cleo centromediano
+N√∫cleo paracentral
+N√∫cleo parafascicular
+N√∫cleos mediales del t√¢lamo'b'
+N√∫cleo medial dor;N√∫cleo dorsomedialnucleus
+Porci√≥n parvocelular lateral
+Porci√≥n magnocelular medial
+Porci√≥n paralami;Porci√≥n laminar
+N√∫cleo medial ventral
+N√∫cleos medianos del t√¢lamo
+N√∫cleo paratenial
+N√∫cleos paraventriculares del t√¢lamo
+N√∫cleo paraventricular anterior
+N√∫cleo paraventricular posterior
+N√∫cleo reuniens
+N√∫cleo romboidal
+N√∫cleos posteriores del t√¢l;Complejonuclear posterior del t√¢lamo
+N√∫cleo limitans
+N√∫cleo posterior
+N√∫cleo suprageniculado
+N√∫cleo reticular del t√¢lamo
+N√∫cleos ventrales del t√¢lamo
+N√∫cleos ventrobasa;Complejo ventrobasal
+N√∫cleo ventral posterolateral
+N√∫cleo ventral posteromedial
+Porci√≥n parvocelular
+N√∫cleos ventrales media;Complejoventral medial
+N√∫cleo basal ventral medial
+N√∫cleo principal ventral medial
+N√∫cleo submedial
+N√∫cleo ventral posterior inferior
+N√∫cleos ventrales latera;Complejo ventral lateral
+N√∫cleo anterior ventrolateral
+N√∫cleo posterior ventrolateral
+N√∫cleo ventral anterior
+Porci√≥n magnocelular
+Porci√≥n principal
+N√∫cleo ventral intermedio
+N√∫cleo ventral posterolateral
+N√∫cleo ventral posterior interno
+N√∫cleo ventral posterior parvocelular
+Sustancia blanca del t√¢lamo
+L√¢mina medular lateral
+L√¢mina medular medial
+Radiaci√≥n ac√∫stica
 Asa lenticular
-Fasc\xe2\x84\xa2culo lenticular
+Fasc√≠culo lenticular
 Asa peduncular
-RadiaciÛn anterior del t‚lamo
-Brazo del col\xe2\x84\xa2culo inferiorï
-Brazo del col\xe2\x84\xa2culo superiorï
-RadiaciÛn central del t‚lamo
-RadiaciÛn inferior del t‚lamo
-Fibras intratal‚micas
+Radiaci√≥n anterior del t√¢lamo
+Brazo del col√≠culo inferior‚Ä¢
+Brazo del col√≠culo superior‚Ä¢
+Radiaci√≥n central del t√¢lamo
+Radiaci√≥n inferior del t√¢lamo
+Fibras intratal√¢micas
 Lemnisco lateral
-Fasc\xe2\x84\xa2culo mamilot‚lamico
+Fasc√≠culo mamilot√¢lamico
 Lemnisco medial
-RadiaciÛn Ûptica
+Radiaci√≥n √≥ptica
 Fibras periventriculares
-RadiaciÛn posterior del t‚lamo
+Radiaci√≥n posterior del t√¢lamo
 Lemnisco espinal
-Fasc\xe2\x84\xa2culo subtal‚mico
-Ped\xc5\x93nculo cerebeloso superior122
-Fasc\xe2\x84\xa2culo tal‚mico
+Fasc√≠culo subtal√¢mico
+Ped√∫nculo cerebeloso superior122
+Fasc√≠culo tal√¢mico
 Lemnisco trigeminal
-Subt‚lamo
-N\xc5\x93cleo subtal‚mico
+Subt√¢lamo
+N√∫cleo subtal√¢mico
  H1
 Nucleus of medial field 
-N\xc5\x93cleo del campo dorsal (H1)
-N\xc5\x93cleo del campo ventral (H2)
+N√∫cleo del campo dorsal (H1)
+N√∫cleo del campo ventral (H2)
 Zona ince;Zona incierta
-Metat‚lamo
-N\xc5\x93cleo dorsal del cuerpo geniculado lateral
+Metat√¢lamo
+N√∫cleo dorsal del cuerpo geniculado lateral
 Capa coniocelular
 Capa magnocelular
 Capa parvocelular
-N\xc5\x93cleo ventral del cuerpo geniculado
-L‚mina intergeniculada
-N\xc5\x93cleos del cuerpo geniculado medial
-N\xc5\x93cleo ventral principal
-N\xc5\x93cleo dorsal
-N\xc5\x93cleo medial magnocelular
-Hipot‚lamo
-N\xc5\x93cleo hipotal‚mico anterior
-N\xc5\x93cleo periventricular ventral
-N\xc5\x93cleos intersticiales del hipot‚lamo anteriorhypothalamus
-N\xc5\x93cleo preÛptico lateral
-N\xc5\x93cleo preÛptico medial
-N\xc5\x93cleo preÛptico mediano
-N\xc5\x93cleo paraventricular
-N\xc5\x93cleo preÛptico periventricular
-N\xc5\x93cleo supraquiasm‚tico
-N\xc5\x93cleo supraÛptico
-PorciÛn dorsolateral
-PorciÛn dorsomedial
-PorciÛn ventromedial
-N\xc5\x93cleo dorsomedial
-N\xc5\x93cleo endopeduncular
-N\xc5\x93cleo del asa lenticular
-Intermediate hypothalamic regionhipotal‚mica intermedia
-N\xc5\x93cleo dorsal
-N\xc5\x93cleo dorsomedial
-N\xc5\x93cleo arcu;N\xc5\x93cleo infundibular
-N\xc5\x93cleo periventricular
-N\xc5\x93cleo periventricular posterior
-N\xc5\x93cleos tuberales laterales
+N√∫cleo ventral del cuerpo geniculado
+L√¢mina intergeniculada
+N√∫cleos del cuerpo geniculado medial
+N√∫cleo ventral principal
+N√∫cleo dorsal
+N√∫cleo medial magnocelular
+Hipot√¢lamo
+√Årea hipotal√¢mica anter;Regi√≥nhypothalamic regionhipotal√¢mica anterior
+N√∫cleo hipotal√¢mico anterior
+N√∫cleo periventricular ventral
+N√∫cleos intersticiales del hipot√¢lamo anteriorhypothalamus
+N√∫cleo pre√≥ptico lateral
+N√∫cleo pre√≥ptico medial
+N√∫cleo pre√≥ptico mediano
+N√∫cleo paraventricular
+N√∫cleo pre√≥ptico periventricular
+N√∫cleo supraquiasm√¢tico
+N√∫cleo supra√≥ptico
+Porci√≥n dorsolateral
+Porci√≥n dorsomedial
+Porci√≥n ventromedial
+N√∫cleo dorsomedial
+N√∫cleo endopeduncular
+N√∫cleo del asa lenticular
+√Årea hipotal√¢mica interme;Regi√≥n
+N√∫cleo dorsal
+N√∫cleo dorsomedial
+N√∫cleo arcu;N√∫cleo infundibular
+N√∫cleo periventricular
+N√∫cleo periventricular posterior
+√Årea retroquiasm√¢t;Regi√≥nregionretroquiasm√¢tica
+N√∫cleos tuberales laterales
  del campo dorsal (fasciculus thalamicus)y del campo ventral (fasciculus lenticu-laris)comprenden
-N\xc5\x93cleo ventromedial del hipot‚lamo
-N\xc5\x93cleos tuberales laterales
-N\xc5\x93cleo perifornical
-N\xc5\x93cleo tuberomamilar
-N\xc5\x93cleo premamilar dorsal
-N\xc5\x93cleo mamilar lateral
-N\xc5\x93cleo mamilar medial
-N\xc5\x93cleo supramamilar
-N\xc5\x93cleo premamilar ventral
-N\xc5\x93cleo posterior del hipotal‚mo
-Zonas del hipotal‚mo
+N√∫cleo ventromedial del hipot√¢lamo
+√Årea hipotal√¢mica lateral
+√Årea pre√≥ptica
+N√∫cleos tuberales laterales
+N√∫cleo perifornical
+N√∫cleo tuberomamilar
+√Årea hipotal√¢mica poster;Regi√≥nhypothalamic regionhipotal√¢mica posterior
+N√∫cleo premamilar dorsal
+N√∫cleo mamilar lateral
+N√∫cleo mamilar medial
+N√∫cleo supramamilar
+N√∫cleo premamilar ventral
+N√∫cleo posterior del hipotal√¢mo
+Zonas del hipotal√¢mo
 Zona periventricular
 Zona medial
 Zona lateral
-NeurohipÛfisis {ver p‚gina 74}
-Sustancia blanca del hipot‚lamo
+Neurohip√≥fisis {ver p√¢gina 74}
+Sustancia blanca del hipot√¢lamo
 Dorsal longitudinal fasciculuslongitudinal dorsal
-Comisura supraÛptica dorsal
-Fibras de la estr\xe2\x84\xa2a terminal
-FÛrnix
+Comisura supra√≥ptica dorsal
+Fibras de la estr√≠a terminal
+F√≥rnix
 Tracto hipotalamohipofisario
 Fibras paraventriculohipofisarias
 Fibras supraopticohipofisarias
-Fasc\xe2\x84\xa2culo mamilotegmental
-Fasc\xe2\x84\xa2culo mamilotal‚mico
-Fasc\xe2\x84\xa2culo telencef‚lico medial
+Fasc√≠culo mamilotegmental
+Fasc√≠culo mamilotal√¢mico
+Fasc√≠culo telencef√¢lico medial
 Tracto paraventricular hipofisario
 Fibras periventriculares
 Tracto supraopticohipofisario
-Comisura supraÛptica ventral
-Tracto retinohipotal‚mico
+Comisura supra√≥ptica ventral
+Tracto retinohipotal√¢mico
 NC
 Hemisferio cerebral
-CÛrtex cereb;Corteza cerebral
+C√≥rtex cereb;Corteza cerebral
 Giros cerebra;Circunvoluciones cerebrales
-LÛbulos cerebrales
+L√≥bulos cerebrales
 Surcos cerebrales
 Fisura longitudinal cerebral
 Fisura transversa cerebral
@@ -6166,37 +6208,37 @@ Ramo ascendente124
 Ramo anterior
 Surco parieto-occipital
 Incisura preoccipital
-LÛbulo frontal
+L√≥bulo frontal
 Polo frontal
-OpÈrculo frontal
+Op√©rculo frontal
 Giro frontal inferior
-PorciÛn orbitaria
-PorciÛn triangular
-PorciÛn opercular
+Porci√≥n orbitaria
+Porci√≥n triangular
+Porci√≥n opercular
 Surco frontal inferior
 Giro frontal medio
 Giro precentral
 Surco precentral
 Giro frontal superior
 Surco frontal superior
-LÛbulo parietal
+L√≥bulo parietal
 Giro angular
-LÛbulo parietal inferior
-OpÈrculo parietal
+L√≥bulo parietal inferior
+Op√©rculo parietal
 Surco intraparietal
 Giro postcentral
 Surco postcentral
-LÛbulo parietal superior
+L√≥bulo parietal superior
 Giro supramarginal
-LÛbulo occipital
+L√≥bulo occipital
 Polo occipital
 Surco semilunar
 Incisura preoccipital
 Surco occipital transverso
-LÛbulo temporal
+L√≥bulo temporal
 Polo temporal
 Giro temporal superior
-OpÈrculo temporal
+Op√©rculo temporal
 Giros temporales transversos
 Giro temporal transverso anterior
 Giro temporal transverso posterior
@@ -6206,15 +6248,15 @@ Surco temporal superior
 Giro temporal medio
 Surco temporal inferior
 Giro temporal inferior
-Giros de la \xe2\x84\xa2nsula
-Giro largo de la \xe2\x84\xa2nsula
-Giros cortos de la \xe2\x84\xa2nsula
-Surco central de la \xe2\x84\xa2nsula
-Surco circular de la \xe2\x84\xa2nsula
-Limen de la \xe2\x84\xa2nsula
+Giros de la √≠nsula
+Giro largo de la √≠nsula
+Giros cortos de la √≠nsula
+Surco central de la √≠nsula
+Surco circular de la √≠nsula
+Limen de la √≠nsula
 Caras medial e inferior del hemisferiocerebriof cerebral hemispherecerebral
 Surcos interlobares
-Estas estructuras aparecen ahora bajo los encabezamientos que especifican su localizaciÛn anatÛmica propia.(
+Estas estructuras aparecen ahora bajo los encabezamientos que especifican su localizaci√≥n anat√≥mica propia.(
 Surco del cuerpo calloso
 Surco cingular
 Ramo margi;Surco marginal
@@ -6222,14 +6264,15 @@ Surco subparietal
 Surco parieto-occipital
 Surco colateral
 Surco central
-LÛbulo frontal
+L√≥bulo frontal
 Giro frontal medio
 Surco paracentral
-LÛbulo paracentral
+L√≥bulo paracentral
 Giro paracentral anterior
 Surco central
-Subcallosal gyrus\xc3\xa7rea subcall;Giro subcalloso
+Subcallosal gyrus
 Giro paraterminal
+√Årea paraolfatoria
 Giros paraolfatorios
 Surcos paraolfatorios
 Giros orbitarios
@@ -6238,14 +6281,14 @@ Giro recto
 Surco olfatorio
 Giro orbitario lateral
 Giro orbitario medial
-LÛbulo parietal
-LÛbulo paracentral
+L√≥bulo parietal
+L√≥bulo paracentral
 Giro paracentral posterior
 Precu\xc5\x92a
 Surco subparietal
 Surco parieto-occipital
 Ramo margi;Surco marginal
-LÛbulo occipital
+L√≥bulo occipital
 Cu\xc5\x92a
 Surco calcarino
 Giro lingual
@@ -6253,14 +6296,14 @@ Giro occipitotemporal lateral
 Giro occipitotemporal medial
 Surco occipitotemporal
 Surco parieto-occipital
-LÛbulo temporal
+L√≥bulo temporal
 Surco colateral
 Giro occipitotemporal medial
 Surco occipitotemporal
 Giro occipitotemporal lateral
 Surco temporal inferior
 Giro temporal inferior*
-LÛbulo l\xe2\x84\xa2mbico
+L√≥bulo l√≠mbico
 Surco cingular
 Giro cingular
 Istmo del giro cingular
@@ -6268,7 +6311,7 @@ Giro fasciolar
 Giro parahipocampal
 Un;Gancho
 Surco del hipocampo126
-Tales estructuras no est‚n relacionadas con hue-so alguno del mismo nombre y
+Tales estructuras no est√¢n relacionadas con hue-so alguno del mismo nombre y
 Giro dentado
 Surco fimbriodentado
 Fimbria del hipocampo
@@ -6280,83 +6323,84 @@ Rodilla
 Cuerpo
 Rodete
 Indusium griseum
-Estr\xe2\x84\xa2a longitudinal lateral
-Estr\xe2\x84\xa2a longitudinal medial
-RadiaciÛn del cuerpo calloso
-FÛrceps me;FÛrceps frontal
-FÛrceps ma;FÛrceps occipital
+Estr√≠a longitudinal lateral
+Estr√≠a longitudinal medial
+Radiaci√≥n del cuerpo calloso
+F√≥rceps me;F√≥rceps frontal
+F√≥rceps ma;F√≥rceps occipital
 Tapetum
-L‚mina terminal
-Comisura anteriorï
-PorciÛn anterior
-PorciÛn posterior
-FÛrnixï
+L√¢mina terminal
+Comisura anterior‚Ä¢
+Porci√≥n anterior
+Porci√≥n posterior
+F√≥rnix‚Ä¢
 Columna
 Fibras precomisurales
 Fibras postcomisurales
 Cuerpo
 Pilar
-Comisuraï
-Tenia del fÛrnix
+Comisura‚Ä¢
+Tenia del f√≥rnix
 Septum pellucidum
 Cavidad
-L‚mina
-N\xc5\x93cleo septal precomisural
-N\xc5\x93cleos septales y estructuras relacionadas
-N\xc5\x93cleo septal dorsal
-N\xc5\x93cleo septal lateral
-N\xc5\x93cleo septal medial
-N\xc5\x93cleo septofimbrial
-N\xc5\x93cleo triangular
-Ventr\xe2\x84\xa2culo lateral
+L√¢mina
+N√∫cleo septal precomisural
+N√∫cleos septales y estructuras relacionadas
+N√∫cleo septal dorsal
+N√∫cleo septal lateral
+N√∫cleo septal medial
+N√∫cleo septofimbrial
+N√∫cleo triangular
+Ventr√≠culo lateral
 Asta fron;Asta anterior
 Foramen interventricular
-PorciÛn cent;Cuerpo
-Estr\xe2\x84\xa2a terminalï
-L‚mina affixa
+Porci√≥n cent;Cuerpo
+Estr√≠a terminal‚Ä¢
+L√¢mina affixa
 Tenia coroidea
 Fisura coroidea
 Plexo coroideo
-Tr\xe2\x84\xa2gono colateral
+Tr√≠gono colateral
 Atrio
 Eminencia colateral
 Glomus coroideo
 Bulbo del asta posterior 
-EspolÛn calcarino
+Espol√≥n calcarino
 Asta occipi;Asta posterior
 Asta tempo;Asta inferior
-CÛrtex cereb;Corteza cerebral
-ArchicÛrtex
-PaleocÛrtex
-NeocÛrtex
-AllocÛrtex
-MesocÛrtex
-IsocÛrtex
-Capas del isocÛrtex
+C√≥rtex cereb;Corteza cerebral
+Archic√≥rtex
+Paleoc√≥rtex
+Neoc√≥rtex
+Alloc√≥rtex
+Mesoc√≥rtex
+Isoc√≥rtex
+Capas del isoc√≥rtex
+Molecular layer [Layer 
+External granular layer [Layer 
 I]
-II]
-II
-IV]
-V]
-VI]
-Estr\xe2\x84\xa2a de la capa molecular
-Estr\xe2\x84\xa2a de la capa granular externa
-Estr\xe2\x84\xa2a de la capa granular interna
-Estr\xe2\x84\xa2a occipital
-Estr\xe2\x84\xa2a de la capa piramidal interna
+Internal granular layer [Layer 
+Internal pyramidal layer [Layer 
+Multiform layer [Layer 
+Estr√≠a de la capa molecular
+Estr√≠a de la capa granular externa
+Estr√≠a de la capa granular interna
+Estr√≠a occipital
+Estr√≠a de la capa piramidal interna
 Fibras tangenciales
 Hipocampo
-Parasub\xe2\x84\xa2culo
+Parasub√≠culo
 Pie del hipocampo
 Digitaciones del hipocampo
-Presub\xe2\x84\xa2culo
-Sub\xe2\x84\xa2culo
+Presub√≠culo
+Sub√≠culo
 Hipocampo pro;Asta de 
-IRegion;CA1
-II
-I hippocampi prop;Regio 
-IV
+ Regi√≥n I;CA1
+ Regi√≥n II;CA2
+ Regi√≥n III;CA3
+ Regi√≥n IV;CA4
 Fimbria
+√Ålveo
 Ammon\xc2\xabs horn
 Capa lacunosomolecularlacunosum
 Capa oriens
@@ -6366,210 +6410,215 @@ Giro dentado
 Capas del giro dentado
 Capa molecular
 Capa granular
-Capa multiforme128
-TelencÈfalo basal
+Capa multiforme
+Telenc√©falo basal
 Cuerpo amigdal;Complejo amigdalino
-N\xc5\x93cleo amigdalino basolateral
-N\xc5\x93cleo amigdalino basomedial
-N\xc5\x93cleo amigdalino central
-N\xc5\x93cleo amigdalino cortical
-N\xc5\x93cleo amigdalino intersticial
-N\xc5\x93cleo amigdalino lateral
-N\xc5\x93cleo amigdalino medial
-N\xc5\x93cleo de la estr\xe2\x84\xa2a olfatoria lateral
-CÛrtex periamigdalino
-N\xc5\x93cleo olfatorio anterior
+√Årea amigdaloclaustral
+√Årea parahipocampal
+√Årea de transici√≥n amigdalopiriforme
+√Årea amigdalina anterior
+N√∫cleo amigdalino basolateral
+N√∫cleo amigdalino basomedial
+N√∫cleo amigdalino central
+N√∫cleo amigdalino cortical
+N√∫cleo amigdalino intersticial
+N√∫cleo amigdalino lateral
+N√∫cleo amigdalino medial
+N√∫cleo de la estr√≠a olfatoria lateral
+C√≥rtex periamigdalino
+N√∫cleo olfatorio anterior
 Sustancia basal
-N\xc5\x93cleo basal
-N\xc5\x93cleo del lecho de la estr\xe2\x84\xa2a terminal
-PorciÛn sublenticular de la am\xe2\x84\xa2gdala
-Claustroï
+N√∫cleo basal
+N√∫cleo del lecho de la estr√≠a terminal
+Porci√≥n sublenticular de la am√≠gdala
+Claustro‚Ä¢
 Banda diago;Cintilla diagonal
 Brazo horizontal
 Brazo vertical
-N\xc5\x93cleo de la banda diagonal
+N√∫cleo de la banda diagonal
 Sustancia innominada
-Fasc\xe2\x84\xa2culo peduncular
+Fasc√≠culo peduncular
 Islotes olfatorios
 Bulbo olfatorio
-Ped\xc5\x93nculo olfatorio
+Ped√∫nculo olfatorio
 Tracto olfatorio
-Tr\xe2\x84\xa2gono olfatorio
-TubÈrculo olfatorio
-Estr\xe2\x84\xa2as olfatorias
-Estr\xe2\x84\xa2a olfatoria medial
-Estr\xe2\x84\xa2a olfatoria lateral
+Tr√≠gono olfatorio
+Tub√©rculo olfatorio
+Estr√≠as olfatorias
+Estr√≠a olfatoria medial
+Estr√≠a olfatoria lateral
 Sustancia perforada anteriorperforata rostralis
-P‚lido ventral
+P√¢lido ventral
 Estriado vent;Cuerpo estriado ventral
-N\xc5\x93cleo accumbens
-PorciÛn lateral
-PorciÛn medial
+N√∫cleo accumbens
+Porci√≥n lateral
+Porci√≥n medial
 Asa peduncular
-N\xc5\x93cleo septal dorsal
-N\xc5\x93cleo septal lateral
-N\xc5\x93cleo septal medial
-N\xc5\x93cleo septofimbrial
-N\xc5\x93cleo triangular del septo
- en terminolog\xe2\x84\xa2as previas
+√Årea septal
+N√∫cleo septal dorsal
+N√∫cleo septal lateral
+N√∫cleo septal medial
+N√∫cleo septofimbrial
+N√∫cleo triangular del septo
+ en terminolog√≠as previas
 En consecuencia
 los nuclei striae terminalis
-N\xc5\x93cleos basales y estructuras relacionadas
-N\xc5\x93cleo caudado
+N√∫cleos basales y estructuras relacionadas
+N√∫cleo caudado
 Cabeza
 Cuerpo
 Cola
-N\xc5\x93cleo lenticular
+N√∫cleo lenticular
 Putamen
-L‚mina medular late;L‚mina medularmedullaris externamedullary laminaexterna
+L√¢mina medular late;L√¢mina medularmedullaris externamedullary laminaexterna
 Globus pallidus external segment
-L‚mina medular med;L‚mina medularmedullaris internamedullary laminainterna
-Globo p‚lido med;Globo p‚lido interno
-PorciÛn lateral
-L‚mina medular accesoria
-PorciÛn medial
+L√¢mina medular med;L√¢mina medularmedullaris internamedullary laminainterna
+Globo p√¢lido med;Globo p√¢lido interno
+Porci√≥n lateral
+L√¢mina medular accesoria
+Porci√≥n medial
 Cuerpo estriado
 Estri;Neoestriado
 Estriado dorsal
 Estriado ventral
-P‚l;Paleoestriado
-P‚lido dorsal
-P‚lido ventral
+P√¢l;Paleoestriado
+P√¢lido dorsal
+P√¢lido ventral
 Asa lenticular
-Fasc\xe2\x84\xa2culo lenticular
-Fasc\xe2\x84\xa2culo subtal‚mico
-Fasc\xe2\x84\xa2culo tal‚mico
-C‚psula interna
+Fasc√≠culo lenticular
+Fasc√≠culo subtal√¢mico
+Fasc√≠culo tal√¢mico
+C√¢psula interna
 Puentes grises caudolenticulares
 Brazo anterior
-RadiaciÛn tal‚mica anterior
+Radiaci√≥n tal√¢mica anterior
 Fibras frontopontinas
-Rodilla de la c‚psula interna*
+Rodilla de la c√¢psula interna*
 Fibras corticonucleares*
 Brazo posterior
-RadiaciÛn tal‚mica central
+Radiaci√≥n tal√¢mica central
 Fibras corticorreticulares
 Fibras corticorrubrales
 Fibras corticoespinales
-Fibras corticotal‚micas
+Fibras corticotal√¢micas
 Fibras parietopontinas
 Fibras talamoparietales
-PorciÛn retrolenticularlimb
+Porci√≥n retrolenticularlimb
 Fibras occipitopontinas
 Fibras occipitotectales
-RadiaciÛn Ûpt;Fibras geniculocalcarinasfibres130
+Radiaci√≥n √≥pt;Fibras geniculocalcarinasfibres130
  impropiamente
- utilizado com\xc5\x93nmente en la terminolog\xe2\x84\xa2a en el pasado
+ utilizado com√∫nmente en la terminolog√≠a en el pasado
  sublenticulares y retrolenticulares. 
-RadiaciÛn tal‚mica posterior
-PorciÛn sublenticular
+Radiaci√≥n tal√¢mica posterior
+Porci√≥n sublenticular
 Geniculotemporal fibresgeniculotemporales
 Fibras corticotectales
-RadiaciÛn Ûptica
+Radiaci√≥n √≥ptica
 Fibras temporopontinas
-Fibras corticotal‚micas
+Fibras corticotal√¢micas
 Corona radiada
-C‚psula externa
-C‚psula extrema
-Comisura anteriorï
-PorciÛn anterior
-PorciÛn posterior
-Fibras de asociaciÛn del telencÈfalo
+C√¢psula externa
+C√¢psula extrema
+Comisura anterior‚Ä¢
+Porci√≥n anterior
+Porci√≥n posterior
+Fibras de asociaci√≥n del telenc√©falo
 Fibras arcuatas
-C\xe2\x84\xa2ngulo
-Fasc\xe2\x84\xa2culo longitudinal anterior
+C√≠ngulo
+Fasc√≠culo longitudinal anterior
 Arcuate fasciculusarcuato
-Fibras de asociaciÛn largas
-Fibras de asociaciÛn cortas
-Fasc\xe2\x84\xa2culo uncinado
-Fasc\xe2\x84\xa2culo occipitofrontal inferior
-Fasc\xe2\x84\xa2culo occipitofrontal super;Fasc\xe2\x84\xa2culo
-Fasc\xe2\x84\xa2culos occipitales verticales
+Fibras de asociaci√≥n largas
+Fibras de asociaci√≥n cortas
+Fasc√≠culo uncinado
+Fasc√≠culo occipitofrontal inferior
+Fasc√≠culo occipitofrontal super;Fasc√≠culo
+Fasc√≠culos occipitales verticales
 Fibras laterales
 Fibras caudales
-Fasc\xe2\x84\xa2culos occipitales transversos
+Fasc√≠culos occipitales transversos
 Fibras cuneiformes
 Fibras linguales
-Fibras comisurales del telencÈfalo
+Fibras comisurales del telenc√©falo
 Fibras del cuerpo calloso
 Comisura del hipocampo
-Comisura anteriorï
-Grupos celulares definidos qu\xe2\x84\xa2micamente
-CÈlulas aminÈrgicas
-CÈlulas noradrenÈrgicas del bulbo raqu\xe2\x84\xa2deo[A1
-CÈlulas noradrenÈrgicas del n\xc5\x93cleo dellateralis [A7]lateral lemnis;Norepinephric cellslemnisco lateral [A7]in nucleus of lateral lemniscus [A7]
-CÈlulas noradrenÈrgicas del locus 
-CÈlulas noradrenÈrgicas del puentelateralis [A5]p;Norepinephric cells in caudolateral [A5]caudolateral pons [A5]
-CÈlulas aminÈrgicas de la formaciÛn reticu;
-CÈlulas dopaminÈrgicas
-CÈlulas noradrenÈrgicascells
-CÈlulas aminÈrgicas de la porciÛn compacta substantiae nigrae [A9]of substantia nigra [A9]de la sustancia negra [A9]
-CÈlulas dopaminÈrgicas
-CÈlulas noradrenÈrgicas
-CÈlulas aminÈrgicas del ‚rea tegmental ventralis [A10]area [A10]ventral [A10]
-CÈlulas dopaminÈrgicas
-CÈlulas noradrenÈrgicas'b'
-CÈlulas dopaminÈgicas del hipot‚lamohypothalamicae posterioris [A11]hypothalamus [A11]posterior [A11]
-CÈlulas dopaminÈrgicas del n\xc5\x93cleo arcuato [A12]
-CÈlulas dopaminÈrgicas de la zona incerta [A13]
-CÈlulas dopaminÈrgicas de la zona medial et areae anterioris hypothalamicae [A14]anterior area of hypothalamus [A14]y ‚rea anterior del hipot‚lamo [A14]
-CÈlulas dopaminÈrgicas del bulbo olfatorio [A15]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo p‚lido pallidi [B1]nucleus [B1]del rafe [B1]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo oscuroobscuri [B2]nucleus [B2]del rafe [B2]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo magno magni[B3]nucleus [B3]del rafe [B3]
-CÈlulas serotoninÈrgicas adyacentes vestibularis medialis et nucleus vestibular nucleus and prepositus al n\xc5\x93cleo vestibular medial y n\xc5\x93cleo prepositus [B4]nucleus [B4]prepÛsito [B4]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo pontino pontis [B5]nucleus [B5]del rafe [B5]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo mediano mediani [B6]nucleus [B6]del rafe [B6]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo dorsal dorsalis [B7]nucleus [B7]del rafe [B7]
-CÈlulas adrenÈrgicas del ‚rea postremanuclei reticularis anterioris [C1
-CÈlulas colinÈrgicas
-CÈlulas colinÈrgicas del n\xc5\x93cleo septal medialis [
+Comisura anterior‚Ä¢
+Grupos celulares definidos qu√≠micamente
+C√©lulas amin√©rgicas
+C√©lulas noradren√©rgicas del bulbo raqu√≠deo[A1
+C√©lulas noradren√©rgicas del n√∫cleo dellateralis [A7]lateral lemnis;Norepinephric cellslemnisco lateral [A7]in nucleus of lateral lemniscus [A7]
+C√©lulas noradren√©rgicas del locus 
+C√©lulas noradren√©rgicas del puentelateralis [A5]p;Norepinephric cells in caudolateral [A5]caudolateral pons [A5]
+C√©lulas amin√©rgicas de la formaci√≥n reticu;
+C√©lulas dopamin√©rgicas
+C√©lulas noradren√©rgicascells
+C√©lulas amin√©rgicas de la porci√≥n compacta substantiae nigrae [A9]of substantia nigra [A9]de la sustancia negra [A9]
+C√©lulas dopamin√©rgicas
+C√©lulas noradren√©rgicas
+C√©lulas amin√©rgicas del √¢rea tegmental ventralis [A10]area [A10]ventral [A10]
+C√©lulas dopamin√©rgicas
+C√©lulas noradren√©rgicas'b'
+C√©lulas dopamin√©gicas del hipot√¢lamohypothalamicae posterioris [A11]hypothalamus [A11]posterior [A11]
+C√©lulas dopamin√©rgicas del n√∫cleo arcuato [A12]
+C√©lulas dopamin√©rgicas de la zona incerta [A13]
+C√©lulas dopamin√©rgicas de la zona medial et areae anterioris hypothalamicae [A14]anterior area of hypothalamus [A14]y √¢rea anterior del hipot√¢lamo [A14]
+C√©lulas dopamin√©rgicas del bulbo olfatorio [A15]
+C√©lulas serotonin√©rgicas del n√∫cleo p√¢lido pallidi [B1]nucleus [B1]del rafe [B1]
+C√©lulas serotonin√©rgicas del n√∫cleo oscuroobscuri [B2]nucleus [B2]del rafe [B2]
+C√©lulas serotonin√©rgicas del n√∫cleo magno magni[B3]nucleus [B3]del rafe [B3]
+C√©lulas serotonin√©rgicas adyacentes vestibularis medialis et nucleus vestibular nucleus and prepositus al n√∫cleo vestibular medial y n√∫cleo prepositus [B4]nucleus [B4]prep√≥sito [B4]
+C√©lulas serotonin√©rgicas del n√∫cleo pontino pontis [B5]nucleus [B5]del rafe [B5]
+C√©lulas serotonin√©rgicas del n√∫cleo mediano mediani [B6]nucleus [B6]del rafe [B6]
+C√©lulas serotonin√©rgicas del n√∫cleo dorsal dorsalis [B7]nucleus [B7]del rafe [B7]
+C√©lulas adren√©rgicas del √¢rea postremanuclei reticularis anterioris [C1
+C√©lulas colin√©rgicas
+C√©lulas colin√©rgicas del n√∫cleo septal medialis [Ch1]nuclei [Ch1]medial [Ch1]
 Cholinergic cells of globus pallidus
 Cholinergic cells ol globus pallidus
-CÈlulas colinÈrgicas de la sustancia innominatae
-CÈlulas colinÈrgicas del ‚rea tegmental dorsalis [
-Cholinergic cells of epithalamus [
-Sistema nervioso perifÈriconervosum periphericum
+C√©lulas colin√©rgicas de la sustancia innominatae
+C√©lulas colin√©rgicas del √¢rea tegmental dorsalis [Ch5
+C√©lulas colin√©rgicas del epit√¢lamo [Ch7]
+Sistema nervioso perif√©riconervosum periphericum
 Ganglio
-C‚psula
+C√¢psula
 Estroma
 Ganglio craneoespinal sensitivo
 Ganglio sensitivo de los nervios espina;ganglion
 Ganglio sensitivo de los nervios craneales
-Ganglio autÛnomo
+Ganglio aut√≥nomo
 Fibras nerviosas preganglionares
 Fibras nerviosas postganglionares
-Ganglio simp‚tico
-Ganglio parasimp‚tico
+Ganglio simp√¢tico
+Ganglio parasimp√¢tico
 Nervio
 Endoneuro
 Perineuro
 Epineuro
 Fibras nerviosas aferentes
 Fibras nerviosas eferentes
-Fibras nerviosas som‚ticas
-Fibras nerviosas autÛnomas132
+Fibras nerviosas som√¢ticas
+Fibras nerviosas aut√≥nomas132
 N. motor
 N. sensitivo
 N. mixto
-R. cut‚neo
+R. cut√¢neo
 R. articular
 R. muscular
-N. espi;N. raqu\xe2\x84\xa2deo
+N. espi;N. raqu√≠deo
 Filetes radiculares
-Ra\xe2\x84\xa2z anter;Ra\xe2\x84\xa2z mot;Ra\xe2\x84\xa2z ventral
-Ra\xe2\x84\xa2z poster;Ra\xe2\x84\xa2z sensit;Ra\xe2\x84\xa2z dorsal
+Ra√≠z anter;Ra√≠z mot;Ra√≠z ventral
+Ra√≠z poster;Ra√≠z sensit;Ra√≠z dorsal
 Tr\nonco del nervio espinal
-R. men\xe2\x84\xa2n;R. recurrente
+R. men√≠n;R. recurrente
 R. comunicante
 R. anterior
 R. posterior
 Cola de caballo
 Plexo nervioso espinal
 N. craneal
-N. autÛnomo
-R. autÛnomo
-Plexo autÛnomo
+N. aut√≥nomo
+R. aut√≥nomo
+Plexo aut√≥nomo
 Plexo visceral
 Plexo vascular
 Plexo periarterial
@@ -6577,22 +6626,22 @@ Nn. vasorum
 Nervios craneales
 N. terminal [0]
 Ganglio terminal
-Olfactory nerve [
+Nervio olfatorio [I]
 Nervios olfatorios
-Optic nerve [
-I]
+Nervio √≥ptico [II]
+Oculomotor nerve [II
 R. superior
 R. inferior
-Parasympathetic root of ciliary gangl; parasimp‚tica del ganglio cil;Ra\xe2\x84\xa2zoculomotoria ganglii ciliaris
-Tr\nochlear nerve [
-Trigeminal nerve [
-Ra\xe2\x84\xa2z sensitiva
-Ganglio del trigÈmino
-Ra\xe2\x84\xa2z motora
-Nervio oft‚lmico [; V1]division [; V1]
-R. men\xe2\x84\xa2ngeo recurre;R. tentorial
+Parasympathetic root of ciliary gangl; parasimp√¢tica del ganglio cil;Ra√≠zoculomotoria ganglii ciliaris
+Nervio trocl;Nervio pat√©tico [IV]
+Nervio trig√©mino [V]
+Ra√≠z sensitiva
+Ganglio del trig√©mino
+Ra√≠z motora
+Nervio oft√¢lmico [V1]division [V1]
+R. men√≠ngeo recurre;R. tentorial
 N. lagrimal
-R. comunicante con el nervio cigom‚ticozygomatic nerve
+R. comunicante con el nervio cigom√¢ticozygomatic nerve
 N. frontal
 N. supraorbitario
 R. lateral
@@ -6602,7 +6651,7 @@ N. nasociliar'b'
 Radix sensoria ganglii cilia; gangl;Sensory root of ciliary
 Nn. ciliares largos
 N. etmoidal posterior
-R. men\xe2\x84\xa2ngeo anterior
+R. men√≠ngeo anterior
 N. etmoidal anterior
 Rr. nasales internos
 Rr. nasales laterales
@@ -6610,14 +6659,14 @@ Rr. nasales mediales
 R. nasal externo
 N. infratroclear
 Rr. palpebrales
-Nervio maxilar [; V2]division [; V2]
-R. men\xe2\x84\xa2ngeo
-Rr. ganglionares para el gangliopterygopalati;Radix sensoria gangliito pterygopalatinegangl;Sensorypterigopalat;Ra\xe2\x84\xa2z sensitiva del gangliopterygopalatiniroot  of pterygopalatine ganglionpterigopalatino
+Nervio maxilar [V2]division [V2]
+R. men√≠ngeo
+Rr. ganglionares para el gangliopterygopalati;Radix sensoria gangliito pterygopalatinegangl;Sensorypterigopalat;Ra√≠z sensitiva del gangliopterygopalatiniroot  of pterygopalatine ganglionpterigopalatino
 Rr. orbitarios
 Rr. nasales posteriores superiores laterales
 Rr. nasales posteriores superiores mediales
 N. nasopalatino
-N. far\xe2\x84\xa2ngeo
+N. far√≠ngeo
 N. palatino mayor
 Rr. nasales posteriores inferiores
 Nn. palatinos menores
@@ -6629,7 +6678,7 @@ Rr. alveolares superiores anteriores
 Plexo dentario superior
 Rr. dentarios superiores
 Rr. gingivales superiores
-N. cigom‚tico
+N. cigom√¢tico
 R. cigomaticotemporal
 R. cigomaticofacial
 N. infraorbitario
@@ -6637,30 +6686,30 @@ Rr. palpebrales inferiores
 Rr. nasales externos
 Rr. nasales internos
 Rr. labiales superiores
-Nervio mandibular [; V3]division [; V3]
-R. men\xe2\x84\xa2n;N. espinoso
+Nervio mandibular [V3]division [V3]
+R. men√≠n;N. espinoso
 N. pterigoideo medial
-Rr. ganglionares para el ganglio Ût;sensoria ganglii oticiroot of otic ganglion
-N. del m\xc5\x93sculo tensor del velo del paladar
-N. del m\xc5\x93sculo tensor del t\xe2\x84\xa2mpano
+Rr. ganglionares para el ganglio √≥t;sensoria ganglii oticiroot of otic ganglion
+N. del m√∫sculo tensor del velo del paladar
+N. del m√∫sculo tensor del t√≠mpano
 N. maseterino
 Nn. temporales profundos
-N. del m\xc5\x93sculo pterigoideo lateral
+N. del m√∫sculo pterigoideo lateral
 N. bucal
 N. auriculotemporal
 N. del conducto auditivo externo
-Rr. de la membrana del t\xe2\x84\xa2mpano
-Rr. parot\xe2\x84\xa2deos
+Rr. de la membrana del t√≠mpano
+Rr. parot√≠deos
 Rr. comunicantes con el nervio facialnerve
 Nn. auriculares anteriores134
 Rr. temporales superficiales
 N. lingual
 Rr. para el istmo de las fauces
 Rr. comunicantes con el nervio hipoglosohypoglossal nerve
-Cuerda del t\xe2\x84\xa2mpano
+Cuerda del t√≠mpano
 N. sublingual
 Rr. linguales
-Rr. ganglionares para el gangliosubmandibul;Radix sensoria ganglii to submandibular gangl;Sensorysubmandibu;Ra\xe2\x84\xa2z sensitiva del gangliosubmandibularisroot of submandibular ganglionsubmandibular
+Rr. ganglionares para el gangliosubmandibul;Radix sensoria ganglii to submandibular gangl;Sensorysubmandibu;Ra√≠z sensitiva del gangliosubmandibularisroot of submandibular ganglionsubmandibular
 Rr. ganglionares para el ganglio
 N. alveolar inferior
 N. milohioideo
@@ -6671,19 +6720,19 @@ N. mentoniano
 Rr. mentonianos
 Rr. labiales
 Rr. gingivales
-Abducent ne;Abducens nerve [
-I]
+Nervio abduc;Nervio motor ocularexterno [VI]
+Facial nerve [VI
 Rodilla
 N. estapedio
 N. auricular posterior
 R. occipital
 R. auricular
-R. dig‚strico
+R. dig√¢strico
 R. estilohioideo
-R. comunicante con el nervio glosofar\xe2\x84\xa2ngeoglossopharyngeal nerve
-Plexo intraparot\xe2\x84\xa2deo
+R. comunicante con el nervio glosofar√≠ngeoglossopharyngeal nerve
+Plexo intraparot√≠deo
 Rr. temporales
-Rr. cigom‚ticos
+Rr. cigom√¢ticos
 Rr. bucales
 (R. lingual)
 R. marginal mandibular
@@ -6691,97 +6740,97 @@ R. cervical
 Nervio intermedio
 Ganglio geniculado
 Parasympathetic root del ganglio pterigopalatinoganglii pterigopalatiniof pterigopalatine ganglion
-Cuerda del t\xe2\x84\xa2mp;Ra\xe2\x84\xa2z parasimp‚ticasubmandibularisroot of submandibular gangliondel ganglio submandibular
-R. comunicante con el plexo timp‚nicoplexus
+Cuerda del t√≠mp;Ra√≠z parasimp√¢ticasubmandibularisroot of submandibular gangliondel ganglio submandibular
+R. comunicante con el plexo timp√¢nicoplexus
 R. comunicante con el nervio vago
-II]
+Vestibulocochlear nerve [VI
 Nervio vestibular
 Ganglio vestibular
 R. comunicante coclear
-PorciÛn superior
-N. utriculoampularï
+Porci√≥n superior
+N. utriculoampular‚Ä¢
 N. utricular
 N. ampular anterior'b'
 N. ampular lateral 
-PorciÛn inferior
+Porci√≥n inferior
 N. ampular posterior
 N. sacular
 Nervio coclear
 Ganglio cocl;Ganglio espiral
-Glossopharyngeal nerve [
-Ganglio superiorï
-Ganglio inferiorï
-N. timp‚nico
-Intumescencia timp‚n;Ganglio timp‚nicotympanicumganglion
-Plexo timp‚nico
-R. tub‚rico
-Nn. carotidotimp‚nicos
+Nervio glosofar√≠ngeo [IX]
+Ganglio superior‚Ä¢
+Ganglio inferior‚Ä¢
+N. timp√¢nico
+Intumescencia timp√¢n;Ganglio timp√¢nicotympanicumganglion
+Plexo timp√¢nico
+R. tub√¢rico
+Nn. carotidotimp√¢nicos
 R. comunicante con el ramo auricular vagibranch of vagus nervedel nervio vago
-Rr. far\xe2\x84\xa2ngeos
-R. del m\xc5\x93sculo estilofar\xe2\x84\xa2ngeo
-R. carot\xe2\x84\xa2deo
+Rr. far√≠ngeos
+R. del m√∫sculo estilofar√≠ngeo
+R. carot√≠deo
 Rr. tonsila;Rr. amigdalinos
 Rr. linguales
-Parasympathetic root of otic gangliondel ganglio Ûticoï
-R. comunicante con el ramo men\xe2\x84\xa2ngeomeningeal branch
+Parasympathetic root of otic gangliondel ganglio √≥tico‚Ä¢
+R. comunicante con el ramo men√≠ngeomeningeal branch
 R. comunicante con el nervio auriculotemporaliauriculotemporal nerveauriculotemporal
-R. comunicante con la cuerda del t\xe2\x84\xa2mpanotympani
-Vagus nerve [
-Ganglio superiorï
-R. men\xe2\x84\xa2ngeo
+R. comunicante con la cuerda del t√≠mpanotympani
+Nervio vago [X]
+Ganglio superior‚Ä¢
+R. men√≠ngeo
 R. auricular
-Ganglio inferiorï
-R. comunicante con el nervio glosofar\xe2\x84\xa2ngeoglossopharyngeoglossopharyngeal nerve
-R. far\xe2\x84\xa2ngeo
-Plexo far\xe2\x84\xa2ngeo
-N. lar\xe2\x84\xa2ngeo superior
+Ganglio inferior‚Ä¢
+R. comunicante con el nervio glosofar√≠ngeoglossopharyngeoglossopharyngeal nerve
+R. far√≠ngeo
+Plexo far√≠ngeo
+N. lar√≠ngeo superior
 R. externo
 R. interno
-R. comunicante con el nervio lar\xe2\x84\xa2ngeorecurrentirecurrent  laryngeal nerverecurrente
-Rr. card\xe2\x84\xa2acos cervicales superiores
-Rr. card\xe2\x84\xa2acos cervicales inferiores
-N. lar\xe2\x84\xa2ngeo recurrenteï
+R. comunicante con el nervio lar√≠ngeorecurrentirecurrent  laryngeal nerverecurrente
+Rr. card√≠acos cervicales superiores
+Rr. card√≠acos cervicales inferiores
+N. lar√≠ngeo recurrente‚Ä¢
 Rr. traqueales
-Rr. esof‚gicos
-Rr. far\xe2\x84\xa2ngeos
-Rr. card\xe2\x84\xa2acos tor‚cicos
+Rr. esof√¢gicos
+Rr. far√≠ngeos
+Rr. card√≠acos tor√¢cicos
 Rr. bronquiales
 Plexo pulmonar
-Plexo esof‚gico
+Plexo esof√¢gico
 Tr\nonco vagal anterior
-Rr. g‚stricos anteriores
+Rr. g√¢stricos anteriores
 N. anterior de la curvatura menor
-Rr. hep‚ticos
-R. pilÛrico136
+Rr. hep√¢ticos
+R. pil√≥rico136
 Tr\nonco vagal posterior
-Rr. g‚stricos posteriores
+Rr. g√¢stricos posteriores
 N. posterior de la curvatura menor
-Rr. cel\xe2\x84\xa2acos
+Rr. cel√≠acos
 Rr. renales
-Accessory nerve [
-Ra\xe2\x84\xa2z cran;PorciÛn vagalï
-Ra\xe2\x84\xa2z espi;PorciÛn espinalï
+Nervio accesorio [XI]
+Ra√≠z cran;Porci√≥n vagal‚Ä¢
+Ra√≠z espi;Porci√≥n espinal‚Ä¢
 Tr\nonco del nervio accesorio
-R. internoï
+R. interno‚Ä¢
 R. externo
 Rr. musculares
-I]
+Hypoglossal nerve [XI
 Rr. linguales
-Nervios espina;Nervios raqu\xe2\x84\xa2deos
+Nervios espina;Nervios raqu√≠deos
 I 
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posterior
+R. cut√¢neo posterior
 N. suboccipital
 N. occipital mayor
 N. occipital tercero
 Plexo cervical posterior
 Ramos anterio;Ramos ventrales
 Plexo cervical
-Asa cervicalï
-Ra\xe2\x84\xa2z superiorï
-Ra\xe2\x84\xa2z inferiorï
+Asa cervical‚Ä¢
+Ra√≠z superior‚Ä¢
+Ra√≠z inferior‚Ä¢
 R. tirohioideo
 N. occipital menor
 N. auricular mayor
@@ -6793,45 +6842,45 @@ Rr. inferiores
 Nn. supraclaviculares
 Nn. supraclaviculares mediales
 Nn. supraclaviculares intermedios
-Nn. supraclaviculares lateralesï
-Nervio frÈnico
-R. peric‚rdico
-Rr. frÈnico-abdominales
-(Nn. frÈnicos accesorios)
+Nn. supraclaviculares laterales‚Ä¢
+Nervio fr√©nico
+R. peric√¢rdico
+Rr. fr√©nico-abdominales
+(Nn. fr√©nicos accesorios)
 Plexo braquial
-Ra\xe2\x84\xa2ces
+Ra√≠ces
 Tr\noncos
 Tr\nonco superior
 Tr\nonco medio'b'
 Tr\nonco inferior
 Divisiones anteriores
 Divisiones posteriores
-Fasc\xe2\x84\xa2culos
-PorciÛn supraclavicular
-N. dorsal de la esc‚pula
-N. tor‚cico largoï
+Fasc√≠culos
+Porci√≥n supraclavicular
+N. dorsal de la esc√¢pula
+N. tor√¢cico largo‚Ä¢
 N. subclavio
-N. supraescapularï
+N. supraescapular‚Ä¢
 Nn. subescapulares
-N. toracodorsalï
+N. toracodorsal‚Ä¢
 N. pectoral medial
 N. pectoral lateral
 Rr. musculares
-PorciÛn infraclavicular
-Fasc\xe2\x84\xa2culo lateral
-Fasc\xe2\x84\xa2culo medial
-Fasc\xe2\x84\xa2culo posterior
-N. musculocut‚neo
+Porci√≥n infraclavicular
+Fasc√≠culo lateral
+Fasc√≠culo medial
+Fasc√≠culo posterior
+N. musculocut√¢neo
 Rr. musculares
-N. cut‚neo lateral del antebr;N. cut‚neo
-Medialbrachial cutaneous nervebraquial medialï
-N. cut‚neo medial del antebr;Medial antebrachial cutaneous nerve
+N. cut√¢neo lateral del antebr;N. cut√¢neo
+Medialbrachial cutaneous nervebraquial medial‚Ä¢
+N. cut√¢neo medial del antebr;Medial antebrachial cutaneous nerve
 R. anterior
 R. posterior
 Nervio mediano
-Ra\xe2\x84\xa2z medial del nervio mediano
-Ra\xe2\x84\xa2z lateral del nervio mediano
-N. interÛseo antebraquial anterior
+Ra√≠z medial del nervio mediano
+Ra√≠z lateral del nervio mediano
+N. inter√≥seo antebraquial anterior
 Rr. musculares
 R. palmar
 R. comunicante con el nervio cubitalnerve
@@ -6847,64 +6896,64 @@ Nn. digitales palmares comunes
 Nn. digitales palmares propios
 R. profundo
 Nervio radial
-N. cut‚neo posterior del br;N. cut‚neo
-N. cut‚neo lateral inferior del br;Inferior lateral brachial cutaneous nerve
-N. cut‚neo posterior del antebr;Posterior antebrachial cutaneous nerve
+N. cut√¢neo posterior del br;N. cut√¢neo
+N. cut√¢neo lateral inferior del br;Inferior lateral brachial cutaneous nerve
+N. cut√¢neo posterior del antebr;Posterior antebrachial cutaneous nerve
 Rr. musculares
 R. profundo
-N. interÛseo antebraquial posterior
+N. inter√≥seo antebraquial posterior
 R. superficial138
 R. comunicante con el nervio cubitalnerve
 Nn. digitales dorsales
-Nervio axilarï
+Nervio axilar‚Ä¢
 Rr. musculares
-N. cut‚neo lateral superior del br; of ;Superior lateral brachial 
-I 
+N. cut√¢neo lateral superior del brazo; N. cut√¢neo braquial lateral superior
+NERVIOS TOR√ÅCICOS [T1-T12]
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posteriorcutaneous nerve
+R. cut√¢neo posteriorcutaneous nerve
 Nn. intercosta;Ramos anterio;ventrales
 Rr. musculares
 R. colateral
-R. cut‚neo pectoral lateral
+R. cut√¢neo pectoral lateral
 Rr. mamarios laterales
-R. cut‚neo abdominal lateral
+R. cut√¢neo abdominal lateral
 Nn. intercostobraquiales
-R. cut‚neo pectoral anterior
+R. cut√¢neo pectoral anterior
 Rr. mamarios mediales
-R. cut‚neo abdominal anterior
+R. cut√¢neo abdominal anterior
 N. subcostal
 I 
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posteriorcutaneous nerve
-Nn. cl\xc5\x93neos superiores
+R. cut√¢neo posteriorcutaneous nerve
+Nn. cl√∫neos superiores
 Plexo posterior
 Ramos anterio;Ramos ventrales
 I 
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posteriorcutaneous nerve
-Nn. cl\xc5\x93neos medios
+R. cut√¢neo posteriorcutaneous nerve
+Nn. cl√∫neos medios
 Ramos anterio;Ramos ventrales
 Plexo lumbosacro
 Plexo lumbar
-N. iliohipog‚str;N. iliop\xc5\x93bicoï
-R. cut‚neo lateral
-R. cut‚neo anterior
-N. ilioinguinalï
+N. iliohipog√¢str;N. iliop√∫bico‚Ä¢
+R. cut√¢neo lateral
+R. cut√¢neo anterior
+N. ilioinguinal‚Ä¢
 Nn. labiales anteriores 
 Nn. escrotales anteriores 
 N. genitofemoral'b'
 R. genital
 R. femoral
-N. cut‚neo lateral del mu;
+N. cut√¢neo lateral del mu;
 N. obturador
 R. anterior
-R. cut‚neo
+R. cut√¢neo
 Rr. musculares
 R. posterior
 Rr. musculares
@@ -6912,52 +6961,52 @@ R. articular
 N. obturador accesorio
 N. femoral
 Rr. musculares
-Rr. cut‚neos anteriores
-N. safenoï
+Rr. cut√¢neos anteriores
+N. safeno‚Ä¢
 R. infrapatelar
 Medial crural cutaneous nerve
 Tr\nonco lumbosacro
 Plexo sacro
-N. del m\xc5\x93sculo obturador interno
-N. del m\xc5\x93sculo piramidal
-N. del m\xc5\x93sculo cuadrado femoral
-N. gl\xc5\x93teo superior
-N. gl\xc5\x93teo inferior
-N. cut‚neo posterior del mu;
-Nn. cl\xc5\x93neos inferiores
+N. del m√∫sculo obturador interno
+N. del m√∫sculo piramidal
+N. del m√∫sculo cuadrado femoral
+N. gl√∫teo superior
+N. gl√∫teo inferior
+N. cut√¢neo posterior del mu;
+Nn. cl√∫neos inferiores
 Rr. perineales
-N. cut‚neo perforante
+N. cut√¢neo perforante
 N. pudendo
 Nn. anales inferio;Nn. rectales inferioresnerves
 Nn. perineales
 Nn. labiales posteriores 
 Nn. escrotales posteriores
 Rr. musculares
-N. dorsal del cl\xe2\x84\xa2toris 
+N. dorsal del cl√≠toris 
 N. dorsal del pene
-Nervio cox\xe2\x84\xa2geo
-Plexo cox\xe2\x84\xa2geo
-N. anocox\xe2\x84\xa2geo
-N. ci‚ticoï
-N. fibular com\xc5\x;N. peroneo com\xc5\x93nïcommunisperoneal nerve
-N. cut‚neo sural lateralï
+Nervio cox√≠geo
+Plexo cox√≠geo
+N. anocox√≠geo
+N. ci√¢tico‚Ä¢
+N. fibular com\xc5\x;N. peroneo com√∫n‚Ä¢communisperoneal nerve
+N. cut√¢neo sural lateral‚Ä¢
 R. comunicante fibu;R. comunicanteperoneusperoneo
-N. fibular superfic;N. peroneo superficialïsuperficialisperoneal nerve
+N. fibular superfic;N. peroneo superficial‚Ä¢superficialisperoneal nerve
 Rr. musculares
-N. cut‚neo dorsal medial
-N. cut‚neo dorsal intermedio
+N. cut√¢neo dorsal medial
+N. cut√¢neo dorsal intermedio
 Nn. digitales dorsales del pie
-N. fibular profu;N. peroneo profundoïnerve
+N. fibular profu;N. peroneo profundo‚Ä¢nerve
 Rr. musculares
 Nn. digitales dorsales del pie140
-N. tibialï
+N. tibial‚Ä¢
 Rr. musculares
-N. interÛseo de la pie;N. interÛseo cruralinterosseous nerve
-N. cut‚neo sural medial
-N. suralï
-N. cut‚neo dorsal lateral
-Rr. calc‚neos laterales
-Rr. calc‚neos mediales
+N. inter√≥seo de la pie;N. inter√≥seo cruralinterosseous nerve
+N. cut√¢neo sural medial
+N. sural‚Ä¢
+N. cut√¢neo dorsal lateral
+Rr. calc√¢neos laterales
+Rr. calc√¢neos mediales
 N. plantar medial
 Nn. digitales plantares comunes
 Nn. digitales plantares propios
@@ -6966,10 +7015,10 @@ R. superficial
 Nn. digitales plantares comunes
 Nn. digitales plantares propios
 R. profundo
-DivisiÛn autÛn;PorciÛn autÛnomasystematis nervosi periphericiof peripheral nervous systemdel sistema nervioso perifÈrico
-SY
-Tr\nonco simp‚ticoï
-Ganglio del tronco simp‚tico
+Divisi√≥n aut√≥noma;Porci√≥n aut√≥noma del sistema nervioso perif√©rico
+PORCI√ìN SIMP√ÅTICA
+Tronco simp√°tico‚Ä¢
+Ganglio del tronco simp√¢tico
 Rr. interganglionares
 Rr. comunicantes
 R. comunicante gris
@@ -6977,131 +7026,131 @@ R. comunicante blanco
 Ganglios intermedios
 Ganglio cervical superior
 N. yugular
-N. carot\xe2\x84\xa2deo interno
+N. carot√≠deo interno
 N. pineal
-Nn. carot\xe2\x84\xa2deos externos
-Rr. laringofar\xe2\x84\xa2ngeos
-N. card\xe2\x84\xa2aco cervical superior
+Nn. carot√≠deos externos
+Rr. laringofar√≠ngeos
+N. card√≠aco cervical superior
 Ganglio cervical medio
 Ganglio vertebral
-N. card\xe2\x84\xa2aco cervical medio
+N. card√≠aco cervical medio
 (Ganglio cervical inferior)
-Ganglio cervicotor‚c;Ganglio estrelladostellatumganglion
+Ganglio cervicotor√¢c;Ganglio estrelladostellatumganglion
 Asa subclavia
-N. card\xe2\x84\xa2aco cervical inferior
+N. card√≠aco cervical inferior
 Plexo vertebral
-Ganglios tor‚cicos
-Rr. card\xe2\x84\xa2acos tor‚cicos
-Rr. pulmonares tor‚cicos
-Rr. esof‚gicos
-N. espl‚cnico mayor
-Ganglio tor‚cico espl‚cnico
-N. espl‚cnico menor
+Ganglios tor√¢cicos
+Rr. card√≠acos tor√¢cicos
+Rr. pulmonares tor√¢cicos
+Rr. esof√¢gicos
+N. espl√¢cnico mayor
+Ganglio tor√¢cico espl√¢cnico
+N. espl√¢cnico menor
 R. renal
- estanto constituido por un componente central y otro perifÈr; para otros autores constituye una parte del sistema nervioso perifÈrico. 
-en referencia al antiguo nombre de la gl‚ndula pineal
-N. espl‚cnico ;N. espl‚cnico inferiorsplanchnic nerve
+ estanto constituido por un componente central y otro perif√©r; para otros autores constituye una parte del sistema nervioso perif√©rico. 
+en referencia al antiguo nombre de la gl√¢ndula pineal
+N. espl√¢cnico ;N. espl√¢cnico inferiorsplanchnic nerve
 Ganglios lumbares
-Nn. espl‚cnicos lumbares
+Nn. espl√¢cnicos lumbares
 Ganglios sacros
-Nn. espl‚cnicos sacros
+Nn. espl√¢cnicos sacros
 Ganglio impar
-Paraganglios simp‚ticos
-PA
-PorciÛn cranealï
-Ganglio ciliarï
-Ra\xe2\x84\xa2z parasimp‚t;Ra\xe2\x84\xa2z oculomot;
-Ra\xe2\x84\xa2z simp‚tica
+Paraganglios simp√¢ticos
+PORCI√ìN PARASIMP√ÅTICA
+Porci√≥n craneal‚Ä¢
+Ganglio ciliar‚Ä¢
+Ra√≠z parasimp√¢t;Ra√≠z oculomot;
+Ra√≠z simp√¢tica
 Communicating branch of nasociliary
 Nn. ciliares cortos
-Ganglio pterigopalatinoï
-N. del conducto pterigoideoï
-Ra\xe2\x84\xa2z parasimp‚t;N. petroso mayorï
-Ra\xe2\x84\xa2z simp‚t;N. petroso profundoï
+Ganglio pterigopalatino‚Ä¢
+N. del conducto pterigoideo‚Ä¢
+Ra√≠z parasimp√¢t;N. petroso mayor‚Ä¢
+Ra√≠z simp√¢t;N. petroso profundo‚Ä¢
 Rr. ganglionares n. maxillarisof maxilary nerves
 Ganglio submandibular
-Ra\xe2\x84\xa2z parasimp‚t;Cuerda del t\xe2\x84\xa2mpano
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensit;Rr. ganglionares deln. mandibularisof mandibularnerven. mandibular
+Ra√≠z parasimp√¢t;Cuerda del t√≠mpano
+Ra√≠z simp√¢tica
+Ra√≠z sensit;Rr. ganglionares deln. mandibularisof mandibularnerven. mandibular
 Ganglio sublingual
-Ra\xe2\x84\xa2z parasimp‚t;Cuerda del t\xe2\x84\xa2mpano
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensit;Rr. ganglionares del n. mandibularisof mandibular nerven. mandibular
-Ganglio Ûtico
-Ra\xe2\x84\xa2z parasimp‚t;N. petroso menornerve
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensit;Rr. ganglionares deln. mandibularisof mandibular nerven. mandibular
-PorciÛn pÈlvica
-Ganglios pÈlvicos
-Ra\xe2\x84\xa2z parasimp‚t;Nn. espl‚cnicos pÈlvicosïpelvicisplanchnic nerves
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensitiva
+Ra√≠z parasimp√¢t;Cuerda del t√≠mpano
+Ra√≠z simp√¢tica
+Ra√≠z sensit;Rr. ganglionares del n. mandibularisof mandibular nerven. mandibular
+Ganglio √≥tico
+Ra√≠z parasimp√¢t;N. petroso menornerve
+Ra√≠z simp√¢tica
+Ra√≠z sensit;Rr. ganglionares deln. mandibularisof mandibular nerven. mandibular
+Porci√≥n p√©lvica
+Ganglios p√©lvicos
+Ra√≠z parasimp√¢t;Nn. espl√¢cnicos p√©lvicos‚Ä¢pelvicisplanchnic nerves
+Ra√≠z simp√¢tica
+Ra√≠z sensitiva
 US 
-PorciÛn craneocervical
-Plexo carot\xe2\x84\xa2deo com\xc5\x93n
-Plexo carot\xe2\x84\xa2deo interno
-Ra\xe2\x84\xa2z simp‚tica del ganglio ciliar
-Ra\xe2\x84\xa2z simp‚tica del ganglio pterigopalat;
-Ra\xe2\x84\xa2z simp‚tica del ganglio submandibularganglion
-Ra\xe2\x84\xa2z simp‚tica del ganglio sublingual
-Ra\xe2\x84\xa2z simp‚tica del ganglio Ûtico
-Nn. carotidotimp‚nicos142
+Porci√≥n craneocervical
+Plexo carot√≠deo com√∫n
+Plexo carot√≠deo interno
+Ra√≠z simp√¢tica del ganglio ciliar
+Ra√≠z simp√¢tica del ganglio pterigopalat;
+Ra√≠z simp√¢tica del ganglio submandibularganglion
+Ra√≠z simp√¢tica del ganglio sublingual
+Ra√≠z simp√¢tica del ganglio √≥tico
+Nn. carotidotimp√¢nicos142
 Plexo cavernoso
-Plexo carot\xe2\x84\xa2deo externo
+Plexo carot√≠deo externo
 Plexo subclavio
-Plexo autÛnomo braquial
+Plexo aut√≥nomo braquial
 Plexo vertebral
-PorciÛn tor‚cica
-Plexo aÛrtico tor‚cico
-Plexo card\xe2\x84\xa2aco
-Ganglios card\xe2\x84\xa2acos
-Plexo esof‚gico
+Porci√≥n tor√¢cica
+Plexo a√≥rtico tor√¢cico
+Plexo card√≠aco
+Ganglios card√≠acos
+Plexo esof√¢gico
 Plexo pulmonar
 Rr. pulmonares
-PorciÛn abdominal
-Plexo aÛrtico abdominal
-Ganglios frÈnicos
-Plexo cel\xe2\x84\xa2aco
-Plexo hep‚tico
-Plexo esplÈnico
-Plexo g‚strico
-Plexo pancre‚tico
+Porci√≥n abdominal
+Plexo a√≥rtico abdominal
+Ganglios fr√©nicos
+Plexo cel√≠aco
+Plexo hep√¢tico
+Plexo espl√©nico
+Plexo g√¢strico
+Plexo pancre√¢tico
 Plexo suprarrenal
-Ganglios cel\xe2\x84\xa2acosï
+Ganglios cel√≠acos‚Ä¢
 Ganglios aorticorrenales
-Plexo mesentÈrico superior
-Ganglio mesentÈrico superior
-Plexo intermesentÈrico
+Plexo mesent√©rico superior
+Ganglio mesent√©rico superior
+Plexo intermesent√©rico
 Plexo renal
 Ganglios renales
 Plexo ureteral
-Plexo ov‚rico 
+Plexo ov√¢rico 
 Plexo testicular
-Plexo mesentÈrico inferior
-Ganglio mesentÈrico superior
+Plexo mesent√©rico inferior
+Ganglio mesent√©rico superior
 Plexo rectal superior
-Plexo entÈrico
+Plexo ent√©rico
 Plexo subseroso
-Plexo mientÈrico
+Plexo mient√©rico
 Plexo submucoso
-Plexo il\xe2\x84\xa2aco
+Plexo il√≠aco
 Plexo femoral
-PorciÛn pÈlvica
-Plexo hipog‚strico super;N. presacronerve
-N. hipog‚strico
-Plexo hipog‚strico infer;Plexo pÈlvicopelvicusplexus
+Porci√≥n p√©lvica
+Plexo hipog√¢strico super;N. presacronerve
+N. hipog√¢strico
+Plexo hipog√¢strico infer;Plexo p√©lvicopelvicusplexus
 Plexo rectal medio
 Plexo rectal inferior
 Nn. anales superiores
 Plexo uterovaginal 
 Nn. vaginales 
-Plexo prost‚tico
+Plexo prost√¢tico
 Plexo deferencialdeferens
 Plexo vesical
-Nn. cavernosos del cl\xe2\x84\xa2toris 
+Nn. cavernosos del cl√≠toris 
 Nn. cavernosos del pene'b'
-PorciÛn olfatoria de la mucosa na; \xc3\xa7rea
-Gl‚ndulas olfatorias
+Porci√≥n olfatoria de la mucosa nasal;√Årea olfatoria‚Ä¢
+Gl√¢ndulas olfatorias
 Ojo y anexos oculares
 US 
 Polo anterior
@@ -7110,51 +7159,51 @@ Ecuador
 Meridianos
 Eje externo del globo ocular
 Eje interno del globo ocular
-Eje Ûptico
+Eje √≥ptico
 Segmento anterior
 Segmento posterior
 Capa fibrosa del globo ocular
-Escl;EsclerÛtica
+Escl;Escler√≥tica
 Surco escleral
-Red trabecularï
-PorciÛn esclerocorneal
-PorciÛn uveal
-EspolÛn escleral
+Red trabecular‚Ä¢
+Porci√≥n esclerocorneal
+Porci√≥n uveal
+Espol√≥n escleral
 Seno venoso de la esclera
-L‚mina epiescleral
+L√¢mina epiescleral
 Sustancia propia de la esclera
-L‚mina fusca de la esclera
-L‚mina cribosa de la esclera
-CÛrnea
+L√¢mina fusca de la esclera
+L√¢mina cribosa de la esclera
+C√≥rnea
 Anillo conjuntival
-Limboï
-VÈrtice
+Limbo‚Ä¢
+V√©rtice
 Cara anterior
 Cara posterior
-Epitelio anteriorï
-L‚mina limitante anterior
-Sustancia propiaï
-L‚mina limitante posterior
-Epitelio posteriorï
-Capa vascular del globo ocularï
+Epitelio anterior‚Ä¢
+L√¢mina limitante anterior
+Sustancia propia‚Ä¢
+L√¢mina limitante posterior
+Epitelio posterior‚Ä¢
+Capa vascular del globo ocular‚Ä¢
 Coroides
-L‚mina supracoroideaï
+L√¢mina supracoroidea‚Ä¢
 Espacio pericoroideo
-L‚mina vascular
-L‚mina coroidocapilar
-L‚mina basal
-Vasos sangu\xe2\x84\xa2neos coroideos
+L√¢mina vascular
+L√¢mina coroidocapilar
+L√¢mina basal
+Vasos sangu√≠neos coroideos
 Cuerpo ciliar
 Corona ciliar
 Procesos ciliares
 Pliegues ciliares
-Orb\xe2\x84\xa2culo ciliar
+Orb√≠culo ciliar
 M. ciliar
 Fibras meridionales144
 Fibras longitudinales
 Fibras radiales
 Fibras circulares
-L‚mina basal
+L√¢mina basal
 Iris
 Borde pupilar
 Borde ciliar
@@ -7164,52 +7213,52 @@ Anillo mayor
 Anillo menor
 Pliegues
 Pupila
-M. esf\xe2\x84\xa2nter de la pupilaï
+M. esf√≠nter de la pupila‚Ä¢
 M. dilatador de la pupila
 Estroma
 Epitelio pigmentado
-Espacios del ‚ngulo iridocorneal
-C\xe2\x84\xa2rculo arterial mayor
-C\xe2\x84\xa2rculo arterial menor
+Espacios del √¢ngulo iridocorneal
+C√≠rculo arterial mayor
+C√≠rculo arterial menor
 (Membrana pupilar)
 Capa interna del globo ocular
 Retina
-PorciÛn ciega
-PorciÛn ciliar de la retina
-PorciÛn iridiana de la retina
+Porci√≥n ciega
+Porci√≥n ciliar de la retina
+Porci√≥n iridiana de la retina
 Ora serrata
-PorciÛn Ûptica
+Porci√≥n √≥ptica
 Capa pigmentaria de la retina
 Capa nerviosa
-Capa de los segmentos externos e internosïinternorum
+Capa de los segmentos externos e internos‚Ä¢internorum
 Capa limitante externa
 Capa nuclear externa
 Capa plexiforme externa
 Capa nuclear interna
 Capa plexiforme interna
-Capa de cÈlulas ganglionares
+Capa de c√©lulas ganglionares
 Capa de fibras nerviosas
 Capa limitante interna
-Disco Ûpt;Papila
+Disco √≥pt;Papila
 Physiological  cupde la papila
-M‚cula l\xc5\x93teaï
+M√¢cula l√∫tea‚Ä¢
 Fovea central
 Foveola
-Nervio Ûptico
-PorciÛn intracraneal
-PorciÛn del conducto Ûptico
-PorciÛn orbitaria
-PorciÛn intraocular
-PorciÛn postlaminar
-PorciÛn intralaminar
-PorciÛn prelaminar
+Nervio √≥ptico
+Porci√≥n intracraneal
+Porci√≥n del conducto √≥ptico
+Porci√≥n orbitaria
+Porci√≥n intraocular
+Porci√≥n postlaminar
+Porci√≥n intralaminar
+Porci√≥n prelaminar
 Vaina externa
 Esto ha determinado disparidades entre textos
 Vaina interna
 Espacio subaracnoi;Espacio
-Vasos sangu\xe2\x84\xa2neos de la retina
+Vasos sangu√≠neos de la retina
 Central retinal artery
-Circulo vascular del nervio Ûptico
+Circulo vascular del nervio √≥ptico
 Arteriola temporal superior de la retina
 Arteriola temporal inferior de la retina
 Arteriola nasal superior de la retina
@@ -7218,20 +7267,20 @@ Arteriola macular superior
 Arteriola macular inferior
 Arteriola macular media
 Central retinal vein
-VÈnula temporal superior de la retina
-VÈnula temporal inferior de la retina
-VÈnula nasal superior de la retina
-VÈnula nasal inferior de la retina
-VÈnula macular superior
-VÈnula macular inferior
-VÈnula macular media
+V√©nula temporal superior de la retina
+V√©nula temporal inferior de la retina
+V√©nula nasal superior de la retina
+V√©nula nasal inferior de la retina
+V√©nula macular superior
+V√©nula macular inferior
+V√©nula macular media
 Le;Cristalino
 Sustancia
 Corteza
-N\xc5\x93cleo
+N√∫cleo
 Fibras
 Epitelio
-C‚psula
+C√¢psula
 Polo anterior
 Polo posterior
 Cara anterior
@@ -7239,57 +7288,60 @@ Cara posterior
 Eje
 Ecuador
 Radios
-ZÛnula ciliar
+Z√≥nula ciliar
 Fibras zonulares
 Espacios zonulares
-C‚maras del globo ocular
+C√¢maras del globo ocular
 Humor acuoso
-C‚mara anterior
-C‚mara posterior*
-C‚mara postr;C‚mara v\xe2\x84\xa2trea*
+C√¢mara anterior
+√Çngulo iridocorneal
+C√¢mara posterior*
+C√¢mara postr;C√¢mara v√≠trea*
 Espacio retrozonular
-Cuerpo v\xe2\x84\xa2treo
+Cuerpo v√≠treo
 (A. hialoidea)
 Conducto hialoideo
-Fosa hialoideaï
-Membrana v\xe2\x84\xa2trea
-Estroma v\xe2\x84\xa2treo
-Humor v\xe2\x84\xa2treo146
- y est‚ basado en su posiciÛn.*
+Fosa hialoidea‚Ä¢
+Membrana v√≠trea
+Estroma v√≠treo
+Humor v√≠treo146
+ y est√¢ basado en su posici√≥n.*
 Organa sensuum / 
 CT
-PeriÛrbita
+Peri√≥rbita
 Tabique orbitario
 Vaina del globo ocular
 Lig. suspensorio del globo ocular
 Espacio epiescleral
-Cuerpo adiposo de la Ûrbita
+Cuerpo adiposo de la √≥rbita
 Fascias musculares
-M\xc5\x93sculos extraocula;M\xc5\x93sculosmuscles of eyeballextr\xe2\x84\xa2nsecos del globo ocular
+M√∫sculos extraocula;M√∫sculosmuscles of eyeballextr√≠nsecos del globo ocular
 M. orbitario
 M. recto superior
 M. recto inferior
 M. recto medial
 M. recto lateral
-ExpansiÛn del m\xc5\x93sculo recto lateralmuscle
-Anillo tendinoso com\xc5\x93nanular tendon
+Expansi√≥n del m√∫sculo recto lateralmuscle
+Anillo tendinoso com√∫nanular tendon
 M. oblicuo superior
-TrÛcleaï
-Vaina tendinosa del m\xc5\x93sculo oblicuo superior
+Tr√≥clea‚Ä¢
+Vaina tendinosa del m√∫sculo oblicuo superior
 M. oblicuo inferior
-M. elevador del p‚rpado
-L‚mina superficial
-L‚mina profunda
+M. elevador del p√¢rpado
+L√¢mina superficial
+L√¢mina profunda
 Ceja
-P‚rpados
-P‚rpado superior
-P‚rpado inferior
+P√¢rpados
+P√¢rpado superior
+P√¢rpado inferior
 Cara anterior
-Pliegue palpebronasalï
+Pliegue palpebronasal‚Ä¢
 Cara posterior
 Hendidura palpebral
-Comisura lateral de los p‚rpados
-Comisura medial de los p‚rpados
+Comisura lateral de los p√¢rpados
+Comisura medial de los p√¢rpados
+√Çngulo lateral del ojo‚Ä¢
+√Çngulo medial del ojo‚Ä¢
 Limbo palpebral anterior
 Limbo palpebral posterior
 Pesta\xc5\x92as
@@ -7297,65 +7349,65 @@ Tarso superior
 Tarso inferior
 Lig. palpebral lateral
 Lig. palpebral medial
-Gl‚ndulas tarsales
-Gl‚ndulas ciliares
-Gl‚ndulas seb‚ceas
+Gl√¢ndulas tarsales
+Gl√¢ndulas ciliares
+Gl√¢ndulas seb√¢ceas
 M. tarsal superior
 M. tarsal inferior
 Conjuntiva
 Pliegue semilunar
-Car\xc5\x93ncula lagrimal
+Car√∫ncula lagrimal
 Conjuntiva ocular
 Conjuntiva palpebral
-Fondo de saco conjuntival superiorï
-Fondo de saco conjuntival inferiorï
+Fondo de saco conjuntival superior‚Ä¢
+Fondo de saco conjuntival inferior‚Ä¢
 Saco conjuntival
-Gl‚ndulas conjuntivales
+Gl√¢ndulas conjuntivales
 Aparato lagrimal'b'
-Gl‚ndula lagrimal
-PorciÛn orbitaria
-PorciÛn palpebral
+Gl√¢ndula lagrimal
+Porci√≥n orbitaria
+Porci√≥n palpebral
 Conductillos excretores
-(Gl‚ndulas lagrimales accesorias)
-Rivus lagrimalï
+(Gl√¢ndulas lagrimales accesorias)
+Rivus lagrimal‚Ä¢
 Lago lagrimal
 Papila lagrimal
 Punto lagrimal
 Conductillo lagrimal
 Ampolla del conductillo lagrimal
 Saco lagrimal
-FÛrnix del saco lagrimal
+F√≥rnix del saco lagrimal
 Conducto nasolagrimal
 Pliegue lagrimal
-O\xe2\x84\xa2do
+O√≠do
 S 
-Or;PabellÛn auricular
-LÛbulo
-Cart\xe2\x84\xa2lago auricular
-HÈlix
+Or;Pabell√≥n auricular
+L√≥bulo
+Cart√≠lago auricular
+H√©lix
 Raiz
 Espina
 Cola
-AntihÈlix
+Antih√©lix
 Fosa triangular
-Ramas del antihÈlix
-Esc;Canal del hÈlix
+Ramas del antih√©lix
+Esc;Canal del h√©lix
 Concha auricular
-Cymba de la conchaï
+Cymba de la concha‚Ä¢
 Cavidad de la concha
 Antitrago
 Trago
 Escotadura anterior
-Escotadura intertr‚gica
-(TubÈrculo auricular)
-(VÈrtice auricular)
+Escotadura intertr√¢gica
+(Tub√©rculo auricular)
+(V√©rtice auricular)
 Surco posterior de la oreja
-TubÈrculo supratr‚gico
-Itsmo del cart\xe2\x84\xa2lago auricular
+Tub√©rculo supratr√¢gico
+Itsmo del cart√≠lago auricular
 Incisura terminal de la oreja
 Fisura antitragohelicina
-Surco de la raiz del hÈlix
-Fosa del antihÈlixï
+Surco de la raiz del h√©lix
+Fosa del antih√©lix‚Ä¢
 Eminencia de la concha
 Eminencia de la escafa
 Eminencia de la fosa triangular
@@ -7363,9 +7415,9 @@ Ligs. auriculares
 Lig. auricular anterior
 Lig. auricular superior
 Lig. auricular posterior
-M\xc5\x93sculos auriculares
-M. mayor del hÈlix
-M. menor del hÈlix
+M√∫sculos auriculares
+M. mayor del h√©lix
+M. menor del h√©lix
 M. del trago
 (M. de la incisura terminal)
 M. piramidal de la oreja148
@@ -7374,52 +7426,52 @@ M. transverso de la oreja
 M. oblicuo de la oreja
 Conducto auditivo externo
 Orificio auditivo externoacoustic aperture
-Incisura timp‚nica
+Incisura timp√¢nica
 Conducto auditivo externo cartilaginoso
-Cart\xe2\x84\xa2lago del conducto auditivo
-Incisura del cart\xe2\x84\xa2lago del conducto auditivo
-Membrana timp‚nica
-PorciÛn fl‚ccida
-PorciÛn tensa
-Pliegue anterior del martilloï
-Pliegue posterior del martilloï
+Cart√≠lago del conducto auditivo
+Incisura del cart√≠lago del conducto auditivo
+Membrana timp√¢nica
+Porci√≥n fl√¢ccida
+Porci√≥n tensa
+Pliegue anterior del martillo‚Ä¢
+Pliegue posterior del martillo‚Ä¢
 Prominencia del martillo
-Estr\xe2\x84\xa2a del martillo
-Ombligo de la membrana timp‚nica
+Estr√≠a del martillo
+Ombligo de la membrana timp√¢nica
 Anillo fibrocartilaginoso
 S 
-Cavidad timp‚n;Caja del t\xe2\x84\xa2mpano
-Pared tegmentariaï
-Receso epitimp‚nico
-PorciÛn cupularï
-Pared yugularï
+Cavidad timp√¢n;Caja del t√≠mpano
+Pared tegmentaria‚Ä¢
+Receso epitimp√¢nico
+Porci√≥n cupular‚Ä¢
+Pared yugular‚Ä¢
 Prominencia estiloidea
-Pared laber\xe2\x84\xa2nticaï
-Ventana ovalï
+Pared laber√≠ntica‚Ä¢
+Ventana oval‚Ä¢
 Fosita de la ventana oval
 Promontorio
-Surco del promontorioï
-Sub\xe2\x84\xa2culo del promontorio
-Seno timp‚nico
-Ventana redondaï
+Surco del promontorio‚Ä¢
+Sub√≠culo del promontorio
+Seno timp√¢nico
+Ventana redonda‚Ä¢
 Fosita de la ventana redonda
 Cresta de la ventana redonda
-Proceso cocleariformeï
-Membrana timp‚nica secundaria
+Proceso cocleariforme‚Ä¢
+Membrana timp√¢nica secundaria
 Pared mastoidea
-Entrada al antroï
+Entrada al antro‚Ä¢
 Prominencia del canal semicircular lateralcanal
 Prominencia del conducto facial
-Eminencia piramidalï
+Eminencia piramidal‚Ä¢
 Fosa del yunque
 Seno posterior
-Abertura timp‚nica del conductillotympanichorda tympanyde la cuerda del t\xe2\x84\xa2mpano
+Abertura timp√¢nica del conductillotympanichorda tympanyde la cuerda del t√≠mpano
 Antro mastoideo
 Celdillas mastoideas
-Celdillas timp‚nicas
-Pared carot\xe2\x84\xa2deaï
-Pared membranosaï
-Huesecillos del o\xe2\x84\xa2do
+Celdillas timp√¢nicas
+Pared carot√≠dea‚Ä¢
+Pared membranosa‚Ä¢
+Huesecillos del o√≠do
 Estribo
 Cabeza del estribo'b'
 Rama anterior
@@ -7427,119 +7479,123 @@ Rama posterior
 Base del estribo
 Yunque
 Cuerpo del yunque
-Rama largaï
-ApÛfisis lenticular
+Rama larga‚Ä¢
+Ap√≥fisis lenticular
 Rama corta
 Martillo
 Manubrio
 Cabeza
 Cuello
-ApÛfisis lateralï
-ApÛfisis anteriorï
-Articulaciones de los huesecillos del o\xe2\x84\xa2do
-ArticulaciÛn incudomaleolar
-ArticulaciÛn \xe2\x84\xa2ncudo-estapedial
-Sindesmosis t\xe2\x84\xa2mpano-estapedial
-Ligs. de los huesecillos del o\xe2\x84\xa2doossiculorum auditoriorum
+Ap√≥fisis lateral‚Ä¢
+Ap√≥fisis anterior‚Ä¢
+Articulaciones de los huesecillos del o√≠do
+Articulaci√≥n incudomaleolar
+Articulaci√≥n √≠ncudo-estapedial
+Sindesmosis t√≠mpano-estapedial
+Ligs. de los huesecillos del o√≠doossiculorum auditoriorum
 Lig. anterior del martillo
 Lig. superior del martillo
 Lig. lateral del martillo
 Lig. superior del yunque
 Membrana estapedial
 Lig. anular del estribo
-M\xc5\x93sculos de los huesecillos del o\xe2\x84\xa2doossiculorum auditoriorum
-M. tensor del t\xe2\x84\xa2mpano
+M√∫sculos de los huesecillos del o√≠doossiculorum auditoriorum
+M. tensor del t√≠mpano
 Stapedius
-Mucosa de la cavidad timp‚nica
+Mucosa de la cavidad timp√¢nica
 Pliegue maleolar posterior
 Pliegue maleolar anterior
-Pliegue de la cuerda del t\xe2\x84\xa2mpano
-Recesos de la membrana timp‚nica
+Pliegue de la cuerda del t√≠mpano
+Recesos de la membrana timp√¢nica
 Receso anterior
 Receso superior
 Receso posterior
 Pliegue del yunque
 Pliegue estapedial
 Auditory tube
-Orificio timp‚nico
-PorciÛn Ûsea
+Orificio timp√¢nico
+Porci√≥n √≥sea
 Istmoauditoriae
-Celdillas neum‚ticas
-PorciÛn cartilaginosa
-Cart\xe2\x84\xa2lago de la trompa auditivaauditoriae
-L‚mina medial
-L‚mina lateral
-L‚mina membranosa150
+Celdillas neum√¢ticas
+Porci√≥n cartilaginosa
+Cart√≠lago de la trompa auditivaauditoriae
+L√¢mina medial
+L√¢mina lateral
+L√¢mina membranosa150
 Muc;Membrana mucosa
-Gl‚ndulas tub‚ricas
-Orificio far\xe2\x84\xa2ngeo de la trompa auditivapharyngeum tubae auditoriae
+Gl√¢ndulas tub√¢ricas
+Orificio far√≠ngeo de la trompa auditivapharyngeum tubae auditoriae
 S 
-Laberinto Ûseo
-Vest\xe2\x84\xa2bulo
-Receso el\xe2\x84\xa2pt;Receso utricularï
-Orificio interno del conductillo vest\xe2\x84\xa2bularcanaliculus
+Laberinto √≥seo
+Vest√≠bulo
+Receso el√≠pt;Receso utricular‚Ä¢
+Orificio interno del conductillo vest√≠bularcanaliculus
 Cresta vestibular
-Pir‚mide del vest\xe2\x84\xa2bulo
-Receso esfÈr;Receso sacularï
-Receso coclearï
-M‚culas cribosas
-M‚cula cribosa superior
-M‚cula cribosa media
-M‚cula cribosa inferior
+Pir√¢mide del vest√≠bulo
+Receso esf√©r;Receso sacular‚Ä¢
+Receso coclear‚Ä¢
+M√¢culas cribosas
+M√¢cula cribosa superior
+M√¢cula cribosa media
+M√¢cula cribosa inferior
 Conductos semicirculares
 Conducto semicircular anterior
-Ampolla Ûsea anterior
+Ampolla √≥sea anterior
 Conducto semicircular posterior
-Ampolla Ûsea posterior
-Rama Ûsea com\xc5\x93n
-Ramas Ûseas ampulares
+Ampolla √≥sea posterior
+Rama √≥sea com√∫n
+Ramas √≥seas ampulares
 Conducto semicircular lateral
-Ampolla Ûsea lateral
-Rama Ûsea simple
-CÛclea
-C\xc5\x93pula
+Ampolla √≥sea lateral
+Rama √≥sea simple
+C√≥clea
+C√∫pula
 Base
 Conducto espiral
-L‚mina espiral Ûsea
+L√¢mina espiral √≥sea
 Laminilla vestibular
-Laminilla timp‚nica
-For‚menes nerviosos
-Gancho de la l‚mina espiral
-L‚mina espiral secundaria
+Laminilla timp√¢nica
+For√¢menes nerviosos
+Gancho de la l√¢mina espiral
+L√¢mina espiral secundaria
 Orificio interno del conducto coclearcanaliculus
 Tabique coclear
 Modiolo
 Base
-L‚mina
+L√¢mina
 Conducto espiral
 Conductos longitudinales
 Rampa vestibular
 Helicotrema
-Rampa timp‚nica
+Rampa timp√¢nica
 Conducto auditivo interno
 Orificio auditivo interno
 Fondo del conducto auditivo interno
 Cresta transversa
+√Årea del nervio facial
 Cresta vertical
+√Årea vestibular superior
+√Årea vestibular inferior'b'
 Foramen singular
-Tracto espiral foraminosoï
-Espacio perilinf‚tico
+√Årea coclear
+Tracto espiral foraminoso‚Ä¢
+Espacio perilinf√¢tico
 Perilinfa
 Acueducto vestibular
 Acueducto coclear
 Laberinto membranoso
-Espacio endolinf‚tico
+Espacio endolinf√¢tico
 Endolinfa
 Laberinto vestibular
-Utr\xe2\x84\xa2culo
+Utr√≠culo
 Receso utricular
-S‚culo
+S√¢culo
 Conductos semicirculares
 Conducto semicircular anterior
 Ampolla membranosa anterior
 Conducto semicircular posterior
 Ampolla membranosa posterior
-Rama membranosa com\xc5\x93n
+Rama membranosa com√∫n
 Ramas membranosas ampulares
 Conducto semicircular lateral
 Ampolla membranosa lateral
@@ -7547,47 +7603,47 @@ Rama membranosa simple
 Conducto utriculosacular
 Conducto utricular
 Conducto sacular
-Conducto endolinf‚tico
-Saco endolinf‚tico
+Conducto endolinf√¢tico
+Saco endolinf√¢tico
 Conducto reuniens
-M‚culas
-M‚cula del utr\xe2\x84\xa2culo
-M‚cula del s‚culo
-Membrana otol\xe2\x84\xa2tica
+M√¢culas
+M√¢cula del utr√≠culo
+M√¢cula del s√¢culo
+Membrana otol√≠tica
 Otolitos
 Striola
 Cresta ampular
 Surco ampular
-C\xc5\x93pula ampular
+C√∫pula ampular
 Laberinto coclear
 Rampa media
 Conducto coclear
 Pared vestibu;Membrana vestibularmembrane
 Pared externa
-Estr\xe2\x84\xa2a vascular
+Estr√≠a vascular
 Prominencia espiral
 Vaso prominente
 Ligamento espiral
-Pared timp‚n;Membrana espiralï
+Pared timp√¢n;Membrana espiral‚Ä¢
 Cresta basi;Cresta espiral
-L‚mina basilar
+L√¢mina basilar
 Vaso espiral
 Limbo espiral
-Labio timp‚nico152
+Labio timp√¢nico152
 Labio vestibular
-Dientes ac\xc5\x93sticos
+Dientes ac√∫sticos
 Membrana tectoria
 Fondo de saco vestibular
-Fondo de saco de la c\xc5\x93pula
+Fondo de saco de la c√∫pula
 Membrana reticular
 Surco espiral interno
 Surco espiral externo
-Ganglio espiral de la cÛclea
-Vasos sangu\xe2\x84\xa2neos del o\xe2\x84\xa2do interno
-A. laber\xe2\x84\xa2ntica
+Ganglio espiral de la c√≥clea
+Vasos sangu√≠neos del o√≠do interno
+A. laber√≠ntica
 A. vestibular anter;A. vestibular
-A. coclear com\xc5\x93n
-A. vest\xe2\x84\xa2bulococlear
+A. coclear com√∫n
+A. vest√≠bulococlear
 R. vestibular posterior
 R. coclear
 A. coclear propia
@@ -7595,24 +7651,24 @@ A. espiral del modiolo
 V. del acueducto vestibular
 Vv. de los conductos semicirculares
 V. del acueducto coclear
-V. com\xc5\x93n del modiolo
+V. com√∫n del modiolo
 V. de la rampa vestibular
-V. de la rampa timp‚nica
+V. de la rampa timp√¢nica
 V. vestibulococlear
 V. vestibular anterior
 V. vestibular posterior
 V. de la ventana redonda
-Vv. laber\xe2\x84\xa2nticas
-Papila gustativaï
+Vv. laber√≠nticas
+Papila gustativa‚Ä¢
 Poro gustativo'b'
-Integumento com\xc5\x93n
+Integumento com√∫n
 Piel
 Surcos
 Crestas
-Retin‚culos
-Retin‚culo caudal
+Retin√¢culos
+Retin√¢culo caudal
 Crestas tactiles
-L\xe2\x84\xa2neas de tensiÛn
+L√≠neas de tensi√≥n
 Epidermis
 Der; corion
 Capa papilar
@@ -7628,56 +7684,56 @@ Pelos del trago
 Vibri;Pelos de la nariz
 Pelos de la axila
 Pelos del pubis
-Fol\xe2\x84\xa2culo piloso
+Fol√≠culo piloso
 M. erector del pelo
 Direcciones del pelo
 Remolinos del pelo
 Cruces de los pelos
-Gl‚ndulas cut‚neas
-Gl‚ndula sudor\xe2\x84\xa2para
-Gl‚ndula seb‚cea
+Gl√¢ndulas cut√¢neas
+Gl√¢ndula sudor√≠para
+Gl√¢ndula seb√¢cea
 Terminaciones nerviosas
 U\xc5\x92as
 Matriz ungueal
 Pared ungueal
 Cuerpo de la u\xc5\x92a
-L\xc5\x93nula
+L√∫nula
 Borde oculto
 Borde lateral
 Borde libre
-PeriÛnix
+Peri√≥nix
 Eponiquio
 Hiponiquio*
 Mama
 Surco intermamario
 (Mama accesoria)
-PezÛn
+Pez√≥n
 Cuerpo de la mama
-Gl‚ndula mamaria
+Gl√¢ndula mamaria
 Proceso axilar
-LÛbulos de la gl‚ndula mamaria
-Lobulillos de la gl‚ndula mamaria
-Conductos galactÛforos
-Senos galactÛforos
+L√≥bulos de la gl√¢ndula mamaria
+Lobulillos de la gl√¢ndula mamaria
+Conductos galact√≥foros
+Senos galact√≥foros
 Areola mamaria154
  aunque me-nos desarrollados.'b'
-Gl‚ndulas areolares
-TubÈrculos areolares
+Gl√¢ndulas areolares
+Tub√©rculos areolares
 Ligs. suspensorios de la mamacutis mammae
-Tejido subcut‚neo
-Pan\xe2\x84\xa2culo adiposo
+Tejido subcut√¢neo
+Pan√≠culo adiposo
 Capa muscular
 Capa fibrosa
 Capa membranosa
 Tejido conectivo laxo
-La capa grasa es la que est‚ presente de forma m‚s general. 
+La capa grasa es la que est√¢ presente de forma m√¢s general. 
 L\ny m p hnodes of lower limb/
-NÛdulos popl\xe2\x84\xa2teos
-NÛdulos pr\no f u n d o s
+N√≥dulos popl√≠teos
+N√≥dulos pr\no f u n d o s
 Vertical
 Horizontal
 Mediano
-Coronalï
+Coronal‚Ä¢
 Sagital
 Derecho
 Izquierdo
@@ -7711,7 +7767,7 @@ Profundo
 Proximal
 Distal
 Central
-PerifÈrico
+Perif√©rico
 Radial
 Ul;Cubital
 Fibu;Peroneal
@@ -7727,18 +7783,18 @@ Sien
 Oreja
 Cara
 Ojo
-Mejillaï
+Mejilla‚Ä¢
 Nariz
 Boca
-MentÛn
+Ment√≥n
 Cuello
 Tr\nonco
-TÛrax
+T√≥rax
 Pecho
 Abdomen
 Pelvis
 Espalda
-Miembro superiorï
+Miembro superior‚Ä¢
 Cintura escapularsuperioris
 Axila
 Brazo
@@ -7750,28 +7806,28 @@ Metacarpo
 Palma
 Dorso de la mano
 Dedos de la mano
-Miembro inferiorï
-Cintura pÈlvicainferioris
+Miembro inferior‚Ä¢
+Cintura p√©lvicainferioris
 Nalgas
 Cadera
 Muslo
 Rodilla
-Fosa popl\xe2\x84\xa2tea
+Fosa popl√≠tea
 Pierna
 Pantorrilla
 Pie
 Tarso
-TalÛn
+Tal√≥n
 Metatarso
 Planta
 Dorso del pie
 Dedos del pie
 Cavidades
 Cavidad craneal
-Cavidad tor‚cica
-Cavidad abdominal y pÈlvica
+Cavidad tor√¢cica
+Cavidad abdominal y p√©lvica
 Cavidad abdominal
-Cavidad pÈlvica2
+Cavidad p√©lvica2
 Planes
 Planos fronta;Planos coronales
 Planos horizontales
@@ -7779,145 +7835,144 @@ Planos sagitales
 Plano me;Plano sagital y medio
 Planos paramedianos
 Planos transversos
-Plano transpilÛrico
+Plano transpil√≥rico
 Plano subcostal
 Plano supracrestal
 Plano intertubercular
 Plano interespinoso
-L\xe2\x84\xa2nea media anterior
-L\xe2\x84\xa2nea esternal
-L\xe2\x84\xa2nea paraesternal
+L√≠nea media anterior
+L√≠nea esternal
+L√≠nea paraesternal
 Iine
-L\xe2\x84\xa2nea mamilar
-L\xe2\x84\xa2nea axilar anterior
-L\xe2\x84\xa2nea axilar media
-L\xe2\x84\xa2nea axilar posterior
-L\xe2\x84\xa2nea escapular
-L\xe2\x84\xa2nea paravertebral
-L\xe2\x84\xa2nea media posterior
+L√≠nea mamilar
+L√≠nea axilar anterior
+L√≠nea axilar media
+L√≠nea axilar posterior
+L√≠nea escapular
+L√≠nea paravertebral
+L√≠nea media posterior
 Regiones de la cabeza
-RegiÛn frontal
-RegiÛn parietal
-RegiÛn occipital
-RegiÛn temporal
-RegiÛn auricular
-RegiÛn mastoidea
+Regi√≥n frontal
+Regi√≥n parietal
+Regi√≥n occipital
+Regi√≥n temporal
+Regi√≥n auricular
+Regi√≥n mastoidea
 Region facial
 Surco suprapalpebral
-RegiÛn orbitaria
+Regi√≥n orbitaria
 Surco infrapalpebral
-RegiÛn infraorbitaria
-RegiÛn de la mejilla
-RegiÛn parotidomaseterina
-RegiÛn cigom‚tica
-RegiÛn nasal
+Regi√≥n infraorbitaria
+Regi√≥n de la mejilla
+Regi√≥n parotidomaseterina
+Regi√≥n cigom√¢tica
+Regi√≥n nasal
 Surco nasolabial
-RegiÛn labial
+Regi√≥n labial
 Surco mentolabial
-RegiÛn mentoniana
+Regi√≥n mentoniana
 Regiones cervicales
-RegiÛn cervical anter;Tri‚ngulo cervicalcervicale anter;Trigonum colli anteriustriangleanter;Tri‚ngulo anterior del cuello
-Tri‚ngulo submandibular
-Tri‚ngulo carot\xe2\x84\xa2deo
-Tri‚ngulo muscu;Tri‚ngulo omotraqueal\nomotrachealetriangle
-Tri‚ngulo submentoniano
-RegiÛn esternocleidomastoidea
+Regi√≥n cervical anter;Tri√¢ngulo cervicalcervicale anter;Trigonum colli anteriustriangleanter;Tri√¢ngulo anterior del cuello
+Tri√¢ngulo submandibular
+Tri√¢ngulo carot√≠deo
+Tri√¢ngulo muscu;Tri√¢ngulo omotraqueal\nomotrachealetriangle
+Tri√¢ngulo submentoniano
+Regi√≥n esternocleidomastoidea
 Fosa supraclavicular menor
-RegiÛn cervical late;Tri‚ngulo cervicalposter;Trigonum colli lateraletriangleposter;Tri‚ngulo lateral del cuello
-Tri‚ngulo omoclaviculartriangle
+Regi√≥n cervical late;Tri√¢ngulo cervicalposter;Trigonum colli lateraletriangleposter;Tri√¢ngulo lateral del cuello
+Tri√¢ngulo omoclaviculartriangle
 Fosa supraclavicular mayor
-Puede ser empleado para ‚reas de la superficie corporal o tener un significado tridimensional.'b'
-RegiÛn cervical poster;RegiÛn posteriorposteriordel cuelloï
-Regiones tor‚cicas anteriores y laterales
-RegiÛn preesternal
+Puede ser empleado para √¢reas de la superficie corporal o tener un significado tridimensional.'b'
+Regi√≥n cervical poster;Regi√≥n posteriorposteriordel cuello‚Ä¢
+Regiones tor√¢cicas anteriores y laterales
+Regi√≥n preesternal
 Fosa infraclavicular
-Tri‚ngulo clavipecto;Tri‚ngulodeltopectoraletriangledeltopectoral
-RegiÛn pectoral*
-RegiÛn pectoral lateral
-RegiÛn mamaria
-RegiÛn inframamaria
-RegiÛn axilar
+Tri√¢ngulo clavipecto;Tri√¢ngulodeltopectoraletriangledeltopectoral
+Regi√≥n pectoral*
+Regi√≥n pectoral lateral
+Regi√≥n mamaria
+Regi√≥n inframamaria
+Regi√≥n axilar
 Fosa axilar
 Regiones abdominales
-Hipocond;RegiÛn hipocondr\xe2\x84\xa2aca
-Epigast;RegiÛn epig‚stricaepigastrica
-Fla;RegiÛn lateral
-Ombl;RegiÛn umbilical
-In;RegiÛn inguinal
-Hipogast;RegiÛn p\xc5\x93bica
-Regiones de la espaldaï
-RegiÛn vertebral
-RegiÛn sacra
-(Foveola cox\xe2\x84\xa2gea)
-RegiÛn escapular*
-Tri‚ngulo de auscultaciÛnauscultation
-RegiÛn infraescapular
-RegiÛn lumbar
-(Tri‚ngulo lumbar inferior)*
-(Tri‚ngulo lumbar superior)
-RegiÛn perineal
-RegiÛn anal
-RegiÛn urogenital
+Hipocond;Regi√≥n hipocondr√≠aca
+Epigast;Regi√≥n epig√¢stricaepigastrica
+Fla;Regi√≥n lateral
+Ombl;Regi√≥n umbilical
+In;Regi√≥n inguinal
+Hipogast;Regi√≥n p√∫bica
+Regiones de la espalda‚Ä¢
+Regi√≥n vertebral
+Regi√≥n sacra
+(Foveola cox√≠gea)
+Regi√≥n escapular*
+Tri√°ngulo de auscultaci√≥n
+Regi√≥n infraescapular
+Regi√≥n lumbar
+(Tri√¢ngulo lumbar inferior)*
+(Tri√¢ngulo lumbar superior)
+Regi√≥n perineal
+Regi√≥n anal
+Regi√≥n urogenital
 Regiones del miembro superior
-RegiÛn deltoidea
-RegiÛn braquialï
-RegiÛn anterior del br;RegiÛn braquialanterioranterior
+Regi√≥n deltoidea
+Regi√≥n braquial‚Ä¢
+Regi√≥n anterior del br;Regi√≥n braquialanterioranterior
 Surco bicipital late;Surco bicipitalbicipitalis radialisradial
 Surco bicipital med;Surco bicipitalbicipitalis ulnariscubital
-RegiÛn posterior del br;RegiÛn braquialposteriorposteriorposterior
-RegiÛn cubi;RegiÛn del codo
-RegiÛn anterior del codoï
-Fosa del codoï
-RegiÛn posterior del codoï
-RegiÛn antebraquial
-RegiÛn anterior del antebr;RegiÛnantebrachialis anteriorantebraquial anterior4
+Regi√≥n posterior del br;Regi√≥n braquialposteriorposteriorposterior
+Regi√≥n cubi;Regi√≥n del codo
+Regi√≥n anterior del codo‚Ä¢
+Fosa del codo‚Ä¢
+Regi√≥n posterior del codo‚Ä¢
+Regi√≥n antebraquial
+Regi√≥n anterior del antebr;Regi√≥nantebrachialis anteriorantebraquial anterior4
 el borde medial del m. rhomboideus majory el borde superior delm. latissimus dorsi
-Cuando est‚ presente se encuentra recubierto porel m. latissimus dorsiy el m. obliquus externus abdominiscon la fascia thoracolumbalisen su fondo. 
-RegiÛn posterior del antebr;RegiÛnantebrachialis posteriorantebraquial posterior
+Cuando est√¢ presente se encuentra recubierto porel m. latissimus dorsiy el m. obliquus externus abdominiscon la fascia thoracolumbalisen su fondo. 
+Regi√≥n posterior del antebr;Regi√≥nantebrachialis posteriorantebraquial posterior
 Borde rad;Borde lateral
-Borde cubi;Borde medialï
-RegiÛn de la mano
-RegiÛn carpianaï
-RegiÛn anterior del carpoï
-RegiÛn posterior del carpoï
-RegiÛn dorsal de la manoï
-Pa;RegiÛn palmarï
+Borde cubi;Borde medial‚Ä¢
+Regi√≥n de la mano
+Regi√≥n carpiana‚Ä¢
+Regi√≥n anterior del carpo‚Ä¢
+Regi√≥n posterior del carpo‚Ä¢
+Regi√≥n dorsal de la mano‚Ä¢
+Pa;Regi√≥n palmar‚Ä¢
 Eminencia tenar
 Eminencia hipotenar
-RegiÛn metacarpiana
+Regi√≥n metacarpiana
 Dedos de la manothumb
-Thumb
-Index finger\xc3\xaand;Segundo dedo [
-I]
-Ring finger
-Little finger
+Pul;Primer dedo [I]
+Middle finger
+Anu;Cuarto dedo [IV]
+Me\xc5\x92i;Quinto dedo [V]
 Caras palmares de los dedos
 Caras dorsales de los dedos
 Regiones del miembro inferior
-RegiÛn gl\xc5\x93tea
-Hendidura intergl\xc5\x93tea
-Surco gl\xc5\x93teo
-RegiÛn de la cadera
-RegiÛn del mu;RegiÛn femoral
-RegiÛn anterior del mu;RegiÛn femoralanterior
-Tri‚ngulo femoral
-RegiÛn posterior del mu;RegiÛn femoralposterior
-RegiÛn de la rodilla
-RegiÛn anterior de la rodilla
-RegiÛn posterior de la rodilla
-Fosa popl\xe2\x84\xa2teaï
-RegiÛn de la pierna
-RegiÛn anterior de la pierna
-RegiÛn posterior de la pierna
-RegiÛn sural
-RegiÛn anterior del tobilloankle region
-RegiÛn posterior del tobilloankle region
-RegiÛn retromaleolar lateral
-RegiÛn retromaleolar medial
-RegiÛn del pie
-RegiÛn calc‚nea
-Dorso del ;RegiÛn dorsal del pie
-Pla;RegiÛn plantar
+Regi√≥n gl√∫tea
+Hendidura intergl√∫tea
+Surco gl√∫teo
+Regi√≥n de la cadera
+Regi√≥n del mu;Regi√≥n femoral
+Regi√≥n anterior del mu;Regi√≥n femoralanterior
+Tri√¢ngulo femoral
+Regi√≥n posterior del mu;Regi√≥n femoralposterior
+Regi√≥n de la rodilla
+Regi√≥n anterior de la rodilla
+Regi√≥n posterior de la rodilla
+Fosa popl√≠tea‚Ä¢
+Regi√≥n de la pierna
+Regi√≥n anterior de la pierna
+Regi√≥n posterior de la pierna
+Regi√≥n sural
+Regi√≥n anterior del tobilloankle region
+Regi√≥n posterior del tobilloankle region
+Regi√≥n retromaleolar lateral
+Regi√≥n retromaleolar medial
+Regi√≥n del pie
+Regi√≥n calc√¢nea
+Dorso del ;Regi√≥n dorsal del pie
+Pla;Regi√≥n plantar
 Borde lateral del ;Borde fibular del ;pedisof f;Peroneal border of foot
 Borde medial del ;Borde tibial de piepedisof foot
 Arco longitudinal del pie
@@ -7926,23 +7981,23 @@ Parte medial
 Arco transverso proximal del pie
 Arco transverso distal del pie
  que conduce hacia el ano. 
-RegiÛn tarsiana
-RegiÛn metatarsiana
+Regi√≥n tarsiana
+Regi√≥n metatarsiana
 Dedos del pie
-Great toe [
-Second toe [
-I]
-Fourth toe [
-Little ;Fifth toe [
+Primer dedo [;Dedo gordo‚Ä¢
+Segundo dedo [II]
+Third toe [II
+Cuarto dedo [IV]
+Quinto dedo [;Dedo me\xc5\x92ique
 Cara plantar de los dedos
 Cara dorsal de los dedos6
-Hue;Sistema esquelÈtico
-PorciÛn Ûsea
+Hue;Sistema esquel√©tico
+Porci√≥n √≥sea
 Hueso cortical
 Hueso compacto
 Hueso esponj;Hueso trabeculartrabecularis
-PorciÛn cartilaginosa
-PorciÛn membranosa
+Porci√≥n cartilaginosa
+Porci√≥n membranosa
 Periostio
 Pericondrio
 Esqueleto axial
@@ -7953,47 +8008,47 @@ Hueso plano
 Hueso irregular
 Hueso neumatizado
 Hueso sesamoideo
-Di‚fisis
-Ep\xe2\x84\xa2fisis
-Cart\xe2\x84\xa2lago epifisario
-L‚mina epifisaria
-L\xe2\x84\xa2nea epifisaria
-Met‚fisis
-ApÛfisis
+Di√¢fisis
+Ep√≠fisis
+Cart√≠lago epifisario
+L√¢mina epifisaria
+L√≠nea epifisaria
+Met√¢fisis
+Ap√≥fisis
 Eminen;Tuberosidad
-TubÈrculo
+Tub√©rculo
 Tuberosidad
 Eminencia
-Proc;ApÛfisis
-CÛndilo
-EpicÛndilo
+Proc;Ap√≥fisis
+C√≥ndilo
+Epic√≥ndilo
 Cresta
-L\xe2\x84\xa2nea
+L√≠nea
 Incis;Escotadura
 Fosa
 Surco
 Cara articular
 Cavidad medular
-EndÛstio
-MÈdula Ûsea amarilla
-MÈdula Ûsea roja
+End√≥stio
+M√©dula √≥sea amarilla
+M√©dula √≥sea roja
 Foramen nutricio
 Canal nutricio
-Centro de osificaciÛnï
+Centro de osificaci√≥n‚Ä¢
 Primario
 Secundario
 que no es
-Cr‚neo
+Cr√¢neo
 Vista fac;Vista frontal
 Vista super;Vista vertical
 Vista occipital
 Vista lateral
 Vista infer;Vista basal
-Neurocr‚neo
-Viscerocr‚;Esqueleto facial
-Condrocr‚neo
-Desmocr‚neo
-Pericr‚;Periostio externo del cr‚neo
+Neurocr√¢neo
+Viscerocr√¢;Esqueleto facial
+Condrocr√¢neo
+Desmocr√¢neo
+Pericr√¢;Periostio externo del cr√¢neo
 Cavidad craneal
 Frente
 Occipucio
@@ -8003,21 +8058,21 @@ Lambda
 Inion
 Pterion
 Asterion
-Gonionï
+Gonion‚Ä¢
 Fosa temporal
-Arco cigom‚tico
-Fosa infratemporalï
+Arco cigom√¢tico
+Fosa infratemporal‚Ä¢
 Fosa pterigopalatina
 Fisura pterigomaxilar
 Fontanelas
-Fontanela anteriorï
-Fontanela posteriorï
-Fontanela esfenoi;Fontanelaanterolateralisanterolateralï
+Fontanela anterior‚Ä¢
+Fontanela posterior‚Ä¢
+Fontanela esfenoi;Fontanelaanterolateralisanterolateral‚Ä¢
 Fontanela mastoideaposterolateralis
 Calvaria
-VÈrtex
+V√©rtex
 Tabla externa
-D\xe2\x84\xa2ploe
+D√≠ploe
 Conductos diploicos
 Tabla interna
 Surco del seno sagital superior
@@ -8026,25 +8081,25 @@ Impresiones de los giros cerebra;digita;Juga cerebralia
 Surcos venosos
 Surcos arteriales
 (Huesos sutura;Huesos wormianos)
-Base del cr‚neo
-Cara interna de la base del cr‚neo
+Base del cr√¢neo
+Cara interna de la base del cr√¢neo
 Fisura esfenopetrosa
 Fisura petro-occipital
 Fosa craneal anterior
 Fosa craneal media
 Fosa craneal posterior
-Clivusï
+Clivus‚Ä¢
 Surco del seno petroso inferior
-Cara externa de la base del cr‚neo
-Foramen yugularï
-Foramen lacerumï8
-Paladar Ûseo
+Cara externa de la base del cr√¢neo
+Foramen yugular‚Ä¢
+Foramen lacerum‚Ä¢8
+Paladar √≥seo
 Conducto palatino mayor
 Foramen palatino mayor
-For‚menes palatinos menores
+For√¢menes palatinos menores
 Fosa incisiva
 Conducto incisivo
-For‚menes incisivos
+For√¢menes incisivos
 (Rodete palatino)
 Conducto palatovaginal
 Conducto vomerovaginal
@@ -8056,8 +8111,8 @@ Borde supraorbitario
 Borde infraorbitario
 Borde lateral
 Borde medial
-Pared superiorï
-Pared inferiorï
+Pared superior‚Ä¢
+Pared inferior‚Ä¢
 Pared lateral
 Pared medial
 Foramen etmoidal anterior
@@ -8067,33 +8122,37 @@ Fosa del saco lagrimal
 Fisura orbitaria superior
 Fisura orbitaria inferior
 Conducto nasolagrimal
-Cavidad nasal Ûsea
-Tabique nasal Ûseo
+Cavidad nasal √≥sea
+Tabique nasal √≥seo
 Orificio piriforme
 Meato nasal superior
 Meato nasal medio
 Meato nasal inferior
 Orificio del conducto lagrimonasal
-Meato nasal com\xc5\x93n
+Meato nasal com√∫n
 Receso esfeno-etmoidal
-Meato nasofar\xe2\x84\xa2ngeo
+Meato nasofar√≠ngeo
 Co;Orificio nasal posterior
 Foramen esfenopalatino
-Huesos del cr‚neo
+Huesos del cr√¢neo
 Hueso parietal
 Cara interna
 Surco del seno sigmoideo
 Surco del seno sagital superior
-Surco de la arteria men\xe2\x84\xa2ngea media
+Surco de la arteria men√≠ngea media
 Surcos arteriales
 Cara externa
-L\xe2\x84\xa2nea temporal superior
-L\xe2\x84\xa2nea temporal inferior
+L√≠nea temporal superior
+L√≠nea temporal inferior
 Tuberosidad parie;Eminencia parietal
 Borde occipital
 Borde escamoso 
 Borde sagital
 Borde frontal
+√Çngulo frontal
+√Çngulo occipital
+√Çngulo esfenoidal
+√Çngulo mastoideo
 Foramen parietal
 Hueso frontal
 Escama
@@ -8101,26 +8160,26 @@ Cara externa
 Frontal eminence
 Arco superciliar
 Glabela
-(Sutura fron;Sutura metÛpica)metopica)
+(Sutura fron;Sutura met√≥pica)metopica)
 Borde supraorbitario
 Escotadura supraorbitaria/foramensupraorbitalesupraorbitario
 Escotadura frontal/foramen frontal
 Cara temporal
 Borde parietal
-L\xe2\x84\xa2nea temporal
-ApÛfisis cigom‚ticaï
+L√≠nea temporal
+Ap√≥fisis cigom√¢tica‚Ä¢
 Cara interna
 Cresta frontal
 Surco del seno sagital superior
 Foramen ciego
-PorciÛn nasal
+Porci√≥n nasal
 Espina nasal
 Borde nasal
-PorciÛn orbitaria
+Porci√≥n orbitaria
 Cara orbitaria
 (Espina troclear)
 Fosita troclear
-Fosa de la gl‚ndula lagrimalfossa
+Fosa de la gl√¢ndula lagrimalfossa
 Borde esfenoidal
 Escotadura etmoidal
 Seno frontal
@@ -8130,28 +8189,28 @@ Hueso occipital
 Foramen ma;Foramen occipital
 Basion
 Opistion
-PorciÛn basilar
-Clivusï
-TubÈrculo far\xe2\x84\xa2ngeo
+Porci√≥n basilar
+Clivus‚Ä¢
+Tub√©rculo far√≠ngeo
 Surco del seno petroso inferior
-PorciÛn lateral
+Porci√≥n lateral
 Escama occipital
 Borde mastoideo
 Borde lambdoideo
 (Hueso interparietal)
-CÛndilo occipital
-Conducto cond\xe2\x84\xa2leoï
-Conducto del nervio hipoglosoï
-Fosa cond\xe2\x84\xa2lea
-TubÈrculo yugular
+C√≥ndilo occipital
+Conducto cond√≠leo‚Ä¢
+Conducto del nervio hipogloso‚Ä¢
+Fosa cond√≠lea
+Tub√©rculo yugular
 Escotadura yugular10
-ApÛfisis yugular
-ApÛfisis intrayugular
+Ap√≥fisis yugular
+Ap√≥fisis intrayugular
 Protuberancia occipital externa
 (Cresta occipital externa)
-L\xe2\x84\xa2nea nucal suprema
-L\xe2\x84\xa2nea nucal superior
-L\xe2\x84\xa2nea nucal inferior
+L√≠nea nucal suprema
+L√≠nea nucal superior
+L√≠nea nucal inferior
 Plano occipital
 Eminencia cruciforme
 Protuberancia occipital interna
@@ -8160,22 +8219,22 @@ Surco del seno transverso
 Surco del seno sigmoideo
 Surco del seno occipital
 Surco del seno marginal
-(ApÛfisis paramastoidea)
+(Ap√≥fisis paramastoidea)
 Fosa cerebral
 Fosa cerebelosa
 Hueso esfenoides
 Cuerpo
 Yugo esfenoidal
 Limbo esfenoidal
-Surco prequiasm‚tico
+Surco prequiasm√¢tico
 Silla turca
-TubÈrculo de la silla
-(ApÛfisis clinoides media)
+Tub√©rculo de la silla
+(Ap√≥fisis clinoides media)
 Fosa hipofisaria
-Dorso de la sillaï
-ApÛfisis clinoides posterior
-Surco carot\xe2\x84\xa2deo
-L\xe2\x84\xa2ngula esfenoidal
+Dorso de la silla‚Ä¢
+Ap√≥fisis clinoides posterior
+Surco carot√≠deo
+L√≠ngula esfenoidal
 Cresta esfenoidal
 Pico esfenoidal
 Seno esfenoidal
@@ -8183,152 +8242,152 @@ Tabique intersinusal esfenoidal
 Orificio del seno esfenoidal
 Cornete esfenoidal
 Ala menor
-Conducto Ûptico
-ApÛfisis clinoides anterior
-Fisura orbitaria superiorï
+Conducto √≥ptico
+Ap√≥fisis clinoides anterior
+Fisura orbitaria superior‚Ä¢
 Ala mayor
 Cara cerebral
 Cara temporal
 Cara infratemporal
-Cresta infratemporalï
+Cresta infratemporal‚Ä¢
 Cara maxilar
 Cara orbitaria
-Borde cigom‚tico
+Borde cigom√¢tico
 Borde frontal
 Borde parietal
 Borde escamoso
 Foramen redondo mayor
 Foramen oval
 (Foramen venoso)
-Foramen espinosoï
+Foramen espinoso‚Ä¢
 (Foramen petroso)
 Espina del esfenoides'b'
 Surco de la trompa auditivaauditoriae
-ApÛfisis pterigoides
-L‚mina lateral
-L‚mina medial
+Ap√≥fisis pterigoides
+L√¢mina lateral
+L√¢mina medial
 Escotadura pterigoidea
 Fosa pterigoidea
 Fosa escafoidea
-ApÛfisis vaginal
+Ap√≥fisis vaginal
 Surco palatovaginal
 Surco vomerovaginal
-Gancho de la apÛfisis pterigoides
-Surco del gancho de la apÛfisis pterigoides
-Conducto pterigoideoï
-ApÛfisis ptÈrigo-espinosa
+Gancho de la ap√≥fisis pterigoides
+Surco del gancho de la ap√≥fisis pterigoides
+Conducto pterigoideo‚Ä¢
+Ap√≥fisis pt√©rigo-espinosa
 Hueso temporal
-PorciÛn petrosaï
+Porci√≥n petrosa‚Ä¢
 Borde occipital
-ApÛfisis mastoides
+Ap√≥fisis mastoides
 Incisura mastoidea
 Surco del seno sigmoideo
 Surco de la arteria occipital
 Foramen mastoideo
 Conducto facial
 Rodilla del conducto facial
-Conductillo de la cuerda del t\xe2\x84\xa2mpano
-VÈrtice de la porciÛn petrosa
-Conducto carot\xe2\x84\xa2deo
-Orificio externo del conducto carot\xe2\x84\xa2deo
-Orificio interno del conducto carot\xe2\x84\xa2deo
-Conductillos carotidotimp‚nicos
-Conductos musculotub‚ricos
-Conducto para el m\xc5\x93sculo tensordel t\xe2\x84\xa2mpanoï
+Conductillo de la cuerda del t√≠mpano
+V√©rtice de la porci√≥n petrosa
+Conducto carot√≠deo
+Orificio externo del conducto carot√≠deo
+Orificio interno del conducto carot√≠deo
+Conductillos carotidotimp√¢nicos
+Conductos musculotub√¢ricos
+Conducto para el m√∫sculo tensordel t√≠mpano‚Ä¢
 Conducto para la trompa auditivatubae auditoriae
-Tabique del conducto musculotub‚rico
-Cara anterior de la porciÛn petrosa
-Techo del t\xe2\x84\xa2mpano
+Tabique del conducto musculotub√¢rico
+Cara anterior de la porci√≥n petrosa
+Techo del t√≠mpano
 Eminencia arcuata
 Hiato del conducto para el nervio petrosomayor
 Surco del nervio petroso mayor
 Hiato del conducto para el nervio petrosomenor
 Surco del nervio petroso menor
-ImpresiÛn trigeminal
-Borde superior de la porciÛn petrosa
+Impresi√≥n trigeminal
+Borde superior de la porci√≥n petrosa
 Surco del seno petroso superior
-Cara posterior de la porciÛn petrosa
+Cara posterior de la porci√≥n petrosa
 Orificio auditivo interno
 Conducto auditivo interno
 Fosa subarcuata
 Acueducto vestibular
 Orificio del acueducto vestibular
-Borde posterior de la porciÛn petrosa
+Borde posterior de la porci√≥n petrosa
 Surco del seno petroso inferior
 Escotadura yugular
-Cara inferior de la porciÛn petrosa
+Cara inferior de la porci√≥n petrosa
 Fosa yugular
 Conductillo coclear
 Orificio del conductillo coclear12
 Conductillo mastoideo
 Escotadura yugular
-ApÛfisis intrayugular
-ApÛfisis estiloides
+Ap√≥fisis intrayugular
+Ap√≥fisis estiloides
 Foramen estilomastoideo
-Conductillo timp‚nico
+Conductillo timp√¢nico
 Fosita petrosa
-Cavidad timp‚nica
-PorciÛn timp‚nica
-Anillo timp‚nico
+Cavidad timp√¢nica
+Porci√≥n timp√¢nica
+Anillo timp√¢nico
 Orificio auditivo externo
 Conducto auditivo externo
-Espina timp‚nica mayor
-Espina timp‚nica menor
-Surco timp‚nico
-Escotadura timp‚nica
-ApÛfisis vaginal de la apÛfisis estiloides
-PorciÛn escamosa
+Espina timp√¢nica mayor
+Espina timp√¢nica menor
+Surco timp√¢nico
+Escotadura timp√¢nica
+Ap√≥fisis vaginal de la ap√≥fisis estiloides
+Porci√≥n escamosa
 Borde parietal
 Escotadura parietal
 Borde esfenoidal
 Cara temporal
 Surco de la arteria temporal media
-ApÛfisis cigom‚tica
+Ap√≥fisis cigom√¢tica
 Cresta supramastoidea
-Fosita suprame‚ticasuprameatalis
-(Espina suprame‚tica)
+Fosita suprame√¢ticasuprameatalis
+(Espina suprame√¢tica)
 Fosa mandibular
 Cara articular
-TubÈrculo articularï
-Fisura petrotimp‚nica
+Tub√©rculo articular‚Ä¢
+Fisura petrotimp√¢nica
 Fisura petro-escamosa
 Fisura timpano-escamosa
 Fisura timpanomastoidea
 Cara cerebral
 Hueso etmoides
-L‚mina cribosa
-For‚menes de la l‚mina cribosa
-ApÛfisis crista galli
-Ala de la apÛfisis crista galli
-L‚mina perpendicular
+L√¢mina cribosa
+For√¢menes de la l√¢mina cribosa
+Ap√≥fisis crista galli
+Ala de la ap√≥fisis crista galli
+L√¢mina perpendicular
 Laberinto etmoidal
 Celdillas etmoidales anteriores
 Celdillas etmoidales medias
 Celdillas etmoidales posteriores
-L‚mina orbitariaï
+L√¢mina orbitaria‚Ä¢
 Cornete nasal supremo
 Cornete nasal superior
 Cornete nasal medio
 Bulla etmoidal
-ApÛfisis unciforme
-Infund\xe2\x84\xa2bulo etmoidal
+Ap√≥fisis unciforme
+Infund√≠bulo etmoidal
 Hiato semilunar
 Cornete nasal inferior
-ApÛfisis lagrimal
-ApÛfisis maxilar
-ApÛfisis etmoidal
+Ap√≥fisis lagrimal
+Ap√≥fisis maxilar
+Ap√≥fisis etmoidal
 Hueso lagrimal'b'
 Cresta lagrimal posterior
 Surco lagrimal
 Gancho lagrimal
 Hueso nasal
 Surco etmoidal
-For‚menes nasales
-VÛmer
+For√¢menes nasales
+V√≥mer
 Ala
 Surco vomeriano
-Cresta coanal del vÛmer
-PorciÛn cuneiforme del vÛmer
+Cresta coanal del v√≥mer
+Porci√≥n cuneiforme del v√≥mer
 Maxilar
 Cuerpo
 Cara orbitaria
@@ -8342,196 +8401,197 @@ Escotadura nasal
 Espina nasal anterior
 Sutura cigomaticomaxi;Suturainfraorbitalisinfraorbitaria
 Cara infratemporal
-For‚menes alveolaresï
-Conductos alveolaresï
+For√¢menes alveolares‚Ä¢
+Conductos alveolares‚Ä¢
 Tuberosidad del maxilar
 Cara nasal
 Surco lagrimal
 Cresta de la concha
 Borde lagrimal
 Hiato maxilar
-Surco palatino mayorï
+Surco palatino mayor‚Ä¢
 Seno maxilar
-ApÛfisis frontal
+Ap√≥fisis frontal
 Cresta lagrimal anterior
 Escotadura lagrimal
 Cresta etmoidal
-ApÛfisis cigom‚tica
-ApÛfisis palatina
+Ap√≥fisis cigom√¢tica
+Ap√≥fisis palatina
 Cresta nasal
 (Hueso incis;Premaxilar)
 Conductos incisivos
 (Sutura incisiva)
 Espinas palatinas
 Surcos palatinos
-ApÛfisis alveolar
+Ap√≥fisis alveolar
 Arco alveolar
 Alveolos dentarios
 Tabiques interradiculares
 Tabiques interalveolares
 Eminencias alveolares
-For‚menes incisivos
+For√¢menes incisivos
 Hueso palatino
-L‚mina perpendicular
+L√¢mina perpendicular
 Cara nasal
 Cara maxilar
 Escotadura esfenopalatina14
-Surco palatino mayorï
-ApÛfisis piramidal
+Surco palatino mayor‚Ä¢
+Ap√≥fisis piramidal
 Conductos palatinos menores
-Cresta de la conchaï
+Cresta de la concha‚Ä¢
 Cresta etmoidal
-ApÛfisis orbitaria
-ApÛfisis esfenoidal
-L‚mina horizontal
+Ap√≥fisis orbitaria
+Ap√≥fisis esfenoidal
+L√¢mina horizontal
 Cara nasal
 Cara palatina
-For‚menes palatinos menores
+For√¢menes palatinos menores
 Espina nasal posterior
 Cresta nasal
 Cresta palatina
-Hueso cigom‚tico
+Hueso cigom√¢tico
 Cara lateral
 Cara temporal
 Cara orbitaria
-ApÛfisis temporal
-ApÛfisis frontal
-TubÈrculo orbitario
-(TubÈrculo marginal)
-Foramen cigom‚tico-orbitario
+Ap√≥fisis temporal
+Ap√≥fisis frontal
+Tub√©rculo orbitario
+(Tub√©rculo marginal)
+Foramen cigom√¢tico-orbitario
 Foramen cigomaticofacial
 Foramen cigomaticotemporal
-Mand\xe2\x84\xa2bula
+Mand√≠bula
 Cuerpo
-Base de la mand\xe2\x84\xa2bula
-(S\xe2\x84\xa2nfisis mandibular)
+Base de la mand√≠bula
+(S√≠nfisis mandibular)
 Protuberancia mentoniana
-TubÈrculo mentoniano
+Tub√©rculo mentoniano
 Foramen mentoniano
-L\xe2\x84\xa2nea oblicua
-Fosa dig‚strica
+L√≠nea oblicua
+Fosa dig√¢strica
 Espina mentoniana super;Espina genisuperiorgenial spinesuperior
 Espina mentoniana infer;Espina geniinferiorgenial spineinferior
-L\xe2\x84\xa2nea milohioidea
+L√≠nea milohioidea
 (Reborde mandibular)
 Fosita sublingual
 Fosita submandibular
-PorciÛn alveolar
+Porci√≥n alveolar
 Arco alveolar
 Alveolos dentarios
 Tabiques interalveolares
 Tabiques interradiculares
 Eminencias alveolares
-Tr\xe2\x84\xa2gono retromolar
+Tr√≠gono retromolar
 Fosa retromolar
-Ramaï
+Rama‚Ä¢
+√Çngulo de la mand√≠bula
 (Tuberosidad maseterina)
 (Tuberosidad pterigoidea)
 Foramen mandibular
-L\xe2\x84\xa2ngula de la mand\xe2\x84\xa2bula
-Conducto mandibularï
+L√≠ngula de la mand√≠bula
+Conducto mandibular‚Ä¢
 Surco milohioideo
-ApÛfisis coronoides
+Ap√≥fisis coronoides
 Cresta temporal
-Escotadura mandibularï'b'
-ApÛfisis condilar
-Cabeza de la mand\xe2\x84\xa2b;CÛndilode la mand\xe2\x84\xa2bula
-Cuello de la mand\xe2\x84\xa2bula
+Escotadura mandibular‚Ä¢'b'
+Ap√≥fisis condilar
+Cabeza de la mand√≠b;C√≥ndilode la mand√≠bula
+Cuello de la mand√≠bula
 Fosita pterigoidea
 Hueso hioides
 Cuerpo
 Asta menor
 Asta mayor
-Huesecillos del o\xe2\x84\xa2do{vide paginam 149}{see page 149}{ver p‚gina 149}
+Huesecillos del o√≠do{vide paginam 149}{see page 149}{ver p√¢gina 149}
 Columna vertebral*
 Curvatura primaria
-Cifosis tor‚cica
+Cifosis tor√¢cica
 Cifosis sacra*
 Curvaturas secundarias
 Lordosis cervical
 Lordosis lumbar
 Escoliosis
-Conducto vertebralï
-VÈrtebra
+Conducto vertebral‚Ä¢
+V√©rtebra
 Cuerpo vertebral
 Cara intervertebral
-Ep\xe2\x84\xa2fisis anular
+Ep√≠fisis anular
 Arco vertebral
-Ped\xe2\x84\xa2culo
-L‚mina
-Foramen intervertebralï
+Ped√≠culo
+L√¢mina
+Foramen intervertebral‚Ä¢
 Escotadura vertebral superior
 Escotadura vertebral inferior
 Foramen vertebral
-ApÛfisis espinosa
-ApÛfisis transversa
-ApÛfisis articular super;superior
+Ap√≥fisis espinosa
+Ap√≥fisis transversa
+Ap√≥fisis articular super;superior
 Carilla articular superior
-ApÛfisis articular infer;inferior
+Ap√≥fisis articular infer;inferior
 Carilla articular inferior
-I - 
-ApÛfisis unciforme
+C 
+Ap√≥fisis unciforme
 Foramen transverso
-TubÈrculo anterior
-TubÈrculo carot\xe2\x84\xa2deo
-TubÈrculo posterior
+Tub√©rculo anterior
+Tub√©rculo carot√≠deo
+Tub√©rculo posterior
 Surco del nervio espinal
-I]
+Atlas [CI]
 Masa lateral
 Carilla articular superior
 Carilla articular inferior
 Arco anterior
 Fosa odontoidea
-TubÈrculo anterior16
- al estar producidas por la acciÛn muscular fetal.'b'
+Tub√©rculo anterior16
+ al estar producidas por la acci√≥n muscular fetal.'b'
 Arco posterior
 Surco de la arteria vertebral
 (Canal de la arteria vertebral)
-TubÈrculo posterior
-II]
-Die;ApÛfisis odontoides
-VÈrtice
+Tub√©rculo posterior
+Axis [C 
+Die;Ap√≥fisis odontoides
+V√©rtice
 Carilla articular anterior
 Carilla articular posterior
-VI
-I - 
+I]
+V√©rtebras tor√¢cicas [TI-TXII]
 Fosita costal superior
 Fosita costal inferior
-Fosita costal de la apÛfisis transversa
-Uncus de la primera vÈrtebra tor‚c;
-I - 
-ApÛfisis accesoriaï
-ApÛfisis costalï
-ApÛfisis mamilarï
+Fosita costal de la ap√≥fisis transversa
+Uncus de la primera v√©rtebra tor√¢c;
+L 
+Ap√≥fisis accesoria‚Ä¢
+Ap√≥fisis costal‚Ä¢
+Ap√≥fisis mamilar‚Ä¢
 V]
 Base
 Promontorio
 Ala
-ApÛfisis articular superior
-PorciÛn lateral
+Ap√≥fisis articular superior
+Porci√≥n lateral
 Carilla auricular
 Tuberosidad sacra
 Cara pelviana
-L\xe2\x84\xa2neas transversales
-For‚menes intervertebrales
-For‚menes sacros anteriores
+L√≠neas transversales
+For√¢menes intervertebrales
+For√¢menes sacros anteriores
 Cara dorsal
 Cresta sacra media
-For‚menes sacros posteriores
+For√¢menes sacros posteriores
 Cresta sacra intermedia
 Cresta sacra lateral
 Asta del sacro
 Conducto sacro
 Hiato sacro
-VÈrtice
-Coccyx [
+V√©rtice
+I-
 Asta del coxis
-Esqueleto del tÛrax
+Esqueleto del t√≥rax
+I]
+I]
 XI
-VI
-II-
-XI
-Cart\xe2\x84\xa2lago costal
+I]
+Cart√≠lago costal
 Costilla'b'
 Cabeza
 Carilla articular
@@ -8539,155 +8599,164 @@ Cresta
 Cuello
 Cresta
 Cuerpo
-TubÈrculo
+Tub√©rculo
 Carilla articular
+√Çngulo
 Surco
 Cresta
 (Costilla cervi;Costilla del cuello)
-First rib [
-TubÈrculo del m\xc5\x93sculo escaleno anterior
+Primera costilla [I]
+Tub√©rculo del m√∫sculo escaleno anterior
 Surco de la arteria subclavia
 Surco de la vena subclavia
-Second rib [
-Tuberosidad para el m\xc5\x93sculo serrato anterior
+Segunda costilla [II]
+Tuberosidad para el m√∫sculo serrato anterior
 (Costilla lumbar)
-EsternÛn
+Estern√≥n
 Manubrio
 Escotadura clavicular
 Escotadura yugular
+√Çngulo infraesternal
 Cuerpo
-ApÛfisis xifoides
+Ap√≥fisis xifoides
 Escotaduras costales
 (Huesos supraesternales)
-I- 
-Caja tor‚cica
-Cavidad tor‚cica*
-Orificio tor‚cico superior*
-Orificio tor‚cico inferior
+T 
+Caja tor√¢cica
+Cavidad tor√¢cica*
+Orificio tor√¢cico superior*
+Orificio tor√¢cico inferior
 Surco pulmonar
 Arco costal
 Espacio intercostal
+√Çngulo infraesternal
 Huesos del miembro superior
-UL
-Esc‚pula
+CINTURA ESCAPULAR
+Esc√¢pula
 Cara cos;Cara anterior
 Fosa subescapular
 Cara posterior
-Espina de la esc‚pula
-TubÈrculo deltoideo
+Espina de la esc√¢pula
+Tub√©rculo deltoideo
 Fosa supraespinosa
 Fosa infraespinosa
 Acromion
-Carilla articular para la clav\xe2\x84\xa2cula
+Carilla articular para la clav√≠cula
+√Çngulo acromial
 Borde medial18
-NÛmina 
-As\xe2\x84\xa2
+Caja tor√°cica
+Cavidad tor√°cica
+Orificio tor√°cico superior
+Orificio tor√°cico inferior
 Borde lateral
 Borde superior
-Escotadura de la esc‚pulaï
+Escotadura de la esc√¢pula‚Ä¢
+√Çngulo inferior
+√Çngulo lateral
+√Çngulo superior
 Cavidad glenoidea
-TubÈrculo supraglenoideo
-TubÈrculo infraglenoideo
+Tub√©rculo supraglenoideo
+Tub√©rculo infraglenoideo
 Cuello
-ApÛfisis coracoides
-Clav\xe2\x84\xa2cula
+Ap√≥fisis coracoides
+Clav√≠cula
 Extremidad esternal
 Carilla articular esternal
-ImpresiÛn del ligamento costoclavicular
+Impresi√≥n del ligamento costoclavicular
 Cuerpo
-Surco para el m\xc5\x93sculo subclaviosubclavius
+Surco para el m√∫sculo subclaviosubclavius
 Extremidad acromial
 Carilla articular acromial
 Tuberosidad para el ligamento coracoclavicular
-TubÈrculo conoideo
-L\xe2\x84\xa2nea trapezoidea
-LI
-H\xc5\x93mero
+Tub√©rculo conoideo
+L√≠nea trapezoidea
+PORCI√ìN LIBRE DEL MIEMBRO SUPERIOR
+H√∫mero
 Cabeza
-Cuello anatÛmico
-Cuello quir\xc5\x93rgico
-TubÈrculo mayorï
-TubÈrculo menorï
+Cuello anat√≥mico
+Cuello quir√∫rgico
+Tub√©rculo mayor‚Ä¢
+Tub√©rculo menor‚Ä¢
 Surco intertubercu;Corredera bicipital
-Cresta del tubÈrculo ma;Labio lateralï
-Cresta del tubÈrculo me;Labio medialï
+Cresta del tub√©rculo ma;Labio lateral‚Ä¢
+Cresta del tub√©rculo me;Labio medial‚Ä¢
 Cuerpo
 Cara anteromedial
 Cara anterolateral
 Cara posterior
-Surco para el nervio radialïnerve
+Surco para el nervio radial‚Ä¢nerve
 Borde medial
-Cresta supracond\xe2\x84\xa2lea med;
-(ApÛfisis supracond\xe2\x84\xa2lea)
+Cresta supracond√≠lea med;
+(Ap√≥fisis supracond√≠lea)
 Borde lateral
-Cresta supracond\xe2\x84\xa2lea late;
-Tuberosidad deltoideaï
-CÛndilo humeral
+Cresta supracond√≠lea late;
+Tuberosidad deltoidea‚Ä¢
+C√≥ndilo humeral
 Cabeza
-TrÛclea
+Tr√≥clea
 Fosa olecraneana
-Fosa coronoideaï
-Fosa radialï
-EpicÛndilo medialï
+Fosa coronoidea‚Ä¢
+Fosa radial‚Ä¢
+Epic√≥ndilo medial‚Ä¢
 Surco para el nervio cubital
-EpincÛndilo lateralï
+Epinc√≥ndilo lateral‚Ä¢
 Radio
 Cabeza
 Fosita articular'b'
-Circunferencia articularï
+Circunferencia articular‚Ä¢
 Cuello
 Cuerpo
-Tuberosidad del radioï
+Tuberosidad del radio‚Ä¢
 Cara anterior
 Cara posterior
 Cara lateral
 Tuberosidad pronadora
-Borde interÛseo
+Borde inter√≥seo
 Borde anterior
 Borde posterior
-ApÛfisis estiloides
+Ap√≥fisis estiloides
 Cresta supraestiloidea
-TubÈrculo dorsal
-Canales para los m\xc5\x93sculos extensores
-Escotadura cubitalï
+Tub√©rculo dorsal
+Canales para los m√∫sculos extensores
+Escotadura cubital‚Ä¢
 Carilla articular carpiana
-U;C\xc5\x93bito
-OlÈcranon
-ApÛfisis coronoides
-Tuberosidad del c\xc5\x93bito
-Escotadura radialï
-Escotadura troclearï
+Ulna;C√∫bito
+Ol√©cranon
+Ap√≥fisis coronoides
+Tuberosidad del c√∫bito
+Escotadura radial‚Ä¢
+Escotadura troclear‚Ä¢
 Cuerpo
 Cara anterior
 Cara posterior
 Cara medial
-Borde interÛseo
+Borde inter√≥seo
 Borde anterior
 Borde posterior
-Cresta del m\xc5\x93sculo supinador
+Cresta del m√∫sculo supinador
 Cabeza
 Circunferencia articular
-ApÛfisis estiloides del c\xc5\x93bito
+Ap√≥fisis estiloides del c√∫bito
 Huesos de la mano
 Huesos del ca;Huesos carpianos
 (Hueso central)
 Hueso escafoides
-TubÈrculo
+Tub√©rculo
 Hueso semilunar
 Hueso piramidal
 Hueso pisiforme
 Hueso trapecio
-TubÈrculo
+Tub√©rculo
 Hueso trapezoide
 Hueso grande
 Hueso ganchoso
 Gancho
 Canal carpiano
-V]
+Metacarpals [I-
 Base
 Cuerpo
 Cabeza
-ApÛfisis estiloides del tercer tertii [
+Ap√≥fisis estiloides del tercer tertii [II
 Huesos de los de;Falanges
 Falange proximal
 Falange media20
@@ -8696,73 +8765,74 @@ Tuberosidad
 Base
 Cuerpo
 Cabeza
-TrÛclea
+Tr√≥clea
 Huesos sesamoideos
 Huesos del miembro inferior
 UL
 V]
 Hueso coxal
-Acet‚buloï
-Borde acetabularï
+Acet√¢bulo‚Ä¢
+Borde acetabular‚Ä¢
 Fosa acetabular
-Escotadura acetabularï
+Escotadura acetabular‚Ä¢
 Carilla semilunar
 Rama isquiopubiana
 Foramen obtur;Foramen obturador
-Escotadura ci‚tica mayor
+Escotadura ci√¢tica mayor
 Hueso il;Ilion
 Cuerpo
-Surco supracetabularï
+Surco supracetabular‚Ä¢
 Ala
-L\xe2\x84\xa2nea arcuata
-Cresta il\xe2\x84\xa2aca
+L√≠nea arcuata
+Cresta il√≠aca
 Labio externo
-TubÈrculo il\xe2\x84\xa2aco
-L\xe2\x84\xa2nea intermedia
+Tub√©rculo il√≠aco
+L√≠nea intermedia
 Labio interno
-Espina il\xe2\x84\xa2aca anterior superior
-Espina il\xe2\x84\xa2aca anterior inferior
-Espina il\xe2\x84\xa2aca posterior superior
-Espina il\xe2\x84\xa2aca posterior inferior
-Fosa il\xe2\x84\xa2aca
-Cara gl\xc5\x93tea
-L\xe2\x84\xa2nea gl\xc5\x93tea anterior
-L\xe2\x84\xa2nea gl\xc5\x93tea posterior
-L\xe2\x84\xa2nea gl\xc5\x93tea inferior
+Espina il√≠aca anterior superior
+Espina il√≠aca anterior inferior
+Espina il√≠aca posterior superior
+Espina il√≠aca posterior inferior
+Fosa il√≠aca
+Cara gl√∫tea
+L√≠nea gl√∫tea anterior
+L√≠nea gl√∫tea posterior
+L√≠nea gl√∫tea inferior
 Cara sacropelviana
 Carilla auricular
-Tuberosidad il\xe2\x84\xa2aca
+Tuberosidad il√≠aca
 Hueso isqu;Isquion
 Cuerpo
 Rama
-Tuberosidad isqui‚tica
-Espina ci‚tica
-Escotadura ci‚tica menor
+Tuberosidad isqui√¢tica
+Espina ci√¢tica
+Escotadura ci√¢tica menor
 Hueso pu;Pubis
 Cuerpo
-Espina p\xc5\x93bica
-Superficie de la s\xe2\x84\xa2nfisis
+Espina p√∫bica
+Superficie de la s√≠nfisis
 Cresta del pubis
 Rama superior
-Eminencia iliop\xc5\x93bicaï
-Pecten del pu;Cresta pect\xe2\x84\xa2nea
+Eminencia iliop√∫bica‚Ä¢
+Pecten del pu;Cresta pect√≠nea
 Cresta obturadora'b'
 Surco obturador
-TubÈrculo obturador anterior
-(TubÈrculo obturador posterior)
+Tub√©rculo obturador anterior
+(Tub√©rculo obturador posterior)
 Rama inferior
 Pelvis
 Cavidad pelviana
 Arco del pubis
+√Çngulo subpubiano
 Pelvis mayor
 Pelvis menor
-L\xe2\x84\xa2nea terminal
+L√≠nea terminal
 Estrecho superior
 Estrecho inferior
 Eje de la pelvis
-Di‚metro transverso
-Di‚metro oblicuo
-Conjugado anatÛmico
+Di√¢metro transverso
+Di√¢metro oblicuo
+Conjugado anat√≥mico
 Conjugado verdadero
 Conjugado diagonal
 Conjugado recto
@@ -8770,69 +8840,71 @@ Conjugado mediano
 Conjugado externo
 Distancia interespinosadiameter
 Distancia intercrestaldiameter
-Distancia intertrocantÈrica
-InclinaciÛn de la pelvis
+Distancia intertrocant√©rica
+Inclinaci√≥n de la pelvis
 LI
-FÈ;Hueso femoral
+F√©;Hueso femoral
 Cabeza
-Fosita de la cabeza femoralï
+Fosita de la cabeza femoral‚Ä¢
 Cuello
-Tr\noc‚nter mayor
-Fosa trocantÈrica
-Tr\noc‚nter menor
-(Tercer troc‚nter)
-L\xe2\x84\xa2nea intertrocantÈrica
-Cresta intertrocantÈrica
-TubÈrculo cuadrado
+Tr\noc√¢nter mayor
+Fosa trocant√©rica
+Tr\noc√¢nter menor
+(Tercer troc√¢nter)
+L√≠nea intertrocant√©rica
+Cresta intertrocant√©rica
+Tub√©rculo cuadrado
 Cuerpo
-L\xe2\x84\xa2nea ‚spera
+L√≠nea √¢spera
 Labio lateral
 Labio medial
-L\xe2\x84\xa2nea pect\xe2\x84\xa2nea
-Tuberosidad gl\xc5\x93tea
-Cara popl\xe2\x84\xa2tea
-L\xe2\x84\xa2nea supracond\xe2\x84\xa2lea medial
-L\xe2\x84\xa2nea supracond\xe2\x84\xa2lea lateral
-CÛndilo medial
-EpicÛndilo medial
-TubÈrculo del aductor
-CÛndilo lateral
-EpicÛndilo lateral
-Surco popl\xe2\x84\xa2teo
-TrÛclea femo;Carilla rotuliana
-Fosa intercond\xe2\x84\xa2lea22
-L\xe2\x84\xa2nea intercond\xe2\x84\xa2lea
-Pate;RÛtula
+L√≠nea pect√≠nea
+Tuberosidad gl√∫tea
+Cara popl√≠tea
+L√≠nea supracond√≠lea medial
+L√≠nea supracond√≠lea lateral
+C√≥ndilo medial
+Epic√≥ndilo medial
+Tub√©rculo del aductor
+C√≥ndilo lateral
+Epic√≥ndilo lateral
+Surco popl√≠teo
+Tr√≥clea femo;Carilla rotuliana
+Fosa intercond√≠lea22
+L√≠nea intercond√≠lea
+Pate;R√≥tula
 Base
-VÈrtice
+V√©rtice
 Carilla articular
 Cara anterior
 Tibia
 Carilla articular superior
-CÛndilo medialï
-CÛndilo lateralï
+C√≥ndilo medial‚Ä¢
+C√≥ndilo lateral‚Ä¢
 Carilla articular peroneal
-Eminencia intercond\xe2\x84\xa2leaï
-TubÈrculo intercond\xe2\x84\xa2leo medialï
-TubÈrculo intercond\xe2\x84\xa2leo lateralï
+√Årea intercond√≠lea anterior
+√Årea intercond√≠lea posterior
+Eminencia intercond√≠lea‚Ä¢
+Tub√©rculo intercond√≠leo medial‚Ä¢
+Tub√©rculo intercond√≠leo lateral‚Ä¢
 Cuerpo
 Tuberosidad tibial
 Cara medial
 Cara posterior
-L\xe2\x84\xa2nea del sÛleoï
+L√≠nea del s√≥leo‚Ä¢
 Cara lateral
 Borde anterior
 Borde medial
-Borde interÛseo
+Borde inter√≥seo
 Maleolo medial
 Surco maleolar
 Carilla articular
 Escotadura peroneal
 Carilla articular inferior
-F\xe2\x84\xa2b;PeronÈ
+F√≠b;Peron√©
 Cabeza
 Carilla articular
-VÈrtice
+V√©rtice
 Cuello
 Cuerpo
 Cara lateral
@@ -8840,7 +8912,7 @@ Cara medial
 Cara posterior
 Cresta medial
 Borde anterior
-Borde interÛseo
+Borde inter√≥seo
 Borde posterior
 Maleolo lateral
 Carilla articular
@@ -8848,41 +8920,41 @@ Fosa maleolar lateral
 Surco maleolar
 Huesos del pie
 Huesos del ta;Huesos tarsianos
-Ta;Astr‚galo
+Ta;Astr√¢galo
 Cabeza
 Carilla articular navicular
 Carilla articular para el ligamento calcaneonavicularis plantarisligamentcalcaneonavicular plantar
-Carilla articular para la porciÛnligamenti bifurcatiof bifurcate ligamentcalcaneonavicular del ligamento bifurcado
-Carilla articular anterior para el calc‚neo'b'
+Carilla articular para la porci√≥nligamenti bifurcatiof bifurcate ligamentcalcaneonavicular del ligamento bifurcado
+Carilla articular anterior para el calc√¢neo'b'
 Cuello
-Carilla articular media para el calc‚neo
+Carilla articular media para el calc√¢neo
 Surco astragalino
 Cuerpo
-TrÛclea astragalina
+Tr√≥clea astragalina
 Carilla superior
 Carilla maleolar lateral
-ApÛfisis lateral
+Ap√≥fisis lateral
 Carilla maleolar medial
-ApÛfisis posterior
-Surco para el tendÛn del m\xc5\x93sculo flexor hallucis longilonguslargo del dedo gordo
-TubÈrculo lateral
-TubÈrculo medial
-Carilla articular posterior para el calc‚neo
-(Hueso tr\xe2\x84\xa2gono)
-Calc‚neo
-Tuberosidad calc‚nea
-ApÛfisis medial
-ApÛfisis lateral
-TubÈrculo del calc‚neo
-Sustentaculum t;Sustent‚culo del astr‚galoï
-Surco para el tendÛn del m\xc5\x93sculo flexor hallucis longilonguslargo del dedo gordo
-Surco del calc‚neo
+Ap√≥fisis posterior
+Surco para el tend√≥n del m√∫sculo flexor hallucis longilonguslargo del dedo gordo
+Tub√©rculo lateral
+Tub√©rculo medial
+Carilla articular posterior para el calc√¢neo
+(Hueso tr√≠gono)
+Calc√¢neo
+Tuberosidad calc√¢nea
+Ap√≥fisis medial
+Ap√≥fisis lateral
+Tub√©rculo del calc√¢neo
+Sustentaculum t;Sustent√¢culo del astr√¢galo‚Ä¢
+Surco para el tend√≥n del m√∫sculo flexor hallucis longilonguslargo del dedo gordo
+Surco del calc√¢neo
 Seno del tarso
-Carilla articular anterior para el astr‚galo
-Carilla articular medial para el astr‚galo
-Carilla articular posterior para el astr‚galo
-Surco para el tendÛn del m\xc5\x93sculo fibular la;
-TrÛclea fibu;TrÛclea peroneal
+Carilla articular anterior para el astr√¢galo
+Carilla articular medial para el astr√¢galo
+Carilla articular posterior para el astr√¢galo
+Surco para el tend√≥n del m√∫sculo fibular la;
+Tr√≥clea fibu;Tr√≥clea peroneal
 Carilla articular para el cuboides
 Hueso navicular
 Tuberosidad
@@ -8890,15 +8962,15 @@ Hueso cuneiforme medial
 Hueso cuneiforme intermediocuneiferm
 Hueso cuneiforme lateral
 Hueso cuboides
-Surco para el tendÛn del m\xc5\x93sculo fibular 
+Surco para el tend√≥n del m√∫sculo fibular 
 Tuberosidad
-ApÛfisis calc‚nea
-V]
+Ap√≥fisis calc√¢nea
+Metatarsals [I-
 Base
 Cuerpo
 Cabeza
-Tuberosity of first metatarsal bone [
-Tuberosity of fifth metatarsal bone [
+Tuberosidad del primer metatarsiano [I]
+Tuberosidad del quinto metatarsiano [V]
 Huesos de los de;Falanges
 Falange proximal
 Falange media
@@ -8907,40 +8979,40 @@ Tuberosidad de la falange distal
 Base
 Cuerpo
 Cabeza
-TrÛclea de la falange
+Tr√≥clea de la falange
 Huesos sesamoideos24
 Articulacio;Sistema articular
-ArticulaciÛn
+Articulaci√≥n
 Articulaciones de los huesos
 Sinartrosis
-ArticulaciÛn fibrosaï
+Articulaci√≥n fibrosa‚Ä¢
 Sindesmosis
 Socket
-Membrana interÛsea
+Membrana inter√≥sea
 Sutura
 Sutura plana
 Sutura escamosa
-Sutura l\xe2\x84\xa2mbica
+Sutura l√≠mbica
 Sutura serrata
 Sutura dentada
 Esquindilesis
-ArticulaciÛn cartilaginosa
+Articulaci√≥n cartilaginosa
 Sincondrosis
-S\xe2\x84\xa2nfisiscartilaginous joint
-Cart\xe2\x84\xa2lago epifisarioïcartilaginous joint
-ArticulaciÛn Û;Sinostosis
-ArticulaciÛn sinov;Diartrosis
+S√≠nfisiscartilaginous joint
+Cart√≠lago epifisario‚Ä¢cartilaginous joint
+Articulaci√≥n √≥;Sinostosis
+Articulaci√≥n sinov;Diartrosis
 Carilla articular
 Cavidad articular
 Fosa articular
 (Cabeza articular)
 Lab;Rodete articular
-C‚psula articular
+C√¢psula articular
 Membrana fibr;Capa fibrosa
 Membrana sinov;Capa sinovial
 Pliegues sinoviales
 Vellosidades sinoviales
-L\xe2\x84\xa2quido sinovial
+L√≠quido sinovial
 Disco articular
 Menisco articular
 Ligamentos
@@ -8950,59 +9022,59 @@ Ligs. extracapsulares
 Receso articular
 Bolsa sinovial
 Vaina sinovial
-ArticulaciÛn simple
+Articulaci√≥n simple
 Complejo articular
-ArticulaciÛn pl;Artrodia
-ArticulaciÛn cil\xe2\x84\xa2ndrica
-ArticulaciÛn trocoide
-G\xe2\x84\xa2ngl;TrÛclea
-ArticulaciÛn bicond\xe2\x84\xa2lea
-ArticulaciÛn en silla de montarï
-ArticulaciÛn cond\xe2\x84\xa2;ArticulaciÛn elipsoidea
-ArticulaciÛn esferoi;Enartrosisjoint
-ArticulaciÛn cotiloidea
+Articulaci√≥n pl;Artrodia
+Articulaci√≥n cil√≠ndrica
+Articulaci√≥n trocoide
+G√≠ngl;Tr√≥clea
+Articulaci√≥n bicond√≠lea
+Articulaci√≥n en silla de montar‚Ä¢
+Articulaci√≥n cond√≠;Articulaci√≥n elipsoidea
+Articulaci√≥n esferoi;Enartrosisjoint
+Articulaci√≥n cotiloidea
 Anfiartrosis
-AbducciÛn
-AducciÛn
-RotaciÛn late;RotaciÛn externa'b'
-RotaciÛn med;RotaciÛn internamedialis
-CircunducciÛn
-FlexiÛn
-ExtensiÛn
-PronaciÛn
-SupinaciÛn
-OposiciÛn
-ReposiciÛn
-Articulaciones del cr‚neo
-Articulaciones fibrosas del cr‚neo
-Sindesmosis del cr‚neo
-Lig. ptÈrigo-espinoso
+Abducci√≥n
+Aducci√≥n
+Rotaci√≥n late;Rotaci√≥n externa'b'
+Rotaci√≥n med;Rotaci√≥n internamedialis
+Circunducci√≥n
+Flexi√≥n
+Extensi√≥n
+Pronaci√≥n
+Supinaci√≥n
+Oposici√≥n
+Reposici√≥n
+Articulaciones del cr√¢neo
+Articulaciones fibrosas del cr√¢neo
+Sindesmosis del cr√¢neo
+Lig. pt√©rigo-espinoso
 Lig. estilohioideo
-Suturas del cr‚neo
-Sutura coronalï
-Sutura sagitalï
-Sutura lambdoideaï
+Suturas del cr√¢neo
+Sutura coronal‚Ä¢
+Sutura sagital‚Ä¢
+Sutura lambdoidea‚Ä¢
 Sutura occipitomastoidea
 Sutura esfenofrontal
 Sutura esfeno-etmoidal
 Sutura esfeno-escamosa
 Sutura esfenoparietal
 Sutura escamosa
-Sutura fron;Sutura metÛpica
+Sutura fron;Sutura met√≥pica
 Sutura parietomastoidea
 (Sutura escamomastoidea)
 Sutura frontonasal
 Sutura fronto-etmoidal
 Sutura frontomaxilar
 Sutura frontolagrimal
-Sutura frontocigom‚tica
+Sutura frontocigom√¢tica
 Sutura cigomaticomaxilar
 Sutura etmoidomaxilar
 Sutura etmoidolagrimal
 Sutura esfenovomeriana
-Sutura esfenocigom‚tica
+Sutura esfenocigom√¢tica
 Sutura esfenomaxilar
-Sutura temporocigom‚tica
+Sutura temporocigom√¢tica
 Sutura internasal
 Sutura nasomaxilar
 Sutura lagrimomaxilar
@@ -9014,30 +9086,30 @@ Sutura palatina media
 Sutura palatina transversa
 Gomphosis
 Periodonto
-Enc\xe2\x84\xa2a
-Periodonto de protecciÛn
-Periodonto de inserciÛn
+Enc√≠a
+Periodonto de protecci√≥n
+Periodonto de inserci√≥n
 Desmodonto
 Cemento
 Alveolo dental26
-Articulaciones cartilaginosas del cr‚neo
-Sincondrosis del cr‚neo
+Articulaciones cartilaginosas del cr√¢neo
+Sincondrosis del cr√¢neo
 Sincondrosis esfeno-occipital
 Sincondrosis esfenopetrosa
 Sincondrosis petro-occipital
 (Sincondrosis intraoccipital posterior)
 (Sincondrosis intraoccipital anterior)
 Sincondrosis esfeno-etmoidal
-Articulaciones sinoviales del cr‚neo
-ArticulaciÛn temporomandibular
-Disco articularï
+Articulaciones sinoviales del cr√¢neo
+Articulaci√≥n temporomandibular
+Disco articular‚Ä¢
 Lateral ligament
 Lig. medial
 Membrana sinovial superior
 Membrana sinovial inferior
 Lig. esfenomandibular
 Lig. estilomandibular
-ArticulaciÛn atlanto-occipital
+Articulaci√≥n atlanto-occipital
 Membrana atlanto-occipital anterior
 (Lig. atlanto-occipital anterior)
 Membrana atlanto-occipital posterior
@@ -9053,44 +9125,44 @@ Lig. longitudinal anterior
 Lig. longitudinal posterior
 Ligs. transversos
 Sincondrosis de la columna vertebral
-S\xe2\x84\xa2nfisis intervertebral
+S√≠nfisis intervertebral
 Disco intervertebral
 Anillo fibroso
-N\xc5\x93cleo pulposo
-Articulaciones sinoviales de las vÈrtebras
-ArticulaciÛn atlanto-axoidea medial
+N√∫cleo pulposo
+Articulaciones sinoviales de las v√©rtebras
+Articulaci√≥n atlanto-axoidea medial
 Ligs. alares
-Lig. del vÈrtice del dienteï
+Lig. del v√©rtice del diente‚Ä¢
 Lig. cruciforme del atlas
-Fasc\xe2\x84\xa2culos longitudinales
+Fasc√≠culos longitudinales
 Lig. transverso del atlas
 Membrana tectoria
-ArticulaciÛn atlanto-axoidea lateral
+Articulaci√≥n atlanto-axoidea lateral
 Articulaciones cigapofisarias
-ArticulaciÛn lumbosacra
+Articulaci√≥n lumbosacra
 Lig. iliolumbar
-ArticulaciÛn sacrocox\xe2\x84\xa2gea
-Lig. sacrocox\xe2\x84\xa2geo posterior superficial
-Lig. sacrocox\xe2\x84\xa2geo posterior profundo
-Lig. sacrocox\xe2\x84\xa2geo anterior
-Lig. sacrocox\xe2\x84\xa2geo lateral
-Articulaciones del tÛrax
-Sindesmosis del tÛrax
+Articulaci√≥n sacrocox√≠gea
+Lig. sacrocox√≠geo posterior superficial
+Lig. sacrocox√≠geo posterior profundo
+Lig. sacrocox√≠geo anterior
+Lig. sacrocox√≠geo lateral
+Articulaciones del t√≥rax
+Sindesmosis del t√≥rax
 Membrana intercostal externa
 Membrana intercostal interna
-Sincondrosis del tÛrax
+Sincondrosis del t√≥rax
 Sincondrosis costo-esternal
 Sincondrosis de la primera costilla
-Sincondrosis del esternÛn
-S\xe2\x84\xa2nfisis xifo-esternal
-S\xe2\x84\xa2nfisis manubrio-esternal
+Sincondrosis del estern√≥n
+S√≠nfisis xifo-esternal
+S√≠nfisis manubrio-esternal
 (Sincondrosis manubrio-esternal)
-Articulaciones sinoviales del tÛrax
+Articulaciones sinoviales del t√≥rax
 Articulaciones costovertebrales
-ArticulaciÛn de la cabeza de la costilla
+Articulaci√≥n de la cabeza de la costilla
 Lig. radiado de la cabeza de la costilla
 Lig. intraarticular de la cabezaof ribde la costilla
-ArticulaciÛn costotransversa
+Articulaci√≥n costotransversa
 Lig. costotransverso
 Lig. costotransverso superior
 Lig. costotransverso lateral
@@ -9103,63 +9175,63 @@ Membrana esternal
 Ligs. costoxifoideos
 Articulaciones costocondrales
 Articulaciones intercondrales
-Articulaciones de la cintura pelviana{vide paginam 30}{see page 30}{ver p‚gina 30}
+Articulaciones de la cintura pelviana{vide paginam 30}{see page 30}{ver p√¢gina 30}
 Articulaciones del miembro superior
 TU
 Syndesmoses cinguli membri superioris
 Lig. coraco-acromial
-Lig. transverso superior de la esc‚pulaï
-(Lig. transverso inferior de la esc‚pula)ï
+Lig. transverso superior de la esc√¢pula‚Ä¢
+(Lig. transverso inferior de la esc√¢pula)‚Ä¢
 Articulaciones sinoviales de la cintura
-ArticulaciÛn acromioclavicular
+Articulaci√≥n acromioclavicular
 Lig. acromioclavicular
 (Disco articular)
 Lig. coracoclavicular
 Lig. trapezoide
 Lig. conoide28
-ArticulaciÛn esternoclavicular
+Articulaci√≥n esternoclavicular
 Disco articular
 Lig. esternoclavicular anterior
 Lig. esternoclavicular posterior
 Lig. costoclavicular
 Lig. interclavicular
 TU
-Sindesmosis radiocubitalï
-Membrana interÛsea del antebrazo
+Sindesmosis radiocubital‚Ä¢
+Membrana inter√≥sea del antebrazo
 Cuerda oblicua
-Articulaciones sinoviales de la porciÛnlibre del miembro superior
-ArticulaciÛn del hom;glenohumeralis
-Labrum glenoideoï
+Articulaciones sinoviales de la porci√≥nlibre del miembro superior
+Articulaci√≥n del hom;glenohumeralis
+Labrum glenoideo‚Ä¢
 Ligs. glenohumerales
 Lig. coracohumeral
 Lig. humeral transverso
-ArticulaciÛn del codo
-ArticulaciÛn humerocubitalï
-ArticulaciÛn humerorradial
-ArticulaciÛn radiocubital proximalï
-Lig. colateral cubitalï
+Articulaci√≥n del codo
+Articulaci√≥n humerocubital‚Ä¢
+Articulaci√≥n humerorradial
+Articulaci√≥n radiocubital proximal‚Ä¢
+Lig. colateral cubital‚Ä¢
 Lig. colateral radial
 Lig. anular del radio
 Lig. cuadrado
-Receso sacciformeï
-ArticulaciÛn radiocubital distalï
-Disco articularï
-Receso sacciformeï
+Receso sacciforme‚Ä¢
+Articulaci√≥n radiocubital distal‚Ä¢
+Disco articular‚Ä¢
+Receso sacciforme‚Ä¢
 Articulaciones de la mano
-ArticulaciÛn radiocarpiana
+Articulaci√≥n radiocarpiana
 Lig. radiocarpiano dorsal
 Lig. radiocarpiano palmar
-Lig. cubitocarpiano dorsalï
-Lig. cubitocarpiano palmarï
-Lig. colateral cubital del carpoï
+Lig. cubitocarpiano dorsal‚Ä¢
+Lig. cubitocarpiano palmar‚Ä¢
+Lig. colateral cubital del carpo‚Ä¢
 Lig. colateral radial del carpojoint
 Articulaciones del ca;Articulacionesintercarpalesintercarpianas
-ArticulaciÛn mediocarpiana
+Articulaci√≥n mediocarpiana
 Lig. radiado del carpo
 Ligs. intercarpianos dorsales
 Ligs. intercarpianos palmares
-Ligs. intercarpianos interÛseos
-ArticulaciÛn del hueso pisiforme
+Ligs. intercarpianos inter√≥seos
+Articulaci√≥n del hueso pisiforme
 Lig. pisiganchoso
 Lig. pisimetacarpiano
 Tunel carpi;Canal del carpo
@@ -9167,154 +9239,154 @@ Canal cubital
 Articulaciones carpometacarpianas
 Ligs. carpometacarpianos dorsales
 Ligs. carpometacarpianos palmares
-ArticulaciÛn carpometacarpiana del pulgarï
+Articulaci√≥n carpometacarpiana del pulgar‚Ä¢
 Articulaciones intermetacarpianas
 Ligs. metacarpianos dorsales
 Ligs. metacarpianos palmares
-Ligs. metacarpianos interÛseos'b'
-Espacios interÛseos del metacarpo
-Articulaciones metacarpofal‚ngicas
+Ligs. metacarpianos inter√≥seos'b'
+Espacios inter√≥seos del metacarpo
+Articulaciones metacarpofal√¢ngicas
 Ligs. colaterales
 Ligs. palmares
 Lig. metacarpiano transverso profundo
-Articulaciones interfal‚ngicas
+Articulaciones interfal√¢ngicas
 Ligs. colaterales
 Ligs. palmares
 Articulaciones del miembro inferior
 TU
 Sindesmosis de la cintura pelviana
-Membrana obturatrizï
-Canal obturadorï
-S\xe2\x84\xa2nfisis del pubis
-Disco interpubi;Fibrocart\xe2\x84\xa2lago interpubiano
+Membrana obturatriz‚Ä¢
+Canal obturador‚Ä¢
+S√≠nfisis del pubis
+Disco interpubi;Fibrocart√≠lago interpubiano
 Lig. superior del pubis
 Lig. inferior del pubis
-ArticulaciÛn sacro-il\xe2\x84\xa2aca
-Ligs. sacro-il\xe2\x84\xa2acos anteriores
-Ligs. sacro-il\xe2\x84\xa2acos interÛseos
-Ligs. sacro-il\xe2\x84\xa2acos posteriores
-Lig. sacrotuberosoï
+Articulaci√≥n sacro-il√≠aca
+Ligs. sacro-il√≠acos anteriores
+Ligs. sacro-il√≠acos inter√≥seos
+Ligs. sacro-il√≠acos posteriores
+Lig. sacrotuberoso‚Ä¢
 Proceso falciforme
-Lig. sacro-espinosoï
-Foramen ci‚tico mayorï
-Foramen ci‚tico menorï
+Lig. sacro-espinoso‚Ä¢
+Foramen ci√¢tico mayor‚Ä¢
+Foramen ci√¢tico menor‚Ä¢
 TU
 Sindesmosis tibiopero;
-Membrana interÛsea de la pierna
-Lig. tibioperoneo anteriorï
-Lig. tibioperoneo posteriorï
-Articulaciones sinoviales de la porciÛn libre del miembro inferior
-ArticulaciÛn de la cad;
+Membrana inter√≥sea de la pierna
+Lig. tibioperoneo anterior‚Ä¢
+Lig. tibioperoneo posterior‚Ä¢
+Articulaciones sinoviales de la porci√≥n libre del miembro inferior
+Articulaci√≥n de la cad;
 Zona orbicular
 Iliofemoral ligament
-PorciÛn transversaï
-PorciÛn descendenteï
+Porci√≥n transversa‚Ä¢
+Porci√≥n descendente‚Ä¢
 Lig. isquiofemoral
 Lig. pubofemoral
-Labrum acetabularï
-Lig. transverso del acet‚bulo
-Lig. de la cabeza del fÈmurï
-ArticulaciÛn de la rodilla
+Labrum acetabular‚Ä¢
+Lig. transverso del acet√¢bulo
+Lig. de la cabeza del f√©mur‚Ä¢
+Articulaci√≥n de la rodilla
 Menisco lateral
 Lig. meniscofemoral anterior
 Lig. meniscofemoral posterior
 Menisco medial
-Lig. transverso de la rodillaï
+Lig. transverso de la rodilla‚Ä¢
 Lig. cruzado anterior
 Lig. cruzado posterior
-Plica sinovial infrarrotulianaï
+Plica sinovial infrarrotuliana‚Ä¢
 Plicas alares
-Lig. colateral peroneoï30
+Lig. colateral peroneo‚Ä¢30
 Lig. colateral tibial
-Lig. popl\xe2\x84\xa2teo oblicuo
-Lig. popl\xe2\x84\xa2teo arcuato
-Lig. rotulianoï
-Retin‚culo rotuliano medialï
-Retin‚culo rotuliano lateralï
+Lig. popl√≠teo oblicuo
+Lig. popl√≠teo arcuato
+Lig. rotuliano‚Ä¢
+Retin√¢culo rotuliano medial‚Ä¢
+Retin√¢culo rotuliano lateral‚Ä¢
 Cuerpo adiposo infrarrotuliano
-ArticulaciÛn tibioperoneaï
-Lig. anterior de la cabeza del peronÈ
-Lig. posterior de la cabeza del peronÈ
+Articulaci√≥n tibioperonea‚Ä¢
+Lig. anterior de la cabeza del peron√©
+Lig. posterior de la cabeza del peron√©
 Articulaciones del pie
-ArticulaciÛn talocruralï
+Articulaci√≥n talocrural‚Ä¢
 Lig. colateral med;Lig. deltoideo
-PorciÛn tibionavicularï
-PorciÛn tibiocalc‚nea
-PorciÛn tibiotalar anteriorï
-PorciÛn tibiotalar posteriorï
+Porci√≥n tibionavicular‚Ä¢
+Porci√≥n tibiocalc√¢nea
+Porci√≥n tibiotalar anterior‚Ä¢
+Porci√≥n tibiotalar posterior‚Ä¢
 Lig. colateral lateral
-Lig. talofibular anteriorï
-Lig. talofibular posteriorï
-Lig. calcaneofibularï
-ArticulaciÛn subta;ArticulaciÛn talocalc‚neaï
-Lig. talocalc‚neo lateralï
-Lig. talocalc‚neo medialï
-Lig. talocalc‚neo posteriorï
-ArticulaciÛn transversa del tarsoï
-ArticulaciÛn talocalcaneonavicularï
-Lig. calcaneonavicular plantarï
-ArticulaciÛn calcaneocuboidea
-ArticulaciÛn cuneonavicularï
+Lig. talofibular anterior‚Ä¢
+Lig. talofibular posterior‚Ä¢
+Lig. calcaneofibular‚Ä¢
+Articulaci√≥n subta;Articulaci√≥n talocalc√¢nea‚Ä¢
+Lig. talocalc√¢neo lateral‚Ä¢
+Lig. talocalc√¢neo medial‚Ä¢
+Lig. talocalc√¢neo posterior‚Ä¢
+Articulaci√≥n transversa del tarso‚Ä¢
+Articulaci√≥n talocalcaneonavicular‚Ä¢
+Lig. calcaneonavicular plantar‚Ä¢
+Articulaci√≥n calcaneocuboidea
+Articulaci√≥n cuneonavicular‚Ä¢
 Articulaciones intercuneiformes
 Ligamentos del tarso
-Ligs. interÛseos del tarso
-Lig. talocalc‚neo interÛseoï
-Lig. cubocuneiforme interÛseo
-Ligs. intercuneiformes interÛseosligaments
+Ligs. inter√≥seos del tarso
+Lig. talocalc√¢neo inter√≥seo‚Ä¢
+Lig. cubocuneiforme inter√≥seo
+Ligs. intercuneiformes inter√≥seosligaments
 Lig. dorsal del tarso
-Lig. talonavicularï
+Lig. talonavicular‚Ä¢
 Ligs. intercuneiformes dorsales
 Lig. cubocuneiforme dorsal
-Lig. cubonavicular dorsalï
+Lig. cubonavicular dorsal‚Ä¢
 Lig. bifurcado
-Lig. calcaneonavicularï
+Lig. calcaneonavicular‚Ä¢
 Lig. calcaneocuboideo
-Ligs. cuneonaviculares dorsalesï
+Ligs. cuneonaviculares dorsales‚Ä¢
 Lig. calcaneocuboideo dorsal
 Ligs. plantares del tarso
 Lig. plantar largo
 Lig. calcaneocuboideo plantar
-Lig. calcaneonavicular plantarï
-Ligs. cuneonaviculares plantaresï
-Lig. cubonavicular plantarï
+Lig. calcaneonavicular plantar‚Ä¢
+Ligs. cuneonaviculares plantares‚Ä¢
+Lig. cubonavicular plantar‚Ä¢
 Ligs. intercuneiformes plantares
 Lig. cubocuneiforme plantar
 Articulaciones tarsometatarsianas
 Ligs. tarsometatarsianos dorsales'b'
 Ligs. tarsometatarsianos plantares
-Ligs. cuneometatarsianos interÛseos
+Ligs. cuneometatarsianos inter√≥seos
 Articulaciones intermetatarsianas
-Ligs. metatarsianos interÛseos
+Ligs. metatarsianos inter√≥seos
 Ligs. metatarsianos dorsales
 Ligs. metatarsianos plantares
-Espacios interÛseos metatarsianos
-Articulaciones metatarsofal‚ngicas
+Espacios inter√≥seos metatarsianos
+Articulaciones metatarsofal√¢ngicas
 Ligs. colaterales
 Ligs. plantares
 Lig. intermetatarsiano transverso profundo
-Articulaciones interfal‚ngicas del pie
+Articulaciones interfal√¢ngicas del pie
 Ligs. colaterales
 Ligs. plantares32
-M\xc5\x93scu;Sistema muscular
+M√∫scu;Sistema muscular
 Cabeza
 Vientre
-InserciÛn
+Inserci√≥n
 Punto fijo
-Punto mÛvil
+Punto m√≥vil
 M. fusiforme
 M. ancho
 M. largo
 M. triangular
 M. cuadrado
-M. dig‚strico
-M. b\xe2\x84\xa2ceps
-M. tr\xe2\x84\xa2ceps
-M. cu‚driceps
+M. dig√¢strico
+M. b√≠ceps
+M. tr√≠ceps
+M. cu√¢driceps
 M. semipenifo;M. unipeniforme
 M. penifo;M. bipeniforme
 M. multipeniforme
 M. orbicular
-M. cut‚neo
+M. cut√¢neo
 M. abductor
 M. aductor
 M. rotador
@@ -9323,7 +9395,7 @@ M. extensor
 M. pronador
 M. supinador
 M. oponente
-M. esf\xe2\x84\xa2nter
+M. esf√≠nter
 M. dilatador
 Compartimento
 Fascia
@@ -9332,132 +9404,132 @@ Fascia del tronco
 Fascia parietal
 Fascia extraserosa
 Fascia visceral
-Los tÈrminos inserciÛn y origo/origen no se han utilizado para evitar confusiones.
+Los t√©rminos inserci√≥n y origo/origen no se han utilizado para evitar confusiones.
  fascia
  peritoneum
 Fascia de los miembros
-Fascia de los m\xc5\x93sculos
+Fascia de los m√∫sculos
 Fascia de revestimiento
 Fascia muscular propia
 Epimisio
 Perimisio
 Endomisio
-TendÛn
-TendÛn intermedio
-IntersecciÛn tendinosa
+Tend√≥n
+Tend√≥n intermedio
+Intersecci√≥n tendinosa
 Aponeurosis
 Arco tendinoso
-TrÛclea muscular
+Tr√≥clea muscular
 Bolsa sinovial
 Vaina sinovial
-M\xc5\x93sculos de la cabeza
-M\xc5\x93sculos del globo ocular{vide paginam 147}{see page 147}{ver p‚gina 147}
-M\xc5\x93sculos de los huesecillos del o\xe2\x84\xa2do{vide paginam 150}{see page 150}{ver p‚gina 150}
-M\xc5\x93sculos faciales
+M√∫sculos de la cabeza
+M√∫sculos del globo ocular{vide paginam 147}{see page 147}{ver p√¢gina 147}
+M√∫sculos de los huesecillos del o√≠do{vide paginam 150}{see page 150}{ver p√¢gina 150}
+M√∫sculos faciales
 M. epicraneano
 M. occipitofrontal
 Vientre frontal
 Vientre occipital
 M. temporoparietal
-Galea aponeurÛt;Aponeurosis epicraneal
-M. prÛcerï
+Galea aponeur√≥t;Aponeurosis epicraneal
+M. pr√≥cer‚Ä¢
 M. nasal
-PorciÛn transversa
-PorciÛn alar
-M. depresor del tabique nasalï
+Porci√≥n transversa
+Porci√≥n alar
+M. depresor del tabique nasal‚Ä¢
 M. orbicular de los ojos
-PorciÛn palpebral
-Fasc\xe2\x84\xa2culo ciliar*
-PorciÛn profunda
-PorciÛn orbitaria
+Porci√≥n palpebral
+Fasc√≠culo ciliar*
+Porci√≥n profunda
+Porci√≥n orbitaria
 M. corrugador superciliar
 M. depresor superciliar
 M. auricular anterior
 M. auricular superior
 M. auricular posterior
-M. orbicular de la bocaï
-PorciÛn marginal
-PorciÛn labial
-M. depresor del ‚ngulo de la boca
-M. transverso del mentÛn
+M. orbicular de la boca‚Ä¢
+Porci√≥n marginal
+Porci√≥n labial
+M. depresor del √¢ngulo de la boca
+M. transverso del ment√≥n
 M. risorio
-M. cigom‚tico mayor
-M. cigom‚tico menor
+M. cigom√¢tico mayor
+M. cigom√¢tico menor
 M. elevador del labio superior
 M. elevador del labio superiory del ala de la nariz
-M. depresor del labio inferiorï
-M. elevador del ‚ngulo de la bocaï
-Modiolo del ‚ngulo de la boca34
-Èsta se sit\xc5\x93a en la zona profunda de la pars palpebralis.
+M. depresor del labio inferior‚Ä¢
+M. elevador del √¢ngulo de la boca‚Ä¢
+Modiolo del √¢ngulo de la boca34
+√©sta se sit√∫a en la zona profunda de la pars palpebralis.
 M. buccinador
-M. mentonianoï
-M\xc5\x93sculos masticadores
+M. mentoniano‚Ä¢
+M√∫sculos masticadores
 M. masetero
-PorciÛn superficial
-PorciÛn profunda
+Porci√≥n superficial
+Porci√≥n profunda
 M. temporal
 M. pterigoideo lateral
-Cabeza superiorï
-Cabeza inferiorï
+Cabeza superior‚Ä¢
+Cabeza inferior‚Ä¢
 M. pterigoideo medial
-Fascia bucofar\xe2\x84\xa2ngea
+Fascia bucofar√≠ngea
 Fascia maseterina
-Fascia parot\xe2\x84\xa2dea
+Fascia parot√≠dea
 Fascia temporal
 Hoja superficial
 Hoja profunda
-M\xc5\x93sculos de la lengua {ver p‚gina 49}
-M\xc5\x93sculos del paladar y de las fauces{vide paginam 50}{see page 50}{ver p‚gina 50}
-M\xc5\x93sculos del cue;M\xc5\x93sculos cervicales
-Platismaï
+M√∫sculos de la lengua {ver p√¢gina 49}
+M√∫sculos del paladar y de las fauces{vide paginam 50}{see page 50}{ver p√¢gina 50}
+M√∫sculos del cue;M√∫sculos cervicales
+Platisma‚Ä¢
 M. largo del cuello
 M. largo de la cabeza
 M. escaleno anterior
 M. escaleno medio
 M. escaleno posterior
-(M. escaleno m\xe2\x84\xa2nimo)
+(M. escaleno m√≠nimo)
 M. esternocleidomastoideo
-M\xc5\x93sculos suboccipitales
+M√∫sculos suboccipitales
 M. recto anterior de la cabeza
 M. recto lateral de la cabeza
 M. recto posterior mayor de la cabeza
 M. recto posterior menor de la cabeza
-M. oblicuo menor de la cabezaï
-M. oblicuo mayor de la cabezaï
-M\xc5\x93sculos suprahioideos
-M. dig‚strico
+M. oblicuo menor de la cabeza‚Ä¢
+M. oblicuo mayor de la cabeza‚Ä¢
+M√∫sculos suprahioideos
+M. dig√¢strico
 Vientre anterior
 Vientre posterior
 M. estilohiodeo
 M. milohioideo
 M. genihioideo
-M\xc5\x93sculos infrahioideos
+M√∫sculos infrahioideos
 M. esternohioideo
 M. omohioideo
 Vientre superior
 Vientre inferior
 M. esternotiroideo
 M. tirohioideo
-(M. elevador de la gl‚ndula tiroides)
+(M. elevador de la gl√¢ndula tiroides)
 Fascia cervical
 Hoja superficial
 Espacio supraesternal
 Hoja pretraqueal'b'*
-Lig. suspensorio de la gl‚ndula tiroides
+Lig. suspensorio de la gl√¢ndula tiroides
 Hoja prevertebral
-Vaina carot\xe2\x84\xa2dea
-M\xc5\x93sculos far\xe2\x84\xa2ngeos {ver p‚gina 51}
-M\xc5\x93sculos lar\xe2\x84\xa2ngeos {ver p‚gina 59}
-M\xc5\x93sculos de la espalda
+Vaina carot√≠dea
+M√∫sculos far√≠ngeos {ver p√¢gina 51}
+M√∫sculos lar√≠ngeos {ver p√¢gina 59}
+M√∫sculos de la espalda
 M. trapecio
-PorciÛn descendente
-PorciÛn transversa
-PorciÛn ascendente
+Porci√≥n descendente
+Porci√≥n transversa
+Porci√≥n ascendente
 (M. transverso de la nuca)
 M. dorsal ancho
 M. romboides mayor
 M. romboides menor
-M. elevador de la esc‚pulaï
+M. elevador de la esc√¢pula‚Ä¢
 M. serrato posterior inferior
 M. serrato posterior superior
 Mm. intertransversos cervicales anterio;
@@ -9466,216 +9538,216 @@ Mm. intertransversos lumbares laterales
 Parte dorsal
 Parte ventral
 Fascia de la nuca*
-M\xc5\x93sculos propios de la espalda
-M\xc5\x93sculo erector de la columna
+M√∫sculos propios de la espalda
+M√∫sculo erector de la columna
 Aponeurosis del m. erector de la columna
 Tabique intermuscular
 M. iliocostal
 M. ilicostal lumbar
-PorciÛn lum;DivisiÛn lateralspinae lumborumof lumbar erector spinaedel m. erector de la columna lumbar
-PorciÛn tor‚cica
+Porci√≥n lum;Divisi√≥n lateralspinae lumborumof lumbar erector spinaedel m. erector de la columna lumbar
+Porci√≥n tor√¢cica
 M. iliocostal cervi;M.iliocostal del cuello
-M. long\xe2\x84\xa2simoï
-M. long\xe2\x84\xa2simo tor‚cicoï
-PorciÛn lum;DivisiÛn medial del m.spinae lumborumof lumbar erector spinaeerector de la columna lumbar
-M. long\xe2\x84\xa2simo cervi;M. long\xe2\x84\xa2simo del cuelloï
-M. long\xe2\x84\xa2simo de la cabezaï
+M. long√≠simo‚Ä¢
+M. long√≠simo tor√¢cico‚Ä¢
+Porci√≥n lum;Divisi√≥n medial del m.spinae lumborumof lumbar erector spinaeerector de la columna lumbar
+M. long√≠simo cervi;M. long√≠simo del cuello‚Ä¢
+M. long√≠simo de la cabeza‚Ä¢
 M. espinoso
-M. espinoso tor‚cico
+M. espinoso tor√¢cico
 M. espinoso cervi;M. espinoso del cuello*
 M. espinoso de la cabeza
-M\xc5\x93sculos espinotransversos
+M√∫sculos espinotransversos
 M. esplenio36
-LorÈ 
- est‚n inervados por rami posterioresy pueden considerarse como los \xc5\x93nicos m\xc5\x93sculosdorsales verdaderos. 
+Lor√© 
+ est√¢n inervados por rami posterioresy pueden considerarse como los √∫nicos m√∫sculosdorsales verdaderos. 
 puede ser una entidad separada. 
 M. esplenio de la cabeza
 M. esplenio cervi;M. esplenio del cuello
-M\xc5\x93sculos transverso-espinosos
-Mm. mult\xe2\x84\xa2fidos
-M. mult\xe2\x84\xa2fido lumbar
-M. mult\xe2\x84\xa2fido tor‚cico
-M. mult\xe2\x84\xa2fido cervi;M. mult\xe2\x84\xa2fidodel cuello
+M√∫sculos transverso-espinosos
+Mm. mult√≠fidos
+M. mult√≠fido lumbar
+M. mult√≠fido tor√¢cico
+M. mult√≠fido cervi;M. mult√≠fidodel cuello
 M. semiespinoso
-M. semiespinoso tor‚cico
+M. semiespinoso tor√¢cico
 M. semiespinoso cervi;
-M. semiespinoso de la cabezaï
+M. semiespinoso de la cabeza‚Ä¢
 Mm. rotadores
 (Mm. rotadores lumbares)
-Mm. rotadores tor‚cicos
+Mm. rotadores tor√¢cicos
 Mm. rotadores cervica;
-M\xc5\x93sculos interespinosos
+M√∫sculos interespinosos
 Mm. interespinosos lumbares
-Mm. interespinosos tor‚cicos
+Mm. interespinosos tor√¢cicos
 Mm. interespinosos cervica;
-M\xc5\x93sculos intertransversos
+M√∫sculos intertransversos
 Mm. intertransversos lumbares mediales
-Mm. intertransversos tor‚cicos
+Mm. intertransversos tor√¢cicos
 Mm. intertransversos cervicales posteriorescervi;Mm. intertransversarii posterioresmedia;Mm. intertransversos posterioresmediales collimediales del cuello
 Fascia toracolumbar
 Hoja posterior
 Hoja media
-Hoja anter;Hoja profu;Fasciamusculi quadratus lumborumlumborum fasciadel m\xc5\x93sculo cuadrado lumbar
-M\xc5\x93sculos del tÛrax
+Hoja anter;Hoja profu;Fasciamusculi quadratus lumborumlumborum fasciadel m√∫sculo cuadrado lumbar
+M√∫sculos del t√≥rax
 (M. esternal)
 M. pectoral mayor
-PorciÛn clavicular
-PorciÛn esternocostal
-PorciÛn abdominal
+Porci√≥n clavicular
+Porci√≥n esternocostal
+Porci√≥n abdominal
 M. pectoral menor
 M. subclavio
 M. serrato anterior
-Mm. elevadores de las costillasï
+Mm. elevadores de las costillas‚Ä¢
 Mm. elevadores largos de las costillas
 Mm. elevadores cortos de las costillas
 Mm. intercostales externos
 Membrana intercostal externa
 Mm. intercostales internos
 Membrana intercostal interna
-Mm. intercostales \xe2\x84\xa2ntimos
+Mm. intercostales √≠ntimos
 Mm. subcostales
-M. transverso del tÛraxï
+M. transverso del t√≥rax‚Ä¢
 Fascia pectoral
 Fascia clavipectoral
-Fascia tor‚cica
-Facia endotor‚cicathoracisof thorax
- el m. multifidusconsiste en una serie de m\xc5\x93sculos espinotransversos einervados segmentariamente. 
+Fascia tor√¢cica
+Facia endotor√¢cicathoracisof thorax
+ el m. multifidusconsiste en una serie de m√∫sculos espinotransversos einervados segmentariamente. 
 Diafragma
-PorciÛn lumbar
+Porci√≥n lumbar
 Pilar derecho
 Pilar izquierdo
 Lig. arcuato medio
-Lig. arcuato medialï
-Lig. arcuato lateralï
-PorciÛn costal
-PorciÛn esternal
-Hiato aÛrtico
-Hiato esof‚gico
-Lig. freno-esof‚gico
+Lig. arcuato medial‚Ä¢
+Lig. arcuato lateral‚Ä¢
+Porci√≥n costal
+Porci√≥n esternal
+Hiato a√≥rtico
+Hiato esof√¢gico
+Lig. freno-esof√¢gico
 Centro tendinoso
 Foramen de la vena cava
-Tri‚ngulo esternocostal
-Tri‚ngulo lumbocostal
-Fascia diafragm‚tica
-M\xc5\x93sculos del abdomen
+Tri√¢ngulo esternocostal
+Tri√¢ngulo lumbocostal
+Fascia diafragm√¢tica
+M√∫sculos del abdomen
 M. recto del abdomen
 Intersecciones tendinosas
-Vaina de los m\xc5\x93sculos rectos del abdomen
+Vaina de los m√∫sculos rectos del abdomen
 Capa anterior
 Capa posterior
-L\xe2\x84\xa2nea arcuata
+L√≠nea arcuata
 M. piramidal
 M. oblicuo externo del abdomen
 Lig. ingui;Arco inguinal
 Lig. lacunar
-Lig. pect\xe2\x84\xa2neo
+Lig. pect√≠neo
 Lig. reflejo
 Anillo inguinal superficial
 Pilar medial
 Pilar lateral
 Fibras intercrurales
 M. oblicuo interno del abdomen
-M. crem‚ster
+M. crem√¢ster
 M. transverso del abdomen
-TendÛn conju;Hoz inguinal
+Tend√≥n conju;Hoz inguinal
 Anillo inguinal profundo
-L\xe2\x84\xa2nea alba
+L√≠nea alba
 Anillo umbilical
-Admin\xe2\x84\xa2culo de la l\xe2\x84\xa2nea alba
-L\xe2\x84\xa2nea semilunar
+Admin√≠culo de la l√≠nea alba
+L√≠nea semilunar
 Conducto inguinal
 M. cuadrado lumbar*
 Fascias del abdomen
 Fascia abdominal visceral
-Fascia propia de los Ûrganos organintraperitoneales
+Fascia propia de los √≥rganos organintraperitoneales
 Fascia extraperitoneal
 Lig. extraperitoneal*
 Fascia abdominal parie;
-Incluye as\xe2\x84\xa2 un n\xc5\x93merode tÈrminos para los que la denominaciÛn de fasciano se recomienda (ver nota al pie de p‚g. 
- sino tambiÈn la extraperitoneal y la visceral en el abdomen y pelvis.'b'
-Fascia propia de los Ûrganosorganextraperitoneales
-Fascia iliops;Fascia il\xe2\x84\xa2aca
-PorciÛn del psoas
-PorciÛn il\xe2\x84\xa2aca
-Arco ileopect\xe2\x84\xa2neo
+Incluye as√≠ un n√∫merode t√©rminos para los que la denominaci√≥n de fasciano se recomienda (ver nota al pie de p√¢g. 
+ sino tambi√©n la extraperitoneal y la visceral en el abdomen y pelvis.'b'
+Fascia propia de los √≥rganosorganextraperitoneales
+Fascia iliops;Fascia il√≠aca
+Porci√≥n del psoas
+Porci√≥n il√≠aca
+Arco ileopect√≠neo
 Fascia transversalis
 Lig. interfoveolar
-Tracto iliop\xc5\x93bico
+Tracto iliop√∫bico
 Fascia umbilical
 Fascia de revestimiento abdominal
 Fascia de revestimiento profunda
 Fascia de revestimiento intermedia
 Fascia de revestimiento superficial
-Lig. suspensorio del cl\xe2\x84\xa2toris
+Lig. suspensorio del cl√≠toris
 Lig. suspensorio del pene
 Tejido conectivo laxo
-Tejido subcut‚neo del abdomen
+Tejido subcut√¢neo del abdomen
 Capa membranosa
-Lig. fundiforme del cl\xe2\x84\xa2toris
+Lig. fundiforme del cl√≠toris
 Lig. fundiforme del pene
-Pan\xe2\x84\xa2culo adiposo
+Pan√≠culo adiposo
 Fascia de la pel;Fascia pelviana
 Fascia pelviana visceral
-Fascia propia de los Ûrganos intraperitoneales
-Fascia rectoprost‚t;Tabiquerectovesicalseptumrectovesical
+Fascia propia de los √≥rganos intraperitoneales
+Fascia rectoprost√¢t;Tabiquerectovesicalseptumrectovesical
 Fascia rectovagi;Tabiquerectovaginale
 Fascia extraperitoneal
 Lig. extraperitoneal
 Fascia pelviana parie;Fascia endopelviana
-Fascia propia de los Ûrganos extraperitoneales
+Fascia propia de los √≥rganos extraperitoneales
 Fascia obturatriz
 Arco tendinoso de la fascia pelviana
-Fascia del m\xc5\x93sculo piriforme
-Fascia superior del diafragma pÈlvico
+Fascia del m√∫sculo piriforme
+Fascia superior del diafragma p√©lvico
 Lig. pubovesi;Lig. medialpuboprostaticum
 Lig. medial pubovesical
 M. pubovesical
-Lig. puboprost‚t;Lig. lateralpuboprostaticum
+Lig. puboprost√¢t;Lig. lateralpuboprostaticum
 Lig. lateral pubovesical
 Lig. lateral vesical
 M. rectovesical
 Fascia presacra
 Fascia rectosacra
-Fascia inferior del diafragma pÈlvico
-Diafragma pÈlvico
-Fascia superior del diafragma pÈlvico
-Fascia inferior del diafragma pÈlvico
+Fascia inferior del diafragma p√©lvico
+Diafragma p√©lvico
+Fascia superior del diafragma p√©lvico
+Fascia inferior del diafragma p√©lvico
 M. elevador del ano
-M. pubocox\xe2\x84\xa2geo
+M. pubocox√≠geo
 M. puboperineal
-M. puboprost‚t;M. elevador de la prÛstata
+M. puboprost√¢t;M. elevador de la pr√≥stata
 M. pubovaginal
 M. pubo-anal
 Orda 
  sino las fascias extraperitoneal y visceral del abdomen y de la pelvis.'b'
 M. puborrectal
-M. iliocox\xe2\x84\xa2geo
-(Arco tendinoso del m\xc5\x93sculo elevadordel ano)
+M. iliocox√≠geo
+(Arco tendinoso del m√∫sculo elevadordel ano)
 Hiato urogenital
-M. isquiocox\xe2\x84\xa2;M cox\xe2\x84\xa2geo
-M. esf\xe2\x84\xa2nter externo del ano
-PorciÛn subcut‚nea
-PorciÛn superficial
-PorciÛn profunda*
-Cuerpo anocox\xe2\x84\xa2;Lig. anocox\xe2\x84\xa2geoligament
-TendÛn del m\xc5\x93sculo pubocox\xe2\x84\xa2geo
-Rafe del m\xc5\x93sculo iliocox\xe2\x84\xa2geo
-InserciÛn de la porciÛn superficial sphincteris ani externiianal sphincterdel m\xc5\x93sculo esf\xe2\x84\xa2nter externo del ano
-Mm. del perinÈ {ver p‚gina 71}
-M\xc5\x93sculos del miembro superior
+M. isquiocox√≠;M cox√≠geo
+M. esf√≠nter externo del ano
+Porci√≥n subcut√¢nea
+Porci√≥n superficial
+Porci√≥n profunda*
+Cuerpo anocox√≠;Lig. anocox√≠geoligament
+Tend√≥n del m√∫sculo pubocox√≠geo
+Rafe del m√∫sculo iliocox√≠geo
+Inserci√≥n de la porci√≥n superficial sphincteris ani externiianal sphincterdel m√∫sculo esf√≠nter externo del ano
+Mm. del perin√© {ver p√¢gina 71}
+M√∫sculos del miembro superior
 Compartimentos
 Compartimento braquial anter;
 Compartimentum brachii extensorum
 Compartimento antebraquial anter;
-PorciÛn superficial
-PorciÛn profunda
+Porci√≥n superficial
+Porci√≥n profunda
 Compartimento antebraquial poster;
-PorciÛn late;PorciÛn radial
-M\xc5\x93sculos
+Porci√≥n late;Porci√≥n radial
+M√∫sculos
 M. deltoides
-PorciÛn clavicular
-PorciÛn acromial
-PorciÛn espinal
+Porci√≥n clavicular
+Porci√≥n acromial
+Porci√≥n espinal
 M. supraespinoso
 Fascia supraespinosa
 M. infraespinoso
@@ -9683,48 +9755,48 @@ Fascia infraespinosa
 M. redondo menor
 M. redondo mayor
 M. subescapular
-M. b\xe2\x84\xa2ceps braquial
+M. b√≠ceps braquial
 Cabeza larga
 Cabeza corta
-Aponeurosis del m\xc5\x93sculo b\xe2\x84\xa2ceps braqu;
+Aponeurosis del m√∫sculo b√≠ceps braqu;
 M. coracobraquial
-M. braquialï
-M. tr\xe2\x84\xa2ceps braquial
+M. braquial‚Ä¢
+M. tr√≠ceps braquial
 Cabeza larga
-Cabeza lateralï
-Cabeza med;Cabeza profundaï
-M. ancÛneo
+Cabeza lateral‚Ä¢
+Cabeza med;Cabeza profunda‚Ä¢
+M. anc√≥neo
 M. articular del codo
 M. pronador redondo
 Cabeza humeral40
 mejor que el de ligamentum
-Cabeza cubitalï
-M. flexor radial del carpoï
-M. palmar largoï
-M. flexor cubital del carpoï
+Cabeza cubital‚Ä¢
+M. flexor radial del carpo‚Ä¢
+M. palmar largo‚Ä¢
+M. flexor cubital del carpo‚Ä¢
 Cabeza humeral
-Cabeza cubitalï
+Cabeza cubital‚Ä¢
 M. flexor superficial de los dedos
-Cabeza humerocubitalï
+Cabeza humerocubital‚Ä¢
 Cabeza radial
 M. flexor profundo de los dedos
 M. flexor largo del pulgar
 M. pronador cuadrado
-M. braquiorradialï
-M. extensor radial largo del carpoï
-M. extensor radial corto del carpoï
+M. braquiorradial‚Ä¢
+M. extensor radial largo del carpo‚Ä¢
+M. extensor radial corto del carpo‚Ä¢
 M. extensor de los dedos
 Conexiones intertendinosas
 M. extensor del me\xc5\x92ique
-M. extensor cubital del carpoï
+M. extensor cubital del carpo‚Ä¢
 Cabeza humeral
-Cabeza cubitalï
-M. supinadorï
+Cabeza cubital‚Ä¢
+M. supinador‚Ä¢
 M. abductor largo del pulgar
 M. extensor corto del pulgar
 M. extensor largo del pulgar
-M. extensor del \xe2\x84\xa2ndice
-M. palmar cortoï
+M. extensor del √≠ndice
+M. palmar corto‚Ä¢
 M. abductor corto del pulgar
 M. flexor corto del pulgar
 Cabeza superficial
@@ -9737,8 +9809,8 @@ M. abductor del me\xc5\x92ique
 M. flexor corto del me\xc5\x92ique
 M. oponente del me\xc5\x92ique
 Mm. lumbricales
-Mm. interÛseos dorsales
-Mm. interÛseos palmares
+Mm. inter√≥seos dorsales
+Mm. inter√≥seos palmares
 Fascias
 Fascia axilar
 Lig. suspensorio de la axila
@@ -9748,76 +9820,76 @@ T\nabique intermuscular medial del brazo
 T\nabique intermuscular lateral del brazo
 Fascia antebraquial
 Fascia dorsal de la mano
-Retin‚culo extensor
+Retin√¢culo extensor
 Lig. metacarpiano transverso superficialligament
 Aponeurosis palmar
-Retin‚culo flexor
+Retin√¢culo flexor
 Quiasma tendinoso'b'
-M\xc5\x93sculos del miembro inferior
+M√∫sculos del miembro inferior
 Compartimentos
 Compartimento femoral anter;
 Compartimento femoral poster;
 Compartimento femoral med;
 Compartimento anterior de la pie;
 Compartimento posterior de la pie;
-PorciÛn superfic;PorciÛn gastrocne;
-PorciÛn profu;PorciÛn sÛlea
+Porci√≥n superfic;Porci√≥n gastrocne;
+Porci√≥n profu;Porci√≥n s√≥lea
 Compartimento lateral de la pie;
-M\xc5\x93sculos
-M. iliopsoasï
-M. il\xe2\x84\xa2aco
+M√∫sculos
+M. iliopsoas‚Ä¢
+M. il√≠aco
 M. psoas mayor
 (M. psoas menor)
-M. gl\xc5\x93teo mayor
-M. gl\xc5\x93teo medio
-M. gl\xc5\x93teo menor
-Aponeurosis gl\xc5\x93tea
+M. gl√∫teo mayor
+M. gl√∫teo medio
+M. gl√∫teo menor
+Aponeurosis gl√∫tea
 M. tensor de la fascia lata
-M. piriformeï
+M. piriforme‚Ä¢
 M. obturador interno
 M. gemelo superior
 M. gemelo inferior
 M. cuadrado femoral
 M. sartorio
-M. cu‚driceps femoral
-M. recto femoralï
+M. cu√¢driceps femoral
+M. recto femoral‚Ä¢
 Cabeza directa
 Cabeza refleja
 M. vasto lateral
-M. vasto intermedioï
+M. vasto intermedio‚Ä¢
 M. vasto medial
-M. articular de la rodillaïof knee
-M. pect\xe2\x84\xa2neo
-M. aductor largoï
-M. aductor cortoï
+M. articular de la rodilla‚Ä¢of knee
+M. pect√≠neo
+M. aductor largo‚Ä¢
+M. aductor corto‚Ä¢
 M. aductor mayor
-M. aductor m\xe2\x84\xa2nimo
-M. gr‚cilï
+M. aductor m√≠nimo
+M. gr√¢cil‚Ä¢
 M. obturador externo
-M. b\xe2\x84\xa2ceps femoral
+M. b√≠ceps femoral
 Cabeza larga
 Cabeza corta
 M. semitendinoso
 M. semimembranoso
 M. tibial anterior
 M. extensor largo de los dedos
-M. tercer peroneoï
+M. tercer peroneo‚Ä¢
 M. extensor largo del dedo gordo
 M. peroneo largo
 M. peroneo corto42
-M. tr\xe2\x84\xa2ceps sural
-M. gastrocnemioï
-Cabeza lateralï
-Cabeza medialï
-M. sÛleo
-TendÛn calc‚neo
+M. tr√≠ceps sural
+M. gastrocnemio‚Ä¢
+Cabeza lateral‚Ä¢
+Cabeza medial‚Ä¢
+M. s√≥leo
+Tend√≥n calc√¢neo
 M. plantar
-M. popl\xe2\x84\xa2teo
+M. popl√≠teo
 M. tibial posterior
 M. flexor largo de los dedos
 M. flexor largo del dedo gordo
 M. extensor corto del dedo gordo
-M. extensor corto de los dedosï
+M. extensor corto de los dedos‚Ä¢
 M. abductor del dedo gordo
 M. flexor corto del dedo gordo
 Cabeza medial
@@ -9832,8 +9904,8 @@ M. flexor corto del quinto dedo
 M. flexor corto de los dedos
 M. cuadrado plan;M. flexor accesorio
 Mm. lumbricales
-Mm. interÛseos dorsales
-Mm. interÛseos plantares
+Mm. inter√≥seos dorsales
+Mm. inter√≥seos plantares
 Fascias
 Fascia lata
 Tracto iliotibial
@@ -9842,12 +9914,12 @@ Tabique intermuscular femoral medial
 Conducto aductor
 Tabique intermuscular vastoaducto;
 Hiato aductor
-Fascia il\xe2\x84\xa2aca
+Fascia il√≠aca
 Laguna muscular
-Arco ileopect\xe2\x84\xa2neoï
+Arco ileopect√≠neo‚Ä¢
 Laguna vascular
 Conducto femoral
-Tri‚ngulo femoral
+Tri√¢ngulo femoral
 Anillo femoral
 Tabique femoral
 Hiato safeno
@@ -9858,163 +9930,164 @@ Faxcia cribiforme
 Fascia profunda de la pierna
 Tabique intermuscular anterior de la pierna
 Tabique intermuscular posterior de la pierna
-Arco tendinoso del sÛleo
-Retin‚culo superior de los m\xc5\x93sculos superiusextensores
-Retin‚culo de los m\xc5\x93sculos flexores
-Retin‚culo inferior de los m\xc5\x93sculos inferiusextensores'b'
-Retin‚culo superior de los m\xc5\x93sculos fibula;super;Retinaculum musculorum
-Retin‚culo inferior de los m\xc5\x93sculos fibula;
+Arco tendinoso del s√≥leo
+Retin√¢culo superior de los m√∫sculos superiusextensores
+Retin√¢culo de los m√∫sculos flexores
+Retin√¢culo inferior de los m√∫sculos inferiusextensores'b'
+Retin√¢culo superior de los m√∫sculos fibula;super;Retinaculum musculorum
+Retin√¢culo inferior de los m√∫sculos fibula;
 Fascia dorsal del pie
 Aponeurosis plantar
-Fasc\xe2\x84\xa2culos transversos
+Fasc√≠culos transversos
 Lig. metatarsiano transverso superficial
 Vainas tendinosas y bolsas
-Bolsa subcut‚nea
+Bolsa subcut√¢nea
 Bolsa submuscular
 Bolsa subfascial
 Bolsa subtendinosa
 Vaina tendinosa
 Capa fibr;Vaina fibrosa
 Synovial sheath
-MesotendÛn
+Mesotend√≥n
 Bolsas del cuello
-Bolsa del m\xc5\x93sculo tensor del velo del paladar
-Bolsa subcut‚nea de la prominencia lar\xe2\x84\xa2ngeaprominence
+Bolsa del m√∫sculo tensor del velo del paladar
+Bolsa subcut√¢nea de la prominencia lar√≠ngeaprominence
 Bolsa infrahioidea
 Bursa retrohioidea
 Bolsas del miembro superior
-Bolsa subtendinosa del m\xc5\x93sculo trapecio
-(Bolsa subcut‚nea acromial)
+Bolsa subtendinosa del m√∫sculo trapecio
+(Bolsa subcut√¢nea acromial)
 Bolsa subacromial
 Bolsa subdeltoidea
-(Bolsa del m\xc5\x93sculo coracobraquial)
-Bolsa subtendinosa del m\xc5\x93sculo infraespinoso
-Bolsa subtendinosa del m\xc5\x93sculo subescapular
-Bolsa subtendinosa del m\xc5\x93sculo redondo mayor
-Bolsa subtendinosa del m\xc5\x93sculo dorsal ancho
-Bolsa subcut‚nea del olÈcranon
-(Bolsa intratendinosa del olÈcranon)
-Bolsa subtendinosa del m\xc5\x93sculo tr\xe2\x84\xa2ceps braquial
+(Bolsa del m√∫sculo coracobraquial)
+Bolsa subtendinosa del m√∫sculo infraespinoso
+Bolsa subtendinosa del m√∫sculo subescapular
+Bolsa subtendinosa del m√∫sculo redondo mayor
+Bolsa subtendinosa del m√∫sculo dorsal ancho
+Bolsa subcut√¢nea del ol√©cranon
+(Bolsa intratendinosa del ol√©cranon)
+Bolsa subtendinosa del m√∫sculo tr√≠ceps braquial
 Bolsa bicipitorradial
-(Bolsa interÛsea del codo)
+(Bolsa inter√≥sea del codo)
 Vainas tendinosas del miembro superior
 Vaina tendinosa intertubercular
 Vainas tendinosas del carpo
 Vainas tendinosas palmares del carpo
-Vaina tendinosa del m\xc5\x93sculo flexor largo longilongusdel pulgar
-Vaina tendinosa del m\xc5\x93sculo flexor radialradialisradialisde carpo
-Vaina tendinosa com\xc5\x93n de los m\xc5\x93sculosflexorumflexores
+Vaina tendinosa del m√∫sculo flexor largo longilongusdel pulgar
+Vaina tendinosa del m√∫sculo flexor radialradialisradialisde carpo
+Vaina tendinosa com√∫n de los m√∫sculosflexorumflexores
 Vainas tendinosas dorsales del carpo
-Vaina tendinosa de los m\xc5\x93sculos abductorlongi et extensoris pollicis brevislongus and extensor pollicis brevis largo y extensor corto del pulgar
-Vaina tendinosa de los m\xc5\x93sculos carpi radialiumcarpi radialesextensores radiales del carpo
-Vaina tendinosa del m\xc5\x93sculo extensor longipollicislongus largo del pulgar
-Vaina tendinosa de los m\xc5\x93sculos extensoresdigitorum et extensoris indicisdigitorum and extensor indicisde los dedos y extensor del \xe2\x84\xa2ndice44
-Vaina tendinosa del m\xc5\x93sculo extensorminimi brevisminimi brevisdel me\xc5\x92ique
-Vaina tendinosa del m\xc5\x93sculo extensorulnarisulnariscubital del carpo
+Vaina tendinosa de los m√∫sculos abductorlongi et extensoris pollicis brevislongus and extensor pollicis brevis largo y extensor corto del pulgar
+Vaina tendinosa de los m√∫sculos carpi radialiumcarpi radialesextensores radiales del carpo
+Vaina tendinosa del m√∫sculo extensor longipollicislongus largo del pulgar
+Vaina tendinosa de los m√∫sculos extensoresdigitorum et extensoris indicisdigitorum and extensor indicisde los dedos y extensor del √≠ndice44
+Vaina tendinosa del m√∫sculo extensorminimi brevisminimi brevisdel me\xc5\x92ique
+Vaina tendinosa del m√∫sculo extensorulnarisulnariscubital del carpo
 Vainas fibrosas de los dedos de la mano
-PorciÛn anular de las vainas fibrosas
-PorciÛn cruciforme de las vainas fibrosas
+Porci√≥n anular de las vainas fibrosas
+Porci√≥n cruciforme de las vainas fibrosas
 Vainas sinoviales de los dedos de la mano
-V\xe2\x84\xa2nculos tendinosos
-V\xe2\x84\xa2nculo largo
-V\xe2\x84\xa2nculo corto
+V√≠nculos tendinosos
+V√≠nculo largo
+V√≠nculo corto
 Bolsas del miembro inferior
-Bolsa subcut‚nea troncantÈrea
-Bolsa trocantÈrea del m\xc5\x93sculo gl\xc5\x93teo mayor
-Bolsa trocantÈrea del m\xc5\x93sculo gl\xc5\x93teo mediano
-Bolsa trocantÈrea del m\xc5\x93sculo gl\xc5\x93teo menor
-Bolsa del m\xc5\x93sculo piriforme
-Bolsa ci‚tica del m\xc5\x93sculo obturador interno
-Bolsa subtendinosa del m\xc5\x93sculo obturadorinterniinternusinterno
-Bolsas intermusculares de los m\xc5\x93sculos gluteorumgl\xc5\x93teos
-Bolsa ci‚tica del m\xc5\x93sculo gl\xc5\x93teo mayor
-Bolsa subtendinosa il\xe2\x84\xa2aca
-Bolsa superior del m\xc5\x93sculo b\xe2\x84\xa2ceps femoral
-Bolsa subcut‚nea prerrotuliana
+Bolsa subcut√¢nea troncant√©rea
+Bolsa trocant√©rea del m√∫sculo gl√∫teo mayor
+Bolsa trocant√©rea del m√∫sculo gl√∫teo mediano
+Bolsa trocant√©rea del m√∫sculo gl√∫teo menor
+Bolsa del m√∫sculo piriforme
+Bolsa ci√¢tica del m√∫sculo obturador interno
+Bolsa subtendinosa del m√∫sculo obturadorinterniinternusinterno
+Bolsas intermusculares de los m√∫sculos gluteorumgl√∫teos
+Bolsa ci√¢tica del m√∫sculo gl√∫teo mayor
+Bolsa subtendinosa il√≠aca
+Bolsa superior del m√∫sculo b√≠ceps femoral
+Bolsa subcut√¢nea prerrotuliana
 (Bolsa subfascial prerrotuliana)
 (Bolsa subtendinosa prerrotuliana)
 Bolsa suprarrotuliana
-Bolsa subcut‚nea infrarrotuliana
+Bolsa subcut√¢nea infrarrotuliana
 Bolsa profunda infrarrotuliana
-Bolsa subcut‚nea de la tuberosidad of tibiade la tibia
-Bolsa subtendinosa del m\xc5\x93sculo sartorio
-Bolsa anserinaï
-Bolsa subtendinosa del m\xc5\x93sculo b\xe2\x84\xa2ceps femorisfemoral
-Receso subpopl\xe2\x84\xa2teo
-Bursa subtendinosa lateral del m\xc5\x93sculolateralisof gastrocnemiusgastrocnemio
-Bursa subtendinosa medial del m\xc5\x93sculomedialisof gastrocnemiusgastrocnemio
-Bursa del m\xc5\x93sculo semimembranoso
-Bursa subcut‚nea del maleolo lateral
-Bursa subcut‚nea del maleolo medial
-Bursa subtendinosa del m\xc5\x93sculo tibial anterior
-Bursa subcut‚nea calc‚nea
-Bursa tendinosa del tendÛn calc‚neocalcaneal ten;Retrocalcaneal bursa
+Bolsa subcut√¢nea de la tuberosidad of tibiade la tibia
+Bolsa subtendinosa del m√∫sculo sartorio
+Bolsa anserina‚Ä¢
+Bolsa subtendinosa del m√∫sculo b√≠ceps femorisfemoral
+Receso subpopl√≠teo
+Bursa subtendinosa lateral del m√∫sculolateralisof gastrocnemiusgastrocnemio
+Bursa subtendinosa medial del m√∫sculomedialisof gastrocnemiusgastrocnemio
+Bursa del m√∫sculo semimembranoso
+Bursa subcut√¢nea del maleolo lateral
+Bursa subcut√¢nea del maleolo medial
+Bursa subtendinosa del m√∫sculo tibial anterior
+Bursa subcut√¢nea calc√¢nea
+Bursa tendinosa del tend√≥n calc√¢neocalcaneal ten;Retrocalcaneal bursa
 Vainas tendinosas del miembro inferior
 Vainas tendinosas tarsales anteriores
-Vaina tendinosa del m\xc5\x93sculo tibial anterior
-Vaina tendinosa del m\xc5\x93sculo extensor hallucis longihallucis longuslargo del dedo gordo
-Vaina tendinosa del m\xc5\x93sculo extensor digitorum longidigitorum longuslargo de los dedos
+Vaina tendinosa del m√∫sculo tibial anterior
+Vaina tendinosa del m√∫sculo extensor hallucis longihallucis longuslargo del dedo gordo
+Vaina tendinosa del m√∫sculo extensor digitorum longidigitorum longuslargo de los dedos
 Vainas tendinosas tibiales del tarso
-Vaina tendinosa del m\xc5\x93sculo flexor largodigitorum longidigitorum longusde los dedos
-Vaina tendinosa del m\xc5\x93sculo tibial posterior'b'
-Vaina tendinosa del m\xc5\x93sculo flexor largo longi longusdel dedo gordo
+Vaina tendinosa del m√∫sculo flexor largodigitorum longidigitorum longusde los dedos
+Vaina tendinosa del m√∫sculo tibial posterior'b'
+Vaina tendinosa del m√∫sculo flexor largo longi longusdel dedo gordo
 Vainas tendinosas peroneas del tarso
-Vaina tendinosa com\xc5\x93n de los m\xc5\x93sculosfibular;Vagina communis tendinumof fibula;Common tendinous fibula;Vaina tendinosa com\xc5\x93n musculorum peroneorumsheath of peroneide los m\xc5\x93sculos peroneos
-Vaina tendinosa plantar del m\xc5\x93sculo lo;Vagina plantaris tendinis musculilon;
+Vaina tendinosa com√∫n de los m√∫sculosfibular;Vagina communis tendinumof fibula;Common tendinous fibula;Vaina tendinosa com√∫n musculorum peroneorumsheath of peroneide los m√∫sculos peroneos
+Vaina tendinosa plantar del m√∫sculo lo;Vagina plantaris tendinis musculilon;
 Vainas tendinosas de los dedos del pie
 Vainas fibrosas de los dedos del pie
-PorciÛn anular de la vaina fibrosa
-PorciÛn cruciforme de la vaina fibrosa
+Porci√≥n anular de la vaina fibrosa
+Porci√≥n cruciforme de la vaina fibrosa
 Vainas sinoviales de los dedos del pie
-V\xe2\x84\xa2nculos tendinosos46
+V√≠nculos tendinosos46
 Sistema digestivo
 Boca
 Cavidad bu;Cavidad oral
 Mucosa de la boca
-Vest\xe2\x84\xa2bulo bucal
+Vest√≠bulo bucal
 Orificio de la boca
 Labios
 Labio superior
 Filtrum
-TubÈrculo
+Tub√©rculo
 Labio inferior
 Frenillo del labio superior
 Frenillo del labio inferior
 Comisura labial
+√Çngulo de la boca
 Mejilla
 Cuerpo adiposo de la boca
-Papila del conducto parot\xe2\x84\xa2deo
+Papila del conducto parot√≠deo
 Cavidad bucal propiamente dicha
 Paladar
 Paladar duro
 Soft palate
 Rafe palatino
 Pliegues palatinos transver;Rugosidades
-Papila incisivaï
+Papila incisiva‚Ä¢
 Enc\xe2\x84\x;Gingiva
 Borde gingival
 Papila gingi;Papila interdental
 Surco gingival
-Car\xc5\x93ncula sublingual
+Car√∫ncula sublingual
 Pliegue sublingual
-Gl‚ndulas de la boca
-Gl‚ndulas salivares mayores
-Gl‚ndula parÛtida
-PorciÛn superficial
-PorciÛn profunda
-Gl‚ndula parÛtida accesoria
-Conducto parot\xe2\x84\xa2deo
-Gl‚ndulas sublinguales
+Gl√¢ndulas de la boca
+Gl√¢ndulas salivares mayores
+Gl√¢ndula par√≥tida
+Porci√≥n superficial
+Porci√≥n profunda
+Gl√¢ndula par√≥tida accesoria
+Conducto parot√≠deo
+Gl√¢ndulas sublinguales
 Conducto sublingual mayor
 Conductos sublinguales menores
-Gl‚ndula submandibular
+Gl√¢ndula submandibular
 Conducto submandibular
-Gl‚ndulas salivares menores
-Gl‚ndulas labiales
-Gl‚ndulas bucales
-Gl‚ndulas molares
-Gl‚ndulas palatinas
-Gl‚ndulas linguales
+Gl√¢ndulas salivares menores
+Gl√¢ndulas labiales
+Gl√¢ndulas bucales
+Gl√¢ndulas molares
+Gl√¢ndulas palatinas
+Gl√¢ndulas linguales
 Zenker 
 Dientes
 Arco dental maxi;Arco dental superiorsuperiorarcade
@@ -10025,28 +10098,30 @@ Diente premolar
 Diente molar
 Tercer mo;Muela del juicio
 Corona
-C\xc5\x93spide
-C\xc5\x93spide accesoria
-TubÈrculo
+C√∫spide
+√Åpex de la c√∫spide
+C√∫spide accesoria
+Tub√©rculo
 Cresta transversa
 Cresta triangular
 Cresta oblicua
 Fisura oclusal
 Fosa oclusal
-C\xc5\x93spide bucal
-C\xc5\x93spide palatina
-C\xc5\x93spide lingual
-C\xc5\x93spide mesiobucal
-C\xc5\x93spide mesiopalatina
-C\xc5\x93spide mesiolingual
-C\xc5\x93spide distobucal
-C\xc5\x93spide distopalatina
-C\xc5\x93spide distolingual
-C\xc5\x93spide distal
-Corona cl\xe2\x84\xa2nica
+C√∫spide bucal
+C√∫spide palatina
+C√∫spide lingual
+C√∫spide mesiobucal
+C√∫spide mesiopalatina
+C√∫spide mesiolingual
+C√∫spide distobucal
+C√∫spide distopalatina
+C√∫spide distolingual
+C√∫spide distal
+Corona cl√≠nica
 Cuello
-Ra\xe2\x84\xa2z
-Ra\xe2\x84\xa2z cl\xe2\x84\xa2nica
+Ra√≠z
+√Åpex de la ra√≠z
+Ra√≠z cl√≠nica
 Cara oclusal
 Cara vestibular
 Cara bucal
@@ -10056,7 +10131,8 @@ Cara palatina
 Cara mesial
 Cara distal
 Cara proximalsurface
-C\xe2\x84\xa2ngulo
+√Årea de contacto
+C√≠ngulo
 Cresta marginal
 Borde incisal
 Cavidad pulpar
@@ -10067,56 +10143,56 @@ Pulpa dental
 Pulpa coronal
 Pulpa radicular
 Papila dental
-Dentinaï
+Dentina‚Ä¢
 Esmalte
 Cemento48
 Periodonto
 Mamelones
-Estr\xe2\x84\xa2a can;Surco canino
+Estr√≠a can;Surco canino
 Fosa canina
-FÛvea mesial
-FÛvea distal
-Ra\xe2\x84\xa2z bucal
-Ra\xe2\x84\xa2z palatina
-Ra\xe2\x84\xa2z mesial
-Ra\xe2\x84\xa2z distal
-Ra\xe2\x84\xa2z mesiobucal
-Ra\xe2\x84\xa2z mesiolingual
-Ra\xe2\x84\xa2z accesoria
-(TubÈrculo anÛmalo)
-C\xc5\x93spide paramo;TubÈrculo paramolar
-TubÈrculo molar
+F√≥vea mesial
+F√≥vea distal
+Ra√≠z bucal
+Ra√≠z palatina
+Ra√≠z mesial
+Ra√≠z distal
+Ra√≠z mesiobucal
+Ra√≠z mesiolingual
+Ra√≠z accesoria
+(Tub√©rculo an√≥malo)
+C√∫spide paramo;Tub√©rculo paramolar
+Tub√©rculo molar
 Alveolo dental
 Curvas oclusales
-Dientes dec\xe2\x84\xa2duosï
+Dientes dec√≠duos‚Ä¢
 Dientes permanentes
 (Diastema)
 Lengua
 Cuerpo
-Ra\xe2\x84\xa2z
+Ra√≠z
 Dorso
-PorciÛn anterior
-PorciÛn posterior
+Porci√≥n anterior
+Porci√≥n posterior
 Cara inferior
-Pliegue fimbriadoï
+Pliegue fimbriado‚Ä¢
 Borde
-VÈrtice
+V√©rtice
 Mucosa
 Frenillo lingual
 Papilas linguales
 Papilas filiformes
 Papilas fungiformes
-Papilas circunvaladasï
+Papilas circunvaladas‚Ä¢
 Papilas foliadas
 Surco mediosulcus of tongue
-Surco terminalï
+Surco terminal‚Ä¢
 Foramen ciego
 (Conducto tirogloso)
-Tonsila ling;Am\xe2\x84\xa2gdala lingual
+Tonsila ling;Am√≠gdala lingual
 Lingual 
 Tabique lingual
 Aponeurosis lingual
-M\xc5\x93sculos de la lengua
+M√∫sculos de la lengua
 M. geniogloso
 M. hiogloso
 M. condrogloso
@@ -10132,125 +10208,126 @@ Istmo de las faucesisthmus
 Paladar bla;Velo del paladar
 Arco palatogl;Pilar anterior del velofauciumof faucesdel paladar
 (Pliegue triangular)
-Arco palatofar\xe2\x84\xa2n;Pilar posteriorfauciumpillar of faucesdel velo del paladar
+Arco palatofar√≠n;Pilar posteriorfauciumpillar of faucesdel velo del paladar
 (Pliegue semilunar)
 Fosa tonsi;Seno tonsilar
 Fosa supratonsilar
-Tonsila palat;Am\xe2\x84\xa2gdala palatina
-C‚psula tonsilar*
+Tonsila palat;Am√≠gdala palatina
+C√¢psula tonsilar*
 (Fisura tonsi;Fisura intratonsilar)
 Fosillas tonsilares
 Criptas tonsilares
-M\xc5\x93sculos del paladar blando y de las fauces
+M√∫sculos del paladar blando y de las fauces
 Aponeurosis palatina
-M. elevador del velo del paladarï
-M. tensor del velo del paladarï
-M. de la \xc5\x93vula
+M. elevador del velo del paladar‚Ä¢
+M. tensor del velo del paladar‚Ä¢
+M. de la √∫vula
 M. palatogloso
-M. palatofar\xe2\x84\xa2ngeo
-Fasc\xe2\x84\xa2culo anterior
-Fasc\xe2\x84\xa2sculo poster;M. esf\xe2\x84\xa2nterpalatopharyngeussphincterpalatofar\xe2\x84\xa2ngeo
+M. palatofar√≠ngeo
+Fasc√≠culo anterior
+Fasc√≠sculo poster;M. esf√≠nterpalatopharyngeussphincterpalatofar√≠ngeo
 YN
-Cavidad far\xe2\x84\xa2ngea
+Cavidad far√≠ngea
 Nasofaringe
-FÛrnix far\xe2\x84\xa2ngeo
-HipÛfisis far\xe2\x84\xa2ngea
-Tonsila far\xe2\x84\xa2n;Am\xe2\x84\xa2gdala far\xe2\x84\xa2ngeaï
+F√≥rnix far√≠ngeo
+Hip√≥fisis far√≠ngea
+Tonsila far√≠n;Am√≠gdala far√≠ngea‚Ä¢
 Fosillas tonsilares
 Criptas tonsilares
 Iymphoid nodules
-(Bolsa far\xe2\x84\xa2ngea)
+(Bolsa far√≠ngea)
 Ostium pharyngeum tubae auditoriae
-Torus tub‚ricoï
-Pliegue salpingofar\xe2\x84\xa2ngeo
+Torus tub√¢rico‚Ä¢
+Pliegue salpingofar√≠ngeo
 Pliegue salpingopalatino
-Torus del elevadorï
-Tonsila tub‚r;Am\xe2\x84\xa2gdala tub‚rica
-Receso far\xe2\x84\xa2ngeo
-Cresta palatofar\xe2\x84\xa2ngea
+Torus del elevador‚Ä¢
+Tonsila tub√¢r;Am√≠gdala tub√¢rica
+Receso far√≠ngeo
+Cresta palatofar√≠ngea
 Orofaringe
-VallÈcula epiglÛticaï
-Pliegue gloso-epiglÛtico medio
-Pliegue gloso-epiglÛtico lateral
+Vall√©cula epigl√≥tica‚Ä¢
+Pliegue gloso-epigl√≥tico medio
+Pliegue gloso-epigl√≥tico lateral
 Laringofari;Hipofaringe
-Receso piriformeï
-Pliegue del nervio lar\xe2\x84\xa2ngeo superior
-Estrechamiento faringo-esof‚gico
+Receso piriforme‚Ä¢
+Pliegue del nervio lar√≠ngeo superior
+Estrechamiento faringo-esof√¢gico
 Fascia faringobasilar50
  y que va desapareciendo du-rante la infancia y la pubertad. 
 Submucosa
 Muc;Capa mucosa
-Gl‚ndulas far\xe2\x84\xa2ngeas
-M\xc5\x93sculos far\xe2\x84\xa2ng;Capa muscularpharyngisof pharynxde la faringe
-Rafe far\xe2\x84\xa2ngeo
+Gl√¢ndulas far√≠ngeas
+M√∫sculos far√≠ng;Capa muscularpharyngisof pharynxde la faringe
+Rafe far√≠ngeo
 Rafe pterigomandibular
 M. constrictor superior de la faringe
-PorciÛn pterigofar\xe2\x84\xa2ngea
-PorciÛn bucofar\xe2\x84\xa2ngea
-PorciÛn milofar\xe2\x84\xa2ngea
-PorciÛn glosofar\xe2\x84\xa2ngea
+Porci√≥n pterigofar√≠ngea
+Porci√≥n bucofar√≠ngea
+Porci√≥n milofar√≠ngea
+Porci√≥n glosofar√≠ngea
 M. constrictor medio de la faringe
-PorciÛn condrofar\xe2\x84\xa2ngea
-PorciÛn ceratofar\xe2\x84\xa2ngea
+Porci√≥n condrofar√≠ngea
+Porci√≥n ceratofar√≠ngea
 M. constrictor inferior de la faringe
 Thyropharyngeus
 Cricopharyngeal p;Cricopharyngeus
-M. estilofar\xe2\x84\xa2ngeo
-M. salpingofar\xe2\x84\xa2ngeo
-M. palatofar\xe2\x84\xa2ngeo
-Fascia bucofar\xe2\x84\xa2ngea
-Espacio perifar\xe2\x84\xa2ngeo
-Espacio retrofar\xe2\x84\xa2ngeo
-Espacio laterofar\xe2\x84\xa2n;Espacio far\xe2\x84\xa2ngeopharyngeum later;Spatiumpharyngeal spacelate;Espacio parafar\xe2\x84\xa2ngeoparapharyngeum
+M. estilofar√≠ngeo
+M. salpingofar√≠ngeo
+M. palatofar√≠ngeo
+Fascia bucofar√≠ngea
+Espacio perifar√≠ngeo
+Espacio retrofar√≠ngeo
+Espacio laterofar√≠n;Espacio far√≠ngeopharyngeum later;Spatiumpharyngeal spacelate;Espacio parafar√≠ngeoparapharyngeum
 PH
-PorciÛn cervical
-PorciÛn tor‚cica
-Estrechamiento tor‚c;Estrechamientobronchoaorticconstrictionbronco-aÛrtico
-Estrechamiento frÈn;Estrechamientodiaphragmaticadiafragm‚ticoï
-PorciÛn abdominal
+Porci√≥n cervical
+Porci√≥n tor√¢cica
+Estrechamiento tor√¢c;Estrechamientobronchoaorticconstrictionbronco-a√≥rtico
+Estrechamiento fr√©n;Estrechamientodiaphragmaticadiafragm√¢tico‚Ä¢
+Porci√≥n abdominal
 Ser;Capa serosa
 Subser;Capa subserosa
 Adventicia
 Capa muscular
-TendÛn crico-esof‚gicoï
-M. bronco-esof‚gico
-M. pleuro-esof‚gico
+Tend√≥n crico-esof√¢gico‚Ä¢
+M. bronco-esof√¢gico
+M. pleuro-esof√¢gico
 Submucosa
 Muc;Capa mucosa
 Muscularis mucosae
-Gl‚ndulas del esÛfago
+Gl√¢ndulas del es√≥fago
 ER
 Pared anterior
 Pared posterior
 Curvatura mayor
 Curvatura menor
-Incisura angularï
+Incisura angular‚Ä¢
 Cardias
 Orificio del cardias
-Fundus g‚strico
-FÛrnix g‚strico'b'
+Fundus g√¢strico
+F√≥rnix g√¢strico'b'
 Incisura del cardias
-Cuerpo g‚strico
-Canal g‚strico
-PorciÛn pilÛrica
-Antro pilÛrico
-Canal pilÛrico
-P\xe2\x84\xa2loro
-Orificio pilÛrico
+Cuerpo g√¢strico
+Canal g√¢strico
+Porci√≥n pil√≥rica
+Antro pil√≥rico
+Canal pil√≥rico
+P√≠loro
+Orificio pil√≥rico
 Ser;Capa serosa
 Subser;Capa subserosa
 Capa muscular
 Capa longitudinal
 Capa circular
-M. esf\xe2\x84\xa2nter pilÛrico
+M. esf√≠nter pil√≥rico
 Fibras oblicuas
 Submucosa
 Muc;Capa mucosa
-Pliegues g‚stricos
+Pliegues g√¢stricos
 Muscularis mucosae
+√Åreas g√¢stricas
 Pliegues vellosos
-Fosillas g‚stricasï
-Gl‚ndulas g‚stricas
+Fosillas g√¢stricas‚Ä¢
+Gl√¢ndulas g√¢stricas
 Intestino delgado
 Ser;Capa serosa
 Subser;Capa subserosa
@@ -10262,31 +10339,31 @@ Submucosa
 Muc;Capa mucosa
 Muscularis mucosae
 Vellosidades intestinales
-Gl‚ndulas intestinales
-Ganglios linf‚ticos solitarios
-Ganglios linf‚ticos agregados
+Gl√¢ndulas intestinales
+Ganglios linf√¢ticos solitarios
+Ganglios linf√¢ticos agregados
 EN
-PorciÛn superior
+Porci√≥n superior
 Ampo;Bulbo duodenal
-Flexura superior del duodenoï
-PorciÛn descendente
+Flexura superior del duodeno‚Ä¢
+Porci√≥n descendente
 Flexura inferior del duodeno
-PorciÛn horizon;PorciÛn inferiorï
-PorciÛn ascendente
-Flexura duodenoyeyunalï
-PorciÛn retroperitoneal
+Porci√≥n horizon;Porci√≥n inferior‚Ä¢
+Porci√≥n ascendente
+Flexura duodenoyeyunal‚Ä¢
+Porci√≥n retroperitoneal
 M. suspensorio del duodenoduodeni
-PorciÛn frenicocel\xe2\x84\xa2aca
-PorciÛn celiacoduodenal52
-Estos nuevos tÈrminos reconocen que la disposiciÛn de las fibras en las capas musculares de la pa-red del intestino delgado no es realmente longitudinal o circular
+Porci√≥n frenicocel√≠aca
+Porci√≥n celiacoduodenal52
+Estos nuevos t√©rminos reconocen que la disposici√≥n de las fibras en las capas musculares de la pa-red del intestino delgado no es realmente longitudinal o circular
 Pliegue longitudinal del duodeno
-Papila duodenal mayorï
-Papila duodenal menorï
-Gl‚ndulas duodenales
+Papila duodenal mayor‚Ä¢
+Papila duodenal menor‚Ä¢
+Gl√¢ndulas duodenales
 NU
 MI
-PorciÛn terminal
-(Divert\xe2\x84\xa2culo ileal)
+Porci√≥n terminal
+(Divert√≠culo ileal)
 Intestino grueso
 Ser;Capa serosa
 Subser;Capa subserosa
@@ -10294,32 +10371,32 @@ Capa muscular
 Submucosa
 Muc;Capa mucosa
 Muscularis mucosae
-Gl‚ndulas intestinales
+Gl√¢ndulas intestinales
 UM
 Papila ileal
 Orificio ileal
 Frenillo del orificio ileal
-Labio ileocÛl;Labio superior
+Labio ileoc√≥l;Labio superior
 Labio ileoce;Labio inferior
-ApÈndice vermiforme
-Orificio del apÈndice vermiforme
+Ap√©ndice vermiforme
+Orificio del ap√©ndice vermiforme
 Aggregated 
-(Fascia prececocÛlica)
+(Fascia prececoc√≥lica)
 NC
 Colon ascendente
-Flexura cÛlica dere;Flexura hep‚ticadel colonï
+Flexura c√≥lica dere;Flexura hep√¢ticadel colon‚Ä¢
 Colon transveso
-Flexura cÛlica izquie;Flexura esplÈnicadel colonï
+Flexura c√≥lica izquie;Flexura espl√©nicadel colon‚Ä¢
 Colon descendente
 Colon sigmoideo
 Pliegues semilunares del colon
 Haustra del colon
-ApÈndices omenta;ApÈndices adipososadiposae c;Appendices epiploicaeof colondel co;ApÈndices epiploicos
+Ap√©ndices omenta;Ap√©ndices adipososadiposae c;Appendices epiploicaeof colondel co;Ap√©ndices epiploicos
 Capa muscular
 Capa longitudinal
 Tenias del colon
-Tenia mesocÛlica
-Tenia omentalï
+Tenia mesoc√≥lica
+Tenia omental‚Ä¢
 Tenia libre
 Capa circular
 UM
@@ -10333,7 +10410,7 @@ Pliegues transversos del recto
 Ampolla rectal
 Capa muscular
 Capa longitudinal
-M. rectocox\xe2\x84\xa2geo
+M. rectocox√≠geo
 Mm. anorrectoperinea; rectourethrales
 M. rectoperin;M. recto-uretral superiorsuperiorsuperior
 M. anoperin;M. recto-uretral inferiorinferiorinferior
@@ -10342,95 +10419,96 @@ Capa circular
 Lig. lateral del recto
 LI
 Flexura anorrec;Flexura perineal
-UniÛn anorrectal
+Uni√≥n anorrectal
 Columnas anales
-V‚lvulas analesï
+V√¢lvulas anales‚Ä¢
 Senos anales
-Zona de transiciÛn anal
-L\xe2\x84\xa2nea anocut‚nea
-L\xe2\x84\xa2nea pect\xe2\x84\xa2nea
+Zona de transici√≥n anal
+L√≠nea anocut√¢nea
+L√≠nea pect√≠nea
 Pecten anal
-M. esf\xe2\x84\xa2nter interno del ano
+M. esf√≠nter interno del ano
 Surco interesfinteriano
-M. esf\xe2\x84\xa2nter externo del ano
-PorciÛn profunda
-PorciÛn superficial
-PorciÛn subcut‚nea
+M. esf√≠nter externo del ano
+Porci√≥n profunda
+Porci√≥n superficial
+Porci√≥n subcut√¢nea
 Ano
-H\xe2\x84\xa2gado
-Cara diafragm‚tica
-PorciÛn superior
-ImpresiÛn card\xe2\x84\xa2aca
-PorciÛn anterior
-PorciÛn derecha
-PorciÛn posterior
+H√≠gado
+Cara diafragm√¢tica
+Porci√≥n superior
+Impresi√≥n card√≠aca
+Porci√≥n anterior
+Porci√≥n derecha
+Porci√≥n posterior
+√Årea desnuda‚Ä¢
 Surco de la vena cava
 Fisura del ligamento venoso
 Lig. venoso
 Cara visceral
-Fosa de la ves\xe2\x84\xa2cula biliarï
+Fosa de la ves√≠cula biliar‚Ä¢
 Fisura del ligamento redondofor round ligament
-Lig. redondo del h\xe2\x84\xa2gado
-Porta hep‚ticaï
-TubÈrculo omentalï
-ImpresiÛn esof‚gica
-ImpresiÛn g‚strica54
-ImpresiÛn duodenal
-ImpresiÛn cÛlica
-ImpresiÛn renal
-ImpresiÛn suprarrenal
+Lig. redondo del h√≠gado
+Porta hep√¢tica‚Ä¢
+Tub√©rculo omental‚Ä¢
+Impresi√≥n esof√¢gica
+Impresi√≥n g√¢strica54
+Impresi√≥n duodenal
+Impresi√≥n c√≥lica
+Impresi√≥n renal
+Impresi√≥n suprarrenal
 Borde inferior
 Incisura del ligamento redondo
-LÛbulo derecho del h\xe2\x84\xa2gado
-LÛbulo izquierdo del h\xe2\x84\xa2gado
-ApÈndice fibroso del h\xe2\x84\xa2gado
-LÛbulo cuadrado
-LÛbulo caudado
+L√≥bulo derecho del h√≠gado
+L√≥bulo izquierdo del h√≠gado
+Ap√©ndice fibroso del h√≠gado
+L√≥bulo cuadrado
+L√≥bulo caudado
 Proceso papilar
 Proceso caudado
 Hepatic portal segmentation: parts
 Fisura umbilical
 Fisura portal principal
 Fisura portal derecha
-PorciÛn hep‚tica izquierda
-DivisiÛn lateral izquierda
+Porci√≥n hep√¢tica izquierda
+Divisi√≥n lateral izquierda
 Segmento lateral izquie;Segmento 
 Segmento anterior lateral izquie;
-DivisiÛn medial izquierda
+Divisi√≥n medial izquierda
 IV
-PorciÛn posterior del h\xe2\x84\xa2g;LÛbulo 
-Segmento poster;LÛbulo caud;
-PorciÛn hep‚tica derecha
-DivisiÛn medial derecha
+Porci√≥n posterior del h√≠g;L√≥bulo 
+Segmento poster;L√≥bulo caud;
+Porci√≥n hep√¢tica derecha
+Divisi√≥n medial derecha
 VSegmento anterior medial dere;
 Segmento posterior medial dere;
-DivisiÛn lateral derecha
+Divisi√≥n lateral derecha
 Segmentum 
 Segmentum 
 Ser;Capa serosa
 Subser;Capa subserosa
 Capa fibrosa
-C‚psula fibrosa perivascular
-Lobulillos del h\xe2\x84\xa2gado
+C√¢psula fibrosa perivascular
+Lobulillos del h√≠gado
 Aa. interlobulillares
 Vv. interlobulillares
 Vv. centrales
  izquierdo y cuadrado
 J.-
- divisiones et segmenta\xe2\x80\xa6stas son las unidades del h\xe2\x84\xa2gado diferenciables en el desarrollo
+ divisiones et segmenta\xe2\x80\xa6stas son las unidades del h√≠gado diferenciables en el desarrollo
 Conductos biliares interlobulillares
-Conducto hep‚tico com\xc5\x93n
-Conducto hep‚tico derecho
+Conducto hep√¢tico com√∫n
+Conducto hep√¢tico derecho
 R. anterior
 R. posterior
-Conducto hep‚tico izquierdo
+Conducto hep√¢tico izquierdo
 R. lateral
 R. medial
-Conducto derecho del lÛbulo caudado
-Conducto izquierdo del lÛbulo caudado
-Ves\xe2\x84\xa2cula biliar
+Conducto derecho del l√≥bulo caudado
+Conducto izquierdo del l√≥bulo caudado
+Ves√≠cula biliar
 Fondofelleae
-Infund\xe2\x84\xa2bulovesicae felleae
+Infund√≠bulovesicae felleae
 Cuerpo
 Cuello
 Ser;Capa serosa
@@ -10438,19 +10516,19 @@ Subser;Capa subserosa
 Capa muscular
 Muc;Capa mucosa
 Pliegues de la muc;Rugosidades
-Conducto c\xe2\x84\xa2stico
+Conducto c√≠stico
 Pliegue espiral
-Conducto colÈd;Conducto biliar
+Conducto col√©d;Conducto biliar
 M. sphincter ductus biliaris
-M. esf\xe2\x84\xa2nter superior
-M. esf\xe2\x84\xa2nter inferior
-Ampolla hepatopancre‚t;Ampollabiliaropancreatica 
-M. esf\xe2\x84\xa2nter de la ampolla
-Gl‚ndulas del conducto colÈd;ductus biliaris
-P‚ncreas
+M. esf√≠nter superior
+M. esf√≠nter inferior
+Ampolla hepatopancre√¢t;Ampollabiliaropancreatica 
+M. esf√≠nter de la ampolla
+Gl√¢ndulas del conducto col√©d;ductus biliaris
+P√¢ncreas
 Cabeza
 Proceso unciforme
-Incisura pancre‚tica
+Incisura pancre√¢tica
 Cuello
 Cuerpo
 Cara anterosuperior
@@ -10459,38 +10537,38 @@ Cara antero-inferior
 Borde superior
 Borde anterior
 Borde inferior
-TubÈrculo omentalï
+Tub√©rculo omental‚Ä¢
 Cola
-Conducto pancre‚tico
-M. esf\xe2\x84\xa2nter del conducto pancre‚tico
-Conducto pancre‚tico accesorio
-(P‚ncreas accesorio)
-Islotes pancre‚ticos56
+Conducto pancre√¢tico
+M. esf√≠nter del conducto pancre√¢tico
+Conducto pancre√¢tico accesorio
+(P√¢ncreas accesorio)
+Islotes pancre√¢ticos56
 Sistema respiratorio
 SN
-Ra\xe2\x84\xa2z
+Ra√≠z
 Dorso
-VÈrtice
+V√©rtice
 Ala
-Cart\xe2\x84\xa2lagos nasales
-Cart\xe2\x84\xa2lago alar mayor
+Cart√≠lagos nasales
+Cart√≠lago alar mayor
 Pilar medial
-PorciÛn mÛvil del tabique nasal
+Porci√≥n m√≥vil del tabique nasal
 Pilar lateral
-Cart\xe2\x84\xa2lagos alares menores
-Cart\xe2\x84\xa2lagos nasales accesorios
-Cart\xe2\x84\xa2lago del tabique nasal
-ApÛfisis lateral
-ApÛfisis poster;ApÛfisis esfenoidal
-Cart\xe2\x84\xa2lago vomeronasal
+Cart√≠lagos alares menores
+Cart√≠lagos nasales accesorios
+Cart√≠lago del tabique nasal
+Ap√≥fisis lateral
+Ap√≥fisis poster;Ap√≥fisis esfenoidal
+Cart√≠lago vomeronasal
 Cavidad na;Fosa nasal
 Nari;Orificios nasales
 Coanas
 Tabique nasal
-PorciÛn membranosa
-PorciÛn cartilaginosa
-PorciÛn Ûsea
-Vest\xe2\x84\xa2bulo nasal
+Porci√≥n membranosa
+Porci√≥n cartilaginosa
+Porci√≥n √≥sea
+Vest√≠bulo nasal
 Limen nasal
 Surco olfatorio
 Cornete supremo
@@ -10499,21 +10577,21 @@ Cornete nasal medio
 Cornete nasal infer;Concha
 Plexos cavernosos de los cornetes
 Membrana mucosa
-PorciÛn respiratoria
-PorciÛn olfatoria
-Gl‚ndulas nasales
+Porci√≥n respiratoria
+Porci√≥n olfatoria
+Gl√¢ndulas nasales
 Agger n;Eminencia nasal
 Receso esfeno-etmoidal
 Meato nasal superior
 Meato nasal medio
 Atrio del meato medio
 Bulla etmoidal
-Infund\xe2\x84\xa2bulo etmoidal
+Infund√≠bulo etmoidal
 Hiato semilunar
 Meato nasal inferior
 Orificio del conducto nasolagrimal
-Meato nasal com\xc5\x93n
-Meato nasofar\xe2\x84\xa2ngeo
+Meato nasal com√∫n
+Meato nasofar√≠ngeo
 (Conducto incisivo)
 Senos paranasales
 Seno maxilar
@@ -10524,15 +10602,15 @@ Celdillas etmoidales anteriores
 Celdillas etmoidales medias
 Celdillas etmoidales posteriores
 NX
-Cart\xe2\x84\xa2lagos y articulaciones lar\xe2\x84\xa2ngeas
-Cart\xe2\x84\xa2lago tiroides
-Prominencia lar\xe2\x84\xa2ngea
-L‚mina derecha/izquierda
+Cart√≠lagos y articulaciones lar√≠ngeas
+Cart√≠lago tiroides
+Prominencia lar√≠ngea
+L√¢mina derecha/izquierda
 Incisura tiroidea superior
 Incisura tiroidea inferior
-TubÈrculo tiroideo superior
-TubÈrculo tiroideo inferior
-L\xe2\x84\xa2nea oblicua
+Tub√©rculo tiroideo superior
+Tub√©rculo tiroideo inferior
+L√≠nea oblicua
 Asta superior
 Asta inferior
 (Foramen tiroideo)
@@ -10541,176 +10619,177 @@ Lig. tirohioideo medio
 Bolsa retrohioidea
 Bolsa infrahioidea
 Lig. tirohioideo lateral
-Cart\xe2\x84\xa2lago triticio
-Cart\xe2\x84\xa2lago cricoides
-Arco del cart\xe2\x84\xa2lago cricoides
-L‚mina del cart\xe2\x84\xa2lago cricoidesï
+Cart√≠lago triticio
+Cart√≠lago cricoides
+Arco del cart√≠lago cricoides
+L√¢mina del cart√≠lago cricoides‚Ä¢
 Superficie articular aritenoidea
 Superficie articular tiroidea
-ArticulaciÛn cricotiroidea
-C‚psula de la articulaciÛn cricotiroidea
+Articulaci√≥n cricotiroidea
+C√¢psula de la articulaci√≥n cricotiroidea
 Lig. ceratocricoideo
 Lig. cricotiroideo medio
 Lig. cricotraqueal
-Cart\xe2\x84\xa2lago aritenoides
+Cart√≠lago aritenoides
 Cara articular
 Base
 Cara anterolateral
-ApÛfisis vocal
+Ap√≥fisis vocal
 Cresta arcuata
-Col\xe2\x84\xa2culo
+Col√≠culo
 Fosa oblonga
 Fosa triangular
 Cara medial
 Cara posterior
-VÈrtice
-ApÛfisis muscular
-ArticulaciÛn crico-aritenoidea
-C‚psula de la articulaciÛn crico-aritenoidea
-Lig. crico-aritenoideoï
-Lig. cricofar\xe2\x84\xa2ngeo
-(Cart\xe2\x84\xa2lago sesamoideo)
-Cart\xe2\x84\xa2lago corniculado
-TubÈrculo corniculado
-Cart\xe2\x84\xa2lago cuneiforme
-TubÈrculo cuneiforme
+V√©rtice
+Ap√≥fisis muscular
+Articulaci√≥n crico-aritenoidea
+C√¢psula de la articulaci√≥n crico-aritenoidea
+Lig. crico-aritenoideo‚Ä¢
+Lig. cricofar√≠ngeo
+(Cart√≠lago sesamoideo)
+Cart√≠lago corniculado
+Tub√©rculo corniculado
+Cart√≠lago cuneiforme
+Tub√©rculo cuneiforme
 Epiglotis
-Cart\xe2\x84\xa2lago epiglÛtico
-Tallo epiglÛtico
-TubÈrculo epiglÛtico58
-Lig. tiro-epliglÛtico
-Lig. hio-epiglÛtico
-Cuerpo adiposo preepiglÛtico
-M\xc5\x93sculos lar\xe2\x84\xa2ngeos
+Cart√≠lago epigl√≥tico
+Tallo epigl√≥tico
+Tub√©rculo epigl√≥tico58
+Lig. tiro-epligl√≥tico
+Lig. hio-epigl√≥tico
+Cuerpo adiposo preepigl√≥tico
+M√∫sculos lar√≠ngeos
 M. cricotiroideo
-PorciÛn recta
-PorciÛn oblicua
-M. crico-aritenoideo posteriorï
+Porci√≥n recta
+Porci√≥n oblicua
+M. crico-aritenoideo posterior‚Ä¢
 (M. ceratocricoideo)
 M. crico-aritenoideo lateral
 M. vocal
 M. tiro-aritenoideo
-PorciÛn tiroepiglÛticaï
+Porci√≥n tiroepigl√≥tica‚Ä¢
 M. aritenoideo oblicuo
-PorciÛn ari-epiglÛtica
+Porci√≥n ari-epigl√≥tica
 M. aritenoideo transverso
-Cavidad lar\xe2\x84\xa2ngea
-Aditus lar\xe2\x84\xa2n;Entrada a la laringe
-Pliegue ari-epiglÛtico
-TubÈrculo corniculado
-TubÈrculo cuneiforme
-Incisura interaritenoideaï
-Vest\xe2\x84\xa2bulo lar\xe2\x84\xa2ngeoï
-Pliegue vestibularï
-Rima vestibularï
-Ventr\xe2\x84\xa2culo lar\xe2\x84\xa2ngeo
-S‚culo lar\xe2\x84\xa2ngeoï
+Cavidad lar√≠ngea
+Aditus lar√≠n;Entrada a la laringe
+Pliegue ari-epigl√≥tico
+Tub√©rculo corniculado
+Tub√©rculo cuneiforme
+Incisura interaritenoidea‚Ä¢
+Vest√≠bulo lar√≠ngeo‚Ä¢
+Pliegue vestibular‚Ä¢
+Rima vestibular‚Ä¢
+Ventr√≠culo lar√≠ngeo
+S√¢culo lar√≠ngeo‚Ä¢
 Glotis
-Pliegue vocalï
-Rima glÛtica
-PorciÛn intermembranosa
-PorciÛn intercartilaginosa
+Pliegue vocal‚Ä¢
+Rima gl√≥tica
+Porci√≥n intermembranosa
+Porci√≥n intercartilaginosa
 Pliegue interaritenoideo
-Cavidad infraglÛtica
+Cavidad infragl√≥tica
 Muc;Capa mucosa
-Gl‚ndulas lar\xe2\x84\xa2ngeas
-Membrana fibroel‚stica lar\xe2\x84\xa2ngea
+Gl√¢ndulas lar√≠ngeas
+Membrana fibroel√¢stica lar√≠ngea
 Membrana cuadrangular
 Lig. vestibular
-Cono el‚st;Membrana cricovocal
+Cono el√¢st;Membrana cricovocal
 Lig. vocal
 HE
-PorciÛn cervical
-PorciÛn tor‚cica
-Cart\xe2\x84\xa2lagos traqueales
+Porci√≥n cervical
+Porci√≥n tor√¢cica
+Cart√≠lagos traqueales
 M. traqueal
 Ligs. anula;Ligs. traqueales
 Pared membranosa
-BifurcaciÛn traqueal
+Bifurcaci√≥n traqueal
 Carina traqueal
 Muc;Capa mucosa
-Gl‚ndulas traqueales
+Gl√¢ndulas traqueales
 CH
+√Årbol bronquial
 Bronquio principal derecho
 Bronquio principal izquierdo'b'
 Bronquios lobares y segmentarios
 Bronquio lobar superior derecho
+Apical segmental bronchus [B 
+Posterior segmental bronchus [B 
 I]
-II]
-II
 Bronquio lobar medio
-IV]
-V]
+Lateral segmental bronchus [B 
+Medial segmental bronchus [B 
 Bronquio lobar inferior derecho
-VI]
+Superior segmental bronchus [B 
 Bronquio segmentario basal med;
-Bronquio segmentario basal anterioranterior [
-IX]
-X]
+Bronquio segmentario basal anterioranterior [B 
+Lateral basal segmental bronchus [B 
+Posterior basal segmental bronchus [B 
 Bronquio lobar superior izquierdo
-Bronquio segmentario apicoposterior[
-II
-IV]
-V]
+Bronquio segmentario apicoposterior[B 
+I]
+Superior lingular bronchus [B 
+Inferior lingular bronchus [B 
 Bronquio lobar inferior izquierdo
-VI]
+Superior segmental bronchus [B 
 Bronquio segmentario basal med;
-Bronquio segmentario basal anterior[
-IX]
-X]
+Bronquio segmentario basal anterior[B 
+Lateral basal segmental bronchus [B 
+Posterior basal segmental bronchus [B 
 Bronquios intrasegmentarios
 Capa fibromusculocartilaginosa
 Submucosa
 Muc;Capa mucosa
-Gl‚ndulas bronquiales
+Gl√¢ndulas bronquiales
 ON
-PulmÛn izquierdo
-PulmÛn derecho
+Pulm√≥n izquierdo
+Pulm√≥n derecho
 Base
-VÈrtice
+V√©rtice
 Cara costal
-PorciÛn vertebral
-Cara mediast\xe2\x84\xa2nica
-ImpresiÛn card\xe2\x84\xa2aca
-Cara diafragm‚tica
+Porci√≥n vertebral
+Cara mediast√≠nica
+Impresi√≥n card√≠aca
+Cara diafragm√¢tica
 Cara interlobar
 Borde anterior
-Incisura card\xe2\x84\xa2aca del pulmÛn izquierdo
+Incisura card√≠aca del pulm√≥n izquierdo
 Borde inferior
 Hilio pulmonar
-Ra\xe2\x84\xa2z pulmonar
-LÛbulo superior
-L\xe2\x84\xa2ngula del pulmÛn izquierdo
-LÛbulo medio del pulmÛn derecho
-LÛbulo inferior
+Ra√≠z pulmonar
+L√≥bulo superior
+L√≠ngula del pulm√≥n izquierdo
+L√≥bulo medio del pulm√≥n derecho
+L√≥bulo inferior
 Fisura oblicua
-Fisura horizontal del pulmÛn derecho
-Vasos sangu\xe2\x84\xa2neos intrapulmonares
+Fisura horizontal del pulm√≥n derecho
+Vasos sangu√≠neos intrapulmonares
 Segmentos broncopulmonares
 Right lung
+Apical segment [S 
+Posterior segment [S 
 I]
+Right lung
+Lateral segment [S 
+Medial segment [S 
+Right lung
+Superior segment [S 
+VI
 II]
-II
-Right lung
-IV]
-V]
-Right lung
-VI]
-S 
-VI
-IX]
-X]
+Lateral basal segment [S 
+Posterior basal segment [S 
 Left lung
-I + 
-II
-IV]
-V]
+II]
+I]
+Superior lingular segment [S 
+Inferior lingular segment [S 
 Left lung
-VI]
-S 
+Superior segment [S 
 VI
-IX]
-X]
+II]
+Lateral basal segment [S 
+Posterior basal segment [S 
 Bronquiolos
 Lobulillo'b'
 Cavitas thoracica
@@ -10720,19 +10799,19 @@ Pleura visce;Pleura pulmonar
 Ser;Capa serosa
 Subser;Capa subserosa
 Pleura parietal
-C\xc5\x93pula pleural
-PorciÛn costal
-PorciÛn diafragm‚tica
-PorciÛn mediast\xe2\x84\xa2nica
+C√∫pula pleural
+Porci√≥n costal
+Porci√≥n diafragm√¢tica
+Porci√≥n mediast√≠nica
 Ser;Capa serosa
 Subser;Capa subserosa
 Recesos pleurales
-Receso costodiafragm‚tico
-Receso costomediast\xe2\x84\xa2nico
-Receso frenicomediast\xe2\x84\xa2nico
-Receso vertebromediast\xe2\x84\xa2nico
-Lig. pulmonarï
-Fascia endotor‚c;Fascia parietal del tÛraxthoracisof thorax
+Receso costodiafragm√¢tico
+Receso costomediast√≠nico
+Receso frenicomediast√≠nico
+Receso vertebromediast√≠nico
+Lig. pulmonar‚Ä¢
+Fascia endotor√¢c;Fascia parietal del t√≥raxthoracisof thorax
 Membrana suprapleural
 Fascia frenicopleural
 Mediastino
@@ -10741,12 +10820,12 @@ Mediastino inferior
 Mediastino anterior
 Mediastino medio
 Mediastino posterior
-Cavidad peric‚rdica {ver p‚gina 77}62
+Cavidad peric√¢rdica {ver p√¢gina 77}62
 Sistema urinario
 RO
 Borde lateral
 Borde medial
-Hilio del ri\xc5\x92Ûn
+Hilio del ri\xc5\x92√≥n
 Seno renal
 Cara anterior
 Cara posterior
@@ -10754,24 +10833,25 @@ Extremidad super;Polo superior
 Extremidad infer;Polo inferior
 Fascia renal
 Cuerpo adiposo pararrenal
-C‚psula adiposa
-C‚psula fibrosa
-LÛbulos del ri\xc5\x92Ûn
+C√¢psula adiposa
+C√¢psula fibrosa
+L√≥bulos del ri\xc5\x92√≥n
 Corteza renal
 Laberinto cortical
 Corteza cortical
 Radios medulares
 Columnas renales
-MÈdula renal
+M√©dula renal
 Zona externa
-Estr\xe2\x84\xa2a externa
-Estr\xe2\x84\xa2a interna
-Fasc\xe2\x84\xa2culos vasculares
-RegiÛn interfascicular
+Estr√≠a externa
+Estr√≠a interna
+Fasc√≠culos vasculares
+Regi√≥n interfascicular
 Zona interna
 Papilas renales
 Cresta renal
-Pir‚mides renales
+Pir√¢mides renales
+√Årea cribosa
 Orificios papilares
 Segmentos renales
 Segmento superior
@@ -10783,8 +10863,8 @@ Arterias intrarrenales
 Aa. interlobulares
 Aa. arcuatas
 Aa. corticales radia;Aa. interlobulillaresarteries
-Arteriola aferente del glomÈrulo
-Arteriola eferente del glomÈrulo
+Arteriola aferente del glom√©rulo
+Arteriola eferente del glom√©rulo
 Aa. perforantes radiadas
 Arteriolas rec;Vasos rectos
 Ramas capsulares
@@ -10792,58 +10872,58 @@ Venas intrarrenales
 Vv. interlobulares
 Vv. arcuatas
 Vv. corticales radia;Vv.interlobulillaresveins
-VÈnulas rectas
+V√©nulas rectas
 Vv. estrelladas
-ComisiÛn 
+Comisi√≥n 
  ver las publicaciones mencionadas en 
 Pelvis renal
-Tipos de ramificaciÛn
-C‚lices renales mayores
+Tipos de ramificaci√≥n
+C√¢lices renales mayores
 Superior calyx
-C‚liz medio
-C‚liz inferior
-C‚lices renales menores
+C√¢liz medio
+C√¢liz inferior
+C√¢lices renales menores
 (Tipo ampular)
 Adventi;Capa adventicia
 Capa muscular
 Muc;Capa mucosa
 ER
-PorciÛn abdominal
-PorciÛn pÈlvica
-PorciÛn intramural
+Porci√≥n abdominal
+Porci√≥n p√©lvica
+Porci√≥n intramural
 Adventi;Capa adventicia
 Capa muscular
 Muc;Capa mucosa
 CA 
-VÈrtice
+V√©rtice
 Cuerpo
-Fondoï
+Fondo‚Ä¢
 Cuello
-Lig. umbilical medioï
+Lig. umbilical medio‚Ä¢
 Ser;Capa serosa
 Subser;Capa subserosa
 Capa muscular
-Mm. del tr\xe2\x84\xa2gono vesical
-M. superficial del tr\xe2\x84\xa2gono
-M. profundo del tr\xe2\x84\xa2gono
+Mm. del tr√≠gono vesical
+M. superficial del tr√≠gono
+M. profundo del tr√≠gono
 M. detrusor de la vejiga
-PorciÛn no estratificada
-PorciÛn del cuello de la vejiga
+Porci√≥n no estratificada
+Porci√≥n del cuello de la vejiga
 Capa longitudinal externa
 Capa circular
 Capa longitudinal interna
 M. pubovesical
 M. rectovesical
-M. vesicoprost‚tico
+M. vesicoprost√¢tico
 M. vesicovaginal
 Submuc;Capa submucosa
 Muc;Capa mucosa
-Tr\xe2\x84\xa2gono vesical
-Pliegue interuretÈrico
+Tr√≠gono vesical
+Pliegue interuret√©rico
 Orificio ureteral*
 Orificio interno de la uretra
-Uretra femenina {ver p‚gina 67}
-Uretra masculina {ver p‚gina 70}64
+Uretra femenina {ver p√¢gina 67}
+Uretra masculina {ver p√¢gina 70}64
 Sin embargo
 Sistemas genitales
 Sistema genital femenino
@@ -10853,27 +10933,27 @@ Hilio
 Cara medial
 Cara lateral
 Borde libre
-Borde mesov‚rico
-Extremidad tub‚rica
+Borde mesov√¢rico
+Extremidad tub√¢rica
 Extremidad uterina
-T\xc5\x93nica albug\xe2\x84\xa2nea
+T√∫nica albug√≠nea
 Estroma
 Corteza
-MÈdula
-Fol\xe2\x84\xa2culos ov‚ricos vesiculares
-Cuerpo rubroï
-Cuerpo l\xc5\x93teoï
-Cuerpo albicansï
-Lig. propio del ova;Lig. \xc5\x93tero-ov‚rico
-Lig. suspensorio del ovarioï
+M√©dula
+Fol√≠culos ov√¢ricos vesiculares
+Cuerpo rubro‚Ä¢
+Cuerpo l√∫teo‚Ä¢
+Cuerpo albicans‚Ä¢
+Lig. propio del ova;Lig. √∫tero-ov√¢rico
+Lig. suspensorio del ovario‚Ä¢
 UT
 Orificio abdominal
-Infund\xe2\x84\xa2bulo
+Infund√≠bulo
 Franjas
-Franja ov‚rica
+Franja ov√¢rica
 Ampolla
 Istmo
-PorciÛn uter;PorciÛn intramural
+Porci√≥n uter;Porci√≥n intramural
 Orificio uterino
 Ser;Capa serosa
 Subser;Capa subserosa
@@ -10888,95 +10968,95 @@ Bordes laterales
 Cara intesti;Cara posterior
 Cavidad uterina
 Cara vesi;Cara anterior
-Orificio anatÛmico interno
-Cuelloï
-PorciÛn supravaginal
-Istmo del \xc5\x93tero
-Orificio histolÛgico interno del \xc5\x93tero
+Orificio anat√≥mico interno
+Cuello‚Ä¢
+Porci√≥n supravaginal
+Istmo del √∫tero
+Orificio histol√≥gico interno del √∫tero
 Frankl 
-PorciÛn vaginal
+Porci√≥n vaginal
 Orificio externo
 Labio anterior
 Labio posterior
-Conducto del cuello del \xc5\x93tero
+Conducto del cuello del √∫tero
 Pliegues palmeados
-Gl‚ndulas cervicales
+Gl√¢ndulas cervicales
 Parametrio
-ParacÈrvix
+Parac√©rvix
 Ser;Capa ser;Perimetrio
 Subser;Capa subserosa
 Capa muscu;Miometrio
 M. recto-uterino
 Muc;Capa muc;Endometrio
-Gl‚ndulas uterinas
-Lig. redondo del \xc5\x93tero
+Gl√¢ndulas uterinas
+Lig. redondo del √∫tero
 Lig. pubocervical
 Lig. cardi;Lig cervical transversocervical lig.
-Lig. recto-uterinoïligament
+Lig. recto-uterino‚Ä¢ligament
 NA
-Fondo de saco vaginalï
-PorciÛn anterior
-PorciÛn posterior
-PorciÛn lateral
+Fondo de saco vaginal‚Ä¢
+Porci√≥n anterior
+Porci√≥n posterior
+Porci√≥n lateral
 Pared anterior
 Pared posterior
 Himen
-Car\xc5\x93nculas himenales
+Car√∫nculas himenales
 Capa muscular
 Muc;Capa mucosa
 Pliegues de la vagina
 Columnas rugosas
 Columna rugosa anterior
 Columna rugosa posterior
-Carina uretral de la vaginaï
+Carina uretral de la vagina‚Ä¢
 Capa esponjosa
-EpoÛforo
+Epo√≥foro
 Conducto longitudinal
 Conductillos transversos
-ApÈndices vesiculares
-ParaÛforo
+Ap√©ndices vesiculares
+Para√≥foro
 (Conducto deferente vestigial)
 ND
-Monte del pubisï
+Monte del pubis‚Ä¢
 Labio mayor
 Comisura anterior
 Comisura posterior
 Hendidura vulvar
 Labio menor
 Frenillo de los labios menores
-Prepucio del cl\xe2\x84\xa2toris
-Frenillo del cl\xe2\x84\xa2toris
-Vest\xe2\x84\xa2bulo de la vagina
-Fosa del vest\xe2\x84\xa2bulo de la vagina66
-Bulbo del vest\xe2\x84\xa2bulo
+Prepucio del cl√≠toris
+Frenillo del cl√≠toris
+Vest√≠bulo de la vagina
+Fosa del vest√≠bulo de la vagina66
+Bulbo del vest√≠bulo
 Comisura de los bulbos
 Orificio vaginal
-Gl‚ndula vestibular mayor
-Gl‚ndulas vestibulares menores
-Cl\xe2\x84\xa2toris
+Gl√¢ndula vestibular mayor
+Gl√¢ndulas vestibulares menores
+Cl√≠toris
 Pilar
 Cuerpo
-Glande del cl\xe2\x84\xa2toris
+Glande del cl√≠toris
 Cuerpo cavernoso
 Tabique de los cuerpos cavernosos
-Fascia del cl\xe2\x84\xa2toris
+Fascia del cl√≠toris
 Lig. suspensorio
 Lig. fundiforme
 Uretra femenina
 Orificio interno de la uretraurinary meatus
-Orificio uretral interno en replecciÛn
-Orificio uretral interno en deplecciÛn
-PorciÛn intramural
+Orificio uretral interno en replecci√≥n
+Orificio uretral interno en deplecci√≥n
+Porci√≥n intramural
 Cresta uretral
 Orificio externo de la uretra
-M. esf\xe2\x84\xa2nter externo de la uretra
+M. esf√≠nter externo de la uretra
 Capa muscular
 Capa circular
-Esf\xe2\x84\xa2nter interno de la uretra
+Esf√≠nter interno de la uretra
 Capa longitudinal
 Capa esponjosa
 Muc;Capa mucosa
-Gl‚ndulas uretrales
+Gl√¢ndulas uretrales
 Lagunas de la uretra
 (Conductos parauretrales)
 CH
@@ -10986,50 +11066,50 @@ Cara lateral
 Cara medial
 Borde anterior
 Borde posterior
-T\xc5\x93nica vaginal
+T√∫nica vaginal
 Capa parietal
 Capa visceral
-Lig. superior del epid\xe2\x84\xa2dimo
-Lig. inferior del epid\xe2\x84\xa2dimo
-Seno del epid\xe2\x84\xa2dimo
+Lig. superior del epid√≠dimo
+Lig. inferior del epid√≠dimo
+Seno del epid√≠dimo
 Ser;Capa serosa
 Subser;Capa subserosa
-T\xc5\x93nica albug\xe2\x84\xa2nea
+T√∫nica albug√≠nea
 Capa vascular
 Mediastino testicular
 Tabiques testiculares
 Lobulillos testiculares
 Sin embargo
-ParÈnquima testicular
-T\xc5\x93bulos semin\xe2\x84\xa2feros contorneadosseminiferous tubules
-T\xc5\x93bulos semin\xe2\x84\xa2feros rectos
+Par√©nquima testicular
+T√∫bulos semin√≠feros contorneadosseminiferous tubules
+T√∫bulos semin√≠feros rectos
 Red testicular
-Conductillos eferentes del test\xe2\x84\xa2culo
+Conductillos eferentes del test√≠culo
 ID
 Cabeza
-LÛbulillos del epid\xe2\x84\xa2d;Lobulillos cÛnicoslobules of epididymidisdel epid\xe2\x84\xa2dimo
+L√≥bulillos del epid√≠d;Lobulillos c√≥nicoslobules of epididymidisdel epid√≠dimo
 Cuerpo
 Cola
 Conducto
 Conductillos aberrantes
 (Conductillo aberrante superior)
 (Conductillo aberrante inferior)
-ApÈndice del test\xe2\x84\xa2culoï
-(ApÈndice del epid\xe2\x84\xa2dimo)ï
+Ap√©ndice del test√≠culo‚Ä¢
+(Ap√©ndice del epid√≠dimo)‚Ä¢
 DI
 CU
-Fascia esperm‚tica externa
-M. crem‚ster
-Fascia cremastÈrica
-Fascia esperm‚tica internaï
+Fascia esperm√¢tica externa
+M. crem√¢ster
+Fascia cremast√©rica
+Fascia esperm√¢tica interna‚Ä¢
 (Vestigio del proceso vaginal)
 US 
-PorciÛn escrotal
-PorciÛn funicular
-PorciÛn inguinal
-PorciÛn pÈlvica
+Porci√≥n escrotal
+Porci√≥n funicular
+Porci√≥n inguinal
+Porci√≥n p√©lvica
 Ampolla
-Divert\xe2\x84\xa2culos
+Divert√≠culos
 Adventi;Capa adventicia
 Capa muscular
 Muc;Capa mucosa*
@@ -11041,32 +11121,33 @@ Conducto excretor
 Conducto eyaculador*
 TA
 Base
-PorciÛn proximal
+Porci√≥n proximal
 Zona glandular periuretral
-PorciÛn distal68
-ya que este Ûrgano no es un reservorio de semen
- que \xc5\x93nicamente comprende alrededor de dos terceras partes del tejidocontenido dentro de la c‚psula prost‚tica.'b'
-VÈrtice
+Porci√≥n distal68
+ya que este √≥rgano no es un reservorio de semen
+ que √∫nicamente comprende alrededor de dos terceras partes del tejidocontenido dentro de la c√¢psula prost√¢tica.'b'
+V√©rtice
 Cara anterior
 Cara posterior
 Cara inferolateral
-LÛbulos prost‚ticos
+L√≥bulos prost√¢ticos
 Lobulillo inferoposterior
 Lobulillo inferolateral
 Lobulillo superomedial
 Lobulillo anteromedial
-(LÛbulo medio)
+(L√≥bulo medio)
 Is;Comisuraof prostate
-C‚psula prÛst‚tica
-ParÈnquima
-Conductillos prost‚ticos
+C√¢psula pr√≥st√¢tica
+Par√©nquima
+Conductillos prost√¢ticos
 Tejido muscular
-M. puboprost‚tico
-M. vesicoprost‚tico
+M. puboprost√¢tico
+M. vesicoprost√¢tico
+√Årea trapezoidea
 DU
-Conducto de la gl‚ndula bulbo-uretral
+Conducto de la gl√¢ndula bulbo-uretral
 SP
-Ra\xe2\x84\xa2z
+Ra√≠z
 Cuerpo
 Pilar
 Dorso
@@ -11081,11 +11162,11 @@ Rafe
 Cuerpo cavernoso
 Cuerpo esponjoso
 Bulbo del pene
-T\xc5\x93nica albug\xe2\x84\xa2nea de los cuerpos cavernosos
-T\xc5\x93nica albug\xe2\x84\xa2nea del cuerpo esponjoso
+T√∫nica albug√≠nea de los cuerpos cavernosos
+T√∫nica albug√≠nea del cuerpo esponjoso
 Tabique
-TrabÈculas de los cuerpos cavernosos
-TrabÈculas del cuerpo esponjoso
+Trab√©culas de los cuerpos cavernosos
+Trab√©culas del cuerpo esponjoso
 Cavidades de los cuerpos cavernosos
 Cavidades del cuerpo esponjoso
 Aa. helicinas
@@ -11093,37 +11174,37 @@ Vv. cavernosas
 Fascia
 Lig. suspensorio del pene
 Los lobulillos inferoposterior/inferolateral combinados
- limitada superiormente por el m. rectoperinealisaplicado a la prÛstata
-Tejido subcut‚neo
+ limitada superiormente por el m. rectoperinealisaplicado a la pr√≥stata
+Tejido subcut√¢neo
 Lig. fundiforme del pene
-Gl‚ndulas prepuciales
+Gl√¢ndulas prepuciales
 HR
 Orificio interno de la uretraurinary meatus
-Orificio uretral interno en replecciÛn
-Orificio uretral interno en deplecciÛn
-PorciÛn intramu;PorciÛn preprost‚tica
-Uretra prost‚tica
-PorciÛn supracolicular
-PorciÛn infracolicular
+Orificio uretral interno en replecci√≥n
+Orificio uretral interno en deplecci√≥n
+Porci√≥n intramu;Porci√≥n preprost√¢tica
+Uretra prost√¢tica
+Porci√≥n supracolicular
+Porci√≥n infracolicular
 Cresta uretral
-Col\xe2\x84\xa2culo seminalï
-Utr\xe2\x84\xa2culo prost‚tico
-Seno prost‚tico
+Col√≠culo seminal‚Ä¢
+Utr√≠culo prost√¢tico
+Seno prost√¢tico
 Capa muscular
 Capa circular
 Supracollicular sphinc;Preprostatic supracolicularsphincter
 Capa longitudinal
 Muc;Capa mucosa
-M. esf\xe2\x84\xa2nter externo de la uretra*
-PorciÛn interme;Uretra membranosa
+M. esf√≠nter externo de la uretra*
+Porci√≥n interme;Uretra membranosa
 Capa muscular
 Capa longitudinal
 Muc;Capa mucosa
 Uretra esponjosa
 Fosa navicular de la uretra
-(V‚lvula de la fosa navicular)
+(V√¢lvula de la fosa navicular)
 Lagunas uretrales
-Gl‚ndulas uretrales
+Gl√¢ndulas uretrales
 Conductos parauretrales
 Capa muscular
 Capa longitudinal
@@ -11133,48 +11214,48 @@ TU
 Rafe escrotal
 Dartosof scrotum
 Tabique escrotal
-M\xc5\x93sculo dartos70
+M√∫sculo dartos70
 Sin embargo
- la pars membranaceaha pasado a ser tÈrmino equ\xe2\x84\xa2voco
-PerinÈ
+ la pars membranaceaha pasado a ser t√©rmino equ√≠voco
+Perin√©
 Rafe perineal
 Mm. perineales
-M. de la regiÛn anal
-M. esf\xe2\x84\xa2nter externo del ano
-Mm. de la regiÛn urogenital
-Cuerpo perin;Centro del perinÈ
-Cuerpo anocox\xe2\x84\xa2;Lig. anocox\xe2\x84\xa2geoligament
-Tejido subcut‚neo del perinÈ
+M. de la regi√≥n anal
+M. esf√≠nter externo del ano
+Mm. de la regi√≥n urogenital
+Cuerpo perin;Centro del perin√©
+Cuerpo anocox√≠;Lig. anocox√≠geoligament
+Tejido subcut√¢neo del perin√©
 Capa membranosa
-Bolsa subcut‚nea del perinÈ
+Bolsa subcut√¢nea del perin√©
 Compartimento superficial del per;
-Fascia del per;Fascia de recubrimientosuperficialisfascia of perin;Deep perineal fasciasuperficial del perinÈ
-M. transverso superficial del perinÈ
+Fascia del per;Fascia de recubrimientosuperficialisfascia of perin;Deep perineal fasciasuperficial del perin√©
+M. transverso superficial del perin√©
 M. isquiocavernoso
 M. bulboesponjoso
 Deep perineal po;Deep perineal
 Membrana perineal
-Lig. transverso del perinÈ
-M. transverso profundo del perinÈ
-M. esf\xe2\x84\xa2nter externo de la uretra
-M. esf\xe2\x84\xa2nter externo de la uretra
+Lig. transverso del perin√©
+M. transverso profundo del perin√©
+M. esf√≠nter externo de la uretra
+M. esf√≠nter externo de la uretra
 M. compresor de la uretra
-M. esf\xe2\x84\xa2nter uretrovaginal
+M. esf√≠nter uretrovaginal
 Fosa isqui-oanal
 Cuerpo adiposo de la fosa isquio-anal
 Conducto pudendo
  como el de fascia
-El cuerpo perineal es fibromuscular m‚s que tendinoso y muy diferente del centrum ten-dineumdel diafragma.
+El cuerpo perineal es fibromuscular m√¢s que tendinoso y muy diferente del centrum ten-dineumdel diafragma.
 mejor que ligamentum
-Las extravasaciones o colecciones en el saco subcut‚neo puedenextenderse
+Las extravasaciones o colecciones en el saco subcut√¢neo puedenextenderse
 Milley 
-Los m\xc5\x93sculos femeninos son una parte del esf\xe2\x84\xa2nter urogenital descrito por 
+Los m√∫sculos femeninos son una parte del esf√≠nter urogenital descrito por 
 Cavidades del abdomen y de la pelvis\n
 Cavidad del abdo;Cavidad abdominal
 Cavidad de la pel;Cavidad pelviana
 Espacio extraperitoneal
 Espacio retroperitoneal
-Espacio retrop\xc5\x93bico
+Espacio retrop√∫bico
 Espacio retroinguinal
 Cavidad peritoneal
 Peritoneo
@@ -11183,31 +11264,31 @@ Subser;Capa subserosa
 Peritoneo parietal
 Peritoneo visceral
 Mesenterio
-Ra\xe2\x84\xa2z del mesenterio
+Ra√≠z del mesenterio
 Mesocolon
 Mesocolon transverso
 (Mesocolon ascendente)
 (Mesocolon descendente)
 Mesocolon sigmoideo
-Meso-apÈndice
-Omento me;EpiplÛn menor
-Lig. hepatodiafragm‚tico
-Lig. hepato-esof‚gico
-Lig. hepatog‚strico
+Meso-ap√©ndice
+Omento me;Epipl√≥n menor
+Lig. hepatodiafragm√¢tico
+Lig. hepato-esof√¢gico
+Lig. hepatog√¢strico
 Lig. hepatoduodenal
-(Lig. hepatocÛlico)
-Omento ma;EpiplÛn mayor
-Lig. gastrofrÈnico
-Lig. gastro-esplÈnicoï
-Pliegue preesplÈnico
-(Lig. gastrocÛlico)
-Lig. freno-esplÈnico
-Lig. esplenorrenalïligament
-Lig. pancreato-esplÈnico
-Lig. pancreatococÛlico
-Lig. esplenocÛlico
-Lig. frenocÛlico
-Ligamentos hep‚ticos
+(Lig. hepatoc√≥lico)
+Omento ma;Epipl√≥n mayor
+Lig. gastrofr√©nico
+Lig. gastro-espl√©nico‚Ä¢
+Pliegue preespl√©nico
+(Lig. gastroc√≥lico)
+Lig. freno-espl√©nico
+Lig. esplenorrenal‚Ä¢ligament
+Lig. pancreato-espl√©nico
+Lig. pancreatococ√≥lico
+Lig. esplenoc√≥lico
+Lig. frenoc√≥lico
+Ligamentos hep√¢ticos
 Lig. coronario
 Lig. falciforme
 Lig. triangular derecho
@@ -11216,12 +11297,12 @@ Lig. hepatorrenal
 Recesses
 Transcavidad de los epiplo;Bolsa omental
 Foramen omen;Foramen epiploico
-Vest\xe2\x84\xa2bulo
+Vest√≠bulo
 Receso superior
 Receso inferior
-Receso esplÈn;Receso lienal
-Pliegue gastropancre‚tico
-Pliegue hepatopancre‚tico72
+Receso espl√©n;Receso lienal
+Pliegue gastropancre√¢tico
+Pliegue hepatopancre√¢tico72
 Pliegue duodenal super;Pliegueduodenojejunalis
 Receso duodenal superior
 Pliegue duodenal infer;Pliegueduodenomesocolica
@@ -11236,79 +11317,79 @@ Receso ileocecal inferior
 Pliegue ileocecal
 Receso retrocecal
 Pliegues cecales
-Surcos paracÛlicos
-Receso subfrÈnicoï
-Receso subhep‚tico
+Surcos parac√≥licos
+Receso subfr√©nico‚Ä¢
+Receso subhep√¢tico
 Receso hepatorrenal
-Tr\xe2\x84\xa2gono cistohep‚tico
+Tr√≠gono cistohep√¢tico
 Pliegue umbilical medio
 Fosa supravesical
 Pliegue umbilical medial
 Fosa inguinal medial
-Tr\xe2\x84\xa2gono inguinal
-Pliegue umbilical late;Pliegue epig‚strico
+Tr√≠gono inguinal
+Pliegue umbilical late;Pliegue epig√¢strico
 Fosa inguinal lateral
 Peritoneo urogenital
 Fosa paravesical
 Pliegue vesical transverso
-Fondo de saco vÈsico-uterino 
-Lig. ancho del \xc5\x93tero
+Fondo de saco v√©sico-uterino 
+Lig. ancho del √∫tero
 Mesometrio 
-Mesos‚lpinx 
+Mesos√¢lpinx 
 Mesovario 
-Tri‚ngulo parietal lateral de la pelvis 
-Fosa ov‚rica 
+Tri√¢ngulo parietal lateral de la pelvis 
+Fosa ov√¢rica 
 Lig. suspensorio del ovario 
 Pliegue recto-uterino 
 Fondo de saco recto-uterino 
 Fondo de saco rectovesical
 Fosa pararrectal
- que est‚ limitado anteriormente por el lig. te-res
-Gl‚ndulas endocrinas
-HipÛfi;Gl‚ndula pituitaria
+ que est√¢ limitado anteriormente por el lig. te-res
+Gl√¢ndulas endocrinas
+Hip√≥fi;Gl√¢ndula pituitaria
 Anterior lobe
-PorciÛn tuberal
-PorciÛn intermedia
-PorciÛn dis;PorciÛn anterior
-NeurohipÛfi;LÛbulo posterior
-Infund\xe2\x84\xa2bulo
-LÛbulo nervi;PorciÛn nerviosa*
-Gl‚ndula pin;Cuerpo pin;Ep\xe2\x84\xa2fisis
-Gl‚ndula tiroides
-LÛbulo
+Porci√≥n tuberal
+Porci√≥n intermedia
+Porci√≥n dis;Porci√≥n anterior
+Neurohip√≥fi;L√≥bulo posterior
+Infund√≠bulo
+L√≥bulo nervi;Porci√≥n nerviosa*
+Gl√¢ndula pin;Cuerpo pin;Ep√≠fisis
+Gl√¢ndula tiroides
+L√≥bulo
 Istmo
-(LÛbulo piramidal)
-Gl‚ndulas tiroideas accesorias
-C‚psula fibrosa
+(L√≥bulo piramidal)
+Gl√¢ndulas tiroideas accesorias
+C√¢psula fibrosa
 Estroma
-ParÈnquima
+Par√©nquima
 Lobulillos
-Gl‚ndula paratiroides
-Gl‚ndula paratiroides superior
-Gl‚ndula paratiroides inferior
-Gl‚ndulas paratiroides accesorias
-Gl‚ndula suprarre;Gl‚ndula adrenal
+Gl√¢ndula paratiroides
+Gl√¢ndula paratiroides superior
+Gl√¢ndula paratiroides inferior
+Gl√¢ndulas paratiroides accesorias
+Gl√¢ndula suprarre;Gl√¢ndula adrenal
 Cara anterior
 Cara posterior
 Cara renal
 Borde superior
 Borde medial
 Corteza
-MÈdula
+M√©dula
 Hilio
 V. central
-Gl‚ndulas suprarrenales accesorias
-Islotes pancre‚ticos74
+Gl√¢ndulas suprarrenales accesorias
+Islotes pancre√¢ticos74
  ej. epiphysis cerebri
- el tÈrmino ep\xe2\x84\xa2fisis es ampliamente utilizado.'b'
+ el t√©rmino ep√≠fisis es ampliamente utilizado.'b'
 Sistema cardiovascular
-Vaso sangu\xe2\x84\xa2neo
+Vaso sangu√≠neo
 Anastomosis arteriovenosa
 Arteria
 A. nutricia
 Arteriola
-C\xe2\x84\xa2rculo arterial
-C\xe2\x84\xa2rculo vascular
+C√≠rculo arterial
+C√≠rculo vascular
 Cisterna
 Sangre
 Plexo vascular
@@ -11318,70 +11399,70 @@ Rete mirabile
 Red vascular articular
 Red venosa
 Seno venoso
-T\xc5\x93nica externa
-T\xc5\x93nica \xe2\x84\xa2ntima
-T\xc5\x93nica media
-V‚lvula
+T√∫nica externa
+T√∫nica √≠ntima
+T√∫nica media
+V√¢lvula
 Valva
-C\xc5\x93sp;Valva
-V‚lvula venosa
-Vaso anastomÛtico
+C√∫sp;Valva
+V√¢lvula venosa
+Vaso anastom√≥tico
 Vaso capilar
 Vaso colateral
 Vaso sinusoide
 Vasa vasorum
 Vasa nervorum
 Vena
-V. satÈlite
-V. cut‚nea
+V. sat√©lite
+V. cut√¢nea
 V. emisaria
 V. nutricia
 V. profunda
 V. superficial
-VÈnula
-Vaso linf‚tico
-Vaso linf‚tico superficial
-Vaso linf‚tico profundo
-Plexo linf‚tico
-V‚lvula linf‚tica
+V√©nula
+Vaso linf√¢tico
+Vaso linf√¢tico superficial
+Vaso linf√¢tico profundo
+Plexo linf√¢tico
+V√¢lvula linf√¢tica
 Linfa
-Capilar linf‚tico
-Red linf‚tica
-CorazÛn
+Capilar linf√¢tico
+Red linf√¢tica
+Coraz√≥n
 Base
 Cara esternocos;Cara anterior
-Cara diafragm‚t;Cara inferior
+Cara diafragm√¢t;Cara inferior
 Left pulmonary surface
 Anastomosis arteriovenosaes ampliamente utilizado
 Borde derecho
-VÈrtice
-Cisura del vÈrtice del corazÛn
+V√©rtice
+Cisura del v√©rtice del coraz√≥n
 Surco interventricular anterior
 Surco interventricular posterior
 Surco coronario
 Left ventricle
 Septo interventricu;Tabiqueinterventricular
-PorciÛn muscular
-PorciÛn membranosa
-Septo atrioventricu;Tabique atrioventricularï
-Atrio derecho/izquierdoï
+Porci√≥n muscular
+Porci√≥n membranosa
+Septo atrioventricu;Tabique atrioventricular‚Ä¢
+Atrio derecho/izquierdo‚Ä¢
 Orejuela
 Septo interatr;Tabique interatrial
-TrabÈculas carnosas
-VÛrtice del corazÛn
+Trab√©culas carnosas
+V√≥rtice del coraz√≥n
 Mm. papilares
 Cuerdas tendinosas
 Cuerdas tendinosas falsasspuriae
-Tr\xe2\x84\xa2gono fibroso derecho
-Tr\xe2\x84\xa2gono fibroso izquierdo
+Tr√≠gono fibroso derecho
+Tr√≠gono fibroso izquierdo
 Left fibrous ring
-TendÛn del infund\xe2\x84\xa2bulo
-TendÛn de la v‚lvula de la vena cava inferior
-Tr\xe2\x84\xa2gono del nodo atrioventricularï
-Atrio dere;Aur\xe2\x84\xa2cula derecha
+Tend√≥n del infund√≠bulo
+Tend√≥n de la v√¢lvula de la vena cava inferior
+Tr√≠gono del nodo atrioventricular‚Ä¢
+Atrio dere;Aur√≠cula derecha
 Orejuela derecha
 Cresta terminal
-Orificio de las venas card\xe2\x84\xa2acas m\xe2\x84\xa2nimas
+Orificio de las venas card√≠acas m√≠nimas
 Fosa oval
 Limbo de la fosa ovalfossa
 (Foramen oval)
@@ -11391,71 +11472,71 @@ Orificio de la vena cava inferior
 Orificio de la vena cava superior
 Seno de la vena cava
 Surco terminal
-TubÈrculo intervenoso
-V‚lvula de la vena cava inferior
-V‚lvula del seno coronario
-Ventr\xe2\x84\xa2culo derecho
-Orificio atrioventricular derechoï
-V‚lvula atrioventricular dere;tricuspidalisvalve
-Valva anteriorï
-Valva posteriorï
-Valva septalï
+Tub√©rculo intervenoso
+V√¢lvula de la vena cava inferior
+V√¢lvula del seno coronario
+Ventr√≠culo derecho
+Orificio atrioventricular derecho‚Ä¢
+V√¢lvula atrioventricular dere;tricuspidalisvalve
+Valva anterior‚Ä¢
+Valva posterior‚Ä¢
+Valva septal‚Ä¢
 Cresta supraventricular
-Cono arteri;Infund\xe2\x84\xa2bulo
+Cono arteri;Infund√≠bulo
 Orificio del tronco pulmonar
-V‚lvula pulmonar76
+V√¢lvula pulmonar76
 Valva semilunar derecha
 Valva semilunar izquierda
 Valva semilunar anterior
-NÛdulos de las valvas semilunares
-L\xc5\x93nulas de las valvas semilunares
+N√≥dulos de las valvas semilunares
+L√∫nulas de las valvas semilunares
 Comisuras de las valvas semilunares
 M. papilar anterior
 M. papilar posterior
 M. papilar septal
-TrabÈcula septomarginalïband
-TrabÈcula carnosa
-Atrio izquie;Aur\xe2\x84\xa2cula izquierda
+Trab√©cula septomarginal‚Ä¢band
+Trab√©cula carnosa
+Atrio izquie;Aur√≠cula izquierda
 Orejuela izquierda
-Mm. pect\xe2\x84\xa2neos
+Mm. pect√≠neos
 Orificios de las venas pulmonares
-V‚lvula del foramen oval
-Ventr\xe2\x84\xa2culo izquierdo
-Orificio atrioventricular izquierdoï
-V‚lvula atrioventricular izquie;mitralisvalve
-Valva anteriorï
-Valva posteriorï
-Valvas comisuralesï
+V√¢lvula del foramen oval
+Ventr√≠culo izquierdo
+Orificio atrioventricular izquierdo‚Ä¢
+V√¢lvula atrioventricular izquie;mitralisvalve
+Valva anterior‚Ä¢
+Valva posterior‚Ä¢
+Valvas comisurales‚Ä¢
 M. papilar anterior
 M. papilar posterior
-Vest\xe2\x84\xa2bulo de la aortaï
+Vest√≠bulo de la aorta‚Ä¢
 Orificio de la aorta
-TrabÈculas carnosas
-V‚lvula aÛrtica
+Trab√©culas carnosas
+V√¢lvula a√≥rtica
 V\nalva semilunar dere;Valva coronariacoronaria dextracuspderecha
 V\nalva semilunar izquie;Valva coronariacoronaria sinistracusp izquierda
 Noncoronary cupsno coronaria
-NÛdulos de las valvas semilunares
-L\xc5\x93nulas de las valvas semilunares
+N√≥dulos de las valvas semilunares
+L√∫nulas de las valvas semilunares
 Comisuras de las valvas semilunares
 Endocardio
 Miocardio
-Sistema de conducciÛn del corazÛnconducente cordis
-Nodo sino-atrialï
-Nodo atrioventricularï
-Fasc\xe2\x84\xa2culo atrioventricularï
+Sistema de conducci√≥n del coraz√≥nconducente cordis
+Nodo sino-atrial‚Ä¢
+Nodo atrioventricular‚Ä¢
+Fasc√≠culo atrioventricular‚Ä¢
 Rama derecha
 Rama izquierda
-Rr. subendoc‚rdicos
-Cavidad peric‚rdica
+Rr. subendoc√¢rdicos
+Cavidad peric√¢rdica
 Seno transverso del pericardio
- las valvas de la v‚lvula pulmonar son denominadas de acuerdo con sus posiciones enanatom\xe2\x84\xa2a fetal. 
- las valvas de la v‚lvula aÛrtica son denominadas de acuerdo con sus posiciones en anatom\xe2\x84\xa2a fetal ycon los or\xe2\x84\xa2genes de las arterias coronarias. 
+ las valvas de la v√¢lvula pulmonar son denominadas de acuerdo con sus posiciones enanatom√≠a fetal. 
+ las valvas de la v√¢lvula a√≥rtica son denominadas de acuerdo con sus posiciones en anatom√≠a fetal ycon los or√≠genes de las arterias coronarias. 
 Seno oblicuo del pericardio
 Pericardio
 Pericardio fibroso
-Ligs. esternoperic‚rdicos*
-Membrana broncoperic‚rdica
+Ligs. esternoperic√¢rdicos*
+Membrana broncoperic√¢rdica
 Pericardio seroso
 Hoja parietal
 Hoja visce;Epicardio
@@ -11466,7 +11547,7 @@ Arterias
 US 
 Seno del tronco pulmonar
 Cresta supravalvular
-BifurcaciÛn del tronco pulmonar
+Bifurcaci√≥n del tronco pulmonar
 Arteria pulmonar derecha
 Aa. lobares superiores
 A. segmentaria apical
@@ -11481,7 +11562,7 @@ A. segmentaria medial
 A. segmentaria lateral
 Aa. lobares inferiores
 A. segmentaria superior
-PorciÛn basal
+Porci√≥n basal
 A. segmentaria basal anterior
 A. segmentaria basal lateral
 A. segmentaria basal medial
@@ -11497,31 +11578,31 @@ A. segmentaria posterior
 R. ascendente
 R. descendente
 A. lingular78
- a travÈs de la pared dorsal del pericardio
+ a trav√©s de la pared dorsal del pericardio
 A. lingular inferior
 A. lingular superior
 Aa. lobares inferiores
 A. segmentaria superior
-PorciÛn basal
+Porci√≥n basal
 A. segmentaria basal anterior
 A. segmentaria basal lateral
 A. segmentaria basal medial
 A. segmentaria basal posterior
 A\n
 Aorta ascendente
-Seno aÛrtico
+Seno a√≥rtico
 Cresta supravalvular
-Bulbo aÛrtico
+Bulbo a√≥rtico
 Arteria coronaria derecha
-Rr. atrioventricularesï
+Rr. atrioventriculares‚Ä¢
 R. del cono arterioso
-R. del nodo sino-atrialï
-Rr. atrialesï
+R. del nodo sino-atrial‚Ä¢
+Rr. atriales‚Ä¢
 R. marginal derecha
-R. atrial intermediaï
+R. atrial intermedia‚Ä¢
 R. interventricular posterior
 Rr. interventriculares septales
-R. del nodo atrioventricularï
+R. del nodo atrioventricular‚Ä¢
 (R. posterolateral derecha)
 Arteria coronaria izquierda
 R. interventricular anterior
@@ -11529,36 +11610,36 @@ R. del cono arterioso
 R. lateral
 Rr. interventriculares septales
 R. circunfleja
-R. atrial anastomÛticaï
-Rr. atrioventricularesï
+R. atrial anastom√≥tica‚Ä¢
+Rr. atrioventriculares‚Ä¢
 A. marginal izquierda
-R. atrial intermediaï
-R. posterior del ventr\xe2\x84\xa2culo izquierdo
-(R. del nodo sino-atrial)ï
-(R. del nodo atrioventricular)ï
-Rr. atrialesï
-Arco aÛrt;Cayado aÛrtico
-(Istmo aÛrtico)
-Cuerpos paraaÛrti;Cuerpos aÛrticos
-Tr\nonco braquiocef‚lico
+R. atrial intermedia‚Ä¢
+R. posterior del ventr√≠culo izquierdo
+(R. del nodo sino-atrial)‚Ä¢
+(R. del nodo atrioventricular)‚Ä¢
+Rr. atriales‚Ä¢
+Arco a√≥rt;Cayado a√≥rtico
+(Istmo a√≥rtico)
+Cuerpos paraa√≥rti;Cuerpos a√≥rticos
+Tr\nonco braquiocef√¢lico
 (A. tiroidea ima)
-Arteria carÛtida com\xc5\x93n
-Glomus carot\xe2\x84\xa2;Cuerpo carot\xe2\x84\xa2deo
-Seno carot\xe2\x84\xa2deo
-BifurcaciÛn carot\xe2\x84\xa2dea
-Arteria carÛtida externa
+Arteria car√≥tida com√∫n
+Glomus carot√≠;Cuerpo carot√≠deo
+Seno carot√≠deo
+Bifurcaci√≥n carot√≠dea
+Arteria car√≥tida externa
 A. tiroidea superior
 R. infrahioidea'b'
 R. esternocleidomastoidea
-A. lar\xe2\x84\xa2ngea superior
+A. lar√≠ngea superior
 R. cricotiroidea
 R. glandular anterior
 R. glandular posterior
 R. glandular lateral
-Arteria far\xe2\x84\xa2ngea ascendente
-A. men\xe2\x84\xa2ngea posterior
-Rr. far\xe2\x84\xa2ngeas
-A. timp‚nica inferior
+Arteria far√≠ngea ascendente
+A. men√≠ngea posterior
+Rr. far√≠ngeas
+A. timp√¢nica inferior
 (Tronco linguofacial)
 Arteria lingual
 R. suprahioidea
@@ -11567,7 +11648,7 @@ A. sublingual
 A. lingual profunda
 Arteria facial
 A. palatina ascendente
-R. tonsilarï
+R. tonsilar‚Ä¢
 A. submentoniana
 Rr. glandulares
 A. labial inferior
@@ -11580,41 +11661,41 @@ R. mastoidea
 R. auricular
 Rr. esternocleidomastoideas
 Rr. occipitales
-(R. men\xe2\x84\xa2ngea)
+(R. men√≠ngea)
 R. descendente
 Arteria auricular posterior
 A. estilomastoidea
-A. timp‚nica posterior
+A. timp√¢nica posterior
 Rr. mastoideas
-(R. estapedia)ï
+(R. estapedia)‚Ä¢
 R. auricular
 R. occipital
-R. parot\xe2\x84\xa2dea
+R. parot√≠dea
 Arteria temporal superficial
-R. parot\xe2\x84\xa2dea
-A. facial transversaï
+R. parot√≠dea
+A. facial transversa‚Ä¢
 Rr. auriculares anteriores
-A. cigom‚tico-orbitaria
+A. cigom√¢tico-orbitaria
 A. temporal media
 R. frontal
 R. parietal
 Arteria maxilar
 A. auricular profunda
-A. timp‚nica anterior
-A. alveolar inferiorï
+A. timp√¢nica anterior
+A. alveolar inferior‚Ä¢
 Rr. dentales
 Rr. peridentales
 R. mentoniana
 R. milohioidea
-A. men\xe2\x84\xa2ngea media
+A. men√≠ngea media
 R. accesoria80
 R. frontal
 R. orbitaria
 R. parietal
 R. petrosa
-A. timp‚nica superior
-Rama anastomÛtica con la a. lagrimalartery
-A. pterigomen\xe2\x84\xa2ngea
+A. timp√¢nica superior
+Rama anastom√≥tica con la a. lagrimalartery
+A. pterigomen√≠ngea
 A. maseterina
 A. temporal profunda anterior
 A. temporal profunda posterior
@@ -11627,56 +11708,56 @@ A. infraorbitaria
 Aa. alveolares superiores anteriores
 Rr. dentales
 Rr. peridentales
-A. del conducto pterigoideoï
-R. far\xe2\x84\xa2ngea
+A. del conducto pterigoideo‚Ä¢
+R. far√≠ngea
 A. palatina descendente
 A. palatina mayor
 Aa. palatinas menores
-R. far\xe2\x84\xa2ngea
+R. far√≠ngea
 A. esfenopalatina
 Aa. nasales posteriores laterales
 Rr. septales posteriores
-Arteria carÛtida interna
-PorciÛn cervical
-Seno carot\xe2\x84\xa2deo
-PorciÛn petrosa
-Aa. carotidotimp‚nicas
-A. del conducto pterigoideoï
-PorciÛn cavernosa
-R. basal del tentorioï
-R. marginal del tentorioï
-R. men\xe2\x84\xa2ngea
+Arteria car√≥tida interna
+Porci√≥n cervical
+Seno carot√≠deo
+Porci√≥n petrosa
+Aa. carotidotimp√¢nicas
+A. del conducto pterigoideo‚Ä¢
+Porci√≥n cavernosa
+R. basal del tentorio‚Ä¢
+R. marginal del tentorio‚Ä¢
+R. men√≠ngea
 R. del seno cavernoso
 A. hipofisaria inferior
-Rr. del ganglio del trigÈmino
+Rr. del ganglio del trig√©mino
 Rr. nervorum
-PorciÛn cerebral
-A. oft‚lmica
+Porci√≥n cerebral
+A. oft√¢lmica
 A. hipofisaria superior
 A. comunicante posterior
 A. coroidea anterior
 A. del uncus
 Rr. del clivus
-R. men\xe2\x84\xa2ngea
-SifÛn carot\xe2\x84\xa2deo
-Arteria oft‚lmica
+R. men√≠ngea
+Sif√≥n carot√≠deo
+Arteria oft√¢lmica
 A. central de la retina
-PorciÛn extraocular
-PorciÛn intraocular
+Porci√≥n extraocular
+Porci√≥n intraocular
 A. lagrimal'b'
-R. anastomÛtica con la a. men\xe2\x84\xa2ngea mediameningeal artery
+R. anastom√≥tica con la a. men√≠ngea mediameningeal artery
 Aa. palpebrales laterales
-R. men\xe2\x84\xa2ngea recurrente
+R. men√≠ngea recurrente
 Aa. ciliares posteriores cortas
 Aa. ciliares posteriores largas
 Aa. musculares
 Aa. ciliares anteriores
 Aa. conjuntivales anteriores
 Aa. epiesclerales
-A. supraorbitariaï
+A. supraorbitaria‚Ä¢
 R. diploica
 A. etmoidal anterior
-R. men\xe2\x84\xa2ngea anterior
+R. men√≠ngea anterior
 Rr. septales anteriores
 Rr. nasales anteriores laterales
 A. etmoidal posterior
@@ -11685,42 +11766,42 @@ Aa. conjuntivales posteriores
 Arco palpebral inferior
 Arco palpebral superior
 A. supratroclear
-A. nasal dorsalï
-Arterias del encÈfalo
+A. nasal dorsal‚Ä¢
+Arterias del enc√©falo
 A. coroidea anterior
-Rr. coroideas del ventr\xe2\x84\xa2culo lateral
-(Rr. coroideas del tercer ventr\xe2\x84\xa2culo)
+Rr. coroideas del ventr√≠culo lateral
+(Rr. coroideas del tercer ventr√≠culo)
 Rr. de la sustancia perforada anteriorsubstance
-Rr. quiasm‚ticasto optic chiasma
-Rr. del tracto Ûptico
+Rr. quiasm√¢ticasto optic chiasma
+Rr. del tracto √≥ptico
 Rr. del cuerpo geniculado lateral
  genu
 
 
-Rr. del globo p‚lido
-Rr. de la cola del n\xc5\x93cleo caudado
+Rr. del globo p√¢lido
+Rr. de la cola del n√∫cleo caudado
 Rr. del hipocampo
 (Rr. del uncus)
 Rr. del cuerpo amigdalino
-(Rr. del t\xc5\x93ber cinereum)
-(Rr. de los n\xc5\x93cleos del hipot‚lamo)
-Rr. de los n\xc5\x93cleos del t‚lamo
+(Rr. del t√∫ber cinereum)
+(Rr. de los n√∫cleos del hipot√¢lamo)
+Rr. de los n√∫cleos del t√¢lamo
 Rr. de la sustancia negra
-Rr. del n\xc5\x93cleo rojo
-Rr. de la base del ped\xc5\x93nculo
+Rr. del n√∫cleo rojo
+Rr. de la base del ped√∫nculo
 Arteria cerebral anterior
-PorciÛn precomunica;Segmento A1
+Porci√≥n precomunica;Segmento A1
 Aa. centrales anteromediales
 Aa. estriadas mediales proximales
-A. supraÛptica
+A. supra√≥ptica
 Aa. perforantes anteriores
-Aa. preÛpticas
+Aa. pre√≥pticas
 A. comunicante anterior
 Aa. centrales anteromediales
-A. supraquiasm‚tica
+A. supraquiasm√¢tica
 A. comisural media82
 A. callosa media
-PorciÛn potscomunica;Segmento A2
+Porci√≥n potscomunica;Segmento A2
 A. estriada medial distal
 A. frontobasal med;A. orbitofrontalmedialisorbitofrontalarterymedial
 A. del polo frontal
@@ -11734,21 +11815,21 @@ A. pericallosa
 (Rr. paracentrales)
 Rr. precuneales
 Rr. parieto-occipitales
-Arteria cerebral mediaï
-PorciÛn esfenoi;PorciÛn horizon;
+Arteria cerebral media‚Ä¢
+Porci√≥n esfenoi;Porci√≥n horizon;
 Aa. centrales anterolatera;
 Rr. estriadas proximales laterales
 Rr. estriadas distales laterales
 (A. del uncus)
 A. del polo temporal
 A. temporal anterior
-PorciÛn insu;Segmento M2
+Porci√≥n insu;Segmento M2
 Aa. insulares
 Rr. terminales inferio;Rr. corticalesinferio;Segmetum M2cortical branc; M2 segmentinferio;Segmento M2
 R. temporal anterior
 R. temporal media
 R. temporal posterior
-R. tÈmporo-occipital
+R. t√©mporo-occipital
 R. del giro angular
 Rr. terminales superio;Rr. corticalessuperio;Segmentum M2cortical branc; M2 segmentsuperio;Segmento M2
 A. frontobasal late;A. orbitofrontallateralisorbitofrontalarterylateral
@@ -11762,16 +11843,16 @@ Arteria comunicante posterior
 Aa. centrales posteromediales
 Rr. anteriores
 Rr. posteriores
-R. quiasm‚tica
-A. del t\xc5\x93ber cinereum
+R. quiasm√¢tica
+A. del t√∫ber cinereum
 Rr. mediales
 Rr. laterales
 A. talamotube;A. premamilarartery
-R. hipotal‚mica
+R. hipotal√¢mica
 Aa. mamilares
 R. del nervio oculomotor
-C\xe2\x84\xa2rculo arterial cerebral
-A. carÛtida interna
+C√≠rculo arterial cerebral
+A. car√≥tida interna
 A. cerebral anterior'b'
 A. comunicante anterior
 A. cerebral media
@@ -11779,12 +11860,12 @@ A. comunicante posterior
 A. basilar
 A. cerebral posterior
 Arteria cerebral posterior
-PorciÛn precomunica;Segmento P1
+Porci√≥n precomunica;Segmento P1
 Aa. centrales posteromedia;
 Aa. circunferenciales cortas
 A. talamoperforante
-A. colicu;A. cuadrigÈmina
-PorciÛn postcomunica;Segmento P2
+A. colicu;A. cuadrig√©mina
+Porci√≥n postcomunica;Segmento P2
 Aa. centrales posterolaterales
 A. talamogeniculada
 Rr. coroideas posteriores mediales
@@ -11802,53 +11883,53 @@ R. calcarina
 R. occipitotemporal
 Arteria subclavia
 Arteria vertebral
-PorciÛn prevertebral
-PorciÛn transve;PorciÛn cervical
+Porci√≥n prevertebral
+Porci√≥n transve;Porci√≥n cervical
 Rr. espinales
 Rr. radiculares
 A. medular segmentaria
 Rr. musculares
-PorciÛn atloidea
-PorciÛn intracraneal
-Rr. men\xe2\x84\xa2ngeas
+Porci√≥n atloidea
+Porci√≥n intracraneal
+Rr. men√≠ngeas
 A. cerebelosa posteroinferior
 A. espinal posterior
-R. de la am\xe2\x84\xa2gdala cerebelosa
-R. coroidea del cuarto ventr\xe2\x84\xa2culo
+R. de la am√≠gdala cerebelosa
+R. coroidea del cuarto ventr√≠culo
 A. espinal anterior
 Rr. bulbares mediales
 Rr. bulbares laterales
 Arteria basilar
 A. cerebelosa anteroinferior
-A. laber\xe2\x84\xa2ntica
+A. laber√≠ntica
 Aa. pontinas
 Rr. media;Rr. pontinas paramedianasbranches
 Rr. latera;Rr. pontinas circunferencialespontine branches
-Aa. mesencef‚licas
+Aa. mesencef√¢licas
 A. cerebelosa superior84
 R. medialcerebellar artery
 R. vermiana superior
 R. lateralcerebellar artery
 A. cerebral posterior
-Arteria tor‚cica internaï
-Rr. mediast\xe2\x84\xa2nicas
-Rr. t\xe2\x84\xa2micas
+Arteria tor√¢cica interna‚Ä¢
+Rr. mediast√≠nicas
+Rr. t√≠micas
 (Rr. bronquiales)
 (Rr. traqueales)
-A. pericardiofrÈnicaï
+A. pericardiofr√©nica‚Ä¢
 Rr. esternales
 Rr. perforantes
 Rr. mamarias mediales
 (R. costal lateral)
 Rr. intercostales anteriores
-A. musculofrÈnica
-A. epig‚strica superior
+A. musculofr√©nica
+A. epig√¢strica superior
 Tr\nonco tirocervical
 A. tiroidea inferior
-A. lar\xe2\x84\xa2ngea inferior
+A. lar√≠ngea inferior
 Rr. glandulares
-Rr. far\xe2\x84\xa2ngeas
-Rr. esof‚gicas
+Rr. far√≠ngeas
+Rr. esof√¢gicas
 Rr. traqueales
 A. cervical ascendente
 Rr. espinales
@@ -11858,8 +11939,8 @@ A. transversa del cue;A. cervicaltransversa
 R. superficial
 R. ascendente
 R. descendente
-R. profu;A. dorsal de la esc‚pulaï
-(A. dorsal de la esc‚pula)
+R. profu;A. dorsal de la esc√¢pula‚Ä¢
+(A. dorsal de la esc√¢pula)
 Tr\nonco costocervical
 A. cervical profunda
 A. intercostal suprema
@@ -11870,14 +11951,14 @@ Rr. espinales
 RI
 Arteria axilar
 Rr. subescapulares
-A. tor‚cica superior
-A. toraco-acrom;A. acromiotor‚cica
+A. tor√¢cica superior
+A. toraco-acrom;A. acromiotor√¢cica
 R. acromial
 Red acromial
 R. clavicular
 R. deltoidea
 Rr. pectorales
-A. tor‚cica lateralï
+A. tor√¢cica lateral‚Ä¢
 Rr. mamarias laterales
 A. subescapular
 A. toracodorsal'b'
@@ -11887,12 +11968,12 @@ A. circunfleja humeral posterior
 Arteria braqu;Arteria humeral
 (A. braquial superficial)
 A. braquial profu;A. profunda del brazoof arm
-Aa. nutricias del h\xc5\x93mero
+Aa. nutricias del h√∫mero
 R. deltoidea
 A. colateral medial
 A. colateral radial
-A. colateral cubital superiorï
-A. colateral cubital inferiorï
+A. colateral cubital superior‚Ä¢
+A. colateral cubital inferior‚Ä¢
 Arteria radial
 A. recurrente radial
 A. nutricia del radio
@@ -11903,22 +11984,22 @@ Arco dorsal del carpo
 Aa. dorsales del metacarpo
 Aa. digitales dorsales
 A. principal del pulgar
-A. radial del \xe2\x84\xa2ndice
+A. radial del √≠ndice
 Arco palmar profundo
 Aa. metacarpianas palmares
 Rr. perforantes
 Arteria cubi;Arteria ulnar
-A. recurrente cubitalï
+A. recurrente cubital‚Ä¢
 R. anterior
 R. posterior
-Red anastomÛtica del codo
-A. nutricia del c\xc5\x93bito
-A. interÛsea com\xc5\x93n
-A. interÛsea anterior
-A. medi;A. satÈlite del nervio mediano
-A. interÛsea posterior
+Red anastom√≥tica del codo
+A. nutricia del c√∫bito
+A. inter√≥sea com√∫n
+A. inter√≥sea anterior
+A. medi;A. sat√©lite del nervio mediano
+A. inter√≥sea posterior
 R. perforante
-A. interÛsea recurrente
+A. inter√≥sea recurrente
 R. dorsal del carpo
 R. palmar del carpo
 R. palmar profunda
@@ -11926,16 +12007,16 @@ Arco palmar superficial
 Aa. digitales palmares comunes
 Aa. digitales palmares propias
 Aorta descendente
-Aorta tor‚cica
+Aorta tor√¢cica
 Rr. bronquiales
-Rr. esof‚gicas
-Rr. peric‚rdicas
-Rr. mediast\xe2\x84\xa2nicas
-Aa. frÈnicas superioresï
+Rr. esof√¢gicas
+Rr. peric√¢rdicas
+Rr. mediast√≠nicas
+Aa. fr√©nicas superiores‚Ä¢
 Aa. intercostales posteriores
 R. dorsal
-R. cut‚nea medial
-R. cut‚nea lateral86
+R. cut√¢nea medial
+R. cut√¢nea lateral86
 Rr. espinales
 R. postcentral
 R. prelaminar
@@ -11943,13 +12024,13 @@ A. radicular posterior
 A. radicular anterior
 A. medular segmentaria
 R. colateral
-R. cut‚nea lateral
+R. cut√¢nea lateral
 Rr. mamarias laterales
 A. subcostal
 R. dorsal
 R. espinal
 Aorta abdominal
-A. frÈnica inferiorï
+A. fr√©nica inferior‚Ä¢
 Aa. suprarrenales superiores
 Aa. lumbares
 R. dorsal
@@ -11958,70 +12039,70 @@ A. medular segmentaria
 A. sacra media
 Aa. lumbares inferiores
 Rr. sacras laterales
-Glomus cox\xe2\x84\xa2;Cuerpo cox\xe2\x84\xa2geo
-Tr\nonco cel\xe2\x84\xa2aco
-A. g‚strica izquierdaï
-Rr. esof‚gicas
-A. hep‚tica com\xc5\x93n
+Glomus cox√≠;Cuerpo cox√≠geo
+Tr\nonco cel√≠aco
+A. g√¢strica izquierda‚Ä¢
+Rr. esof√¢gicas
+A. hep√¢tica com√∫n
 A. gastroduodenal
 (A. supraduodenal)
 A. pancreatoduodenal superior posteriorposteriorpancreaticoduodenal artery
-Rr. pancre‚ticas
+Rr. pancre√¢ticas
 Rr. duodenales
 Aa. retroduodenales
 A. gastro-omental dere;gastro-epiploic artery
-Rr. g‚stricas
-Rr. omentalesï
+Rr. g√¢stricas
+Rr. omentales‚Ä¢
 A. pancreatoduodenal superior anteriorpancreaticoduodenal artery
-Rr. pancre‚ticas
+Rr. pancre√¢ticas
 Rr. duodenales
-A. g‚strica derechaï
-A. hep‚tica propia
+A. g√¢strica derecha‚Ä¢
+A. hep√¢tica propia
 R. derecha
-A. c\xe2\x84\xa2stica
-A. del lÛbulo caudado
+A. c√≠stica
+A. del l√≥bulo caudado
 A. segmentaria anterior
 A. segmentaria posterior
 R. izquierda
-A. del lÛbulo caudado
+A. del l√≥bulo caudado
 A. segmentaria medial
 A. segmentaria lateral
 otra que camina por delante de la lamina arcus vertebrae(ramo prelaminaris)
 R. intermedia
-A. esplÈnica
-Rr. pancre‚ticas
-A. pancre‚tica dorsal
-A. pancre‚tica inferior
-A. prepancre‚tica
-A. pancre‚tica mayor
-A. de la cola del p‚ncreas
+A. espl√©nica
+Rr. pancre√¢ticas
+A. pancre√¢tica dorsal
+A. pancre√¢tica inferior
+A. prepancre√¢tica
+A. pancre√¢tica mayor
+A. de la cola del p√¢ncreas
 A. gastro-omental izquie;
-Rr. g‚stricas
-Rr. omentalesï
-Aa. g‚stricas cortas
-Rr. esplÈnicas
-A. g‚strica posterior
-Arteria mesentÈrica superior
+Rr. g√¢stricas
+Rr. omentales‚Ä¢
+Aa. g√¢stricas cortas
+Rr. espl√©nicas
+A. g√¢strica posterior
+Arteria mesent√©rica superior
 A. pancreatoduodenal inferior
 R. anterior
 R. posterior
 Aa. yeyunales
 Aa. ileales
-A. ileocÛlica
+A. ileoc√≥lica
 A. cecal anterior
 A. cecal posterior
 A. apendicular
 R. ileal
-R. cÛlica
-A. cÛlica derecha
-A. del ‚ngulo cÛlico derecho
-A. cÛlica media
-A. marginal del co;A. yuxtacÛl;marginalis coli
-A. mesentÈrica inferior
+R. c√≥lica
+A. c√≥lica derecha
+A. del √¢ngulo c√≥lico derecho
+A. c√≥lica media
+A. marginal del co;A. yuxtac√≥l;marginalis coli
+A. mesent√©rica inferior
 R. ascendente
-A. cÛlica izquierda
+A. c√≥lica izquierda
 Aa. sigmoideas
-A. rectal superiorï
+A. rectal superior‚Ä¢
 A. suprarrenal media
 A. renal
 Rr. capsulares
@@ -12035,85 +12116,85 @@ R. posterior
 A. segmentaria posterior
 Rr. ureterales*
 Aa. intrarrenales
-A. ov‚rica
+A. ov√¢rica
 Rr. ureterales 
-Rr. tub‚ricas 
+Rr. tub√¢ricas 
 A. testicular
 Rr. ureterales
 Rr. epididimarias88
- ver la publicaciÛn mencionada anteriormente en 
+ ver la publicaci√≥n mencionada anteriormente en 
 Sistema cardiovascular89
-BifurcaciÛn aÛrtica
-Arteria il\xe2\x84\xa2aca com\xc5\x93nï
-Arteria il\xe2\x84\xa2aca internaï
+Bifurcaci√≥n a√≥rtica
+Arteria il√≠aca com√∫n‚Ä¢
+Arteria il√≠aca interna‚Ä¢
 R. lumbar
 R. espinal
-R. il\xe2\x84\xa2aca
+R. il√≠aca
 Aa. sacras laterales
 Rr. espinales
 A. obturatriz
-R. p\xc5\x93bica
+R. p√∫bica
 R. acetabular
 R. anterior
 R. posterior
-A. gl\xc5\x93tea superior
+A. gl√∫tea superior
 R. superficial
 R. profunda
 R. superior
 R. inferior
-A. gl\xc5\x93tea inferior
-A. del nervio ci‚ticoï
+A. gl√∫tea inferior
+A. del nervio ci√¢tico‚Ä¢
 A. umbilical
-PorciÛn permeable
-A. del conducto deferenteïto vas deferens
+Porci√≥n permeable
+A. del conducto deferente‚Ä¢to vas deferens
 Rr. ureterales
 Aa. vesicales superiores
-PorciÛn obliterada
+Porci√≥n obliterada
 Ligamento de la a. umbilical
 A. vesical inferior
-Rr. prost‚ticas
+Rr. prost√¢ticas
 A. uterina 
-Rr. helicinas ï
+Rr. helicinas ‚Ä¢
 Rr. vaginales 
-(A. ‚cigos de la vagina) 
-Rr. ov‚ricas 
-R. tub‚rica 
+(A. √¢cigos de la vagina) 
+Rr. ov√¢ricas 
+R. tub√¢rica 
 A. vaginal
-A. rectal mediaï
+A. rectal media‚Ä¢
 Rr. vaginales 
-Rr. prost‚ticas
+Rr. prost√¢ticas
 A. pudenda interna
-A. rectal inferiorï
+A. rectal inferior‚Ä¢
 A. perineal
 Rr. labiales posteriores 
 Rr. escrotales posteriores
 A. uretral
-A. del bulbo del vest\xe2\x84\xa2bulo 
+A. del bulbo del vest√≠bulo 
 A. del bulbo del pene
-A. dorsal del cl\xe2\x84\xa2toris 
+A. dorsal del cl√≠toris 
 A. dorsal del pene
-A. profunda del cl\xe2\x84\xa2toris 
+A. profunda del cl√≠toris 
 A. profunda del pene
 Aa. perforantes del pene'b'
 RI
-Arteria il\xe2\x84\xa2aca externa
-A. epig‚strica inferior
-R. p\xc5\x93bica
+Arteria il√≠aca externa
+A. epig√¢strica inferior
+R. p√∫bica
 R. obturatriz
 (A. obturatriz accesoria)
-A. cremastÈricaï
-A. del ligamento redondo del \xc5\x93tero
-A. circunfleja il\xe2\x84\xa2aca profunda
+A. cremast√©rica‚Ä¢
+A. del ligamento redondo del √∫tero
+A. circunfleja il√≠aca profunda
 R. ascendente
 Arteria femoral
-A. epig‚strica superficial
-A. circunfleja il\xe2\x84\xa2aca superficial
+A. epig√¢strica superficial
+A. circunfleja il√≠aca superficial
 A. pudenda externa superficial
 A. pudenda externa profunda
 Rr. labiales anteriores 
 Rr. escrotales anteriores
 Rr. inguinales
-A. descendente de la rodillaï
+A. descendente de la rodilla‚Ä¢
 R. safena
 Rr. articulares
 Arteria femoral profunda
@@ -12128,8 +12209,8 @@ R. ascendente
 R. descendente
 R. transversa
 Aa. perforantes
-Aa. nutricias del fÈmurfemoris
-Arteria popl\xe2\x84\xa2tea
+Aa. nutricias del f√©murfemoris
+Arteria popl√≠tea
 A. superior lateral de la rodilla
 A. superior medial de la rodilla
 A. media de la rodilla
@@ -12137,14 +12218,14 @@ Aa. surales
 A. inferior lateral de la rodilla
 A. inferior medial de la rodilla
 Red articular de la rodilla
-Red patelarï
+Red patelar‚Ä¢
 Arteria tibial anterior
 A. recurrente tibial anterior
 (A. recurrente tibial posterior)
 A. maleolar anterior lateral
 A. maleolar anterior medial
 Red maleolar lateral
-Arteria dorsal del pieïof foot
+Arteria dorsal del pie‚Ä¢of foot
 A. lateral del tarso
 Aa. mediales del tarso
 (A. arcuata)
@@ -12155,7 +12236,7 @@ Arteria tibial posterior
 R. circunfleja fibu;R. circunflejaperonealisperoneal branchperoneal90
 Rr. maleolares mediales
 Red maleolar medial
-Rr. calc‚neas
+Rr. calc√¢neas
 A. nutricia de la tibia
 Arteria plantar medial
 R. profunda
@@ -12171,92 +12252,92 @@ Arteria fibu;Arteria peronea
 R. perforante
 R. comunicante
 Rr. maleolares laterales
-Rr. calc‚neas
-Red calc‚nea
-A. nutricia peroneaï
+Rr. calc√¢neas
+Red calc√¢nea
+A. nutricia peronea‚Ä¢
 Venas
-Venas del corazÛn
+Venas del coraz√≥n
 Seno coronario
-V. card\xe2\x84\xa2aca magna
+V. card√≠aca magna
 V. interventricular anterior
 V. marginal izquierda
-V(v). posterior(es) del ventr\xe2\x84\xa2culo izquierdo
-V. oblicua del atr\xe2\x84\xa2o izquierdoï
+V(v). posterior(es) del ventr√≠culo izquierdo
+V. oblicua del atr√≠o izquierdo‚Ä¢
 Lig. de la vena cava izquierda
-V. card\xe2\x84\xa2aca me;V. card\xe2\x84\xa2aca interventricular
-V. card\xe2\x84\xa2aca menor
+V. card√≠aca me;V. card√≠aca interventricular
+V. card√≠aca menor
 V. marginal derecha
-V(v). anterior(es) del ventr\xe2\x84\xa2culo dere;cardiacae anterio;Vv. cordis anteriores
-Vv. card\xe2\x84\xa2acas m\xe2\x84\xa2nimas
-Vv. atriales derechasï
+V(v). anterior(es) del ventr√≠culo dere;cardiacae anterio;Vv. cordis anteriores
+Vv. card√≠acas m√≠nimas
+Vv. atriales derechas‚Ä¢
 Vv. ventriculares derechas
-(Vv. atriales izquierdas)ï
+(Vv. atriales izquierdas)‚Ä¢
 (Vv. ventriculares izquierdas)
 Venas pulmonares
 Vena pulmonar superior derecha
 V. api;R. apical
-PorciÛn intrasegmentaria
+Porci√≥n intrasegmentaria
 V. anter;R. anterior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. poster;R. posterior
-PorciÛn infralobar
-PorciÛn intralobar
-V. del lÛbulo me;R. del lÛbulo medio
-PorciÛn lateral
-PorciÛn medial'b'
+Porci√≥n infralobar
+Porci√≥n intralobar
+V. del l√≥bulo me;R. del l√≥bulo medio
+Porci√≥n lateral
+Porci√≥n medial'b'
 Vena pulmonar inferior derecha
 V. super;R. superior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
-V. basal com\xc5\x93n
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
+V. basal com√∫n
 V. basal superior
 V. basal anter;R. basal anteriorbranch
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. basal inferior
 Vena pulmonar superior izquierda
 V. apicoposter;R. apicoposteriorbranch
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. anter;R. anterior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. lingu;R. lingular
-PorciÛn superior
-PorciÛn inferior
+Porci√≥n superior
+Porci√≥n inferior
 Vena pulmonar inferior izquierda
 V. super;R. superior
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
-V. basal com\xc5\x93n
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
+V. basal com√∫n
 V. basal superior
 V. basal anter;R. basal anteriorbranch
-PorciÛn intrasegmentaria
-PorciÛn intersegmentaria
+Porci√≥n intrasegmentaria
+Porci√≥n intersegmentaria
 V. basal inferior
 CA
-Vena braquiocef‚lica
+Vena braquiocef√¢lica
 V. tiroidea inferior
 Plexo tiroideo impar
-V. lar\xe2\x84\xa2ngea inferior
-Vv. t\xe2\x84\xa2micas
-Vv. peric‚rdicas
-Vv. pericardiacofrÈnicas
-Vv. mediast\xe2\x84\xa2nicas
+V. lar√≠ngea inferior
+Vv. t√≠micas
+Vv. peric√¢rdicas
+Vv. pericardiacofr√©nicas
+Vv. mediast√≠nicas
 Vv. bronquiales
 Vv. traqueales
-Vv. esof‚gicas
+Vv. esof√¢gicas
 V. vertebral
 V. occipital
 V. vertebral anterior
 (V. vertebral accesoria)
 Plexo venoso suboccipital
 V. cervical profunda
-Vv. tor‚cicas internas
-Vv. epig‚stricas superiores
-Vv. subcut‚neas abdominales
-Vv. musculofrÈnicas
+Vv. tor√¢cicas internas
+Vv. epig√¢stricas superiores
+Vv. subcut√¢neas abdominales
+Vv. musculofr√©nicas
 Vv. intercostales anteriores
 V. intercostal suprema
 V. intercostal superior izquierda92
@@ -12265,18 +12346,18 @@ Bulbo superior de la vena yugular
 Glomus yugu;Cuerpo yugular
 V. del acueducto coclear
 Bulbo inferior de la vena yugular
-Plexo far\xe2\x84\xa2ngeo
-Vv. far\xe2\x84\xa2ngeas
-Vv. men\xe2\x84\xa2ngeas
+Plexo far√≠ngeo
+Vv. far√≠ngeas
+Vv. men√≠ngeas
 V. lingual
 Vv. dorsales de la lengua
-V. satÈlite del nervio hipogloso
-V. sublingualï
+V. sat√©lite del nervio hipogloso
+V. sublingual‚Ä¢
 V. profunda de la lengua
 V. tiroidea superior
 Vv. tiroideas medias
 V. esternocleidomastoidea
-V. lar\xe2\x84\xa2ngea superior
+V. lar√≠ngea superior
 Vena facial
 V. angular
 Vv. supratrocleares
@@ -12293,16 +12374,16 @@ V. submentoniana
 Vena retromandibular
 Vv. temporales superficiales
 V. temporal media
-V. facial transversaï
+V. facial transversa‚Ä¢
 Vv. maxilares
 Plexo pterigoideo
-Vv. men\xe2\x84\xa2ngeas medias
+Vv. men√≠ngeas medias
 Vv. temporales profundas
 V. del conducto pterigoideo
 Vv. auriculares anteriores
-Vv. parot\xe2\x84\xa2deas
+Vv. parot√≠deas
 Vv. articulares
-Vv. timp‚nicas
+Vv. timp√¢nicas
 V. estilomastoidea
 Vena yugular externa
 V. auricular posterior
@@ -12318,12 +12399,12 @@ Seno occipital
 Plexo basilar
 Seno petro-escamoso
 Seno sigmoideo
-Seno sagital superiorï'b'
+Seno sagital superior‚Ä¢'b'
 Lagunas laterales
-Seno sagital inferiorï
+Seno sagital inferior‚Ä¢
 Seno recto
 Seno petroso inferior
-Vv. laber\xe2\x84\xa2nticas
+Vv. laber√≠nticas
 Seno petroso superior
 Seno cavernoso
 Seno intercavernoso anterior
@@ -12337,13 +12418,13 @@ V. diploica occipital
 Venas emisarias
 V. emisaria parietal
 V. emisaria mastoidea
-V. emisaria cond\xe2\x84\xa2lea
+V. emisaria cond√≠lea
 V. emisaria occipital
 Plexo venoso del conducto del hipogloso
 Plexo venoso del foramen oval
-Plexo venoso carot\xe2\x84\xa2deo interno
+Plexo venoso carot√≠deo interno
 Vv. portales hipofisarias
-Venas del encÈfalo
+Venas del enc√©falo
 Venas superficiales del cerebro
 Vv. cerebrales superiores
 Vv. prefrontales
@@ -12352,8 +12433,8 @@ Vv. parietales
 Vv. temporales
 Vv. occipitales
 V. cerebral media superficial
-V. anastomÛtica inferior
-V. anastomÛtica superior
+V. anastom√≥tica inferior
+V. anastom√≥tica superior
 Vv. cerebrales inferiores
 V. del uncus
 Vv. orbitarias
@@ -12363,7 +12444,7 @@ V. basal
 Vv. cerebrales anteriores
 V. cerebral media profunda
 Vv. insulares
-Vv. t‚lamo-estriadas inferiores
+Vv. t√¢lamo-estriadas inferiores
 V. del giro olfatorio
 V. ventricular inferior
 V. coroidea inferior
@@ -12371,31 +12452,31 @@ Vv. pedunculares
 V. cerebral magna
 Vv. internas del cerebro
 V. coroidea superior
-V. t‚lamo-estriada super;V. terminal
+V. t√¢lamo-estriada super;V. terminal
 V. anterior del septum pellucidum
 V. posterior del septum pellucidum
-V. medial del ventr\xe2\x84\xa2culo lateral
-V. lateral del ventr\xe2\x84\xa2culo lateral94
-Vv. del n\xc5\x93cleo caudado
+V. medial del ventr√≠culo lateral
+V. lateral del ventr√≠culo lateral94
+Vv. del n√∫cleo caudado
 Vv. directas laterales
 V. posterior del cuerpo call;V. dorsalcorporis callosi
-Venas del tronco del encÈfalo
-V. pontomesencef‚lica
+Venas del tronco del enc√©falo
+V. pontomesencef√¢lica
 Vv. interpedunculares
 V. intercolicular
-V. mesencef‚lica lateral
+V. mesencef√¢lica lateral
 Vv. pontinas
 V. pontina anteromedial
 V. pontina anterolateral
 Vv. pontinas transversas
 V. pontina lateral
-Vv. del bulbo raqu\xe2\x84\xa2deo
+Vv. del bulbo raqu√≠deo
 V. bulbar anteromedial
 V. bulbar anterolateral
 Vv. bulbares transversas
 Vv. bulbares dorsales
 V. bulbar posteromedial
-V. del receso lateral del cuarto ventr\xe2\x84\xa2culo
+V. del receso lateral del cuarto ventr√≠culo
 V\n. de la cisterna cerebelobulbar
 Venas del cerebelo
 V. superior del vermis
@@ -12405,7 +12486,7 @@ Vv. cerebelosas inferiores
 V. cerebelosa precentral
 V. petrosa
 Venas orbitarias
-Vena oft‚lmica superior
+Vena oft√¢lmica superior
 V. nasofrontal
 Vv. etmoidales
 V. lagrimal
@@ -12415,22 +12496,22 @@ Vv. ciliares anteriores
 Seno venoso de la esclera
 Vv. esclerales
 V. central de la retina
-PorciÛn extraocular
-PorciÛn intraocular
+Porci√≥n extraocular
+Porci√≥n intraocular
 Vv. epiesclerales
 Vv. palpebrales
 Vv. conjuntivales
-Vena oft‚lmica inferior
-Vena ‚cigos
-Arco de la vena ‚cigosï
+Vena oft√¢lmica inferior
+Vena √¢cigos
+Arco de la vena √¢cigos‚Ä¢
 V. intercostal superior derecha
-V. hemi‚cigosïvein
-V. hemi‚cigos accesoriaïhemi-azygos vein
-Vv. esof‚gicas
+V. hemi√¢cigos‚Ä¢vein
+V. hemi√¢cigos accesoria‚Ä¢hemi-azygos vein
+Vv. esof√¢gicas
 Vv. bronquiales
-Vv. peric‚rdicas
-Vv. mediast\xe2\x84\xa2nicas'b'
-Vv. frÈnicas superioresï
+Vv. peric√¢rdicas
+Vv. mediast√≠nicas'b'
+Vv. fr√©nicas superiores‚Ä¢
 V. lumbar ascendente
 Vv. lumbares
 V. subcostal
@@ -12443,32 +12524,32 @@ Plexo venoso vertebral externo anterior
 Plexo venoso vertebral externo posterior
 Plexo venoso vertebral interno anterior
 Vv. basivertebrales
-Vv. de la mÈdula espinal
+Vv. de la m√©dula espinal
 Vv. espinales anteriores
 Vv. espinales posteriores
 Plexo venoso vertebral interno posterior
 E 
 Vena subclavia
 Vv. pectorales
-V. dorsal de la esc‚pula
+V. dorsal de la esc√¢pula
 Vena axilar
 V. subescapular
 V. circunfleja escapular
 V. toracodorsal
-V. circunfleja posterior del h\xc5\x93mero
-V. circunfleja anterior del h\xc5\x93mero
-V. tor‚cica lateralï
-Vv. tÛraco-epig‚stricas
+V. circunfleja posterior del h√∫mero
+V. circunfleja anterior del h√∫mero
+V. tor√¢cica lateral‚Ä¢
+Vv. t√≥raco-epig√¢stricas
 Plexo venoso areolar
 Venas superficiales del miembro superior
-V. cef‚lica
+V. cef√¢lica
 Thoraco-acromial vein
-(V. cef‚lica accesoria)
-V. bas\xe2\x84\xa2lica
+(V. cef√¢lica accesoria)
+V. bas√≠lica
 V. mediana cubital
 V. mediana antebraqu;V. mediana delvein of forearmantebrazo
-V. cef‚lica del antebrazo
-V. bas\xe2\x84\xa2lica del antebrazo
+V. cef√¢lica del antebrazo
+V. bas√≠lica del antebrazo
 Red venosa dorsal de la mano
 Vv. intercapitulares
 Vv. metacarpianas dorsales
@@ -12478,72 +12559,72 @@ Venas profundas del miembro superior
 Vv. braquiales
 Vv. cubita;Vv. ulnares
 Vv. radiales
-Vv. interÛseas anteriores
-Vv. interÛseas posteriores
+Vv. inter√≥seas anteriores
+Vv. inter√≥seas posteriores
 Arco venoso palmar profundo
 Vv. metacarpianas palmares
 CA
-Vv. frÈnicas inferioresï
+Vv. fr√©nicas inferiores‚Ä¢
 Vv. lumbares96
 V. lumbar ascendente
-Vv. hep‚ticas
-V. hep‚tica derecha
-V. hep‚tica intermedia
-V. hep‚tica izquierda
+Vv. hep√¢ticas
+V. hep√¢tica derecha
+V. hep√¢tica intermedia
+V. hep√¢tica izquierda
 Vv. renales
 Vv. capsulares
 V. suprarrenal izquierda
-V. ov‚rica izquierda
+V. ov√¢rica izquierda
 V. testicular izquierda
 Vv. intrarrenales
 V. suprarrenal derecha
-V. ov‚rica derecha
+V. ov√¢rica derecha
 V. testicular derecha
 Plexo pampiniforme
-Vena il\xe2\x84\xa2aca com\xc5\x93nï
+Vena il√≠aca com√∫n‚Ä¢
 V. sacra media
 V. iliolumbar
-Vena il\xe2\x84\xa2aca internaï
-Vv. gl\xc5\x93teas superiores
-Vv. gl\xc5\x93teas inferiores
+Vena il√≠aca interna‚Ä¢
+Vv. gl√∫teas superiores
+Vv. gl√∫teas inferiores
 Vv. obturatrices
 Vv. sacras laterales
 Plexo venoso sacro
-Plexo venoso rectalï
+Plexo venoso rectal‚Ä¢
 Vv. vesicales
 Plexo venoso vesical
-Plexo venoso prost‚tico
-V. dorsal profunda del cl\xe2\x84\xa2toris
+Plexo venoso prost√¢tico
+V. dorsal profunda del cl√≠toris
 V. dorsal profunda del pene
 Vv. uterinas
 Plexo venoso uterino
 Plexo venoso vaginal
-Vv. rectales mediasï
+Vv. rectales medias‚Ä¢
 V. pudenda interna
-V. profunda del cl\xe2\x84\xa2toris
+V. profunda del cl√≠toris
 V. profunda del pene
-Vv. rectales inferioresï
+Vv. rectales inferiores‚Ä¢
 Vv. labiales posteriores
 Vv. escrotales posteriores
-V. del bulbo del vest\xe2\x84\xa2bulo
+V. del bulbo del vest√≠bulo
 V. del bulbo del pene
-Vena il\xe2\x84\xa2aca externa
-V. epig‚strica inferior
+Vena il√≠aca externa
+V. epig√¢strica inferior
 Pubic v;Pubic branch 
-V. circunfleja il\xe2\x84\xa2aca profunda
+V. circunfleja il√≠aca profunda
  ver las publicaciones mencionadas en 
 E 
 Venas superficiales del miembro inferior
-V. safena magnaïsaphenous vein
+V. safena magna‚Ä¢saphenous vein
 Vv. pudendas externas
-V. circunfleja il\xe2\x84\xa2aca superficial
-V. epig‚strica superficial
+V. circunfleja il√≠aca superficial
+V. epig√¢strica superficial
 V. safena accesoria
-Vv. dorsales superficiales del cl\xe2\x84\xa2toris
+Vv. dorsales superficiales del cl√≠toris
 Vv. dorsales superficiales del pene
 Vv. labiales anteriores
 Vv. escrotales anteriores
-V\n. safena menorïsaphenous vein
+V\n. safena menor‚Ä¢saphenous vein
 Red venosa dorsal del pie
 Arco venoso dorsal del pie
 Vv. metatarsianas dorsales
@@ -12561,9 +12642,9 @@ V. femoral profundaof thigh
 Vv. circunflejas femorales mediales
 Vv. circunflejas femorales laterales
 Vv. perforantes
-V. popl\xe2\x84\xa2tea
+V. popl√≠tea
 Vv. surales
-Vv. genicularesï
+Vv. geniculares‚Ä¢
 Vv. tibiales anteriores
 Vv. tibiales posteriores
 Vv. fibula;Vv. peroneas
@@ -12572,114 +12653,114 @@ R. derecha
 R. anterior
 R. posterior
 R. izquierda
-PorciÛn transversa
-Rr. del lÛbulo caudado
-PorciÛn umbilical
+Porci√≥n transversa
+Rr. del l√≥bulo caudado
+Porci√≥n umbilical
 Lig. venoso
 Rr. laterales
 V. umbilical
-Lig. redondo del h\xe2\x84\xa2gado
+Lig. redondo del h√≠gado
 Rr. mediales
-V. c\xe2\x84\xa2stica
+V. c√≠stica
 Vv. paraumbilicales
 V. pancreatoduodenal superior posteriorvein
-V. g‚strica izquierdaï
-V. g‚strica derechaï
-V. prepilÛrica
-Vena mesentÈrica superior
+V. g√¢strica izquierda‚Ä¢
+V. g√¢strica derecha‚Ä¢
+V. prepil√≥rica
+Vena mesent√©rica superior
 Vv. yeyunales98
 Vv. ileales
 V. gastro-omental dere; dextragastro-epiploic vein
-Vv. pancre‚ticas
+Vv. pancre√¢ticas
 Vv. pancreatoduodenales
-V. ileocÛlica
+V. ileoc√≥lica
 V. apendicular
-V. cÛlica derecha
-V. cÛlica media
-Vena esplÈnica
-Vv. pancre‚ticas
-Vv. g‚stricas cortas
+V. c√≥lica derecha
+V. c√≥lica media
+Vena espl√©nica
+Vv. pancre√¢ticas
+Vv. g√¢stricas cortas
 V. gastro-omental izquie; sinistragastro-epiploic vein
-V. mesentÈrica inferior
-V. cÛlica izquierda
+V. mesent√©rica inferior
+V. c√≥lica izquierda
 Vv. sigmoideas
-V. rectal superiorï
-Tr\noncos y conductos linf‚ticos
+V. rectal superior‚Ä¢
+Tr\noncos y conductos linf√¢ticos
 Tr\nonco yugular
 Tr\nonco subclavio
-Plexo linf‚tico axilar
-Tr\nonco broncomediast\xe2\x84\xa2nico
-Conducto linf‚tico dere;Conducto tor‚cicodexterductderecho
-Conducto tor‚cico
-Arco del conducto tor‚cicoï
-PorciÛn cervical
-PorciÛn tor‚cica
-PorciÛn abdominal
+Plexo linf√¢tico axilar
+Tr\nonco broncomediast√≠nico
+Conducto linf√¢tico dere;Conducto tor√¢cicodexterductderecho
+Conducto tor√¢cico
+Arco del conducto tor√¢cico‚Ä¢
+Porci√≥n cervical
+Porci√≥n tor√¢cica
+Porci√≥n abdominal
 Cisterna ch;Cisterna del quilo
 Tr\nonco lumbar
 Tr\noncos intestinales
-Ganglios linf‚ticos regionales (vide paginam 101)(see page 101)(ver p‚gina 101)'b'
-Sistema linf‚tico
+Ganglios linf√¢ticos regionales (vide paginam 101)(see page 101)(ver p√¢gina 101)'b'
+Sistema linf√¢tico
 NA 
-MÈdula Ûsea
+M√©dula √≥sea
 Timo
-LÛbulo
-LÛbulos del timo
+L√≥bulo
+L√≥bulos del timo
 Corteza del timo
-MÈdula del timo
-(LÛbulos accesorios del timo)
+M√©dula del timo
+(L√≥bulos accesorios del timo)
 NA 
 Bazo
-C‚psula fibrosa
-TrabÈculas esplÈnicas
-Pulpa esplÈnica
+C√¢psula fibrosa
+Trab√©culas espl√©nicas
+Pulpa espl√©nica
 Pulpa roja
 Pulpa blanca
-Cara diafragm‚tica
+Cara diafragm√¢tica
 Cara visceral
-ImpresiÛn renal
-ImpresiÛn g‚strica
-ImpresiÛn cÛlica
-(ImpresiÛn pancre‚tica)
+Impresi√≥n renal
+Impresi√≥n g√¢strica
+Impresi√≥n c√≥lica
+(Impresi√≥n pancre√¢tica)
 Extremidad anterior
 Extremidad posterior
 Borde inferior
 Borde superior
-Hilio esplÈnico
+Hilio espl√©nico
 Ser;Capa serosa
-Seno esplÈnico
+Seno espl√©nico
 Penicilios
-Ganglios linf‚ticos esplÈnicoslymphoidei lienales
+Ganglios linf√¢ticos espl√©nicoslymphoidei lienales
 (Bazo accesorio)
-Anillo linf‚tico far\xe2\x84\xa2ngeo
-Tonsila ling;Am\xe2\x84\xa2gdala lingual
+Anillo linf√¢tico far√≠ngeo
+Tonsila ling;Am√≠gdala lingual
 Criptas tonsilares
-Ganglios linf‚ticos
-Tonsila palat;Am\xe2\x84\xa2gdala palatina
+Ganglios linf√¢ticos
+Tonsila palat;Am√≠gdala palatina
 Fosas tonsilares
 Criptas tonsilares
-C‚psula tonsilar
-Tonsila far\xe2\x84\xa2n;Am\xe2\x84\xa2gdala far\xe2\x84\xa2ngeaï
+C√¢psula tonsilar
+Tonsila far√≠n;Am√≠gdala far√≠ngea‚Ä¢
 Fosas tonsilares
 Criptas tonsilares
-Ganglios linf‚ticos
-Tonsila tub‚r;Am\xe2\x84\xa2gdala tub‚rica
+Ganglios linf√¢ticos
+Tonsila tub√¢r;Am√≠gdala tub√¢rica
 Criptas tonsilares
-Ganglios linf‚ti;NÛdulos linf‚ticos
-C‚psula
-TrabÈcula
+Ganglios linf√¢ti;N√≥dulos linf√¢ticos
+C√¢psula
+Trab√©cula
 Hilio
 Corteza100
-MÈdula
-Ganglios linf‚ticos solitarios
-Ganglios linf‚ticos agregados
-Ganglios linf‚ticos agregados del apÈndicevermiformisvermiforme
-Ganglios linf‚ticos regiona;NÛduloslinf‚ticos regionales
-Ganglios linf‚ticos de la cabeza y cue;
+M√©dula
+Ganglios linf√¢ticos solitarios
+Ganglios linf√¢ticos agregados
+Ganglios linf√¢ticos agregados del ap√©ndicevermiformisvermiforme
+Ganglios linf√¢ticos regiona;N√≥duloslinf√¢ticos regionales
+Ganglios linf√¢ticos de la cabeza y cue;
 Ganglios occipitales
 Ganglios mastoideos
-Ganglios parot\xe2\x84\xa2deos superficiales
-Ganglios parot\xe2\x84\xa2deos profundos
+Ganglios parot√≠deos superficiales
+Ganglios parot√≠deos profundos
 Ganglios preauriculares
 Ganglios infraauriculares
 Ganglios intraglandulares
@@ -12695,26 +12776,26 @@ Ganglios cervicales anteriores
 Ganglios superficia;Ganglios yugularesanterioresnodesanteriores
 Ganglios profundos
 Ganglios infrahioideos
-Ganglios prelar\xe2\x84\xa2ngeos
+Ganglios prelar√≠ngeos
 Ganglios tiroideos
 Ganglios pretraqueales
-Ganglios paratraquealesï
-Ganglios retrofar\xe2\x84\xa2ngeos
+Ganglios paratraqueales‚Ä¢
+Ganglios retrofar√≠ngeos
 Ganglios cervicales laterales
-Ganglios superficialesï
-Ganglios profundos superioresï
-Ganglios yugulodig‚stricosï
+Ganglios superficiales‚Ä¢
+Ganglios profundos superiores‚Ä¢
+Ganglios yugulodig√¢stricos‚Ä¢
 Ganglio lateral
 Ganglio anterior
 Ganglios profundos inferiores
-Ganglio y\xc5\x93gulo-omohioideo
+Ganglio y√∫gulo-omohioideo
 Ganglio lateral
 Ganglio anterior
-Ganglios supraclavicularesï
+Ganglios supraclaviculares‚Ä¢
 Ganglios accesorios
-Ganglios retrofar\xe2\x84\xa2ngeos
-Ganglios linf‚ticos del miembro super;
-Ganglios linf‚ticos axilares
+Ganglios retrofar√≠ngeos
+Ganglios linf√¢ticos del miembro super;
+Ganglios linf√¢ticos axilares
 Ganglios apicales
 Ganglios humera;Ganglios laterales
 Ganglios subescapula;Ganglios posteriores
@@ -12727,92 +12808,92 @@ Ganglios cubitales
 Ganglios supratrocleares'b'
 Ganglios superficiales
 Ganglios profundos
-Ganglios linf‚ticos tor‚ci;NÛduloslinf‚ticos tor‚cicos
+Ganglios linf√¢ticos tor√¢ci;N√≥duloslinf√¢ticos tor√¢cicos
 Ganglios paramamarios
 Ganglios paraesternales
 Ganglios intercostales
-Ganglios frÈnicos superiores
-Ganglios preperic‚rdicos
-Ganglios braquiocef‚licos
+Ganglios fr√©nicos superiores
+Ganglios preperic√¢rdicos
+Ganglios braquiocef√¢licos
 (Ganglio del ligamento arterioso)
-(Ganglio del arco de la vena ‚cigos)
-Ganglios peric‚rdicos laterales
+(Ganglio del arco de la vena √¢cigos)
+Ganglios peric√¢rdicos laterales
 Ganglios paratraqueales
 Ganglios traqueobronquiales
 Ganglios traqueobronquiales superiores
-Ganglios traqueobronquiales inferioresï
+Ganglios traqueobronquiales inferiores‚Ä¢
 Ganglios broncopulmonares
 Ganglios intrapulmonares
-Ganglios yuxtaesof‚gicos
+Ganglios yuxtaesof√¢gicos
 Ganglios prevertebrales
-Ganglios linf‚ticos abdomina;NÛduloslinf‚ticos abdominales
-Ganglios linf‚ticos parietales
+Ganglios linf√¢ticos abdomina;N√≥duloslinf√¢ticos abdominales
+Ganglios linf√¢ticos parietales
 Ganglios lumbares izquierdos
-Ganglios aÛrticos laterales
-Ganglios preaÛrticos
-Ganglios retroaÛrti;Ganglios postaÛrticos
-Ganglios lumbares intermediosï
+Ganglios a√≥rticos laterales
+Ganglios prea√≥rticos
+Ganglios retroa√≥rti;Ganglios posta√≥rticos
+Ganglios lumbares intermedios‚Ä¢
 Ganglios lumbares derechos
 Ganglios laterales de la cava
 Ganglios precavos
 Ganglios retroca;Ganglios postcavos
-Ganglios frÈnicos inferiores
-Ganglios epig‚stricos inferiores
-Ganglios linf‚ticos viscerales
-Ganglios cel\xe2\x84\xa2acos
-Ganglios g‚stricos derechos/izquierdos
-(Anillo linf‚tico del cardias)
-Ganglios gastro-omentales der\ne c h o s / i z q u i e rd o sï
-Ganglios pilÛricos
-(Ganglio suprapilÛrico)
-(Ganglio subpilÛrico)
-(Ganglio retropilÛrico)
-Ganglios pancre‚ticos
+Ganglios fr√©nicos inferiores
+Ganglios epig√¢stricos inferiores
+Ganglios linf√¢ticos viscerales
+Ganglios cel√≠acos
+Ganglios g√¢stricos derechos/izquierdos
+(Anillo linf√¢tico del cardias)
+Ganglios gastro-omentales der\ne c h o s / i z q u i e rd o s‚Ä¢
+Ganglios pil√≥ricos
+(Ganglio suprapil√≥rico)
+(Ganglio subpil√≥rico)
+(Ganglio retropil√≥rico)
+Ganglios pancre√¢ticos
 Ganglios superiores
 Ganglios inferiores
-Ganglios esplÈnicos
+Ganglios espl√©nicos
 Ganglios pancreatoduodenales
 Ganglios superiores
 Ganglios inferiores
-Ganglios hep‚ticos
-Ganglio c\xe2\x84\xa2stico
+Ganglios hep√¢ticos
+Ganglio c√≠stico
 Ganglio del foramen omentalforamen
-Ganglios mesentÈricos superiores
+Ganglios mesent√©ricos superiores
 Ganglios yuxtaintestinales
 Ganglios centrales superiores
-Ganglios ileocÛlicos
+Ganglios ileoc√≥licos
 Ganglios prececales
 Ganglios retrocecales
 Ganglios apendiculares102
-Ganglios mesocÛlicos
-Ganglios paracÛlicos
-Ganglios cÛlicos derechos/medios/izquierdos
-Ganglios mesentÈricos inferiores
+Ganglios mesoc√≥licos
+Ganglios parac√≥licos
+Ganglios c√≥licos derechos/medios/izquierdos
+Ganglios mesent√©ricos inferiores
 Ganglios sigmoideos
 Ganglios rectales superiores
-Ganglios linf‚ticos pÈlvi;NÛdulos linf‚ticos pÈlvicos
+Ganglios linf√¢ticos p√©lvi;N√≥dulos linf√¢ticos p√©lvicos
 Ganglios parietales
-Ganglios il\xe2\x84\xa2acos comunes
+Ganglios il√≠acos comunes
 Ganglios mediales
 Ganglios intermedios
 Ganglios laterales
-Ganglios subaÛrticos
+Ganglios suba√≥rticos
 Ganglios del promontorio
-Ganglios il\xe2\x84\xa2acos externos
+Ganglios il√≠acos externos
 Ganglios mediales
 Ganglios intermedios
 Ganglios laterales
 (Ganglio lagunar medial)
 (Ganglio lagunar intermedio)
 (Ganglio lagunar lateral)
-Ganglios interil\xe2\x84\xa2acos
+Ganglios interil√≠acos
 Ganglios obturatrices
-Ganglios il\xe2\x84\xa2acos internos
-Ganglios gl\xc5\x93teos
+Ganglios il√≠acos internos
+Ganglios gl√∫teos
 Ganglios superiores
 Ganglios inferiores
 Ganglios sacros
-Ganglios linf‚ticos viscerales
+Ganglios linf√¢ticos viscerales
 Ganglios paravesicales
 Ganglios prevesicales
 Ganglios postvesicales
@@ -12820,17 +12901,17 @@ Ganglios vesicales laterales
 Ganglios parauterinos 
 Ganglios paravaginales 
 Ganglios pararrecta;Ganglios anorrectales
-Ganglios linf‚ticos del miembro infer;
-Ganglios linf‚ticos inguinales
+Ganglios linf√¢ticos del miembro infer;
+Ganglios linf√¢ticos inguinales
 Ganglios superficiales
 Ganglios superomediales
 Ganglios superolaterales
 Ganglios inferiores
 Ganglios inguinales profundos
 (Ganglio proximal)
-(Ganglio intermedio)ï
+(Ganglio intermedio)‚Ä¢
 Ganglio distal
-Ganglios popl\xe2\x84\xa2teos
+Ganglios popl√≠teos
 Ganglios superficiales
 Ganglios profundos
 (Ganglio tibial anterior)
@@ -12841,34 +12922,34 @@ Fibra nerviosa
 Neurona
 Pericarion
 Sinapsis
-Neurogl\xe2\x84\xa2a
+Neurogl√≠a
 Sistema nervioso centralnervosum centrale
 Sustancia gris
-N\xc5\x93cleos
-N\xc5\x93cleos de los nervios craneales
-N\xc5\x93cleos de origen
-N\xc5\x93cleos de terminaciÛn
+N√∫cleos
+N√∫cleos de los nervios craneales
+N√∫cleos de origen
+N√∫cleos de terminaci√≥n
 Columna
-L‚mina
+L√¢mina
 Sustancia blanca
-CordÛn
+Cord√≥n
 Tra;Haz
-Fasc\xe2\x84\xa2culo
+Fasc√≠culo
 Comisura
 Lemnisco
 Fibra
-Fibra de asociaciÛn
+Fibra de asociaci√≥n
 Fibra comisural
-Fibra de proyecciÛn
-DecusaciÛn
-Estr\xe2\x84\xa2a
-FormaciÛn reticular
-EpÈndimo
+Fibra de proyecci√≥n
+Decusaci√≥n
+Estr√≠a
+Formaci√≥n reticular
+Ep√©ndimo
 NG
 Paquimeni;Duramadre
 Leptomeni;Aracnoides y piamadreand pia mater
 Duramadre
-Duramadre cran;Duramadre encef‚lica
+Duramadre cran;Duramadre encef√¢lica
 Hoz del cerebro
 Tento;Tienda del cerebelotentorium
 Incisura del tentorio
@@ -12880,58 +12961,58 @@ Cavum trigeminal*
 Duramadre espinal
 Espacio epidural
 Aracnoides*
-Espacio subaracnoi;Espacio leptomeningeumspaceleptomen\xe2\x84\xa2ngeo104
- en condiciones normales la aracnoides se adhiere a la dura y Èsta lohace al cr‚neo
-El espacio est‚ limitado internamente por la hojaexterna de la pia mater
-L\xe2\x84\xa2quido cefalorraqu\xe2\x84\xa2deo
-Aracnoides cran;Aracnoides encef‚licamater encephali
+Espacio subaracnoi;Espacio leptomeningeumspaceleptomen√≠ngeo104
+ en condiciones normales la aracnoides se adhiere a la dura y √©sta lohace al cr√¢neo
+El espacio est√¢ limitado internamente por la hojaexterna de la pia mater
+L√≠quido cefalorraqu√≠deo
+Aracnoides cran;Aracnoides encef√¢licamater encephali
 Granulaciones aracnoideas
-Tr‚beculas aracnoideas
+Tr√¢beculas aracnoideas
 Cisternas subaracnoideas
 Cisterna cerebelobulbar poster;
 Cisterna cerebelobulbar lateral
 Cisterna de la fosa cerebral lateral
-Cisterna quiasm‚tica
+Cisterna quiasm√¢tica
 Cisterna interpeduncular
 Cisterna ambiens
 Cisterna pericallosa
 Cisterna pontocerebelosa
-Cisterna de la l‚mina terminal
-Cisterna cuadrigÈm;Cisterna de la venacerebri magnaeof great cerebral veincerebral magna
+Cisterna de la l√¢mina terminal
+Cisterna cuadrig√©m;Cisterna de la venacerebri magnaeof great cerebral veincerebral magna
 Aracnoides espinal
 Cisterna lumbar
 Piamadre
-Piamadre cran;Piamadre encef‚lica
-Tela coroidea del cuarto ventr\xe2\x84\xa2culo
-Plexo coroideo del cuarto ventr\xe2\x84\xa2culo
-Tela coroidea del tercer ventr\xe2\x84\xa2culo
-Plexo coroideo del tercer ventr\xe2\x84\xa2culo
-Plexo coroideo del ventr\xe2\x84\xa2culo lateral
+Piamadre cran;Piamadre encef√¢lica
+Tela coroidea del cuarto ventr√≠culo
+Plexo coroideo del cuarto ventr√≠culo
+Tela coroidea del tercer ventr√≠culo
+Plexo coroideo del tercer ventr√≠culo
+Plexo coroideo del ventr√≠culo lateral
 Glomus coroideo
 Piamadre espinal
 Lig. dentado
 Tabique cervical intermedio
 Filum terminal
-PorciÛn du;Lig. cocc\xe2\x84\xa2;Filum terminalterminale externumexterno
-PorciÛn p;Filum terminal internoterminale internum
-MÈdula espinal
+Porci√≥n du;Lig. cocc√≠;Filum terminalterminale externumexterno
+Porci√≥n p;Filum terminal internoterminale internum
+M√©dula espinal
 Intumescencia cervical
 Intumescencia lumbosacra
 Cono medular
-PorciÛn espinal del filum terminal
-Ventr\xe2\x84\xa2culo terminal
+Porci√≥n espinal del filum terminal
+Ventr√≠culo terminal
 Fisura media anter;Fisura media ventral median fissure
 Surco medio poster;Surco medio dorsalsulcusmedian dorsal
 Tabique medio poster;Tabique mediomedian septumdorsal
 Surco anterolate;Surco ventrolateral
 Surco posterolate;Surco dorsolateral
 Surco intermedio poster;Surcointermediate sulcusintermedio dorsal
-Cordones de la mÈdula espinal
-PorciÛn cervi;Segmentos cervicales [1-8]
-PorciÛn tor‚c;Segmentos tor‚cicos [1-12]
-PorciÛn lum;Segmentos lumbares [1-5]
-PorciÛn sa;Segmentos sacros [1-5]
-PorciÛn cox\xe2\x84\xa2;Segmentos cox\xe2\x84\xa2geos [1-3]'b'
+Cordones de la m√©dula espinal
+Porci√≥n cervi;Segmentos cervicales [1-8]
+Porci√≥n tor√¢c;Segmentos tor√¢cicos [1-12]
+Porci√≥n lum;Segmentos lumbares [1-5]
+Porci√≥n sa;Segmentos sacros [1-5]
+Porci√≥n cox√≠;Segmentos cox√≠geos [1-3]'b'
 Conducto central
 Sustancia gris
 Asta anter;Asta ventral
@@ -12943,48 +13024,48 @@ Columnas grises
 Columna anter;Columna ventral
 Asta anter;Asta ventral*
 I-
-N\xc5\x93cleo anterolate;N\xc5\x93cleo ventrolateralnucleus
-N\xc5\x93cleo anterior
-N\xc5\x93cleo anteromed;N\xc5\x93cleo ventromedialnucleus
-N\xc5\x93cleo posterolate;N\xc5\x93cleo dorsolateralnucleus
-N\xc5\x93cleo retroposterolate;N\xc5\x93cleo
-N\xc5\x93cleo posteromed;N\xc5\x93cleo dorsomedialnucleus
-N\xc5\x93cleo central
-N\xc5\x93cleo del nervio accesorio
-N\xc5\x93cleo del nervio frÈn;N\xc5\x93cleo frÈniconucleus
+N√∫cleo anterolate;N√∫cleo ventrolateralnucleus
+N√∫cleo anterior
+N√∫cleo anteromed;N√∫cleo ventromedialnucleus
+N√∫cleo posterolate;N√∫cleo dorsolateralnucleus
+N√∫cleo retroposterolate;N√∫cleo
+N√∫cleo posteromed;N√∫cleo dorsomedialnucleus
+N√∫cleo central
+N√∫cleo del nervio accesorio
+N√∫cleo del nervio fr√©n;N√∫cleo fr√©niconucleus
 Dorsal column
 Dorsal horn
-VÈrtice
+V√©rtice
 IMarginal nucleus: 
 Cabeza
 Gelatinous substa;Spinal lamina 
 Cuello
 I 
-VL‚mina espinal 
+VL√¢mina espinal 
 Base
 Spinal lamina 
 Sustancia gris visceral secundaria
-N\xc5\x93cleo basal interno
-N\xc5\x93cleo cervical lateral
-N\xc5\x93cleo cervical medial
-N\xc5\x93cleo posterior del cordÛn lateral
+N√∫cleo basal interno
+N√∫cleo cervical lateral
+N√∫cleo cervical medial
+N√∫cleo posterior del cord√≥n lateral
 Columna interme;Zona intermedia
 ISpinal lamina 
 Asta lateral
-N\xc5\x93cleo intermediolateral
+N√∫cleo intermediolateral
 Sustancia intermedia central
-N\xc5\x93cleo tor‚cico poster;N\xc5\x93cleo tor‚cicodorsalisthoracic nucleusdorsal
+N√∫cleo tor√¢cico poster;N√∫cleo tor√¢cicodorsalisthoracic nucleusdorsal
 Sustancia intermedia lateral
-N\xc5\x93cleo intermediomedial
-N\xc5\x93cleos parasimp‚ticos sacros
-N\xc5\x93cleo del nervio pudendo
-FormaciÛn reticular espinal
-N\xc5\x93cleo medial anter;N\xc5\x93cleo ventral medial nucleusmedial106
+N√∫cleo intermediomedial
+N√∫cleos parasimp√¢ticos sacros
+N√∫cleo del nervio pudendo
+Formaci√≥n reticular espinal
+N√∫cleo medial anter;N√∫cleo ventral medial nucleusmedial106
 I-
 Sustancia blanca
-CordÛn anter;CordÛn ventral
-Fasc\xe2\x84\xa2culo propio anter;Fasc\xe2\x84\xa2culo propiofasciculus propriusventral
-Fasc\xe2\x84\xa2culo surcomarginal
+Cord√≥n anter;Cord√≥n ventral
+Fasc√≠culo propio anter;Fasc√≠culo propiofasciculus propriusventral
+Fasc√≠culo surcomarginal
 Tracto corticoespinal anter;Tractocorticospinal tractcorticoespinal ventral
 Tracto vestibuloespinal lateral
 Tracto vestibuloespinal medial
@@ -12994,9 +13075,9 @@ Tracto intersticioespinal
 Tracto tectoespinal
 Tracto rafe-espinal anter;Tractoraphespinal tractrafe-espinal ventral
 Fibras olivoespinales
-Tracto espinotal‚mico anter;Tractospinothalamic tractespinotal‚mico ventral
-CordÛn lateral
-Fasc\xe2\x84\xa2culo lateral propio
+Tracto espinotal√¢mico anter;Tractospinothalamic tractespinotal√¢mico ventral
+Cord√≥n lateral
+Fasc√≠culo lateral propio
 Tracto fastigioespinal
 Tracto interpositoespinal
 Tracto corticoespinal lateral
@@ -13004,11 +13085,11 @@ Tracto rubroespinal
 T\nracto bulborreticuloespi;Tractoreticulospinal tr;Lateral reticuloespinal lateralreticulospinal trac
 Fibras olivoespinales
 Tracto espinotectal
-Tracto espinotal‚mico lateral
+Tracto espinotal√¢mico lateral
 Tracto espinocerebeloso anter;Tractospinocerebellar tractespinocerebeloso ventral
 Tracto espinocerebeloso poster;Tractospinocerebellar tractespinocerebeloso dorsal
 Tracto posterolate;Tracto dorsolateral
-PorciÛn posterior del cordÛn lateral
+Porci√≥n posterior del cord√≥n lateral
 Tracto espinolivar
 Tracto espinorreticular
 Tracto ceruleoespinal
@@ -13017,61 +13098,62 @@ Tracto rafe-espinal lateral
 Tracto solitarioespinal
 Tracto espinocervical
 Tracto espinovestibular
-Tracto trigÈminoespinal
-CordÛn poster;CordÛn dorsal
-Fasc\xe2\x84\xa2culo propio poster;Fasc\xe2\x84\xa2culo propiofasciculuspropriusdorsal
-Fasc\xe2\x84\xa2culo septomarginal
-Fasc\xe2\x84\xa2culo interfascicu;Fasc\xe2\x84\xa2culo semilunarsemilunaris
-Fasc\xe2\x84\xa2culo gr‚cil
-Fasc\xe2\x84\xa2culo cuneiforme
+Tracto trig√©minoespinal
+Cord√≥n poster;Cord√≥n dorsal
+Fasc√≠culo propio poster;Fasc√≠culo propiofasciculuspropriusdorsal
+Fasc√≠culo septomarginal
+Fasc√≠culo interfascicu;Fasc√≠culo semilunarsemilunaris
+Fasc√≠culo gr√¢cil
+Fasc√≠culo cuneiforme
  los tractus corticospinales
 Sin embargo
- nucleus gracilisynucleus cuneatusson referidos colectiva y com\xc5\x93nmente como n\xc5\x93cleos y fasc\xe2\x84\xa2culos de los cordones posteriores.'b'
+ nucleus gracilisynucleus cuneatusson referidos colectiva y com√∫nmente como n√∫cleos y fasc√≠culos de los cordones posteriores.'b'
 Fibras cuneoespinales
 Fibras gracilespinales*
 Fibras espinocuneiformes*
-Fibras espinogr‚ciles
-Estructuras centrales de la mÈdula espinal*
-X\xc3\xa7rea espinal;L‚mina espinal 
+Fibras espinogr√¢ciles
+Estructuras centrales de la m√©dula espinal*
+X
 Comisura gris anter;Comisura gris ventralgrey commissure*
 Comisura gris poster;Comisura gris dorsalgrey commissure
 Comisura blanca anter;Comisura blancawhite commissureventral
 Comisura blanca poster;Comisura blancawhite commissuredorsal
 Conducto cent;Conducto ependimario
-EncÈfalo
-RombencÈf;Cerebro posterior*
-MielencÈf;MÈdula oblong;Bulbo
-MetencÈf;Puente y cerebelo
-MesencÈf;Cerebro medio
-ProsencÈf;Cerebro anterior
-DiencÈfalo
-TelencÈfalo
-Tr\nonco del encÈfalo*
-Bulbraqu\xe2\x84\xa2deo
+Enc√©falo
+Rombenc√©f;Cerebro posterior*
+Mielenc√©f;M√©dula oblong;Bulbo
+Metenc√©f;Puente y cerebelo
+Mesenc√©f;Cerebro medio
+Prosenc√©f;Cerebro anterior
+Dienc√©falo
+Telenc√©falo
+Tr\nonco del enc√©falo*
+Bulbraqu√≠deo
 Pue;Protuberancia
-MesencÈf;Cerebro medio
+Mesenc√©f;Cerebro medio
 EN
 Fisura media anter;Fisura media ventral median fissure
-Foramen ciego del bulbo raqu\xe2\x84\xa2deooblongata
-Pir‚mide bulbar
-DecusaciÛn piramidaldecussation
+Foramen ciego del bulbo raqu√≠deooblongata
+Pir√¢mide bulbar
+Decusaci√≥n piramidaldecussation
 Surco anterolate;Surco ventrolateralsulcus
 Surco preolivar
-CordÛn lateral
+Cord√≥n lateral
 Oliva inferior
 Fibras arcuatas externas anteriores
 Surco retrolivar
+√Årea retrolivar
 Surco posterolate;Surco dorsolateralsulcus108
-Estas fibras son colectiva y com\xc5\x93nmente denominadas fibras postsin‚pticas de la columna dorsal.*
+Estas fibras son colectiva y com√∫nmente denominadas fibras postsin√¢pticas de la columna dorsal.*
 Consecuentemente
 Strong 
-Ped\xc5\x93nculo cerebeloso inferior
+Ped√∫nculo cerebeloso inferior
 Cuerpo restiforme
-TubÈrculo trigeminal
-Fasc\xe2\x84\xa2culo cuneiforme
-TubÈrculo cuneiforme
-Fasc\xe2\x84\xa2culo gr‚cil
-TubÈrculo gr‚cil
+Tub√©rculo trigeminal
+Fasc√≠culo cuneiforme
+Tub√©rculo cuneiforme
+Fasc√≠culo gr√¢cil
+Tub√©rculo gr√¢cil
 Surco medio poster;Surco medio dorsalmedian sulcus
 Morphologia interna
 Sustancia blanca
@@ -13079,35 +13161,35 @@ Tracto piramidal
 Fibras corticoespinales
 Fibras corticonucleares bulbares
 Fibras corticorreticulares
-DecusaciÛn piramidalïdecussation
-Fasc\xe2\x84\xa2culo gr‚cil
-Fasc\xe2\x84\xa2culo cuneiforme
+Decusaci√≥n piramidal‚Ä¢decussation
+Fasc√≠culo gr√¢cil
+Fasc√≠culo cuneiforme
 Fibras arcuatas internas
-DecusaciÛn del lemnisco medial
+Decusaci√≥n del lemnisco medial
 Lemnisco medial
 Tracto tectoespinal
-Fasc\xe2\x84\xa2culo longitudinal medial
+Fasc√≠culo longitudinal medial
 Fasciculus longitudinalis dorsalis
-Tracto espinal del nervio trigÈmino
+Tracto espinal del nervio trig√©mino
 Amiculum de la oliva
 Tracto espino-olivar
 Tracto olivocerebeloso
-Ped\xc5\x93nculo cerebeloso inferior
+Ped√∫nculo cerebeloso inferior
 Cuerpo yuxtarrestiforme
 Cuerpo restiforme
 Tracto solitario
 Ventral external arcuate fib;arciformes externas ventrales
 Dorsal external arcuate fibresarciformes externas posteriores
-Rafe del bulbo raqu\xe2\x84\xa2deo
+Rafe del bulbo raqu√≠deo
 Tracto rafe-espinal anterior
-Tracto reticuloespinal anter;Tractoreticulospinal tractret\xe2\x84\xa2culoespinal ventral
+Tracto reticuloespinal anter;Tractoreticulospinal tractret√≠culoespinal ventral
 Tracto espinocerebeloso anter;Tracto spinocerebellar tractespinocerebeloso ventral
 Fibras hipotalamoespinales
 Tracto intersticioespinal
 Tracto rafe-espinal lateral
 Tracto bulborreticuloespinal lateral
 Sin embargo
- utilizado com\xc5\x93nmente en la terminolog\xe2\x84\xa2a en el pasado
+ utilizado com√∫nmente en la terminolog√≠a en el pasado
 Fibras bulborreticuloespinales
 Tracto vestibuloespinal lateral
 Tracto espinocerebeloso poster;Tractospinocerebellar tractespinocerebeloso dorsal
@@ -13116,116 +13198,118 @@ Tracto rubrobulbar
 Tracto rubro-olivar
 Tracto rubroespinal*
 Lemnisco espi;Tracto anterolate;
-Fibras espinotal‚micas
+Fibras espinotal√¢micas
 Fibras espinorreticulares
-Fibras espinomesencef‚licas
+Fibras espinomesencef√¢licas
 Fibras espinotectales
 Fibras espinoperiacueductales
-Fibras espinohipotal‚micas
+Fibras espinohipotal√¢micas
 Fibras espinobulbares
 Fibras espino-olivares
 Tracto espinovestibular
 Tracto tectobulbar
 Sustancia gris*
-N\xc5\x93cleo gr‚cil
-PorciÛn central
-PorciÛn rostral
-ZSubn\xc5\x93cleo rostrodor;Grupo celular 
-N\xc5\x93cleo cuneiforme
-PorciÛn central
-PorciÛn rostral
-N\xc5\x93cleo cuneiforme accesorio
-N\xc5\x93cleo precuneiforme acceso;Grupo
-N\xc5\x93cleo espinal del nervio trigÈmino{vide etiam paginum 113}{see also page 113}{ver tambiÈn p‚gina 113}
-PorciÛn caudal
-Subn\xc5\x93cleo zonal
-Subn\xc5\x93cleo gelatinoso
-Subn\xc5\x93cleo magnocelular
-PorciÛn interpolar
-N\xc5\x93cleo retrotrigeminal
-N\xc5\x93cleo retrofacial
-Complejo olivar infer;N\xc5\x93cleos olivaresinferioresinferiores
-N\xc5\x93cleo olivar principal
+N√∫cleo gr√¢cil
+Porci√≥n central
+Porci√≥n rostral
+ZSubn√∫cleo rostrodor;Grupo celular 
+N√∫cleo cuneiforme
+Porci√≥n central
+Porci√≥n rostral
+N√∫cleo cuneiforme accesorio
+N√∫cleo precuneiforme acceso;Grupo
+N√∫cleo espinal del nervio trig√©mino{vide etiam paginum 113}{see also page 113}{ver tambi√©n p√¢gina 113}
+Porci√≥n caudal
+Subn√∫cleo zonal
+Subn√∫cleo gelatinoso
+Subn√∫cleo magnocelular
+Porci√≥n interpolar
+N√∫cleo retrotrigeminal
+N√∫cleo retrofacial
+Complejo olivar infer;N√∫cleos olivaresinferioresinferiores
+N√∫cleo olivar principal
 Laminilla posterior
 Laminilla anterior
 Laminilla lateral
-Hilio del n\xc5\x93cleo olivar inferior
-N\xc5\x93cleo olivar accesorio poster;N\xc5\x93cleo
-N\xc5\x93cleo olivar accesorio medial
-N\xc5\x93cleo del nervio hipogloso
-N\xc5\x93cleo paramediano poster;N\xc5\x93cleoparamedian nucleusparamediano dorsal
+Hilio del n√∫cleo olivar inferior
+N√∫cleo olivar accesorio poster;N√∫cleo
+N√∫cleo olivar accesorio medial
+N√∫cleo del nervio hipogloso
+N√∫cleo paramediano poster;N√∫cleoparamedian nucleusparamediano dorsal
 Dorsal nucleus of vagus nervedorsal del nervio vago110
  a este respecto
  nucleus gracilisynucleus cuneatus
-N\xc5\x93cleos del tracto solita;N\xc5\x93cleo solitario
-N\xc5\x93cleo parasolitario
-N\xc5\x93cleo comisural
-N\xc5\x93cleo solitario gelatinoso
-N\xc5\x93cleo solitario intermedio
-N\xc5\x93cleo solitario intersticial
-N\xc5\x93cleo solitario medial
-N\xc5\x93cleo solitario paracomisural
-N\xc5\x93cleo solitario poster;N\xc5\x93cleo solitariosolitary nucleusdorsal
-N\xc5\x93cleo solitario posterolate;N\xc5\x93cleo
-N\xc5\x93cleo solitario anter;N\xc5\x93cleo solitariosolitary nucleusventral
-N\xc5\x93cleo solitario anterolate;N\xc5\x93cleo solitario
-N\xc5\x93cleos vestibulares {ver tambiÈn p‚gina 114}
-N\xc5\x93cleo vestibular inferior
-PorciÛn magnocelular del n\xc5\x93cleo vestibularinferiorisvestibular nucl;Cell group 
-N\xc5\x93cleo vestibular medial
-N\xc5\x93cleo marginal del cuerpo restifo;Grupo
-N\xc5\x93cleos cocleares {ver tambiÈn p‚gina 114}
-N\xc5\x93cleo coclear poster;N\xc5\x93cleo coclearcochlear nucleusdorsal
-N\xc5\x93cleo coclear anter;N\xc5\x93cleo coclearcochlear nucleusventral
-PorciÛn anterior
-PorciÛn posterior
-N\xc5\x93cleo comisural del nervio vago
-N\xc5\x93cleo ambiguo
-N\xc5\x93cleo retroambiguo
-N\xc5\x93cleo salivar inferior
-N\xc5\x93cleo arcuato
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo endolemniscal
-N\xc5\x93cleo pericuneiforme medial
-N\xc5\x93cleo pericuneiforme lateral
-N\xc5\x93cleos perihipoglosos
-N\xc5\x93cleo subhipogloso
-N\xc5\x93cleo intercalado
-N\xc5\x93cleo prepÛsito
-N\xc5\x93cleo peritrigeminal
-N\xc5\x93cleo pontobulbar
-N\xc5\x93cleo supraespinal
-N\xc5\x93cleos reticulares
-N\xc5\x93cleo gigantocelular
-PorciÛn alfa
-N\xc5\x93cleo reticular gigantocelular anter;
-N\xc5\x93cleo reticular paragigantocelular lateralnucleus
-N\xc5\x93cleo interfascicular del nervio hipoglosonerve
-N\xc5\x93cleo reticular intermedio
-N\xc5\x93cleo reticular lateral
+N√∫cleos del tracto solita;N√∫cleo solitario
+N√∫cleo parasolitario
+N√∫cleo comisural
+N√∫cleo solitario gelatinoso
+N√∫cleo solitario intermedio
+N√∫cleo solitario intersticial
+N√∫cleo solitario medial
+N√∫cleo solitario paracomisural
+N√∫cleo solitario poster;N√∫cleo solitariosolitary nucleusdorsal
+N√∫cleo solitario posterolate;N√∫cleo
+N√∫cleo solitario anter;N√∫cleo solitariosolitary nucleusventral
+N√∫cleo solitario anterolate;N√∫cleo solitario
+N√∫cleos vestibulares {ver tambi√©n p√¢gina 114}
+N√∫cleo vestibular inferior
+Porci√≥n magnocelular del n√∫cleo vestibularinferiorisvestibular nucl;Cell group 
+N√∫cleo vestibular medial
+N√∫cleo marginal del cuerpo restifo;Grupo
+N√∫cleos cocleares {ver tambi√©n p√¢gina 114}
+N√∫cleo coclear poster;N√∫cleo coclearcochlear nucleusdorsal
+N√∫cleo coclear anter;N√∫cleo coclearcochlear nucleusventral
+Porci√≥n anterior
+Porci√≥n posterior
+N√∫cleo comisural del nervio vago
+N√∫cleo ambiguo
+N√∫cleo retroambiguo
+N√∫cleo salivar inferior
+N√∫cleo arcuato
+N√∫cleos del rafe
+√Årea postrema
+N√∫cleo endolemniscal
+N√∫cleo pericuneiforme medial
+N√∫cleo pericuneiforme lateral
+N√∫cleos perihipoglosos
+N√∫cleo subhipogloso
+N√∫cleo intercalado
+N√∫cleo prep√≥sito
+N√∫cleo peritrigeminal
+N√∫cleo pontobulbar
+N√∫cleo supraespinal
+N√∫cleos reticulares
+N√∫cleo gigantocelular
+Porci√≥n alfa
+N√∫cleo reticular gigantocelular anter;
+N√∫cleo reticular paragigantocelular lateralnucleus
+N√∫cleo interfascicular del nervio hipoglosonerve
+N√∫cleo reticular intermedio
+N√∫cleo reticular lateral
 ynucleus reticularis pontis caudalis
 G.
-PorciÛn magnocelular
-PorciÛn parvocelular
-PorciÛn subtrigeminal
-N\xc5\x93cleo reticular parvocelular
-N\xc5\x93cleo reticular paragigantocelular poster;nucl;Dorsal paragigantocellular
-N\xc5\x93cleo reticular central
-PorciÛn dorsal
-PorciÛn ventral
-N\xc5\x93cleo reticular medial
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo oscuro del rafe
-N\xc5\x93cleo p‚lido del rafe
-N\xc5\x93cleo magno del rafe
+Porci√≥n magnocelular
+Porci√≥n parvocelular
+Porci√≥n subtrigeminal
+N√∫cleo reticular parvocelular
+N√∫cleo reticular paragigantocelular poster;nucl;Dorsal paragigantocellular
+N√∫cleo reticular central
+Porci√≥n dorsal
+Porci√≥n ventral
+N√∫cleo reticular medial
+N√∫cleos del rafe
+N√∫cleo oscuro del rafe
+N√∫cleo p√¢lido del rafe
+N√∫cleo magno del rafe
 PO
 Surco bulbopontino
 Surco basilar
-Ped\xc5\x93nculo cerebeloso medio
+Ped√∫nculo cerebeloso medio
+√Çngulo pontocerebeloso
 Frenillo del velo
-Ped\xc5\x93nculo cerebeloso superior
+Ped√∫nculo cerebeloso superior
 Velo medular superior
-PorciÛn basilar del puente
+Porci√≥n basilar del puente
 Sustancia blanca
 Fibras longitudinales del puente
 Fibras corticoespinales
@@ -13236,20 +13320,20 @@ Fibras tectopontinas
 Fibras transversas del puente
 Fibras pontocerebelosas
 Sustancia gris
-N\xc5\x93cleos del puente
+N√∫cleos del puente
 Ventral nucleus
-N\xc5\x93cleo lateral
-N\xc5\x93cleo mediano
-N\xc5\x93cleo paramediano
-N\xc5\x93cleo peduncu;N\xc5\x93cleo peripeduncularnucleus
-N\xc5\x93cleo poster;N\xc5\x93cleo dorsal
-N\xc5\x93cleo posterolate;N\xc5\x93cleo dorsolateralnucleus
-N\xc5\x93cleo posteromed;N\xc5\x93cleo dorsomedialnucleus
-N\xc5\x93cleo reticulotegmental
+N√∫cleo lateral
+N√∫cleo mediano
+N√∫cleo paramediano
+N√∫cleo peduncu;N√∫cleo peripeduncularnucleus
+N√∫cleo poster;N√∫cleo dorsal
+N√∫cleo posterolate;N√∫cleo dorsolateralnucleus
+N√∫cleo posteromed;N√∫cleo dorsomedialnucleus
+N√∫cleo reticulotegmental
 Tegmento del pue;Calotaprotuberancial
 Sustancia blanca
 Rafe del puente
-Fasc\xe2\x84\xa2culo longitudinal medial
+Fasc√≠culo longitudinal medial
 Dorsal longitudinal fasciculuslongitudinal dorsal
 Lemnisco medial112
 Tracto tectoespinal
@@ -13257,27 +13341,27 @@ Fibras pretecto-olivares
 Fibras tecto-olivares
 Fibras tectorreticulares
 Lemnisco espi;Tracto anterolate;
-Fibras espinotal‚micas
+Fibras espinotal√¢micas
 Fibras espinorreticulares
-Fibras espinomesencÈfalicas
+Fibras espinomesenc√©falicas
 Fibras espinotectales
 Fibras espinoperiacueductales
-Fibras espinohipotal‚micas
+Fibras espinohipotal√¢micas
 Fibras espinobulbares
 Fibras espino-olivares
-Tracto espinal del nervio trigÈmino
-Trigeminothalamic tracttrigeminotal‚mico
-Tracto trigeminotal‚mico anter;Tracto
-Tracto trigeminotal‚mico poster;Tracto
-Tracto mesencef‚lico del nervio trigÈmino
+Tracto espinal del nervio trig√©mino
+Trigeminothalamic tracttrigeminotal√¢mico
+Tracto trigeminotal√¢mico anter;Tracto
+Tracto trigeminotal√¢mico poster;Tracto
+Tracto mesencef√¢lico del nervio trig√©mino
 Rodilla del nervio facial
 Cuerpo trapezoide
 Tracto olivococlear
 Lemnisco lateral
-Estr\xe2\x84\xa2as medulares del cuarto ventr\xe2\x84\xa2culo
-Estr\xe2\x84\xa2a ac\xc5\x93stica anter;Estr\xe2\x84\xa2a ac\xc5\x93stica acoustic striaventral
-Estr\xe2\x84\xa2a ac\xc5\x93stica intermedia
-Estr\xe2\x84\xa2a ac\xc5\x93stica poster;Estr\xe2\x84\xa2a ac\xc5\x93stica acoustic striadorsal
+Estr√≠as medulares del cuarto ventr√≠culo
+Estr√≠a ac√∫stica anter;Estr√≠a ac√∫stica acoustic striaventral
+Estr√≠a ac√∫stica intermedia
+Estr√≠a ac√∫stica poster;Estr√≠a ac√∫stica acoustic striadorsal
 Tracto pontorreticuloespinal anter;Tracto
 Ventral
 Comisura coclear del puente
@@ -13292,82 +13376,83 @@ Tracto rubroespinal
 Tracto tectobulbar
 Tracto tectopontino
 Sustancia gris
-N\xc5\x93cleos del rafe
-FormaciÛn reticular
-N\xc5\x93cleo espinal del nervio trigÈmino{vide etiam paginam 110}{see also page 110}{ver tambiÈn p‚gina 110}
-Subn\xc5\x93cleo oral
-N\xc5\x93cleo sensitivo principal del nervio nervetrigÈmino
+N√∫cleos del rafe
+Formaci√≥n reticular
+N√∫cleo espinal del nervio trig√©mino{vide etiam paginam 110}{see also page 110}{ver tambi√©n p√¢gina 110}
+Subn√∫cleo oral
+N√∫cleo sensitivo principal del nervio nervetrig√©mino
  a este respecto
- este fasc\xe2\x84\xa2culo contiene axones que se originan en todos los n\xc5\x93cleos sensitivos del nervio trigÈmino. 
-para distinguirlo m‚s claramente de la porciÛn oral del n\xc5\x93cleoespinal del nervio trigÈmino que tambiÈn se encuentra en el tegmentum pontis.'b'
-N\xc5\x93cleo posteromed;N\xc5\x93cleo dorsomedialnucleus
-N\xc5\x93cleo anterolate;N\xc5\x93cleo ventrolateralnucleus
-N\xc5\x93cleo mesencef‚lico del nervio trigÈminonerve
-N\xc5\x93cleo motor del nervio trigÈmino
-N\xc5\x93cleo del nervio abducens
-N\xc5\x93cleo motor del nervio facial
-N\xc5\x93cleo salivar superior
-N\xc5\x93cleo lagrimal
-N\xc5\x93cleo olivar super;Complejo olivarolivary complexsuperior
-N\xc5\x93cleo olivar superior lateral
-N\xc5\x93cleo olivar superior medial
-N\xc5\x93cleos periolivares
-N\xc5\x93cleos mediales
-N\xc5\x93cleos laterales
-N\xc5\x93cleo del cuerpo trapezoide
-N\xc5\x93cleo anterior del cuerpo trapezo;Ventral nucleus of trapezoid body
-N\xc5\x93cleo lateral del cuerpo trapezoide
-N\xc5\x93cleo medial del cuerpo trapezoide
-N\xc5\x93cleos vestibulares {ver tambiÈn p‚gina 111}
-N\xc5\x93cleo vestibular medial
-N\xc5\x93cleo vestibular lateral
-LPorciÛn parvocelu;Grupo celular 
-N\xc5\x93cleo vestibular superior
-N\xc5\x93cleos cocleares {ver tambiÈn p‚gina 111}
-N\xc5\x93cleos del lemnisco lateral
-N\xc5\x93cleo posterior del lemnisco late;Dorsal nucleus of lateral lemniscus
-N\xc5\x93cleo intermedio del lemnisco laterallemniscus
-N\xc5\x93cleo anterior del lemnisco late;N\xc5\x93cleo
-N\xc5\x93cleo tegmental anter;N\xc5\x93cleo tegmentaltegmental nucleusventral
-N\xc5\x93cleo cer\xc5\x93leo
-N\xc5\x93cleo subcer\xc5\x93leo
-N\xc5\x93cleo intersticial del fasc\xe2\x84\xa2culo longitudinalmedialislongitudinal fasciculusmedial
-N\xc5\x93cleos parabraquiales
-N\xc5\x93cleo subparabraquial
-N\xc5\x93cleo parabraquial lateral
-PorciÛn late;Subn\xc5\x93cleo lateral
-PorciÛn med;Subn\xc5\x93cleo medial
-PorciÛn poster;PorciÛn dor; subnucl;Dorsal subnucleus
-PorciÛn anter;PorciÛn vent; subnucl;Ventral subnucleus
-N\xc5\x93cleo parabraquial medial
-PorciÛn med;Subn\xc5\x93cleo medial
-PorciÛn late;Subn\xc5\x93cleo lateral
-N\xc5\x93cleo tegmental poster;N\xc5\x93cleo tegmentaltegmental nucleusdorsal
-N\xc5\x93cleo supralemniscal
-N\xc5\x93cleos reticulares*
-N\xc5\x93cleo reticular caudal del puente
-N\xc5\x93cleo reticular oral del puente
-N\xc5\x93cleo paralemniscal114
+ este fasc√≠culo contiene axones que se originan en todos los n√∫cleos sensitivos del nervio trig√©mino. 
+para distinguirlo m√¢s claramente de la porci√≥n oral del n√∫cleoespinal del nervio trig√©mino que tambi√©n se encuentra en el tegmentum pontis.'b'
+N√∫cleo posteromed;N√∫cleo dorsomedialnucleus
+N√∫cleo anterolate;N√∫cleo ventrolateralnucleus
+N√∫cleo mesencef√¢lico del nervio trig√©minonerve
+N√∫cleo motor del nervio trig√©mino
+N√∫cleo del nervio abducens
+N√∫cleo motor del nervio facial
+N√∫cleo salivar superior
+N√∫cleo lagrimal
+N√∫cleo olivar super;Complejo olivarolivary complexsuperior
+N√∫cleo olivar superior lateral
+N√∫cleo olivar superior medial
+N√∫cleos periolivares
+N√∫cleos mediales
+N√∫cleos laterales
+N√∫cleo del cuerpo trapezoide
+N√∫cleo anterior del cuerpo trapezo;Ventral nucleus of trapezoid body
+N√∫cleo lateral del cuerpo trapezoide
+N√∫cleo medial del cuerpo trapezoide
+N√∫cleos vestibulares {ver tambi√©n p√¢gina 111}
+N√∫cleo vestibular medial
+N√∫cleo vestibular lateral
+LPorci√≥n parvocelu;Grupo celular 
+N√∫cleo vestibular superior
+N√∫cleos cocleares {ver tambi√©n p√¢gina 111}
+N√∫cleos del lemnisco lateral
+N√∫cleo posterior del lemnisco late;Dorsal nucleus of lateral lemniscus
+N√∫cleo intermedio del lemnisco laterallemniscus
+N√∫cleo anterior del lemnisco late;N√∫cleo
+N√∫cleo tegmental anter;N√∫cleo tegmentaltegmental nucleusventral
+N√∫cleo cer√∫leo
+N√∫cleo subcer√∫leo
+N√∫cleo intersticial del fasc√≠culo longitudinalmedialislongitudinal fasciculusmedial
+N√∫cleos parabraquiales
+N√∫cleo subparabraquial
+N√∫cleo parabraquial lateral
+Porci√≥n late;Subn√∫cleo lateral
+Porci√≥n med;Subn√∫cleo medial
+Porci√≥n poster;Porci√≥n dor; subnucl;Dorsal subnucleus
+Porci√≥n anter;Porci√≥n vent; subnucl;Ventral subnucleus
+N√∫cleo parabraquial medial
+Porci√≥n med;Subn√∫cleo medial
+Porci√≥n late;Subn√∫cleo lateral
+N√∫cleo tegmental poster;N√∫cleo tegmentaltegmental nucleusdorsal
+N√∫cleo supralemniscal
+N√∫cleos reticulares*
+N√∫cleo reticular caudal del puente
+N√∫cleo reticular oral del puente
+N√∫cleo paralemniscal114
 ynucleus reticularis pontis caudalis
-N\xc5\x93cleo reticular paramediano
-N\xc5\x93cleo reticulotegmental del puente
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo magno del rafe
-N\xc5\x93cleo pontino del rafe
-N\xc5\x93cleo mediano del rafenucleus
-N\xc5\x93cleo posterior del r;N\xc5\x93cleo dorsal delrafenucleus
-Cuarto ventr\xe2\x84\xa2culo
-Fosa romboi;Suelo del cuarto ventr\xe2\x84\xa2culoventricle
+N√∫cleo reticular paramediano
+N√∫cleo reticulotegmental del puente
+N√∫cleos del rafe
+N√∫cleo magno del rafe
+N√∫cleo pontino del rafe
+N√∫cleo mediano del rafenucleus
+N√∫cleo posterior del r;N√∫cleo dorsal delrafenucleus
+Cuarto ventr√≠culo
+Fosa romboi;Suelo del cuarto ventr√≠culoventricle
 Surco medio
 Eminencia media
-Col\xe2\x84\xa2culo facialï
-Locus cer\xc5\x93leo
-Estr\xe2\x84\xa2as medulares del cuarto ventr\xe2\x84\xa2culoï
-Tr\xe2\x84\xa2gono del nervio hipogl;Tr\xe2\x84\xa2gonoof hypoglossal nervehipoglosoï
-Tr\xe2\x84\xa2gono del nervio v;Tr\xe2\x84\xa2gono vagalï
-Fun\xe2\x84\xa2culus separans
+Col√≠culo facial‚Ä¢
+Locus cer√∫leo
+Estr√≠as medulares del cuarto ventr√≠culo‚Ä¢
+Tr√≠gono del nervio hipogl;Tr√≠gonoof hypoglossal nervehipogloso‚Ä¢
+Tr√≠gono del nervio v;Tr√≠gono vagal‚Ä¢
+√Årea vestibular‚Ä¢
+Fun√≠culus separans
 Taenia cinerea
-Techo del cuarto ventr\xe2\x84\xa2culo
+Techo del cuarto ventr√≠culo
 Fastigio
 Plexo coroideo
 Tela coroidea
@@ -13377,29 +13462,30 @@ Velo medular superior
 Frenillo del velo medular superiorvellum
 Velo medular inferior
 Orificio medio
+√Årea postrema
 Surco limitante
 Fosita superior
 Fosita inferior
 NC
 Fosa interpeduncular
-Sustancia perforada posteriorï
+Sustancia perforada posterior‚Ä¢
 Surco para el nervio oculomotor
-Ped\xc5\x93nculo cerebral
+Ped√∫nculo cerebral
 Pie peduncular
-Surco lateral mesencef‚lico
-Tegmento mesencef‚lico
-Tri‚ngulo del lemnisco lateral
-Ped\xc5\x93nculo cerebeloso superior
+Surco lateral mesencef√¢lico
+Tegmento mesencef√¢lico
+Tri√¢ngulo del lemnisco lateral
+Ped√∫nculo cerebeloso superior
 Frenillo del velo medular superior
-L‚mina tec;L‚mina cuadrigÈmina
-Brazo del col\xe2\x84\xa2culo inferiorï
-Brazo del col\xe2\x84\xa2culo superiorï
-TubÈrculo cuadrigÈmino infer;Col\xe2\x84\xa2culoinferior
-TubÈrculo cuadrigÈmino super;Col\xe2\x84\xa2culosuperior
+L√¢mina tec;L√¢mina cuadrig√©mina
+Brazo del col√≠culo inferior‚Ä¢
+Brazo del col√≠culo superior‚Ä¢
+Tub√©rculo cuadrig√©mino infer;Col√≠culoinferior
+Tub√©rculo cuadrig√©mino super;Col√≠culosuperior
  por claridad
 Morphologia interna
-Ped\xc5\x93nculo cerebral
-Base del ped\xc5\x93nculo*
+Ped√∫nculo cerebral
+Base del ped√∫nculo*
 Pie peduncular
 Tracto piramidal
 Fibras corticoespinales
@@ -13411,37 +13497,37 @@ Fibras parietopontinas
 Fibras temporopontinas
 Fibras corticorreticulares*
 Sustancia negra
-PorciÛn compacta
-PorciÛn lateral
-PorciÛn reticular
-PorciÛn retrorrubral
-Tegmento del mesencÈf;Calota delmesencÈfalo
+Porci√≥n compacta
+Porci√≥n lateral
+Porci√≥n reticular
+Porci√≥n retrorrubral
+Tegmento del mesenc√©f;Calota delmesenc√©falo
 Sustancia blanca
 Tracto tegmental central
 Fibras rubro-olivares
 Fibras cerebelo-olivares
-Fibras corticonucleares mesencef‚licas
+Fibras corticonucleares mesencef√¢licas
 Fibras hipotalamoespinales
 Lemnisco lateral
 Tracto tectopontino
 Tracto tectobulbar lateral
 Lemnisco medial
 Lemnisco trigeminal
-Fasc\xe2\x84\xa2culo longitudinal medial
-Tracto mesencef‚lico del nervio trigÈminoï
+Fasc√≠culo longitudinal medial
+Tracto mesencef√¢lico del nervio trig√©mino‚Ä¢
 Dorsal longitudinal fasciculuslongitudinal dorsal
 Tracto rubronuclear
 Tracto rubroespinal
 Tracto rubro-olivar*
 Lemnisco espi;Tracto anterolate;
-Fibras espinotal‚micas
+Fibras espinotal√¢micas
 Fibras espinorreticulares
-Fibras espinomesencef‚licas
+Fibras espinomesencef√¢licas
 Fibras espinotectales
 Fibras espinoperiacueductales
-Fibras espinohipotal‚micas
-Ped\xc5\x93nculo cerebeloso superior
-DecusaciÛn de los ped\xc5\x93nculos cerebelosossuperiorumpedunclessuperiores
+Fibras espinohipotal√¢micas
+Ped√∫nculo cerebeloso superior
+Decusaci√≥n de los ped√∫nculos cerebelosossuperiorumpedunclessuperiores
 Tracto tectobulbar
 Tracto tectopontino
 Tracto tectoespinal
@@ -13451,65 +13537,65 @@ Algunosautores incluyen la substantia nigracomo parte de la basis pedunculi
  a este respecto
 Fibras tecto-olivares
 Decusaciones tegmentales
-DecusaciÛn tegmental poster;DecusaciÛn
-DecusaciÛn tegmental anter;DecusaciÛn
-Fibras corticomesencef‚licas
+Decusaci√≥n tegmental poster;Decusaci√≥n
+Decusaci√≥n tegmental anter;Decusaci√≥n
+Fibras corticomesencef√¢licas
 Sustancia gris
-N\xc5\x93cleo del nervio oculomotor
-N\xc5\x93cleos accesorios del nervio oculomotor
-N\xc5\x93cleos viscera;N\xc5\x93cleos autonÛmicos
-N\xc5\x93cleo anteromed;N\xc5\x93cleo ventromedialmedial nucleus
-N\xc5\x93cleo dor;N\xc5\x93cleo posterior
-N\xc5\x93cleo intersticial
-N\xc5\x93cleo precomisural central
-N\xc5\x93cleo comisural posterior
-PorciÛn ventral
-PorciÛn intersticial
-PorciÛn dorsal
-N\xc5\x93cleo interpeduncular
-N\xc5\x93cleos accesorios del tracto Ûptico
-N\xc5\x93cleo poster;N\xc5\x93cleo dorsal
-N\xc5\x93cleo lateral
-N\xc5\x93cleo medial
-N\xc5\x93cleo tegmental posterolate;N\xc5\x93cleo
-N\xc5\x93cleo del tracto mesencef‚lico del nervionervetrigÈmino
-N\xc5\x93cleo del nervio troclearï
-N\xc5\x93cleo parabigeminal
+N√∫cleo del nervio oculomotor
+N√∫cleos accesorios del nervio oculomotor
+N√∫cleos viscera;N√∫cleos auton√≥micos
+N√∫cleo anteromed;N√∫cleo ventromedialmedial nucleus
+N√∫cleo dor;N√∫cleo posterior
+N√∫cleo intersticial
+N√∫cleo precomisural central
+N√∫cleo comisural posterior
+Porci√≥n ventral
+Porci√≥n intersticial
+Porci√≥n dorsal
+N√∫cleo interpeduncular
+N√∫cleos accesorios del tracto √≥ptico
+N√∫cleo poster;N√∫cleo dorsal
+N√∫cleo lateral
+N√∫cleo medial
+N√∫cleo tegmental posterolate;N√∫cleo
+N√∫cleo del tracto mesencef√¢lico del nervionervetrig√©mino
+N√∫cleo del nervio troclear‚Ä¢
+N√∫cleo parabigeminal
 Sustancia gris cent;Sustancia gris
-N\xc5\x93cleo peripeduncular
-N\xc5\x93cleo rojo
-PorciÛn magnocelular
-PorciÛn parvocelular
-PorciÛn posteromed;PorciÛn dorsomedial
-FormaciÛn reticular{vide nuclei reticulares paginam 118}{see reticular nuclei page 118}{ver n\xc5\x93cleos reticulares p‚gina 118}
-N\xc5\x93cleo sagulum
-N\xc5\x93cleo sub-braquial
-N\xc5\x93cleos tegmentales anterio;N\xc5\x93cleostegmental nucleitegmentales ventrales
-N\xc5\x93cleo interfascicular
-N\xc5\x93cleo pigmentado parabraquial
-N\xc5\x93cleo paranigral
-N\xc5\x93cleo cuneiforme
-N\xc5\x93cleo subcuneiforme
-N\xc5\x93cleo tegmental pedunculopontino
-PorciÛn compacta
-PorciÛn dispersa
-N\xc5\x93cleos del rafe
-N\xc5\x93cleo posterior del r;N\xc5\x93cleo dorsal nucleusdel rafe
-N\xc5\x93cleo linear inferior
+N√∫cleo peripeduncular
+N√∫cleo rojo
+Porci√≥n magnocelular
+Porci√≥n parvocelular
+Porci√≥n posteromed;Porci√≥n dorsomedial
+Formaci√≥n reticular{vide nuclei reticulares paginam 118}{see reticular nuclei page 118}{ver n√∫cleos reticulares p√¢gina 118}
+N√∫cleo sagulum
+N√∫cleo sub-braquial
+N√∫cleos tegmentales anterio;N√∫cleostegmental nucleitegmentales ventrales
+N√∫cleo interfascicular
+N√∫cleo pigmentado parabraquial
+N√∫cleo paranigral
+N√∫cleo cuneiforme
+N√∫cleo subcuneiforme
+N√∫cleo tegmental pedunculopontino
+Porci√≥n compacta
+Porci√≥n dispersa
+N√∫cleos del rafe
+N√∫cleo posterior del r;N√∫cleo dorsal nucleusdel rafe
+N√∫cleo linear inferior
  tales como la substantia nigra
- adyacente al col\xe2\x84\xa2culo inferior. 
-N\xc5\x93cleo linear intermedio
-N\xc5\x93cleo linear superior
-Acueducto del mesencÈf;Acueductocerebriaqueduct cerebricerebral
-Orificio del acueducto mesencef‚l;
-Techo del mesencÈfalo
-L‚mina tec;L‚mina cuadrigÈmina
-Col\xe2\x84\xa2culo infer;TubÈrculo cuadrigÈminoinferior
-N\xc5\x93cleos del col\xe2\x84\xa2culo inferior
-N\xc5\x93cleo central
-N\xc5\x93cleo exte;N\xc5\x93cleo lateral
-N\xc5\x93cleo pericentral*
-Col\xe2\x84\xa2culo super;TubÈrculo cuadrigÈminosuperior
+ adyacente al col√≠culo inferior. 
+N√∫cleo linear intermedio
+N√∫cleo linear superior
+Acueducto del mesenc√©f;Acueductocerebriaqueduct cerebricerebral
+Orificio del acueducto mesencef√¢l;
+Techo del mesenc√©falo
+L√¢mina tec;L√¢mina cuadrig√©mina
+Col√≠culo infer;Tub√©rculo cuadrig√©minoinferior
+N√∫cleos del col√≠culo inferior
+N√∫cleo central
+N√∫cleo exte;N√∫cleo lateral
+N√∫cleo pericentral*
+Col√≠culo super;Tub√©rculo cuadrig√©minosuperior
 ICapa zo;Capa 
 Superficial grey la;Layer 
 IOptic la;Layer 
@@ -13517,24 +13603,24 @@ Intermediate grey la;Laver
 VCapa medular interme;Capa 
 Deep grey la;Layer 
 IDeep white la;Layer 
-Brazo del col\xe2\x84\xa2culo inferiorï
-Brazo del col\xe2\x84\xa2culo superiorï
-Comisura del col\xe2\x84\xa2culo inferior
-Comisura del col\xe2\x84\xa2culo superior
-DecusaciÛn de las fibras del nervio troclear
-N\xc5\x93cleos reticulares
-N\xc5\x93cleo cuneiforme
-N\xc5\x93cleo subcuneiforme
-N\xc5\x93cleo tegmental pedunculopontino
-PorciÛn compacta
-PorciÛn dispersa
-N\xc5\x93cleo parapeduncular
+Brazo del col√≠culo inferior‚Ä¢
+Brazo del col√≠culo superior‚Ä¢
+Comisura del col√≠culo inferior
+Comisura del col√≠culo superior
+Decusaci√≥n de las fibras del nervio troclear
+N√∫cleos reticulares
+N√∫cleo cuneiforme
+N√∫cleo subcuneiforme
+N√∫cleo tegmental pedunculopontino
+Porci√≥n compacta
+Porci√≥n dispersa
+N√∫cleo parapeduncular
 BE
 Fisuras del cerebelo
-L‚minas del cerebelo
-II - 
-VallÈcula del cerebeloï
-I-
+L√¢minas del cerebelo
+H 
+Vall√©cula del cerebelo‚Ä¢
+X]
 Vestibulocerebelo*
 Espinocerebelo*
 Pontocerebelo*
@@ -13542,290 +13628,298 @@ Archicerebelo*
 Paleocerebelo*
 Neocerebelo
 Cuerpo del cerebelo
-LÛbulo anterior del cerebelo
-Lingula [
- y de n\xc5\x93cleos de lamÈdula espinal
+L√≥bulo anterior del cerebelo
+L√≠ngula [I]118
+ y de n√∫cleos de lam√©dula espinal
 Fisura precent;Fisura postlingual
-II
-Anterior p;Ventral part [
 I]
+Porci√≥n anter;Porci√≥n ventral [II]
+Posterior p;Dorsal part [II
 Ala del lobulillo central
-II]
-II
+Inferior p;Ventral part [H 
+I]
 Fisura preculmi;Fisura postcentral
-V]
-Anterior p;Ventral part [
+Culmen [IV and 
+Porci√≥n anter;Porci√≥n ventral [IV]
 Fisura intraculminar
-Posterior p;Dorsal part [
-Lobulillo cuadrangular anterior [
-IV]
-V]
+Porci√≥n poster;Porci√≥n dorsal [V]
+Lobulillo cuadrangular anterior [H 
+Anterior part [H 
+Posterior p;Dorsal part [H 
 Fisura pr;Fisura preclival
-LÛbulo posterior del cerebelo
-VI et 
-Declive [
+L√≥bulo posterior del cerebelo
 VI]
+Declive [VI]
+Posterior quadrangular lobule [H 
 Fisura posterior super;Fisura postclivalclivalisfissure
-I 
-Lobulillos semiluna;Lobulillo ansiforme[
-Lobulillo semilunar super;Crus primeralobuli ansiformis [
+A]
+Lobulillos semiluna;Lobulillo ansiforme[H 
+Lobulillo semilunar super;Crus primeralobuli ansiformis [H 
 Fisura horizon;Fisura intercrural
-Lobulillo semilunar infer;Crus segundasecundum lobuli ansiformis [
-Fisura lunogr‚;Fisura ansoparamedianaansoparamedianisfissure
-B]
-Lobulillo gr‚;Lobulillo paramediano[
-Fisura predig‚str;Fisura prepiramidal
+Lobulillo semilunar infer;Crus segundasecundum lobuli ansiformis [H 
+Fisura lunogr√¢;Fisura ansoparamedianaansoparamedianisfissure
+Tuber [VI
+Lobulillo gr√¢;Lobulillo paramediano[H 
+Fisura predig√¢str;Fisura prepiramidal
+Pyramis [VI
 II]
 VI
-H 
-Fisura intradig‚str;Fisura anteroinferiorinferiorfissure
-PorciÛn medial del lobulillo dig‚str;parafloccularis dorsalis [
+Fisura intradig√¢str;Fisura anteroinferiorinferiorfissure
+Porci√≥n medial del lobulillo dig√¢str;parafloccularis dorsalis [H 
 Fisura secu;Fisura postpiramidal
-Uvula [
-Am\xe2\x84\xa2gdala del cereb;ParaflÛculo ventral[
+Am√≠gdala del cereb;Parafl√≥culo ventral[H 
 Surco posterolateral
-LÛbulo floculonodular
-Nodule [
-Ped\xc5\x93nculo del flÛculo
-X]
-CÛrtex cerebel;Corteza cerebelosa
+L√≥bulo floculonodular
+N√≥dulo [X]
+Ped√∫nculo del fl√≥culo
+Fl√≥culo [HX]
+√Årbol de la vida
+C√≥rtex cerebel;Corteza cerebelosa
 Capa granulosa
 Capa de 
 Capa molecular 
-Esta capa de cÈlulas morfolÛgicamente especializadas es conocida universalmentepor este tÈrmino propio. 
-N\xc5\x93cleos del cerebelo
-N\xc5\x93cleo dent;N\xc5\x93cleo lateral del cerebelocerebelli
-Hilio del n\xc5\x93cleo dentado
-N\xc5\x93cleo interpÛsito anter;N\xc5\x93cleoemboliformis
-N\xc5\x93cleo interpÛsito poster;N\xc5\x93cleo globosoglobosus
-N\xc5\x93cleo del fasti;N\xc5\x93cleo medial cerebellidel cerebeloï
-Ped\xc5\x93nculos del cerebelo
-Ped\xc5\x93nculo cerebeloso inferior
+Esta capa de c√©lulas morfol√≥gicamente especializadas es conocida universalmentepor este t√©rmino propio. 
+N√∫cleos del cerebelo
+N√∫cleo dent;N√∫cleo lateral del cerebelocerebelli
+Hilio del n√∫cleo dentado
+N√∫cleo interp√≥sito anter;N√∫cleoemboliformis
+N√∫cleo interp√≥sito poster;N√∫cleo globosoglobosus
+N√∫cleo del fasti;N√∫cleo medial cerebellidel cerebelo‚Ä¢
+Ped√∫nculos del cerebelo
+Ped√∫nculo cerebeloso inferior
 Cuerpo restiforme
 Cuerpo yuxtarrestiforme
-Ped\xc5\x93nculo cerebeloso medio
-Ped\xc5\x93nculo cerebeloso superior
+Ped√∫nculo cerebeloso medio
+Ped√∫nculo cerebeloso superior
 Sustancia blanca del cerebelo
 Comisura del cerebelo
-Fasc\xe2\x84\xa2culo uncinado del cerebelo
+Fasc√≠culo uncinado del cerebelo
 CE
-Epit‚lamo
-HabÈnula
-Surco de la habÈnula
-Tri‚ngulo de la habÈnula
-Gl‚ndula pin;Ep\xe2\x84\xa2fisis
+Epit√¢lamo
+Hab√©nula
+Surco de la hab√©nula
+Tri√¢ngulo de la hab√©nula
+Gl√¢ndula pin;Ep√≠fisis
 Thalamus
-TubÈrculo anterior del t‚lamo
-Adhesio intertal‚m;Comisura grisintermedia
+Tub√©rculo anterior del t√¢lamo
+Adhesio intertal√¢m;Comisura grisintermedia
 Pulvinar
-Tenia del t‚lamo
-Estr\xe2\x84\xa2a medular del t‚lamo
-Subt‚l;T‚lamo ventral
-Metat‚lamo
+Tenia del t√¢lamo
+Estr√≠a medular del t√¢lamo
+Subt√¢l;T√¢lamo ventral
+Metat√¢lamo
 Cuerpo geniculado lateral
 Cuerpo geniculado medial
-Hipot‚lamo
-TubÈrculo mamilar
-NeurohipÛfisis
-Infund\xe2\x84\xa2bulo
-PorciÛn nerviosa
-Quiasma Ûptico
-Tracto Ûptico
-Ra\xe2\x84\xa2z lateral
-Ra\xe2\x84\xa2z medial
-T\xc5\x93ber cinereum
+Hipot√¢lamo
+Tub√©rculo mamilar
+Neurohip√≥fisis
+Infund√≠bulo
+Porci√≥n nerviosa
+Quiasma √≥ptico
+Tracto √≥ptico
+Ra√≠z lateral
+Ra√≠z medial
+√Årea pre√≥ptica
+T√∫ber cinereum
 Eminencia media
-Tercer ventr\xe2\x84\xa2culo
+Tercer ventr√≠culo
 Foramen interventricular120
  \xc3\x92emboliforme\xc3\x93
-Tenia del t‚lamo
+Tenia del t√¢lamo
 Tela coroidea
 Plexo coroideo
-Estr\xe2\x84\xa2a medular del t‚lamo
+Estr√≠a medular del t√¢lamo
 Receso suprapineal
 Comisura habenular
 Receso pineal
-Comisura poster;Comisura epital‚micaïepithalamica
-Orificio del acueducto mesencef‚l;aqueductus cerebri
+Comisura poster;Comisura epital√¢mica‚Ä¢epithalamica
+Orificio del acueducto mesencef√¢l;aqueductus cerebri
 Receso infundibular
-Receso supraÛptico
-L‚mina terminal
-Columna del fÛrnix
+Receso supra√≥ptico
+L√¢mina terminal
+Columna del f√≥rnix
 Comisura anterior
-Surco hipotal‚mico
-Adhesio intertal‚m;Comisura gris
-Epit‚lamo
+Surco hipotal√¢mico
+Adhesio intertal√¢m;Comisura gris
+Epit√¢lamo
 Comisura habenular
 Fasciculus retroflexus
-N\xc5\x93cleo habenular lateral
-N\xc5\x93cleo habenular medial
-Comisura poster;Comisura epital‚micaepithalamica
-N\xc5\x93cleos pretectales
-N\xc5\x93cleo pretectal anterior
-N\xc5\x93cleo del tracto Ûptico
-N\xc5\x93cleo pretectal olivar
-N\xc5\x93cleo pretectal posterior
-T‚lamo
-Sustancia gris del t‚lamo
-N\xc5\x93cleos anteriores del t‚lamo
-N\xc5\x93cleo anterodorsal
-N\xc5\x93cleo anteromedial
-N\xc5\x93cleo anteroventral
-N\xc5\x93cleos dorsales del t‚lamo
-N\xc5\x93cleo lateral dorsal
-N\xc5\x93cleo lateral posterior
-N\xc5\x93cleos pulvinares
-N\xc5\x93cleo pulvinar anterior
-N\xc5\x93cleo pulvinar inferior
-N\xc5\x93cleo pulvinar lateral
-N\xc5\x93cleo pulvinar medial
-N\xc5\x93cleos intralaminares del t‚lamo
-N\xc5\x93cleo central lateral
-N\xc5\x93cleo central medial
-N\xc5\x93cleo centromediano
-N\xc5\x93cleo paracentral
-N\xc5\x93cleo parafascicular
-N\xc5\x93cleos mediales del t‚lamo'b'
-N\xc5\x93cleo medial dor;N\xc5\x93cleo dorsomedialnucleus
-PorciÛn parvocelular lateral
-PorciÛn magnocelular medial
-PorciÛn paralami;PorciÛn laminar
-N\xc5\x93cleo medial ventral
-N\xc5\x93cleos medianos del t‚lamo
-N\xc5\x93cleo paratenial
-N\xc5\x93cleos paraventriculares del t‚lamo
-N\xc5\x93cleo paraventricular anterior
-N\xc5\x93cleo paraventricular posterior
-N\xc5\x93cleo reuniens
-N\xc5\x93cleo romboidal
-N\xc5\x93cleos posteriores del t‚l;Complejonuclear posterior del t‚lamo
-N\xc5\x93cleo limitans
-N\xc5\x93cleo posterior
-N\xc5\x93cleo suprageniculado
-N\xc5\x93cleo reticular del t‚lamo
-N\xc5\x93cleos ventrales del t‚lamo
-N\xc5\x93cleos ventrobasa;Complejo ventrobasal
-N\xc5\x93cleo ventral posterolateral
-N\xc5\x93cleo ventral posteromedial
-PorciÛn parvocelular
-N\xc5\x93cleos ventrales media;Complejoventral medial
-N\xc5\x93cleo basal ventral medial
-N\xc5\x93cleo principal ventral medial
-N\xc5\x93cleo submedial
-N\xc5\x93cleo ventral posterior inferior
-N\xc5\x93cleos ventrales latera;Complejo ventral lateral
-N\xc5\x93cleo anterior ventrolateral
-N\xc5\x93cleo posterior ventrolateral
-N\xc5\x93cleo ventral anterior
-PorciÛn magnocelular
-PorciÛn principal
-N\xc5\x93cleo ventral intermedio
-N\xc5\x93cleo ventral posterolateral
-N\xc5\x93cleo ventral posterior interno
-N\xc5\x93cleo ventral posterior parvocelular
-Sustancia blanca del t‚lamo
-L‚mina medular lateral
-L‚mina medular medial
-RadiaciÛn ac\xc5\x93stica
+N√∫cleo habenular lateral
+N√∫cleo habenular medial
+Comisura poster;Comisura epital√¢micaepithalamica
+√Årea pretectal
+N√∫cleos pretectales
+N√∫cleo pretectal anterior
+N√∫cleo del tracto √≥ptico
+N√∫cleo pretectal olivar
+N√∫cleo pretectal posterior
+T√¢lamo
+Sustancia gris del t√¢lamo
+N√∫cleos anteriores del t√¢lamo
+N√∫cleo anterodorsal
+N√∫cleo anteromedial
+N√∫cleo anteroventral
+N√∫cleos dorsales del t√¢lamo
+N√∫cleo lateral dorsal
+N√∫cleo lateral posterior
+N√∫cleos pulvinares
+N√∫cleo pulvinar anterior
+N√∫cleo pulvinar inferior
+N√∫cleo pulvinar lateral
+N√∫cleo pulvinar medial
+N√∫cleos intralaminares del t√¢lamo
+N√∫cleo central lateral
+N√∫cleo central medial
+N√∫cleo centromediano
+N√∫cleo paracentral
+N√∫cleo parafascicular
+N√∫cleos mediales del t√¢lamo'b'
+N√∫cleo medial dor;N√∫cleo dorsomedialnucleus
+Porci√≥n parvocelular lateral
+Porci√≥n magnocelular medial
+Porci√≥n paralami;Porci√≥n laminar
+N√∫cleo medial ventral
+N√∫cleos medianos del t√¢lamo
+N√∫cleo paratenial
+N√∫cleos paraventriculares del t√¢lamo
+N√∫cleo paraventricular anterior
+N√∫cleo paraventricular posterior
+N√∫cleo reuniens
+N√∫cleo romboidal
+N√∫cleos posteriores del t√¢l;Complejonuclear posterior del t√¢lamo
+N√∫cleo limitans
+N√∫cleo posterior
+N√∫cleo suprageniculado
+N√∫cleo reticular del t√¢lamo
+N√∫cleos ventrales del t√¢lamo
+N√∫cleos ventrobasa;Complejo ventrobasal
+N√∫cleo ventral posterolateral
+N√∫cleo ventral posteromedial
+Porci√≥n parvocelular
+N√∫cleos ventrales media;Complejoventral medial
+N√∫cleo basal ventral medial
+N√∫cleo principal ventral medial
+N√∫cleo submedial
+N√∫cleo ventral posterior inferior
+N√∫cleos ventrales latera;Complejo ventral lateral
+N√∫cleo anterior ventrolateral
+N√∫cleo posterior ventrolateral
+N√∫cleo ventral anterior
+Porci√≥n magnocelular
+Porci√≥n principal
+N√∫cleo ventral intermedio
+N√∫cleo ventral posterolateral
+N√∫cleo ventral posterior interno
+N√∫cleo ventral posterior parvocelular
+Sustancia blanca del t√¢lamo
+L√¢mina medular lateral
+L√¢mina medular medial
+Radiaci√≥n ac√∫stica
 Asa lenticular
-Fasc\xe2\x84\xa2culo lenticular
+Fasc√≠culo lenticular
 Asa peduncular
-RadiaciÛn anterior del t‚lamo
-Brazo del col\xe2\x84\xa2culo inferiorï
-Brazo del col\xe2\x84\xa2culo superiorï
-RadiaciÛn central del t‚lamo
-RadiaciÛn inferior del t‚lamo
-Fibras intratal‚micas
+Radiaci√≥n anterior del t√¢lamo
+Brazo del col√≠culo inferior‚Ä¢
+Brazo del col√≠culo superior‚Ä¢
+Radiaci√≥n central del t√¢lamo
+Radiaci√≥n inferior del t√¢lamo
+Fibras intratal√¢micas
 Lemnisco lateral
-Fasc\xe2\x84\xa2culo mamilot‚lamico
+Fasc√≠culo mamilot√¢lamico
 Lemnisco medial
-RadiaciÛn Ûptica
+Radiaci√≥n √≥ptica
 Fibras periventriculares
-RadiaciÛn posterior del t‚lamo
+Radiaci√≥n posterior del t√¢lamo
 Lemnisco espinal
-Fasc\xe2\x84\xa2culo subtal‚mico
-Ped\xc5\x93nculo cerebeloso superior122
-Fasc\xe2\x84\xa2culo tal‚mico
+Fasc√≠culo subtal√¢mico
+Ped√∫nculo cerebeloso superior122
+Fasc√≠culo tal√¢mico
 Lemnisco trigeminal
-Subt‚lamo
-N\xc5\x93cleo subtal‚mico
+Subt√¢lamo
+N√∫cleo subtal√¢mico
  H1
 Nucleus of medial field 
-N\xc5\x93cleo del campo dorsal (H1)
-N\xc5\x93cleo del campo ventral (H2)
+N√∫cleo del campo dorsal (H1)
+N√∫cleo del campo ventral (H2)
 Zona ince;Zona incierta
-Metat‚lamo
-N\xc5\x93cleo dorsal del cuerpo geniculado lateral
+Metat√¢lamo
+N√∫cleo dorsal del cuerpo geniculado lateral
 Capa coniocelular
 Capa magnocelular
 Capa parvocelular
-N\xc5\x93cleo ventral del cuerpo geniculado
-L‚mina intergeniculada
-N\xc5\x93cleos del cuerpo geniculado medial
-N\xc5\x93cleo ventral principal
-N\xc5\x93cleo dorsal
-N\xc5\x93cleo medial magnocelular
-Hipot‚lamo
-N\xc5\x93cleo hipotal‚mico anterior
-N\xc5\x93cleo periventricular ventral
-N\xc5\x93cleos intersticiales del hipot‚lamo anteriorhypothalamus
-N\xc5\x93cleo preÛptico lateral
-N\xc5\x93cleo preÛptico medial
-N\xc5\x93cleo preÛptico mediano
-N\xc5\x93cleo paraventricular
-N\xc5\x93cleo preÛptico periventricular
-N\xc5\x93cleo supraquiasm‚tico
-N\xc5\x93cleo supraÛptico
-PorciÛn dorsolateral
-PorciÛn dorsomedial
-PorciÛn ventromedial
-N\xc5\x93cleo dorsomedial
-N\xc5\x93cleo endopeduncular
-N\xc5\x93cleo del asa lenticular
-Intermediate hypothalamic regionhipotal‚mica intermedia
-N\xc5\x93cleo dorsal
-N\xc5\x93cleo dorsomedial
-N\xc5\x93cleo arcu;N\xc5\x93cleo infundibular
-N\xc5\x93cleo periventricular
-N\xc5\x93cleo periventricular posterior
-N\xc5\x93cleos tuberales laterales
+N√∫cleo ventral del cuerpo geniculado
+L√¢mina intergeniculada
+N√∫cleos del cuerpo geniculado medial
+N√∫cleo ventral principal
+N√∫cleo dorsal
+N√∫cleo medial magnocelular
+Hipot√¢lamo
+√Årea hipotal√¢mica anter;Regi√≥nhypothalamic regionhipotal√¢mica anterior
+N√∫cleo hipotal√¢mico anterior
+N√∫cleo periventricular ventral
+N√∫cleos intersticiales del hipot√¢lamo anteriorhypothalamus
+N√∫cleo pre√≥ptico lateral
+N√∫cleo pre√≥ptico medial
+N√∫cleo pre√≥ptico mediano
+N√∫cleo paraventricular
+N√∫cleo pre√≥ptico periventricular
+N√∫cleo supraquiasm√¢tico
+N√∫cleo supra√≥ptico
+Porci√≥n dorsolateral
+Porci√≥n dorsomedial
+Porci√≥n ventromedial
+√Årea hipotal√¢mica dor;Regi√≥n hipotal√¢micahypothalamic regiondorsal
+N√∫cleo dorsomedial
+N√∫cleo endopeduncular
+N√∫cleo del asa lenticular
+√Årea hipotal√¢mica interme;Regi√≥n
+N√∫cleo dorsal
+N√∫cleo dorsomedial
+N√∫cleo arcu;N√∫cleo infundibular
+N√∫cleo periventricular
+N√∫cleo periventricular posterior
+√Årea retroquiasm√¢t;Regi√≥nregionretroquiasm√¢tica
+N√∫cleos tuberales laterales
  del campo dorsal (fasciculus thalamicus)y del campo ventral (fasciculus lenticu-laris)comprenden
-N\xc5\x93cleo ventromedial del hipot‚lamo
-N\xc5\x93cleos tuberales laterales
-N\xc5\x93cleo perifornical
-N\xc5\x93cleo tuberomamilar
-N\xc5\x93cleo premamilar dorsal
-N\xc5\x93cleo mamilar lateral
-N\xc5\x93cleo mamilar medial
-N\xc5\x93cleo supramamilar
-N\xc5\x93cleo premamilar ventral
-N\xc5\x93cleo posterior del hipotal‚mo
-Zonas del hipotal‚mo
+N√∫cleo ventromedial del hipot√¢lamo
+√Årea hipotal√¢mica lateral
+√Årea pre√≥ptica
+N√∫cleos tuberales laterales
+N√∫cleo perifornical
+N√∫cleo tuberomamilar
+√Årea hipotal√¢mica poster;Regi√≥nhypothalamic regionhipotal√¢mica posterior
+N√∫cleo premamilar dorsal
+N√∫cleo mamilar lateral
+N√∫cleo mamilar medial
+N√∫cleo supramamilar
+N√∫cleo premamilar ventral
+N√∫cleo posterior del hipotal√¢mo
+Zonas del hipotal√¢mo
 Zona periventricular
 Zona medial
 Zona lateral
-NeurohipÛfisis {ver p‚gina 74}
-Sustancia blanca del hipot‚lamo
+Neurohip√≥fisis {ver p√¢gina 74}
+Sustancia blanca del hipot√¢lamo
 Dorsal longitudinal fasciculuslongitudinal dorsal
-Comisura supraÛptica dorsal
-Fibras de la estr\xe2\x84\xa2a terminal
-FÛrnix
+Comisura supra√≥ptica dorsal
+Fibras de la estr√≠a terminal
+F√≥rnix
 Tracto hipotalamohipofisario
 Fibras paraventriculohipofisarias
 Fibras supraopticohipofisarias
-Fasc\xe2\x84\xa2culo mamilotegmental
-Fasc\xe2\x84\xa2culo mamilotal‚mico
-Fasc\xe2\x84\xa2culo telencef‚lico medial
+Fasc√≠culo mamilotegmental
+Fasc√≠culo mamilotal√¢mico
+Fasc√≠culo telencef√¢lico medial
 Tracto paraventricular hipofisario
 Fibras periventriculares
 Tracto supraopticohipofisario
-Comisura supraÛptica ventral
-Tracto retinohipotal‚mico
+Comisura supra√≥ptica ventral
+Tracto retinohipotal√¢mico
 NC
 Hemisferio cerebral
-CÛrtex cereb;Corteza cerebral
+C√≥rtex cereb;Corteza cerebral
 Giros cerebra;Circunvoluciones cerebrales
-LÛbulos cerebrales
+L√≥bulos cerebrales
 Surcos cerebrales
 Fisura longitudinal cerebral
 Fisura transversa cerebral
@@ -13842,37 +13936,37 @@ Ramo ascendente124
 Ramo anterior
 Surco parieto-occipital
 Incisura preoccipital
-LÛbulo frontal
+L√≥bulo frontal
 Polo frontal
-OpÈrculo frontal
+Op√©rculo frontal
 Giro frontal inferior
-PorciÛn orbitaria
-PorciÛn triangular
-PorciÛn opercular
+Porci√≥n orbitaria
+Porci√≥n triangular
+Porci√≥n opercular
 Surco frontal inferior
 Giro frontal medio
 Giro precentral
 Surco precentral
 Giro frontal superior
 Surco frontal superior
-LÛbulo parietal
+L√≥bulo parietal
 Giro angular
-LÛbulo parietal inferior
-OpÈrculo parietal
+L√≥bulo parietal inferior
+Op√©rculo parietal
 Surco intraparietal
 Giro postcentral
 Surco postcentral
-LÛbulo parietal superior
+L√≥bulo parietal superior
 Giro supramarginal
-LÛbulo occipital
+L√≥bulo occipital
 Polo occipital
 Surco semilunar
 Incisura preoccipital
 Surco occipital transverso
-LÛbulo temporal
+L√≥bulo temporal
 Polo temporal
 Giro temporal superior
-OpÈrculo temporal
+Op√©rculo temporal
 Giros temporales transversos
 Giro temporal transverso anterior
 Giro temporal transverso posterior
@@ -13882,15 +13976,15 @@ Surco temporal superior
 Giro temporal medio
 Surco temporal inferior
 Giro temporal inferior
-Giros de la \xe2\x84\xa2nsula
-Giro largo de la \xe2\x84\xa2nsula
-Giros cortos de la \xe2\x84\xa2nsula
-Surco central de la \xe2\x84\xa2nsula
-Surco circular de la \xe2\x84\xa2nsula
-Limen de la \xe2\x84\xa2nsula
+Giros de la √≠nsula
+Giro largo de la √≠nsula
+Giros cortos de la √≠nsula
+Surco central de la √≠nsula
+Surco circular de la √≠nsula
+Limen de la √≠nsula
 Caras medial e inferior del hemisferiocerebriof cerebral hemispherecerebral
 Surcos interlobares
-Estas estructuras aparecen ahora bajo los encabezamientos que especifican su localizaciÛn anatÛmica propia.(
+Estas estructuras aparecen ahora bajo los encabezamientos que especifican su localizaci√≥n anat√≥mica propia.(
 Surco del cuerpo calloso
 Surco cingular
 Ramo margi;Surco marginal
@@ -13898,14 +13992,15 @@ Surco subparietal
 Surco parieto-occipital
 Surco colateral
 Surco central
-LÛbulo frontal
+L√≥bulo frontal
 Giro frontal medio
 Surco paracentral
-LÛbulo paracentral
+L√≥bulo paracentral
 Giro paracentral anterior
 Surco central
-Subcallosal gyrus\xc3\xa7rea subcall;Giro subcalloso
+Subcallosal gyrus
 Giro paraterminal
+√Årea paraolfatoria
 Giros paraolfatorios
 Surcos paraolfatorios
 Giros orbitarios
@@ -13914,14 +14009,14 @@ Giro recto
 Surco olfatorio
 Giro orbitario lateral
 Giro orbitario medial
-LÛbulo parietal
-LÛbulo paracentral
+L√≥bulo parietal
+L√≥bulo paracentral
 Giro paracentral posterior
 Precu\xc5\x92a
 Surco subparietal
 Surco parieto-occipital
 Ramo margi;Surco marginal
-LÛbulo occipital
+L√≥bulo occipital
 Cu\xc5\x92a
 Surco calcarino
 Giro lingual
@@ -13929,14 +14024,14 @@ Giro occipitotemporal lateral
 Giro occipitotemporal medial
 Surco occipitotemporal
 Surco parieto-occipital
-LÛbulo temporal
+L√≥bulo temporal
 Surco colateral
 Giro occipitotemporal medial
 Surco occipitotemporal
 Giro occipitotemporal lateral
 Surco temporal inferior
 Giro temporal inferior*
-LÛbulo l\xe2\x84\xa2mbico
+L√≥bulo l√≠mbico
 Surco cingular
 Giro cingular
 Istmo del giro cingular
@@ -13944,7 +14039,7 @@ Giro fasciolar
 Giro parahipocampal
 Un;Gancho
 Surco del hipocampo126
-Tales estructuras no est‚n relacionadas con hue-so alguno del mismo nombre y
+Tales estructuras no est√¢n relacionadas con hue-so alguno del mismo nombre y
 Giro dentado
 Surco fimbriodentado
 Fimbria del hipocampo
@@ -13956,83 +14051,84 @@ Rodilla
 Cuerpo
 Rodete
 Indusium griseum
-Estr\xe2\x84\xa2a longitudinal lateral
-Estr\xe2\x84\xa2a longitudinal medial
-RadiaciÛn del cuerpo calloso
-FÛrceps me;FÛrceps frontal
-FÛrceps ma;FÛrceps occipital
+Estr√≠a longitudinal lateral
+Estr√≠a longitudinal medial
+Radiaci√≥n del cuerpo calloso
+F√≥rceps me;F√≥rceps frontal
+F√≥rceps ma;F√≥rceps occipital
 Tapetum
-L‚mina terminal
-Comisura anteriorï
-PorciÛn anterior
-PorciÛn posterior
-FÛrnixï
+L√¢mina terminal
+Comisura anterior‚Ä¢
+Porci√≥n anterior
+Porci√≥n posterior
+F√≥rnix‚Ä¢
 Columna
 Fibras precomisurales
 Fibras postcomisurales
 Cuerpo
 Pilar
-Comisuraï
-Tenia del fÛrnix
+Comisura‚Ä¢
+Tenia del f√≥rnix
 Septum pellucidum
 Cavidad
-L‚mina
-N\xc5\x93cleo septal precomisural
-N\xc5\x93cleos septales y estructuras relacionadas
-N\xc5\x93cleo septal dorsal
-N\xc5\x93cleo septal lateral
-N\xc5\x93cleo septal medial
-N\xc5\x93cleo septofimbrial
-N\xc5\x93cleo triangular
-Ventr\xe2\x84\xa2culo lateral
+L√¢mina
+N√∫cleo septal precomisural
+N√∫cleos septales y estructuras relacionadas
+N√∫cleo septal dorsal
+N√∫cleo septal lateral
+N√∫cleo septal medial
+N√∫cleo septofimbrial
+N√∫cleo triangular
+Ventr√≠culo lateral
 Asta fron;Asta anterior
 Foramen interventricular
-PorciÛn cent;Cuerpo
-Estr\xe2\x84\xa2a terminalï
-L‚mina affixa
+Porci√≥n cent;Cuerpo
+Estr√≠a terminal‚Ä¢
+L√¢mina affixa
 Tenia coroidea
 Fisura coroidea
 Plexo coroideo
-Tr\xe2\x84\xa2gono colateral
+Tr√≠gono colateral
 Atrio
 Eminencia colateral
 Glomus coroideo
 Bulbo del asta posterior 
-EspolÛn calcarino
+Espol√≥n calcarino
 Asta occipi;Asta posterior
 Asta tempo;Asta inferior
-CÛrtex cereb;Corteza cerebral
-ArchicÛrtex
-PaleocÛrtex
-NeocÛrtex
-AllocÛrtex
-MesocÛrtex
-IsocÛrtex
-Capas del isocÛrtex
+C√≥rtex cereb;Corteza cerebral
+Archic√≥rtex
+Paleoc√≥rtex
+Neoc√≥rtex
+Alloc√≥rtex
+Mesoc√≥rtex
+Isoc√≥rtex
+Capas del isoc√≥rtex
+Molecular layer [Layer 
+External granular layer [Layer 
 I]
-II]
-II
-IV]
-V]
-VI]
-Estr\xe2\x84\xa2a de la capa molecular
-Estr\xe2\x84\xa2a de la capa granular externa
-Estr\xe2\x84\xa2a de la capa granular interna
-Estr\xe2\x84\xa2a occipital
-Estr\xe2\x84\xa2a de la capa piramidal interna
+Internal granular layer [Layer 
+Internal pyramidal layer [Layer 
+Multiform layer [Layer 
+Estr√≠a de la capa molecular
+Estr√≠a de la capa granular externa
+Estr√≠a de la capa granular interna
+Estr√≠a occipital
+Estr√≠a de la capa piramidal interna
 Fibras tangenciales
 Hipocampo
-Parasub\xe2\x84\xa2culo
+Parasub√≠culo
 Pie del hipocampo
 Digitaciones del hipocampo
-Presub\xe2\x84\xa2culo
-Sub\xe2\x84\xa2culo
+Presub√≠culo
+Sub√≠culo
 Hipocampo pro;Asta de 
 IRegion;CA1
 II
 I hippocampi prop;Regio 
 IV
 Fimbria
+√Ålveo
 Ammon\xc2\xabs horn
 Capa lacunosomolecularlacunosum
 Capa oriens
@@ -14043,209 +14139,214 @@ Capas del giro dentado
 Capa molecular
 Capa granular
 Capa multiforme128
-TelencÈfalo basal
+Telenc√©falo basal
 Cuerpo amigdal;Complejo amigdalino
-N\xc5\x93cleo amigdalino basolateral
-N\xc5\x93cleo amigdalino basomedial
-N\xc5\x93cleo amigdalino central
-N\xc5\x93cleo amigdalino cortical
-N\xc5\x93cleo amigdalino intersticial
-N\xc5\x93cleo amigdalino lateral
-N\xc5\x93cleo amigdalino medial
-N\xc5\x93cleo de la estr\xe2\x84\xa2a olfatoria lateral
-CÛrtex periamigdalino
-N\xc5\x93cleo olfatorio anterior
+√Årea amigdaloclaustral
+√Årea parahipocampal
+√Årea de transici√≥n amigdalopiriforme
+√Årea amigdalina anterior
+N√∫cleo amigdalino basolateral
+N√∫cleo amigdalino basomedial
+N√∫cleo amigdalino central
+N√∫cleo amigdalino cortical
+N√∫cleo amigdalino intersticial
+N√∫cleo amigdalino lateral
+N√∫cleo amigdalino medial
+N√∫cleo de la estr√≠a olfatoria lateral
+C√≥rtex periamigdalino
+N√∫cleo olfatorio anterior
 Sustancia basal
-N\xc5\x93cleo basal
-N\xc5\x93cleo del lecho de la estr\xe2\x84\xa2a terminal
-PorciÛn sublenticular de la am\xe2\x84\xa2gdala
-Claustroï
+N√∫cleo basal
+N√∫cleo del lecho de la estr√≠a terminal
+Porci√≥n sublenticular de la am√≠gdala
+Claustro‚Ä¢
 Banda diago;Cintilla diagonal
 Brazo horizontal
 Brazo vertical
-N\xc5\x93cleo de la banda diagonal
+N√∫cleo de la banda diagonal
 Sustancia innominada
-Fasc\xe2\x84\xa2culo peduncular
+Fasc√≠culo peduncular
 Islotes olfatorios
 Bulbo olfatorio
-Ped\xc5\x93nculo olfatorio
+Ped√∫nculo olfatorio
 Tracto olfatorio
-Tr\xe2\x84\xa2gono olfatorio
-TubÈrculo olfatorio
-Estr\xe2\x84\xa2as olfatorias
-Estr\xe2\x84\xa2a olfatoria medial
-Estr\xe2\x84\xa2a olfatoria lateral
+Tr√≠gono olfatorio
+Tub√©rculo olfatorio
+Estr√≠as olfatorias
+Estr√≠a olfatoria medial
+Estr√≠a olfatoria lateral
 Sustancia perforada anteriorperforata rostralis
-P‚lido ventral
+P√¢lido ventral
 Estriado vent;Cuerpo estriado ventral
-N\xc5\x93cleo accumbens
-PorciÛn lateral
-PorciÛn medial
+N√∫cleo accumbens
+Porci√≥n lateral
+Porci√≥n medial
 Asa peduncular
-N\xc5\x93cleo septal dorsal
-N\xc5\x93cleo septal lateral
-N\xc5\x93cleo septal medial
-N\xc5\x93cleo septofimbrial
-N\xc5\x93cleo triangular del septo
- en terminolog\xe2\x84\xa2as previas
+√Årea septal
+N√∫cleo septal dorsal
+N√∫cleo septal lateral
+N√∫cleo septal medial
+N√∫cleo septofimbrial
+N√∫cleo triangular del septo
+ en terminolog√≠as previas
 En consecuencia
 los nuclei striae terminalis
-N\xc5\x93cleos basales y estructuras relacionadas
-N\xc5\x93cleo caudado
+N√∫cleos basales y estructuras relacionadas
+N√∫cleo caudado
 Cabeza
 Cuerpo
 Cola
-N\xc5\x93cleo lenticular
+N√∫cleo lenticular
 Putamen
-L‚mina medular late;L‚mina medularmedullaris externamedullary laminaexterna
+L√¢mina medular late;L√¢mina medularmedullaris externamedullary laminaexterna
 Globus pallidus external segment
-L‚mina medular med;L‚mina medularmedullaris internamedullary laminainterna
-Globo p‚lido med;Globo p‚lido interno
-PorciÛn lateral
-L‚mina medular accesoria
-PorciÛn medial
+L√¢mina medular med;L√¢mina medularmedullaris internamedullary laminainterna
+Globo p√¢lido med;Globo p√¢lido interno
+Porci√≥n lateral
+L√¢mina medular accesoria
+Porci√≥n medial
 Cuerpo estriado
 Estri;Neoestriado
 Estriado dorsal
 Estriado ventral
-P‚l;Paleoestriado
-P‚lido dorsal
-P‚lido ventral
+P√¢l;Paleoestriado
+P√¢lido dorsal
+P√¢lido ventral
 Asa lenticular
-Fasc\xe2\x84\xa2culo lenticular
-Fasc\xe2\x84\xa2culo subtal‚mico
-Fasc\xe2\x84\xa2culo tal‚mico
-C‚psula interna
+Fasc√≠culo lenticular
+Fasc√≠culo subtal√¢mico
+Fasc√≠culo tal√¢mico
+C√¢psula interna
 Puentes grises caudolenticulares
 Brazo anterior
-RadiaciÛn tal‚mica anterior
+Radiaci√≥n tal√¢mica anterior
 Fibras frontopontinas
-Rodilla de la c‚psula interna*
+Rodilla de la c√¢psula interna*
 Fibras corticonucleares*
 Brazo posterior
-RadiaciÛn tal‚mica central
+Radiaci√≥n tal√¢mica central
 Fibras corticorreticulares
 Fibras corticorrubrales
 Fibras corticoespinales
-Fibras corticotal‚micas
+Fibras corticotal√¢micas
 Fibras parietopontinas
 Fibras talamoparietales
-PorciÛn retrolenticularlimb
+Porci√≥n retrolenticularlimb
 Fibras occipitopontinas
 Fibras occipitotectales
-RadiaciÛn Ûpt;Fibras geniculocalcarinasfibres130
+Radiaci√≥n √≥pt;Fibras geniculocalcarinasfibres130
  impropiamente
- utilizado com\xc5\x93nmente en la terminolog\xe2\x84\xa2a en el pasado
+ utilizado com√∫nmente en la terminolog√≠a en el pasado
  sublenticulares y retrolenticulares. 
-RadiaciÛn tal‚mica posterior
-PorciÛn sublenticular
+Radiaci√≥n tal√¢mica posterior
+Porci√≥n sublenticular
 Geniculotemporal fibresgeniculotemporales
 Fibras corticotectales
-RadiaciÛn Ûptica
+Radiaci√≥n √≥ptica
 Fibras temporopontinas
-Fibras corticotal‚micas
+Fibras corticotal√¢micas
 Corona radiada
-C‚psula externa
-C‚psula extrema
-Comisura anteriorï
-PorciÛn anterior
-PorciÛn posterior
-Fibras de asociaciÛn del telencÈfalo
+C√¢psula externa
+C√¢psula extrema
+Comisura anterior‚Ä¢
+Porci√≥n anterior
+Porci√≥n posterior
+Fibras de asociaci√≥n del telenc√©falo
 Fibras arcuatas
-C\xe2\x84\xa2ngulo
-Fasc\xe2\x84\xa2culo longitudinal anterior
+C√≠ngulo
+Fasc√≠culo longitudinal anterior
 Arcuate fasciculusarcuato
-Fibras de asociaciÛn largas
-Fibras de asociaciÛn cortas
-Fasc\xe2\x84\xa2culo uncinado
-Fasc\xe2\x84\xa2culo occipitofrontal inferior
-Fasc\xe2\x84\xa2culo occipitofrontal super;Fasc\xe2\x84\xa2culo
-Fasc\xe2\x84\xa2culos occipitales verticales
+Fibras de asociaci√≥n largas
+Fibras de asociaci√≥n cortas
+Fasc√≠culo uncinado
+Fasc√≠culo occipitofrontal inferior
+Fasc√≠culo occipitofrontal super;Fasc√≠culo
+Fasc√≠culos occipitales verticales
 Fibras laterales
 Fibras caudales
-Fasc\xe2\x84\xa2culos occipitales transversos
+Fasc√≠culos occipitales transversos
 Fibras cuneiformes
 Fibras linguales
-Fibras comisurales del telencÈfalo
+Fibras comisurales del telenc√©falo
 Fibras del cuerpo calloso
 Comisura del hipocampo
-Comisura anteriorï
-Grupos celulares definidos qu\xe2\x84\xa2micamente
-CÈlulas aminÈrgicas
-CÈlulas noradrenÈrgicas del bulbo raqu\xe2\x84\xa2deo[A1
-CÈlulas noradrenÈrgicas del n\xc5\x93cleo dellateralis [A7]lateral lemnis;Norepinephric cellslemnisco lateral [A7]in nucleus of lateral lemniscus [A7]
-CÈlulas noradrenÈrgicas del locus 
-CÈlulas noradrenÈrgicas del puentelateralis [A5]p;Norepinephric cells in caudolateral [A5]caudolateral pons [A5]
-CÈlulas aminÈrgicas de la formaciÛn reticu;
-CÈlulas dopaminÈrgicas
-CÈlulas noradrenÈrgicascells
-CÈlulas aminÈrgicas de la porciÛn compacta substantiae nigrae [A9]of substantia nigra [A9]de la sustancia negra [A9]
-CÈlulas dopaminÈrgicas
-CÈlulas noradrenÈrgicas
-CÈlulas aminÈrgicas del ‚rea tegmental ventralis [A10]area [A10]ventral [A10]
-CÈlulas dopaminÈrgicas
-CÈlulas noradrenÈrgicas'b'
-CÈlulas dopaminÈgicas del hipot‚lamohypothalamicae posterioris [A11]hypothalamus [A11]posterior [A11]
-CÈlulas dopaminÈrgicas del n\xc5\x93cleo arcuato [A12]
-CÈlulas dopaminÈrgicas de la zona incerta [A13]
-CÈlulas dopaminÈrgicas de la zona medial et areae anterioris hypothalamicae [A14]anterior area of hypothalamus [A14]y ‚rea anterior del hipot‚lamo [A14]
-CÈlulas dopaminÈrgicas del bulbo olfatorio [A15]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo p‚lido pallidi [B1]nucleus [B1]del rafe [B1]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo oscuroobscuri [B2]nucleus [B2]del rafe [B2]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo magno magni[B3]nucleus [B3]del rafe [B3]
-CÈlulas serotoninÈrgicas adyacentes vestibularis medialis et nucleus vestibular nucleus and prepositus al n\xc5\x93cleo vestibular medial y n\xc5\x93cleo prepositus [B4]nucleus [B4]prepÛsito [B4]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo pontino pontis [B5]nucleus [B5]del rafe [B5]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo mediano mediani [B6]nucleus [B6]del rafe [B6]
-CÈlulas serotoninÈrgicas del n\xc5\x93cleo dorsal dorsalis [B7]nucleus [B7]del rafe [B7]
-CÈlulas adrenÈrgicas del ‚rea postremanuclei reticularis anterioris [C1
-CÈlulas colinÈrgicas
-CÈlulas colinÈrgicas del n\xc5\x93cleo septal medialis [
+Comisura anterior‚Ä¢
+Grupos celulares definidos qu√≠micamente
+C√©lulas amin√©rgicas
+C√©lulas noradren√©rgicas del bulbo raqu√≠deo[A1
+C√©lulas noradren√©rgicas del n√∫cleo dellateralis [A7]lateral lemnis;Norepinephric cellslemnisco lateral [A7]in nucleus of lateral lemniscus [A7]
+C√©lulas noradren√©rgicas del locus 
+C√©lulas noradren√©rgicas del puentelateralis [A5]p;Norepinephric cells in caudolateral [A5]caudolateral pons [A5]
+C√©lulas amin√©rgicas de la formaci√≥n reticu;
+C√©lulas dopamin√©rgicas
+C√©lulas noradren√©rgicascells
+C√©lulas amin√©rgicas de la porci√≥n compacta substantiae nigrae [A9]of substantia nigra [A9]de la sustancia negra [A9]
+C√©lulas dopamin√©rgicas
+C√©lulas noradren√©rgicas
+C√©lulas amin√©rgicas del √¢rea tegmental ventralis [A10]area [A10]ventral [A10]
+C√©lulas dopamin√©rgicas
+C√©lulas noradren√©rgicas'b'
+C√©lulas dopamin√©gicas del hipot√¢lamohypothalamicae posterioris [A11]hypothalamus [A11]posterior [A11]
+C√©lulas dopamin√©rgicas del n√∫cleo arcuato [A12]
+C√©lulas dopamin√©rgicas de la zona incerta [A13]
+C√©lulas dopamin√©rgicas de la zona medial et areae anterioris hypothalamicae [A14]anterior area of hypothalamus [A14]y √¢rea anterior del hipot√¢lamo [A14]
+C√©lulas dopamin√©rgicas del bulbo olfatorio [A15]
+C√©lulas serotonin√©rgicas del n√∫cleo p√¢lido pallidi [B1]nucleus [B1]del rafe [B1]
+C√©lulas serotonin√©rgicas del n√∫cleo oscuroobscuri [B2]nucleus [B2]del rafe [B2]
+C√©lulas serotonin√©rgicas del n√∫cleo magno magni[B3]nucleus [B3]del rafe [B3]
+C√©lulas serotonin√©rgicas adyacentes vestibularis medialis et nucleus vestibular nucleus and prepositus al n√∫cleo vestibular medial y n√∫cleo prepositus [B4]nucleus [B4]prep√≥sito [B4]
+C√©lulas serotonin√©rgicas del n√∫cleo pontino pontis [B5]nucleus [B5]del rafe [B5]
+C√©lulas serotonin√©rgicas del n√∫cleo mediano mediani [B6]nucleus [B6]del rafe [B6]
+C√©lulas serotonin√©rgicas del n√∫cleo dorsal dorsalis [B7]nucleus [B7]del rafe [B7]
+C√©lulas adren√©rgicas del √¢rea postremanuclei reticularis anterioris [C1
+C√©lulas colin√©rgicas
+C√©lulas colin√©rgicas del n√∫cleo septal medialis [Ch1]nuclei [Ch1]medial [Ch1]
 Cholinergic cells of globus pallidus
 Cholinergic cells ol globus pallidus
-CÈlulas colinÈrgicas de la sustancia innominatae
-CÈlulas colinÈrgicas del ‚rea tegmental dorsalis [
-Cholinergic cells of epithalamus [
-Sistema nervioso perifÈriconervosum periphericum
+C√©lulas colin√©rgicas de la sustancia innominatae
+C√©lulas colin√©rgicas del √¢rea tegmental dorsalis [Ch5
+C√©lulas colin√©rgicas del epit√¢lamo [Ch7]
+Sistema nervioso perif√©riconervosum periphericum
 Ganglio
-C‚psula
+C√¢psula
 Estroma
 Ganglio craneoespinal sensitivo
 Ganglio sensitivo de los nervios espina;ganglion
 Ganglio sensitivo de los nervios craneales
-Ganglio autÛnomo
+Ganglio aut√≥nomo
 Fibras nerviosas preganglionares
 Fibras nerviosas postganglionares
-Ganglio simp‚tico
-Ganglio parasimp‚tico
+Ganglio simp√¢tico
+Ganglio parasimp√¢tico
 Nervio
 Endoneuro
 Perineuro
 Epineuro
 Fibras nerviosas aferentes
 Fibras nerviosas eferentes
-Fibras nerviosas som‚ticas
-Fibras nerviosas autÛnomas132
+Fibras nerviosas som√¢ticas
+Fibras nerviosas aut√≥nomas132
 N. motor
 N. sensitivo
 N. mixto
-R. cut‚neo
+R. cut√¢neo
 R. articular
 R. muscular
-N. espi;N. raqu\xe2\x84\xa2deo
+N. espi;N. raqu√≠deo
 Filetes radiculares
-Ra\xe2\x84\xa2z anter;Ra\xe2\x84\xa2z mot;Ra\xe2\x84\xa2z ventral
-Ra\xe2\x84\xa2z poster;Ra\xe2\x84\xa2z sensit;Ra\xe2\x84\xa2z dorsal
+Ra√≠z anter;Ra√≠z mot;Ra√≠z ventral
+Ra√≠z poster;Ra√≠z sensit;Ra√≠z dorsal
 Tr\nonco del nervio espinal
-R. men\xe2\x84\xa2n;R. recurrente
+R. men√≠n;R. recurrente
 R. comunicante
 R. anterior
 R. posterior
 Cola de caballo
 Plexo nervioso espinal
 N. craneal
-N. autÛnomo
-R. autÛnomo
-Plexo autÛnomo
+N. aut√≥nomo
+R. aut√≥nomo
+Plexo aut√≥nomo
 Plexo visceral
 Plexo vascular
 Plexo periarterial
@@ -14253,22 +14354,22 @@ Nn. vasorum
 Nervios craneales
 N. terminal [0]
 Ganglio terminal
-Olfactory nerve [
+Nervio olfatorio [I]
 Nervios olfatorios
-Optic nerve [
-I]
+Nervio √≥ptico [II]
+Oculomotor nerve [II
 R. superior
 R. inferior
-Parasympathetic root of ciliary gangl; parasimp‚tica del ganglio cil;Ra\xe2\x84\xa2zoculomotoria ganglii ciliaris
-Tr\nochlear nerve [
-Trigeminal nerve [
-Ra\xe2\x84\xa2z sensitiva
-Ganglio del trigÈmino
-Ra\xe2\x84\xa2z motora
-Nervio oft‚lmico [; V1]division [; V1]
-R. men\xe2\x84\xa2ngeo recurre;R. tentorial
+Parasympathetic root of ciliary gangl; parasimp√¢tica del ganglio cil;Ra√≠zoculomotoria ganglii ciliaris
+Nervio trocl;Nervio pat√©tico [IV]
+Nervio trig√©mino [V]
+Ra√≠z sensitiva
+Ganglio del trig√©mino
+Ra√≠z motora
+Nervio oft√¢lmico [V1]division [V1]
+R. men√≠ngeo recurre;R. tentorial
 N. lagrimal
-R. comunicante con el nervio cigom‚ticozygomatic nerve
+R. comunicante con el nervio cigom√¢ticozygomatic nerve
 N. frontal
 N. supraorbitario
 R. lateral
@@ -14278,7 +14379,7 @@ N. nasociliar'b'
 Radix sensoria ganglii cilia; gangl;Sensory root of ciliary
 Nn. ciliares largos
 N. etmoidal posterior
-R. men\xe2\x84\xa2ngeo anterior
+R. men√≠ngeo anterior
 N. etmoidal anterior
 Rr. nasales internos
 Rr. nasales laterales
@@ -14286,14 +14387,14 @@ Rr. nasales mediales
 R. nasal externo
 N. infratroclear
 Rr. palpebrales
-Nervio maxilar [; V2]division [; V2]
-R. men\xe2\x84\xa2ngeo
-Rr. ganglionares para el gangliopterygopalati;Radix sensoria gangliito pterygopalatinegangl;Sensorypterigopalat;Ra\xe2\x84\xa2z sensitiva del gangliopterygopalatiniroot  of pterygopalatine ganglionpterigopalatino
+Nervio maxilar [V2]division [V2]
+R. men√≠ngeo
+Rr. ganglionares para el gangliopterygopalati;Radix sensoria gangliito pterygopalatinegangl;Sensorypterigopalat;Ra√≠z sensitiva del gangliopterygopalatiniroot  of pterygopalatine ganglionpterigopalatino
 Rr. orbitarios
 Rr. nasales posteriores superiores laterales
 Rr. nasales posteriores superiores mediales
 N. nasopalatino
-N. far\xe2\x84\xa2ngeo
+N. far√≠ngeo
 N. palatino mayor
 Rr. nasales posteriores inferiores
 Nn. palatinos menores
@@ -14305,7 +14406,7 @@ Rr. alveolares superiores anteriores
 Plexo dentario superior
 Rr. dentarios superiores
 Rr. gingivales superiores
-N. cigom‚tico
+N. cigom√¢tico
 R. cigomaticotemporal
 R. cigomaticofacial
 N. infraorbitario
@@ -14313,30 +14414,30 @@ Rr. palpebrales inferiores
 Rr. nasales externos
 Rr. nasales internos
 Rr. labiales superiores
-Nervio mandibular [; V3]division [; V3]
-R. men\xe2\x84\xa2n;N. espinoso
+Nervio mandibular [V3]division [V3]
+R. men√≠n;N. espinoso
 N. pterigoideo medial
-Rr. ganglionares para el ganglio Ût;sensoria ganglii oticiroot of otic ganglion
-N. del m\xc5\x93sculo tensor del velo del paladar
-N. del m\xc5\x93sculo tensor del t\xe2\x84\xa2mpano
+Rr. ganglionares para el ganglio √≥t;sensoria ganglii oticiroot of otic ganglion
+N. del m√∫sculo tensor del velo del paladar
+N. del m√∫sculo tensor del t√≠mpano
 N. maseterino
 Nn. temporales profundos
-N. del m\xc5\x93sculo pterigoideo lateral
+N. del m√∫sculo pterigoideo lateral
 N. bucal
 N. auriculotemporal
 N. del conducto auditivo externo
-Rr. de la membrana del t\xe2\x84\xa2mpano
-Rr. parot\xe2\x84\xa2deos
+Rr. de la membrana del t√≠mpano
+Rr. parot√≠deos
 Rr. comunicantes con el nervio facialnerve
 Nn. auriculares anteriores134
 Rr. temporales superficiales
 N. lingual
 Rr. para el istmo de las fauces
 Rr. comunicantes con el nervio hipoglosohypoglossal nerve
-Cuerda del t\xe2\x84\xa2mpano
+Cuerda del t√≠mpano
 N. sublingual
 Rr. linguales
-Rr. ganglionares para el gangliosubmandibul;Radix sensoria ganglii to submandibular gangl;Sensorysubmandibu;Ra\xe2\x84\xa2z sensitiva del gangliosubmandibularisroot of submandibular ganglionsubmandibular
+Rr. ganglionares para el gangliosubmandibul;Radix sensoria ganglii to submandibular gangl;Sensorysubmandibu;Ra√≠z sensitiva del gangliosubmandibularisroot of submandibular ganglionsubmandibular
 Rr. ganglionares para el ganglio
 N. alveolar inferior
 N. milohioideo
@@ -14347,19 +14448,19 @@ N. mentoniano
 Rr. mentonianos
 Rr. labiales
 Rr. gingivales
-Abducent ne;Abducens nerve [
-I]
+Nervio abduc;Nervio motor ocularexterno [VI]
+Facial nerve [VI
 Rodilla
 N. estapedio
 N. auricular posterior
 R. occipital
 R. auricular
-R. dig‚strico
+R. dig√¢strico
 R. estilohioideo
-R. comunicante con el nervio glosofar\xe2\x84\xa2ngeoglossopharyngeal nerve
-Plexo intraparot\xe2\x84\xa2deo
+R. comunicante con el nervio glosofar√≠ngeoglossopharyngeal nerve
+Plexo intraparot√≠deo
 Rr. temporales
-Rr. cigom‚ticos
+Rr. cigom√¢ticos
 Rr. bucales
 (R. lingual)
 R. marginal mandibular
@@ -14367,97 +14468,97 @@ R. cervical
 Nervio intermedio
 Ganglio geniculado
 Parasympathetic root del ganglio pterigopalatinoganglii pterigopalatiniof pterigopalatine ganglion
-Cuerda del t\xe2\x84\xa2mp;Ra\xe2\x84\xa2z parasimp‚ticasubmandibularisroot of submandibular gangliondel ganglio submandibular
-R. comunicante con el plexo timp‚nicoplexus
+Cuerda del t√≠mp;Ra√≠z parasimp√¢ticasubmandibularisroot of submandibular gangliondel ganglio submandibular
+R. comunicante con el plexo timp√¢nicoplexus
 R. comunicante con el nervio vago
-II]
+Vestibulocochlear nerve [VI
 Nervio vestibular
 Ganglio vestibular
 R. comunicante coclear
-PorciÛn superior
-N. utriculoampularï
+Porci√≥n superior
+N. utriculoampular‚Ä¢
 N. utricular
 N. ampular anterior'b'
 N. ampular lateral 
-PorciÛn inferior
+Porci√≥n inferior
 N. ampular posterior
 N. sacular
 Nervio coclear
 Ganglio cocl;Ganglio espiral
-Glossopharyngeal nerve [
-Ganglio superiorï
-Ganglio inferiorï
-N. timp‚nico
-Intumescencia timp‚n;Ganglio timp‚nicotympanicumganglion
-Plexo timp‚nico
-R. tub‚rico
-Nn. carotidotimp‚nicos
+Nervio glosofar√≠ngeo [IX]
+Ganglio superior‚Ä¢
+Ganglio inferior‚Ä¢
+N. timp√¢nico
+Intumescencia timp√¢n;Ganglio timp√¢nicotympanicumganglion
+Plexo timp√¢nico
+R. tub√¢rico
+Nn. carotidotimp√¢nicos
 R. comunicante con el ramo auricular vagibranch of vagus nervedel nervio vago
-Rr. far\xe2\x84\xa2ngeos
-R. del m\xc5\x93sculo estilofar\xe2\x84\xa2ngeo
-R. carot\xe2\x84\xa2deo
+Rr. far√≠ngeos
+R. del m√∫sculo estilofar√≠ngeo
+R. carot√≠deo
 Rr. tonsila;Rr. amigdalinos
 Rr. linguales
-Parasympathetic root of otic gangliondel ganglio Ûticoï
-R. comunicante con el ramo men\xe2\x84\xa2ngeomeningeal branch
+Parasympathetic root of otic gangliondel ganglio √≥tico‚Ä¢
+R. comunicante con el ramo men√≠ngeomeningeal branch
 R. comunicante con el nervio auriculotemporaliauriculotemporal nerveauriculotemporal
-R. comunicante con la cuerda del t\xe2\x84\xa2mpanotympani
-Vagus nerve [
-Ganglio superiorï
-R. men\xe2\x84\xa2ngeo
+R. comunicante con la cuerda del t√≠mpanotympani
+Nervio vago [X]
+Ganglio superior‚Ä¢
+R. men√≠ngeo
 R. auricular
-Ganglio inferiorï
-R. comunicante con el nervio glosofar\xe2\x84\xa2ngeoglossopharyngeoglossopharyngeal nerve
-R. far\xe2\x84\xa2ngeo
-Plexo far\xe2\x84\xa2ngeo
-N. lar\xe2\x84\xa2ngeo superior
+Ganglio inferior‚Ä¢
+R. comunicante con el nervio glosofar√≠ngeoglossopharyngeoglossopharyngeal nerve
+R. far√≠ngeo
+Plexo far√≠ngeo
+N. lar√≠ngeo superior
 R. externo
 R. interno
-R. comunicante con el nervio lar\xe2\x84\xa2ngeorecurrentirecurrent  laryngeal nerverecurrente
-Rr. card\xe2\x84\xa2acos cervicales superiores
-Rr. card\xe2\x84\xa2acos cervicales inferiores
-N. lar\xe2\x84\xa2ngeo recurrenteï
+R. comunicante con el nervio lar√≠ngeorecurrentirecurrent  laryngeal nerverecurrente
+Rr. card√≠acos cervicales superiores
+Rr. card√≠acos cervicales inferiores
+N. lar√≠ngeo recurrente‚Ä¢
 Rr. traqueales
-Rr. esof‚gicos
-Rr. far\xe2\x84\xa2ngeos
-Rr. card\xe2\x84\xa2acos tor‚cicos
+Rr. esof√¢gicos
+Rr. far√≠ngeos
+Rr. card√≠acos tor√¢cicos
 Rr. bronquiales
 Plexo pulmonar
-Plexo esof‚gico
+Plexo esof√¢gico
 Tr\nonco vagal anterior
-Rr. g‚stricos anteriores
+Rr. g√¢stricos anteriores
 N. anterior de la curvatura menor
-Rr. hep‚ticos
-R. pilÛrico136
+Rr. hep√¢ticos
+R. pil√≥rico136
 Tr\nonco vagal posterior
-Rr. g‚stricos posteriores
+Rr. g√¢stricos posteriores
 N. posterior de la curvatura menor
-Rr. cel\xe2\x84\xa2acos
+Rr. cel√≠acos
 Rr. renales
-Accessory nerve [
-Ra\xe2\x84\xa2z cran;PorciÛn vagalï
-Ra\xe2\x84\xa2z espi;PorciÛn espinalï
+Nervio accesorio [XI]
+Ra√≠z cran;Porci√≥n vagal‚Ä¢
+Ra√≠z espi;Porci√≥n espinal‚Ä¢
 Tr\nonco del nervio accesorio
-R. internoï
+R. interno‚Ä¢
 R. externo
 Rr. musculares
-I]
+Hypoglossal nerve [XI
 Rr. linguales
-Nervios espina;Nervios raqu\xe2\x84\xa2deos
+Nervios espina;Nervios raqu√≠deos
 I 
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posterior
+R. cut√¢neo posterior
 N. suboccipital
 N. occipital mayor
 N. occipital tercero
 Plexo cervical posterior
 Ramos anterio;Ramos ventrales
 Plexo cervical
-Asa cervicalï
-Ra\xe2\x84\xa2z superiorï
-Ra\xe2\x84\xa2z inferiorï
+Asa cervical‚Ä¢
+Ra√≠z superior‚Ä¢
+Ra√≠z inferior‚Ä¢
 R. tirohioideo
 N. occipital menor
 N. auricular mayor
@@ -14469,45 +14570,45 @@ Rr. inferiores
 Nn. supraclaviculares
 Nn. supraclaviculares mediales
 Nn. supraclaviculares intermedios
-Nn. supraclaviculares lateralesï
-Nervio frÈnico
-R. peric‚rdico
-Rr. frÈnico-abdominales
-(Nn. frÈnicos accesorios)
+Nn. supraclaviculares laterales‚Ä¢
+Nervio fr√©nico
+R. peric√¢rdico
+Rr. fr√©nico-abdominales
+(Nn. fr√©nicos accesorios)
 Plexo braquial
-Ra\xe2\x84\xa2ces
+Ra√≠ces
 Tr\noncos
 Tr\nonco superior
 Tr\nonco medio'b'
 Tr\nonco inferior
 Divisiones anteriores
 Divisiones posteriores
-Fasc\xe2\x84\xa2culos
-PorciÛn supraclavicular
-N. dorsal de la esc‚pula
-N. tor‚cico largoï
+Fasc√≠culos
+Porci√≥n supraclavicular
+N. dorsal de la esc√¢pula
+N. tor√¢cico largo‚Ä¢
 N. subclavio
-N. supraescapularï
+N. supraescapular‚Ä¢
 Nn. subescapulares
-N. toracodorsalï
+N. toracodorsal‚Ä¢
 N. pectoral medial
 N. pectoral lateral
 Rr. musculares
-PorciÛn infraclavicular
-Fasc\xe2\x84\xa2culo lateral
-Fasc\xe2\x84\xa2culo medial
-Fasc\xe2\x84\xa2culo posterior
-N. musculocut‚neo
+Porci√≥n infraclavicular
+Fasc√≠culo lateral
+Fasc√≠culo medial
+Fasc√≠culo posterior
+N. musculocut√¢neo
 Rr. musculares
-N. cut‚neo lateral del antebr;N. cut‚neo
-Medialbrachial cutaneous nervebraquial medialï
-N. cut‚neo medial del antebr;Medial antebrachial cutaneous nerve
+N. cut√¢neo lateral del antebr;N. cut√¢neo
+Medialbrachial cutaneous nervebraquial medial‚Ä¢
+N. cut√¢neo medial del antebr;Medial antebrachial cutaneous nerve
 R. anterior
 R. posterior
 Nervio mediano
-Ra\xe2\x84\xa2z medial del nervio mediano
-Ra\xe2\x84\xa2z lateral del nervio mediano
-N. interÛseo antebraquial anterior
+Ra√≠z medial del nervio mediano
+Ra√≠z lateral del nervio mediano
+N. inter√≥seo antebraquial anterior
 Rr. musculares
 R. palmar
 R. comunicante con el nervio cubitalnerve
@@ -14523,64 +14624,64 @@ Nn. digitales palmares comunes
 Nn. digitales palmares propios
 R. profundo
 Nervio radial
-N. cut‚neo posterior del br;N. cut‚neo
-N. cut‚neo lateral inferior del br;Inferior lateral brachial cutaneous nerve
-N. cut‚neo posterior del antebr;Posterior antebrachial cutaneous nerve
+N. cut√¢neo posterior del br;N. cut√¢neo
+N. cut√¢neo lateral inferior del br;Inferior lateral brachial cutaneous nerve
+N. cut√¢neo posterior del antebr;Posterior antebrachial cutaneous nerve
 Rr. musculares
 R. profundo
-N. interÛseo antebraquial posterior
+N. inter√≥seo antebraquial posterior
 R. superficial138
 R. comunicante con el nervio cubitalnerve
 Nn. digitales dorsales
-Nervio axilarï
+Nervio axilar‚Ä¢
 Rr. musculares
-N. cut‚neo lateral superior del br; of ;Superior lateral brachial 
+N. cut√¢neo lateral superior del br; of ;Superior lateral brachial 
 I 
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posteriorcutaneous nerve
+R. cut√¢neo posteriorcutaneous nerve
 Nn. intercosta;Ramos anterio;ventrales
 Rr. musculares
 R. colateral
-R. cut‚neo pectoral lateral
+R. cut√¢neo pectoral lateral
 Rr. mamarios laterales
-R. cut‚neo abdominal lateral
+R. cut√¢neo abdominal lateral
 Nn. intercostobraquiales
-R. cut‚neo pectoral anterior
+R. cut√¢neo pectoral anterior
 Rr. mamarios mediales
-R. cut‚neo abdominal anterior
+R. cut√¢neo abdominal anterior
 N. subcostal
 I 
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posteriorcutaneous nerve
-Nn. cl\xc5\x93neos superiores
+R. cut√¢neo posteriorcutaneous nerve
+Nn. cl√∫neos superiores
 Plexo posterior
 Ramos anterio;Ramos ventrales
 I 
 Ramos posterio;Ramos dorsales
 R. medial
 R. lateral
-R. cut‚neo posteriorcutaneous nerve
-Nn. cl\xc5\x93neos medios
+R. cut√¢neo posteriorcutaneous nerve
+Nn. cl√∫neos medios
 Ramos anterio;Ramos ventrales
 Plexo lumbosacro
 Plexo lumbar
-N. iliohipog‚str;N. iliop\xc5\x93bicoï
-R. cut‚neo lateral
-R. cut‚neo anterior
-N. ilioinguinalï
+N. iliohipog√¢str;N. iliop√∫bico‚Ä¢
+R. cut√¢neo lateral
+R. cut√¢neo anterior
+N. ilioinguinal‚Ä¢
 Nn. labiales anteriores 
 Nn. escrotales anteriores 
 N. genitofemoral'b'
 R. genital
 R. femoral
-N. cut‚neo lateral del mu;
+N. cut√¢neo lateral del mu;
 N. obturador
 R. anterior
-R. cut‚neo
+R. cut√¢neo
 Rr. musculares
 R. posterior
 Rr. musculares
@@ -14588,52 +14689,52 @@ R. articular
 N. obturador accesorio
 N. femoral
 Rr. musculares
-Rr. cut‚neos anteriores
-N. safenoï
+Rr. cut√¢neos anteriores
+N. safeno‚Ä¢
 R. infrapatelar
 Medial crural cutaneous nerve
 Tr\nonco lumbosacro
 Plexo sacro
-N. del m\xc5\x93sculo obturador interno
-N. del m\xc5\x93sculo piramidal
-N. del m\xc5\x93sculo cuadrado femoral
-N. gl\xc5\x93teo superior
-N. gl\xc5\x93teo inferior
-N. cut‚neo posterior del mu;
-Nn. cl\xc5\x93neos inferiores
+N. del m√∫sculo obturador interno
+N. del m√∫sculo piramidal
+N. del m√∫sculo cuadrado femoral
+N. gl√∫teo superior
+N. gl√∫teo inferior
+N. cut√¢neo posterior del mu;
+Nn. cl√∫neos inferiores
 Rr. perineales
-N. cut‚neo perforante
+N. cut√¢neo perforante
 N. pudendo
 Nn. anales inferio;Nn. rectales inferioresnerves
 Nn. perineales
 Nn. labiales posteriores 
 Nn. escrotales posteriores
 Rr. musculares
-N. dorsal del cl\xe2\x84\xa2toris 
+N. dorsal del cl√≠toris 
 N. dorsal del pene
-Nervio cox\xe2\x84\xa2geo
-Plexo cox\xe2\x84\xa2geo
-N. anocox\xe2\x84\xa2geo
-N. ci‚ticoï
-N. fibular com\xc5\x;N. peroneo com\xc5\x93nïcommunisperoneal nerve
-N. cut‚neo sural lateralï
+Nervio cox√≠geo
+Plexo cox√≠geo
+N. anocox√≠geo
+N. ci√¢tico‚Ä¢
+N. fibular com\xc5\x;N. peroneo com√∫n‚Ä¢communisperoneal nerve
+N. cut√¢neo sural lateral‚Ä¢
 R. comunicante fibu;R. comunicanteperoneusperoneo
-N. fibular superfic;N. peroneo superficialïsuperficialisperoneal nerve
+N. fibular superfic;N. peroneo superficial‚Ä¢superficialisperoneal nerve
 Rr. musculares
-N. cut‚neo dorsal medial
-N. cut‚neo dorsal intermedio
+N. cut√¢neo dorsal medial
+N. cut√¢neo dorsal intermedio
 Nn. digitales dorsales del pie
-N. fibular profu;N. peroneo profundoïnerve
+N. fibular profu;N. peroneo profundo‚Ä¢nerve
 Rr. musculares
 Nn. digitales dorsales del pie140
-N. tibialï
+N. tibial‚Ä¢
 Rr. musculares
-N. interÛseo de la pie;N. interÛseo cruralinterosseous nerve
-N. cut‚neo sural medial
-N. suralï
-N. cut‚neo dorsal lateral
-Rr. calc‚neos laterales
-Rr. calc‚neos mediales
+N. inter√≥seo de la pie;N. inter√≥seo cruralinterosseous nerve
+N. cut√¢neo sural medial
+N. sural‚Ä¢
+N. cut√¢neo dorsal lateral
+Rr. calc√¢neos laterales
+Rr. calc√¢neos mediales
 N. plantar medial
 Nn. digitales plantares comunes
 Nn. digitales plantares propios
@@ -14642,10 +14743,10 @@ R. superficial
 Nn. digitales plantares comunes
 Nn. digitales plantares propios
 R. profundo
-DivisiÛn autÛn;PorciÛn autÛnomasystematis nervosi periphericiof peripheral nervous systemdel sistema nervioso perifÈrico
+Divisi√≥n aut√≥n;Porci√≥n aut√≥nomasystematis nervosi periphericiof peripheral nervous systemdel sistema nervioso perif√©rico
 SY
-Tr\nonco simp‚ticoï
-Ganglio del tronco simp‚tico
+Tr\nonco simp√¢tico‚Ä¢
+Ganglio del tronco simp√¢tico
 Rr. interganglionares
 Rr. comunicantes
 R. comunicante gris
@@ -14653,131 +14754,131 @@ R. comunicante blanco
 Ganglios intermedios
 Ganglio cervical superior
 N. yugular
-N. carot\xe2\x84\xa2deo interno
+N. carot√≠deo interno
 N. pineal
-Nn. carot\xe2\x84\xa2deos externos
-Rr. laringofar\xe2\x84\xa2ngeos
-N. card\xe2\x84\xa2aco cervical superior
+Nn. carot√≠deos externos
+Rr. laringofar√≠ngeos
+N. card√≠aco cervical superior
 Ganglio cervical medio
 Ganglio vertebral
-N. card\xe2\x84\xa2aco cervical medio
+N. card√≠aco cervical medio
 (Ganglio cervical inferior)
-Ganglio cervicotor‚c;Ganglio estrelladostellatumganglion
+Ganglio cervicotor√¢c;Ganglio estrelladostellatumganglion
 Asa subclavia
-N. card\xe2\x84\xa2aco cervical inferior
+N. card√≠aco cervical inferior
 Plexo vertebral
-Ganglios tor‚cicos
-Rr. card\xe2\x84\xa2acos tor‚cicos
-Rr. pulmonares tor‚cicos
-Rr. esof‚gicos
-N. espl‚cnico mayor
-Ganglio tor‚cico espl‚cnico
-N. espl‚cnico menor
+Ganglios tor√¢cicos
+Rr. card√≠acos tor√¢cicos
+Rr. pulmonares tor√¢cicos
+Rr. esof√¢gicos
+N. espl√¢cnico mayor
+Ganglio tor√¢cico espl√¢cnico
+N. espl√¢cnico menor
 R. renal
- estanto constituido por un componente central y otro perifÈr; para otros autores constituye una parte del sistema nervioso perifÈrico. 
-en referencia al antiguo nombre de la gl‚ndula pineal
-N. espl‚cnico ;N. espl‚cnico inferiorsplanchnic nerve
+ estanto constituido por un componente central y otro perif√©r; para otros autores constituye una parte del sistema nervioso perif√©rico. 
+en referencia al antiguo nombre de la gl√¢ndula pineal
+N. espl√¢cnico ;N. espl√¢cnico inferiorsplanchnic nerve
 Ganglios lumbares
-Nn. espl‚cnicos lumbares
+Nn. espl√¢cnicos lumbares
 Ganglios sacros
-Nn. espl‚cnicos sacros
+Nn. espl√¢cnicos sacros
 Ganglio impar
-Paraganglios simp‚ticos
+Paraganglios simp√¢ticos
 PA
-PorciÛn cranealï
-Ganglio ciliarï
-Ra\xe2\x84\xa2z parasimp‚t;Ra\xe2\x84\xa2z oculomot;
-Ra\xe2\x84\xa2z simp‚tica
+Porci√≥n craneal‚Ä¢
+Ganglio ciliar‚Ä¢
+Ra√≠z parasimp√¢t;Ra√≠z oculomot;
+Ra√≠z simp√¢tica
 Communicating branch of nasociliary
 Nn. ciliares cortos
-Ganglio pterigopalatinoï
-N. del conducto pterigoideoï
-Ra\xe2\x84\xa2z parasimp‚t;N. petroso mayorï
-Ra\xe2\x84\xa2z simp‚t;N. petroso profundoï
+Ganglio pterigopalatino‚Ä¢
+N. del conducto pterigoideo‚Ä¢
+Ra√≠z parasimp√¢t;N. petroso mayor‚Ä¢
+Ra√≠z simp√¢t;N. petroso profundo‚Ä¢
 Rr. ganglionares n. maxillarisof maxilary nerves
 Ganglio submandibular
-Ra\xe2\x84\xa2z parasimp‚t;Cuerda del t\xe2\x84\xa2mpano
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensit;Rr. ganglionares deln. mandibularisof mandibularnerven. mandibular
+Ra√≠z parasimp√¢t;Cuerda del t√≠mpano
+Ra√≠z simp√¢tica
+Ra√≠z sensit;Rr. ganglionares deln. mandibularisof mandibularnerven. mandibular
 Ganglio sublingual
-Ra\xe2\x84\xa2z parasimp‚t;Cuerda del t\xe2\x84\xa2mpano
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensit;Rr. ganglionares del n. mandibularisof mandibular nerven. mandibular
-Ganglio Ûtico
-Ra\xe2\x84\xa2z parasimp‚t;N. petroso menornerve
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensit;Rr. ganglionares deln. mandibularisof mandibular nerven. mandibular
-PorciÛn pÈlvica
-Ganglios pÈlvicos
-Ra\xe2\x84\xa2z parasimp‚t;Nn. espl‚cnicos pÈlvicosïpelvicisplanchnic nerves
-Ra\xe2\x84\xa2z simp‚tica
-Ra\xe2\x84\xa2z sensitiva
+Ra√≠z parasimp√¢t;Cuerda del t√≠mpano
+Ra√≠z simp√¢tica
+Ra√≠z sensit;Rr. ganglionares del n. mandibularisof mandibular nerven. mandibular
+Ganglio √≥tico
+Ra√≠z parasimp√¢t;N. petroso menornerve
+Ra√≠z simp√¢tica
+Ra√≠z sensit;Rr. ganglionares deln. mandibularisof mandibular nerven. mandibular
+Porci√≥n p√©lvica
+Ganglios p√©lvicos
+Ra√≠z parasimp√¢t;Nn. espl√¢cnicos p√©lvicos‚Ä¢pelvicisplanchnic nerves
+Ra√≠z simp√¢tica
+Ra√≠z sensitiva
 US 
-PorciÛn craneocervical
-Plexo carot\xe2\x84\xa2deo com\xc5\x93n
-Plexo carot\xe2\x84\xa2deo interno
-Ra\xe2\x84\xa2z simp‚tica del ganglio ciliar
-Ra\xe2\x84\xa2z simp‚tica del ganglio pterigopalat;
-Ra\xe2\x84\xa2z simp‚tica del ganglio submandibularganglion
-Ra\xe2\x84\xa2z simp‚tica del ganglio sublingual
-Ra\xe2\x84\xa2z simp‚tica del ganglio Ûtico
-Nn. carotidotimp‚nicos142
+Porci√≥n craneocervical
+Plexo carot√≠deo com√∫n
+Plexo carot√≠deo interno
+Ra√≠z simp√¢tica del ganglio ciliar
+Ra√≠z simp√¢tica del ganglio pterigopalat;
+Ra√≠z simp√¢tica del ganglio submandibularganglion
+Ra√≠z simp√¢tica del ganglio sublingual
+Ra√≠z simp√¢tica del ganglio √≥tico
+Nn. carotidotimp√¢nicos142
 Plexo cavernoso
-Plexo carot\xe2\x84\xa2deo externo
+Plexo carot√≠deo externo
 Plexo subclavio
-Plexo autÛnomo braquial
+Plexo aut√≥nomo braquial
 Plexo vertebral
-PorciÛn tor‚cica
-Plexo aÛrtico tor‚cico
-Plexo card\xe2\x84\xa2aco
-Ganglios card\xe2\x84\xa2acos
-Plexo esof‚gico
+Porci√≥n tor√¢cica
+Plexo a√≥rtico tor√¢cico
+Plexo card√≠aco
+Ganglios card√≠acos
+Plexo esof√¢gico
 Plexo pulmonar
 Rr. pulmonares
-PorciÛn abdominal
-Plexo aÛrtico abdominal
-Ganglios frÈnicos
-Plexo cel\xe2\x84\xa2aco
-Plexo hep‚tico
-Plexo esplÈnico
-Plexo g‚strico
-Plexo pancre‚tico
+Porci√≥n abdominal
+Plexo a√≥rtico abdominal
+Ganglios fr√©nicos
+Plexo cel√≠aco
+Plexo hep√¢tico
+Plexo espl√©nico
+Plexo g√¢strico
+Plexo pancre√¢tico
 Plexo suprarrenal
-Ganglios cel\xe2\x84\xa2acosï
+Ganglios cel√≠acos‚Ä¢
 Ganglios aorticorrenales
-Plexo mesentÈrico superior
-Ganglio mesentÈrico superior
-Plexo intermesentÈrico
+Plexo mesent√©rico superior
+Ganglio mesent√©rico superior
+Plexo intermesent√©rico
 Plexo renal
 Ganglios renales
 Plexo ureteral
-Plexo ov‚rico 
+Plexo ov√¢rico 
 Plexo testicular
-Plexo mesentÈrico inferior
-Ganglio mesentÈrico superior
+Plexo mesent√©rico inferior
+Ganglio mesent√©rico superior
 Plexo rectal superior
-Plexo entÈrico
+Plexo ent√©rico
 Plexo subseroso
-Plexo mientÈrico
+Plexo mient√©rico
 Plexo submucoso
-Plexo il\xe2\x84\xa2aco
+Plexo il√≠aco
 Plexo femoral
-PorciÛn pÈlvica
-Plexo hipog‚strico super;N. presacronerve
-N. hipog‚strico
-Plexo hipog‚strico infer;Plexo pÈlvicopelvicusplexus
+Porci√≥n p√©lvica
+Plexo hipog√¢strico super;N. presacronerve
+N. hipog√¢strico
+Plexo hipog√¢strico infer;Plexo p√©lvicopelvicusplexus
 Plexo rectal medio
 Plexo rectal inferior
 Nn. anales superiores
 Plexo uterovaginal 
 Nn. vaginales 
-Plexo prost‚tico
+Plexo prost√¢tico
 Plexo deferencialdeferens
 Plexo vesical
-Nn. cavernosos del cl\xe2\x84\xa2toris 
+Nn. cavernosos del cl√≠toris 
 Nn. cavernosos del pene'b'
-PorciÛn olfatoria de la mucosa na; \xc3\xa7rea
-Gl‚ndulas olfatorias
+Porci√≥n olfatoria de la mucosa na; 
+Gl√¢ndulas olfatorias
 Ojo y anexos oculares
 US 
 Polo anterior
@@ -14786,51 +14887,51 @@ Ecuador
 Meridianos
 Eje externo del globo ocular
 Eje interno del globo ocular
-Eje Ûptico
+Eje √≥ptico
 Segmento anterior
 Segmento posterior
 Capa fibrosa del globo ocular
-Escl;EsclerÛtica
+Escl;Escler√≥tica
 Surco escleral
-Red trabecularï
-PorciÛn esclerocorneal
-PorciÛn uveal
-EspolÛn escleral
+Red trabecular‚Ä¢
+Porci√≥n esclerocorneal
+Porci√≥n uveal
+Espol√≥n escleral
 Seno venoso de la esclera
-L‚mina epiescleral
+L√¢mina epiescleral
 Sustancia propia de la esclera
-L‚mina fusca de la esclera
-L‚mina cribosa de la esclera
-CÛrnea
+L√¢mina fusca de la esclera
+L√¢mina cribosa de la esclera
+C√≥rnea
 Anillo conjuntival
-Limboï
-VÈrtice
+Limbo‚Ä¢
+V√©rtice
 Cara anterior
 Cara posterior
-Epitelio anteriorï
-L‚mina limitante anterior
-Sustancia propiaï
-L‚mina limitante posterior
-Epitelio posteriorï
-Capa vascular del globo ocularï
+Epitelio anterior‚Ä¢
+L√¢mina limitante anterior
+Sustancia propia‚Ä¢
+L√¢mina limitante posterior
+Epitelio posterior‚Ä¢
+Capa vascular del globo ocular‚Ä¢
 Coroides
-L‚mina supracoroideaï
+L√¢mina supracoroidea‚Ä¢
 Espacio pericoroideo
-L‚mina vascular
-L‚mina coroidocapilar
-L‚mina basal
-Vasos sangu\xe2\x84\xa2neos coroideos
+L√¢mina vascular
+L√¢mina coroidocapilar
+L√¢mina basal
+Vasos sangu√≠neos coroideos
 Cuerpo ciliar
 Corona ciliar
 Procesos ciliares
 Pliegues ciliares
-Orb\xe2\x84\xa2culo ciliar
+Orb√≠culo ciliar
 M. ciliar
 Fibras meridionales144
 Fibras longitudinales
 Fibras radiales
 Fibras circulares
-L‚mina basal
+L√¢mina basal
 Iris
 Borde pupilar
 Borde ciliar
@@ -14840,52 +14941,52 @@ Anillo mayor
 Anillo menor
 Pliegues
 Pupila
-M. esf\xe2\x84\xa2nter de la pupilaï
+M. esf√≠nter de la pupila‚Ä¢
 M. dilatador de la pupila
 Estroma
 Epitelio pigmentado
-Espacios del ‚ngulo iridocorneal
-C\xe2\x84\xa2rculo arterial mayor
-C\xe2\x84\xa2rculo arterial menor
+Espacios del √¢ngulo iridocorneal
+C√≠rculo arterial mayor
+C√≠rculo arterial menor
 (Membrana pupilar)
 Capa interna del globo ocular
 Retina
-PorciÛn ciega
-PorciÛn ciliar de la retina
-PorciÛn iridiana de la retina
+Porci√≥n ciega
+Porci√≥n ciliar de la retina
+Porci√≥n iridiana de la retina
 Ora serrata
-PorciÛn Ûptica
+Porci√≥n √≥ptica
 Capa pigmentaria de la retina
 Capa nerviosa
-Capa de los segmentos externos e internosïinternorum
+Capa de los segmentos externos e internos‚Ä¢internorum
 Capa limitante externa
 Capa nuclear externa
 Capa plexiforme externa
 Capa nuclear interna
 Capa plexiforme interna
-Capa de cÈlulas ganglionares
+Capa de c√©lulas ganglionares
 Capa de fibras nerviosas
 Capa limitante interna
-Disco Ûpt;Papila
+Disco √≥pt;Papila
 Physiological  cupde la papila
-M‚cula l\xc5\x93teaï
+M√¢cula l√∫tea‚Ä¢
 Fovea central
 Foveola
-Nervio Ûptico
-PorciÛn intracraneal
-PorciÛn del conducto Ûptico
-PorciÛn orbitaria
-PorciÛn intraocular
-PorciÛn postlaminar
-PorciÛn intralaminar
-PorciÛn prelaminar
+Nervio √≥ptico
+Porci√≥n intracraneal
+Porci√≥n del conducto √≥ptico
+Porci√≥n orbitaria
+Porci√≥n intraocular
+Porci√≥n postlaminar
+Porci√≥n intralaminar
+Porci√≥n prelaminar
 Vaina externa
 Esto ha determinado disparidades entre textos
 Vaina interna
 Espacio subaracnoi;Espacio
-Vasos sangu\xe2\x84\xa2neos de la retina
+Vasos sangu√≠neos de la retina
 Central retinal artery
-Circulo vascular del nervio Ûptico
+Circulo vascular del nervio √≥ptico
 Arteriola temporal superior de la retina
 Arteriola temporal inferior de la retina
 Arteriola nasal superior de la retina
@@ -14894,20 +14995,20 @@ Arteriola macular superior
 Arteriola macular inferior
 Arteriola macular media
 Central retinal vein
-VÈnula temporal superior de la retina
-VÈnula temporal inferior de la retina
-VÈnula nasal superior de la retina
-VÈnula nasal inferior de la retina
-VÈnula macular superior
-VÈnula macular inferior
-VÈnula macular media
+V√©nula temporal superior de la retina***
+V√©nula temporal inferior de la retina***
+V√©nula nasal superior de la retina
+V√©nula nasal inferior de la retina
+V√©nula macular superior
+V√©nula macular inferior
+V√©nula macular media
 Le;Cristalino
 Sustancia
 Corteza
-N\xc5\x93cleo
+N√∫cleo
 Fibras
 Epitelio
-C‚psula
+C√¢psula
 Polo anterior
 Polo posterior
 Cara anterior
@@ -14915,57 +15016,60 @@ Cara posterior
 Eje
 Ecuador
 Radios
-ZÛnula ciliar
+Z√≥nula ciliar
 Fibras zonulares
 Espacios zonulares
-C‚maras del globo ocular
+C√¢maras del globo ocular
 Humor acuoso
-C‚mara anterior
-C‚mara posterior*
-C‚mara postr;C‚mara v\xe2\x84\xa2trea*
+C√¢mara anterior
+√Çngulo iridocorneal
+C√¢mara posterior*
+C√¢mara postr;C√¢mara v√≠trea*
 Espacio retrozonular
-Cuerpo v\xe2\x84\xa2treo
+Cuerpo v√≠treo
 (A. hialoidea)
 Conducto hialoideo
-Fosa hialoideaï
-Membrana v\xe2\x84\xa2trea
-Estroma v\xe2\x84\xa2treo
-Humor v\xe2\x84\xa2treo146
- y est‚ basado en su posiciÛn.*
+Fosa hialoidea‚Ä¢
+Membrana v√≠trea
+Estroma v√≠treo
+Humor v√≠treo146
+ y est√¢ basado en su posici√≥n.*
 Organa sensuum / 
 CT
-PeriÛrbita
+Peri√≥rbita
 Tabique orbitario
 Vaina del globo ocular
 Lig. suspensorio del globo ocular
 Espacio epiescleral
-Cuerpo adiposo de la Ûrbita
+Cuerpo adiposo de la √≥rbita
 Fascias musculares
-M\xc5\x93sculos extraocula;M\xc5\x93sculosmuscles of eyeballextr\xe2\x84\xa2nsecos del globo ocular
+M√∫sculos extraocula;M√∫sculosmuscles of eyeballextr√≠nsecos del globo ocular
 M. orbitario
 M. recto superior
 M. recto inferior
 M. recto medial
 M. recto lateral
-ExpansiÛn del m\xc5\x93sculo recto lateralmuscle
-Anillo tendinoso com\xc5\x93nanular tendon
+Expansi√≥n del m√∫sculo recto lateralmuscle
+Anillo tendinoso com√∫nanular tendon
 M. oblicuo superior
-TrÛcleaï
-Vaina tendinosa del m\xc5\x93sculo oblicuo superior
+Tr√≥clea‚Ä¢
+Vaina tendinosa del m√∫sculo oblicuo superior
 M. oblicuo inferior
-M. elevador del p‚rpado
-L‚mina superficial
-L‚mina profunda
+M. elevador del p√¢rpado
+L√¢mina superficial
+L√¢mina profunda
 Ceja
-P‚rpados
-P‚rpado superior
-P‚rpado inferior
+P√¢rpados
+P√¢rpado superior
+P√¢rpado inferior
 Cara anterior
-Pliegue palpebronasalï
+Pliegue palpebronasal‚Ä¢
 Cara posterior
 Hendidura palpebral
-Comisura lateral de los p‚rpados
-Comisura medial de los p‚rpados
+Comisura lateral de los p√¢rpados
+Comisura medial de los p√¢rpados
+√Çngulo lateral del ojo‚Ä¢
+√Çngulo medial del ojo‚Ä¢
 Limbo palpebral anterior
 Limbo palpebral posterior
 Pesta\xc5\x92as
@@ -14973,65 +15077,65 @@ Tarso superior
 Tarso inferior
 Lig. palpebral lateral
 Lig. palpebral medial
-Gl‚ndulas tarsales
-Gl‚ndulas ciliares
-Gl‚ndulas seb‚ceas
+Gl√¢ndulas tarsales
+Gl√¢ndulas ciliares
+Gl√¢ndulas seb√¢ceas
 M. tarsal superior
 M. tarsal inferior
 Conjuntiva
 Pliegue semilunar
-Car\xc5\x93ncula lagrimal
+Car√∫ncula lagrimal
 Conjuntiva ocular
 Conjuntiva palpebral
-Fondo de saco conjuntival superiorï
-Fondo de saco conjuntival inferiorï
+Fondo de saco conjuntival superior‚Ä¢
+Fondo de saco conjuntival inferior‚Ä¢
 Saco conjuntival
-Gl‚ndulas conjuntivales
+Gl√¢ndulas conjuntivales
 Aparato lagrimal'b'
-Gl‚ndula lagrimal
-PorciÛn orbitaria
-PorciÛn palpebral
+Gl√¢ndula lagrimal
+Porci√≥n orbitaria
+Porci√≥n palpebral
 Conductillos excretores
-(Gl‚ndulas lagrimales accesorias)
-Rivus lagrimalï
+(Gl√¢ndulas lagrimales accesorias)
+Rivus lagrimal‚Ä¢
 Lago lagrimal
 Papila lagrimal
 Punto lagrimal
 Conductillo lagrimal
 Ampolla del conductillo lagrimal
 Saco lagrimal
-FÛrnix del saco lagrimal
+F√≥rnix del saco lagrimal
 Conducto nasolagrimal
 Pliegue lagrimal
-O\xe2\x84\xa2do
+O√≠do
 S 
-Or;PabellÛn auricular
-LÛbulo
-Cart\xe2\x84\xa2lago auricular
-HÈlix
+Or;Pabell√≥n auricular
+L√≥bulo
+Cart√≠lago auricular
+H√©lix
 Raiz
 Espina
 Cola
-AntihÈlix
+Antih√©lix
 Fosa triangular
-Ramas del antihÈlix
-Esc;Canal del hÈlix
+Ramas del antih√©lix
+Esc;Canal del h√©lix
 Concha auricular
-Cymba de la conchaï
+Cymba de la concha‚Ä¢
 Cavidad de la concha
 Antitrago
 Trago
 Escotadura anterior
-Escotadura intertr‚gica
-(TubÈrculo auricular)
-(VÈrtice auricular)
+Escotadura intertr√¢gica
+(Tub√©rculo auricular)
+(V√©rtice auricular)
 Surco posterior de la oreja
-TubÈrculo supratr‚gico
-Itsmo del cart\xe2\x84\xa2lago auricular
+Tub√©rculo supratr√¢gico
+Itsmo del cart√≠lago auricular
 Incisura terminal de la oreja
 Fisura antitragohelicina
-Surco de la raiz del hÈlix
-Fosa del antihÈlixï
+Surco de la raiz del h√©lix
+Fosa del antih√©lix‚Ä¢
 Eminencia de la concha
 Eminencia de la escafa
 Eminencia de la fosa triangular
@@ -15039,9 +15143,9 @@ Ligs. auriculares
 Lig. auricular anterior
 Lig. auricular superior
 Lig. auricular posterior
-M\xc5\x93sculos auriculares
-M. mayor del hÈlix
-M. menor del hÈlix
+M√∫sculos auriculares
+M. mayor del h√©lix
+M. menor del h√©lix
 M. del trago
 (M. de la incisura terminal)
 M. piramidal de la oreja148
@@ -15050,52 +15154,52 @@ M. transverso de la oreja
 M. oblicuo de la oreja
 Conducto auditivo externo
 Orificio auditivo externoacoustic aperture
-Incisura timp‚nica
+Incisura timp√¢nica
 Conducto auditivo externo cartilaginoso
-Cart\xe2\x84\xa2lago del conducto auditivo
-Incisura del cart\xe2\x84\xa2lago del conducto auditivo
-Membrana timp‚nica
-PorciÛn fl‚ccida
-PorciÛn tensa
-Pliegue anterior del martilloï
-Pliegue posterior del martilloï
+Cart√≠lago del conducto auditivo
+Incisura del cart√≠lago del conducto auditivo
+Membrana timp√¢nica
+Porci√≥n fl√¢ccida
+Porci√≥n tensa
+Pliegue anterior del martillo‚Ä¢
+Pliegue posterior del martillo‚Ä¢
 Prominencia del martillo
-Estr\xe2\x84\xa2a del martillo
-Ombligo de la membrana timp‚nica
+Estr√≠a del martillo
+Ombligo de la membrana timp√¢nica
 Anillo fibrocartilaginoso
 S 
-Cavidad timp‚n;Caja del t\xe2\x84\xa2mpano
-Pared tegmentariaï
-Receso epitimp‚nico
-PorciÛn cupularï
-Pared yugularï
+Cavidad timp√¢n;Caja del t√≠mpano
+Pared tegmentaria‚Ä¢
+Receso epitimp√¢nico
+Porci√≥n cupular‚Ä¢
+Pared yugular‚Ä¢
 Prominencia estiloidea
-Pared laber\xe2\x84\xa2nticaï
-Ventana ovalï
+Pared laber√≠ntica‚Ä¢
+Ventana oval‚Ä¢
 Fosita de la ventana oval
 Promontorio
-Surco del promontorioï
-Sub\xe2\x84\xa2culo del promontorio
-Seno timp‚nico
-Ventana redondaï
+Surco del promontorio‚Ä¢
+Sub√≠culo del promontorio
+Seno timp√¢nico
+Ventana redonda‚Ä¢
 Fosita de la ventana redonda
 Cresta de la ventana redonda
-Proceso cocleariformeï
-Membrana timp‚nica secundaria
+Proceso cocleariforme‚Ä¢
+Membrana timp√¢nica secundaria
 Pared mastoidea
-Entrada al antroï
+Entrada al antro‚Ä¢
 Prominencia del canal semicircular lateralcanal
 Prominencia del conducto facial
-Eminencia piramidalï
+Eminencia piramidal‚Ä¢
 Fosa del yunque
 Seno posterior
-Abertura timp‚nica del conductillotympanichorda tympanyde la cuerda del t\xe2\x84\xa2mpano
+Abertura timp√¢nica del conductillotympanichorda tympanyde la cuerda del t√≠mpano
 Antro mastoideo
 Celdillas mastoideas
-Celdillas timp‚nicas
-Pared carot\xe2\x84\xa2deaï
-Pared membranosaï
-Huesecillos del o\xe2\x84\xa2do
+Celdillas timp√¢nicas
+Pared carot√≠dea‚Ä¢
+Pared membranosa‚Ä¢
+Huesecillos del o√≠do
 Estribo
 Cabeza del estribo'b'
 Rama anterior
@@ -15103,119 +15207,123 @@ Rama posterior
 Base del estribo
 Yunque
 Cuerpo del yunque
-Rama largaï
-ApÛfisis lenticular
+Rama larga‚Ä¢
+Ap√≥fisis lenticular
 Rama corta
 Martillo
 Manubrio
 Cabeza
 Cuello
-ApÛfisis lateralï
-ApÛfisis anteriorï
-Articulaciones de los huesecillos del o\xe2\x84\xa2do
-ArticulaciÛn incudomaleolar
-ArticulaciÛn \xe2\x84\xa2ncudo-estapedial
-Sindesmosis t\xe2\x84\xa2mpano-estapedial
-Ligs. de los huesecillos del o\xe2\x84\xa2doossiculorum auditoriorum
+Ap√≥fisis lateral‚Ä¢
+Ap√≥fisis anterior‚Ä¢
+Articulaciones de los huesecillos del o√≠do
+Articulaci√≥n incudomaleolar
+Articulaci√≥n √≠ncudo-estapedial
+Sindesmosis t√≠mpano-estapedial
+Ligs. de los huesecillos del o√≠doossiculorum auditoriorum
 Lig. anterior del martillo
 Lig. superior del martillo
 Lig. lateral del martillo
 Lig. superior del yunque
 Membrana estapedial
 Lig. anular del estribo
-M\xc5\x93sculos de los huesecillos del o\xe2\x84\xa2doossiculorum auditoriorum
-M. tensor del t\xe2\x84\xa2mpano
+M√∫sculos de los huesecillos del o√≠doossiculorum auditoriorum
+M. tensor del t√≠mpano
 Stapedius
-Mucosa de la cavidad timp‚nica
+Mucosa de la cavidad timp√¢nica
 Pliegue maleolar posterior
 Pliegue maleolar anterior
-Pliegue de la cuerda del t\xe2\x84\xa2mpano
-Recesos de la membrana timp‚nica
+Pliegue de la cuerda del t√≠mpano
+Recesos de la membrana timp√¢nica
 Receso anterior
 Receso superior
 Receso posterior
 Pliegue del yunque
 Pliegue estapedial
 Auditory tube
-Orificio timp‚nico
-PorciÛn Ûsea
+Orificio timp√¢nico
+Porci√≥n √≥sea
 Istmoauditoriae
-Celdillas neum‚ticas
-PorciÛn cartilaginosa
-Cart\xe2\x84\xa2lago de la trompa auditivaauditoriae
-L‚mina medial
-L‚mina lateral
-L‚mina membranosa150
+Celdillas neum√¢ticas
+Porci√≥n cartilaginosa
+Cart√≠lago de la trompa auditivaauditoriae
+L√¢mina medial
+L√¢mina lateral
+L√¢mina membranosa150
 Muc;Membrana mucosa
-Gl‚ndulas tub‚ricas
-Orificio far\xe2\x84\xa2ngeo de la trompa auditivapharyngeum tubae auditoriae
+Gl√¢ndulas tub√¢ricas
+Orificio far√≠ngeo de la trompa auditivapharyngeum tubae auditoriae
 S 
-Laberinto Ûseo
-Vest\xe2\x84\xa2bulo
-Receso el\xe2\x84\xa2pt;Receso utricularï
-Orificio interno del conductillo vest\xe2\x84\xa2bularcanaliculus
+Laberinto √≥seo
+Vest√≠bulo
+Receso el√≠pt;Receso utricular‚Ä¢
+Orificio interno del conductillo vest√≠bularcanaliculus
 Cresta vestibular
-Pir‚mide del vest\xe2\x84\xa2bulo
-Receso esfÈr;Receso sacularï
-Receso coclearï
-M‚culas cribosas
-M‚cula cribosa superior
-M‚cula cribosa media
-M‚cula cribosa inferior
+Pir√¢mide del vest√≠bulo
+Receso esf√©r;Receso sacular‚Ä¢
+Receso coclear‚Ä¢
+M√¢culas cribosas
+M√¢cula cribosa superior
+M√¢cula cribosa media
+M√¢cula cribosa inferior
 Conductos semicirculares
 Conducto semicircular anterior
-Ampolla Ûsea anterior
+Ampolla √≥sea anterior
 Conducto semicircular posterior
-Ampolla Ûsea posterior
-Rama Ûsea com\xc5\x93n
-Ramas Ûseas ampulares
+Ampolla √≥sea posterior
+Rama √≥sea com√∫n
+Ramas √≥seas ampulares
 Conducto semicircular lateral
-Ampolla Ûsea lateral
-Rama Ûsea simple
-CÛclea
-C\xc5\x93pula
+Ampolla √≥sea lateral
+Rama √≥sea simple
+C√≥clea
+C√∫pula
 Base
 Conducto espiral
-L‚mina espiral Ûsea
+L√¢mina espiral √≥sea
 Laminilla vestibular
-Laminilla timp‚nica
-For‚menes nerviosos
-Gancho de la l‚mina espiral
-L‚mina espiral secundaria
+Laminilla timp√¢nica
+For√¢menes nerviosos
+Gancho de la l√¢mina espiral
+L√¢mina espiral secundaria
 Orificio interno del conducto coclearcanaliculus
 Tabique coclear
 Modiolo
 Base
-L‚mina
+L√¢mina
 Conducto espiral
 Conductos longitudinales
 Rampa vestibular
 Helicotrema
-Rampa timp‚nica
+Rampa timp√¢nica
 Conducto auditivo interno
 Orificio auditivo interno
 Fondo del conducto auditivo interno
 Cresta transversa
+√Årea del nervio facial
 Cresta vertical
+√Årea vestibular superior
+√Årea vestibular inferior'b'
 Foramen singular
-Tracto espiral foraminosoï
-Espacio perilinf‚tico
+√Årea coclear
+Tracto espiral foraminoso‚Ä¢
+Espacio perilinf√¢tico
 Perilinfa
 Acueducto vestibular
 Acueducto coclear
 Laberinto membranoso
-Espacio endolinf‚tico
+Espacio endolinf√¢tico
 Endolinfa
 Laberinto vestibular
-Utr\xe2\x84\xa2culo
+Utr√≠culo
 Receso utricular
-S‚culo
+S√¢culo
 Conductos semicirculares
 Conducto semicircular anterior
 Ampolla membranosa anterior
 Conducto semicircular posterior
 Ampolla membranosa posterior
-Rama membranosa com\xc5\x93n
+Rama membranosa com√∫n
 Ramas membranosas ampulares
 Conducto semicircular lateral
 Ampolla membranosa lateral
@@ -15223,30 +15331,30 @@ Rama membranosa simple
 Conducto utriculosacular
 Conducto utricular
 Conducto sacular
-Conducto endolinf‚tico
-Saco endolinf‚tico
+Conducto endolinf√¢tico
+Saco endolinf√¢tico
 Conducto reuniens
-M‚culas
-M‚cula del utr\xe2\x84\xa2culo
-M‚cula del s‚culo
-Membrana otol\xe2\x84\xa2tica
+M√¢culas
+M√¢cula del utr√≠culo
+M√¢cula del s√¢culo
+Membrana otol√≠tica
 Otolitos
 Striola
 Cresta ampular
 Surco ampular
-C\xc5\x93pula ampular
+C√∫pula ampular
 Laberinto coclear
 Rampa media
 Conducto coclear
 Pared vestibu;Membrana vestibularmembrane
 Pared externa
-Estr\xe2\x84\xa2a vascular
+Estr√≠a vascular
 Prominencia espiral
 Vaso prominente
 Ligamento espiral
-Pared timp‚n;Membrana espiralï
+Pared timp√¢n;Membrana espiral‚Ä¢
 Cresta basi;Cresta espiral
-L‚mina basilar
+L√¢mina basilar
 Vaso espiral
 Limbo espiral
-Labio timp‚nico152
+Labio timp√¢nico152
