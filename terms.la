@@ -55,8 +55,8 @@ Bucca
 Nasus
 Os
 Mentum
-Col;Cervix
-Tr\nuncus
+Collum; Cervix
+Truncus
 Thorax
 Pectus
 Abdomen
@@ -150,8 +150,8 @@ Fossa supraclavicularis minor
 Regio cervicalis latera;Trigonum cervicale
 Trigonum omoclaviculare
 Fossa supraclavicularis major
-Regiones
-Regio cervicalis poster;Regio colli 
+Plana -- lineae et regiones
+Regio cervicalis posterior;Regio colli posterior
 Regiones thoracicae anteriores et laterales
 Regio presternalis
 Fossa infraclavicularis
@@ -185,16 +185,16 @@ Regio urogenitalis
 Regiones membri superioris
 Regio deltoidea
 Regio brachialis
-Regio brachii anter;Regio brachialis
-Sulcus bicipitalis latera;Sulcus
-Sulcus bicipitalis media;Sulcus
-Regio brachii poster;Regio brachialis
+Regio brachii anterior; Regio brachialis anterior;Regio brachialis anterior
+Sulcus bicipitalis lateralis; Sulcus bicipitalis radialis
+Sulcus bicipitalis medialis; Sulcus bicipitalis ulnaris
+Regio brachii posterior; Regio brachialis posterior
 Regio cubitalis
 Regio cubitalis anterior
 Fossa cubitalis
 Regio cubitalis posterior
 Regio antebrachialis
-Regio antebrachii anter;Regio
+Regio antebrachii anterior; Regio antebrachialis anterior
 Regio pectoralis lateralis
 Trigonum auscultationis
 (Trigonum lumbale superius)
@@ -211,11 +211,11 @@ The;Eminentia thenaris
 Hypothe;Eminentia hypothenaris
 Regio metacarpalis
 Digiti manus
-Pol;Digitus primus [
-In;Digitus secundus [
-Digitus med;Digitus tertius [
-Digitus anula;Digitus quartus [
-Digitus mini;Digitus quintus [
+Pol;Digitus primus [I]
+Index;Digitus secundus [II]
+Digitus med;Digitus tertius [III]
+Digitus anula;Digitus quartus [IV]
+Digitus mini;Digitus quintus [V]
 Facies palmares digitorum
 Facies dorsales digitorum
 Regiones membri inferioris
@@ -254,11 +254,11 @@ Crena ana; crena ; crena interglutealis
 Regio tarsalis
 Regio metatarsalis
 Digiti pedis
-Hal;Digitus primus [
-Digitus secundus [
-Digitus tertius [
-Digitus quartus [
-Digitus mini;Digitus quintus [
+Hal;Digitus primus [I]
+Digitus secundus [II]
+Digitus tertius [III]
+Digitus quartus [IV]
+Digitus mini;Digitus quintus [V]
 Facies plantares digitorum
 Facies dorsales digitorum
 O;Systema skeletale
@@ -741,7 +741,7 @@ Tuberculum mentale
 Foramen mentale
 Linea obliqua
 Fossa digastrica
-Spina mentalis super;Spina geni 
+Spina mentalis superior;Spina geni superior
 Spina mentalis infer;Spina geni 
 Linea mylohyoidea
 (Torus mandibularis)
@@ -801,14 +801,14 @@ Processus articularis super;Zygapophysis
 Facies articularis superior
 Processus articularis infer;Zygapophysis
 Facies articularis inferior
-Vertebrae cervicales [
+Vertebrae cervicales [CI-CVII]
 Uncus corpo;Processus uncinatus
 Foramen transversarium
 Tuberculum anterius
 Tuberculum caroticum
 Tuberculum posterius
 Sulcus nervi spinalis
-Atlas [
+Atlas [CI]
 Massa lateralis atlantis
 Facies articularis superior
 Facies articularis inferior
@@ -821,22 +821,22 @@ Arcus posterior atlantis
 Sulcus arteriae vertebralis
 (Canalis arteriae vertebralis)
 Tuberculum posterius
-Axis [
+Axis [CII]
 Dens axis
 Apex dentis
 Facies articularis anterior
 Facies articularis posterior
-Vertebra prominens [
-Vertebrae thoracicae [
+Vertebra prominens [CVII]
+Vertebrae thoracicae [TI-TXII]
 Fovea costalis superior
 Fovea costalis inferior
 Fovea costalis processus transversi
 Uncus corporis vertebrae thoracicae pri;
-Vertebrae lumbales [
+Vertebrae lumbales [LI-LV]
 Processus accessorius
 Processus costifor;Processus costalis
 Processus mammillaris
-Os sacrum [vertebrae sacrales 
+Os sacrum [vertebrae sacrales I-V]
 Basis ossis sacri
 Promontorium
 Ala sacralis
@@ -857,13 +857,13 @@ Cornu sacrale
 Canalis sacralis
 Hiatus sacralis
 Apex ossis sa;Apex ossis sacralis
-Os coccy;Coccyx [
+Os coccy;Coccyx [Vertebrae coccygeae IIV]
 Cornu coccygeum
 Skeleton thoracis
-Costae [
-Costae verae [
-Costae spuriae [
-Costae fluitantes [
+Costae [I-
+Costae verae [I-
+Costae spuriae [VI
+Costae fluitantes [XI-
 Cartilago costalis
 Costa
 Caput costae
@@ -878,11 +878,11 @@ Angulus costae
 Sulcus costae
 Crista costae
 (Costa cervica;Costa colli)
-Costa prima [
+Costa prima [I]
 Tuberculum musculi scaleni anterioris
 Sulcus arteriae subclaviae
 Sulcus venae subclaviae
-Costa secunda [
+Costa secunda [II]
 Tuberositas musculi serrati anterioris
 (Costa lumbalis)
 Sternum
@@ -894,7 +894,7 @@ Corpus sterni
 Processus xiphoideus
 Incisurae costales
 (Ossa suprasternalia)
-Vertebrae thoracicae [
+Vertebrae thoracicae [TI-TXII]
 Cavea thoracis
 Cavitas thoracis
 Apertura thoracis superior
@@ -904,7 +904,7 @@ Arcus costalis
 Spatium intercostale
 Angulus infrasternalis
 Ossa membri superioris
-CI
+CINGULUM PECTORALE;CINGULUM MEMBRI SUPERIORIS
 Scapula
 Facies costa;Facies anterior
 Fossa subscapularis
@@ -918,7 +918,9 @@ Facies articularis clavicularis
 Angulus acromialis
 Margo medialis
 Cavea thoracis
-Apertura thoracis superior/inferior
+Cavitas thoracis
+Apertura thoracis superior
+Apertura thoracis inferior
 Margo lateralis
 Margo superior
 Incisura scapulae
@@ -1023,7 +1025,7 @@ Os capitatum
 Os hamatum
 Hamulus ossis hamati
 Sulcus carpi
-Ossa metaca;Ossa metacarpalia [
+Ossa metaca;Ossa metacarpalia [I-
 Basis ossis metacarpalis
 Corpus ossis metacarpale
 Caput ossis metacarpale
@@ -1236,12 +1238,12 @@ Os cuboideum
 Sulcus tendinis musculi fibularis lo;
 Tuberositas ossis cuboidei
 Processus calcaneus
-Ossa metata;Ossa metatarsalia [
+Ossa metata;Ossa metatarsalia [I-
 Basis ossis metatarsalis
 Corpus ossis metatarsale
 Caput ossis metatarsale
-Tuberositas ossis metatarsi primi [
-Tuberositas ossis metatarsi quinti [
+Tuberositas ossis metatarsi primi [I]
+Tuberositas ossis metatarsi quinti [V]
 Ossa digito;Phalanges
 Phalanx proximalis
 Phalanx media
@@ -1588,7 +1590,7 @@ Pars tibiotalaris posterior
 Lig. collatelare laterale
 Lig. talofibulare anterius
 Lig. talofibullare posterius
-Lig. calc‚neofibulare
+Lig. calc√¢neofibulare
 Articulatio subtala;Articulatio talocalcanea
 Lig. talocalcaneum laterale
 Lig. talocalcaneum mediale
@@ -2973,7 +2975,7 @@ Membrana quadrangularis
 Lig. vestibulare
 Conus elasticus
 Lig. vocale
-TR
+Trachea
 Pars cervica;Pars colli
 Pars thoracica
 Cartilagines tracheales
@@ -2990,29 +2992,29 @@ Bronchus principalis dexter
 Bronchus principalis sinister
 Bronchi lobares et segmentales
 Bronchus lobaris superior dexter
-Bronchus segmentalis apicalis [
-Bronchus segmentalis posterior [
-Bronchus segmentalis anterior [
+Bronchus segmentalis apicalis [B 
+Bronchus segmentalis posterior [B 
+Bronchus segmentalis anterior [B 
 Bronchus lobaris medius
-Bronchus segmentalis lateralis [
-Bronchus segmentalis medialis [
+Bronchus segmentalis lateralis [B 
+Bronchus segmentalis medialis [B 
 Bronchus lobaris inferior dexter
-Bronchus segmentalis superior [
+Bronchus segmentalis superior [B 
 Bronchus segmentalis basalis media;
 Bronchus segmentalis basalis
-Bronchus segmentalis basalis lateralis [
-Bronchus segmentalis basalis posterior [
+Bronchus segmentalis basalis lateralis [B 
+Bronchus segmentalis basalis posterior [B 
 Bronchus lobaris superior sinister
 Bronchus segmentalis apicoposterior
-Bronchus segmentalis anterior [
-Bronchus lingularis superior [
-Bronchus lingularis inferior [
+Bronchus segmentalis anterior [B 
+Bronchus lingularis superior [B 
+Bronchus lingularis inferior [B 
 Bronchus lobaris inferior sinister
-Bronchus segmentalis superior [
+Bronchus segmentalis superior [B 
 Bronchus segmentalis basalis media;
 Bronchus segmentalis basalis anterior
-Bronchus segmentalis basalis lateralis [
-Bronchus segmentalis basalis posterior [
+Bronchus segmentalis basalis lateralis [B 
+Bronchus segmentalis basalis posterior [B 
 Bronchi intrasegmentales
 Tunica fibromusculocartilaginea
 Tela submucosa
@@ -3043,29 +3045,29 @@ Fissura horizontalis pulmonis dextri
 Vasa sanguinea intrapulmonalia
 Segmenta bronchopulmonalia
 Pulmo dexter
-Segmentum apicale [
-Segmentum posterius [
-Segmentum anterius [
+Segmentum apicale [S 
+Segmentum posterius [S 
+Segmentum anterius [S 
 Pulmo dexter
-Segmentum laterale [
-Segmentum mediale [
+Segmentum laterale [S 
+Segmentum mediale [S 
 Pulmo dexter
-Segmentum superius [
+Segmentum superius [S 
 Segmentum basale medi;Segmentum
-Segmentum basale anterius [
-Segmentum basale laterale [
-Segmentum basale posterius [
+Segmentum basale anterius [S 
+Segmentum basale laterale [S 
+Segmentum basale posterius [S 
 Pulmo sinister
-Segmentum apicoposterius [
-Segmentum anterius [
-Segmentum lingulare superius [
-Segmentum lingulare inferius [
+Segmentum apicoposterius [S 
+Segmentum anterius [S 
+Segmentum lingulare superius [S 
+Segmentum lingulare inferius [S 
 Pulmo sinister
-Segmentum superius [
+Segmentum superius [S 
 Segmentum basale medi;Segmentum
-Segmentum basale anterius [
-Segmentum basale laterale [
-Segmentum basale posterius [
+Segmentum basale anterius [S 
+Segmentum basale laterale [S 
+Segmentum basale posterius [S 
 Bronchioli
 Lobulus
 Cavitas thora;Thoracic cav;Thorax
@@ -3376,8 +3378,8 @@ Ductuli aberrantes
 (Ductulus aberrans inferior)
 Appendix testis
 (Appendix epididymidis)
-(PA
-FU
+(PARADIDYMIS)
+FUNICULUS SPERMATICUSS
 Fascia spermatica externa
 M. cremaster
 Fascia cremasterica
@@ -3393,7 +3395,7 @@ Diverticula ampullae
 Tunica adventitia
 Tunica muscularis
 Tunica mucosa
-GL
+GLANDULA VESICOSA; GLANDULA SEMINALIS; VESICULA SEMINALIS
 Tunica adventitia
 Tunica muscularis
 Tunica mucosa
@@ -3424,7 +3426,7 @@ Substantia muscularis
 M. puboprostaticus
 M. vesicoprostaticus
 Area trapezoidea
-GL
+GLANDULA BULBOURETHRALIS
 Ductus glandulae bulbo-urethralis
 Organa genitalia masculina externa
 PE
@@ -3664,7 +3666,7 @@ V. centralis
 Glandulae suprarenales accessoriae
 Insulae pancreaticae
 Glandula pinealis
-Nota a la ediciÛn espa\xc5\x92ola:
+Nota a la edici√≥n espa\xc5\x92ola:
 Systema cardiovasculare
 Vas sanguineum
 Anastomosis arteriolovenula;Arteriolovenular anastomo;
@@ -4934,7 +4936,7 @@ Vv. geniculares
 Vv. tibiales anteriores
 Vv. tibiales posteriores
 Vv. fibula;Vv. peroneae
-VE
+VENA PORTAE HEPATIS
 R. dexter
 R. anterior
 R. posterior
@@ -4987,7 +4989,7 @@ Tr\nuncus lumbalis
 Tr\nunci intestinales
 Nodi lymphoidei regionales 
 Systema lymphoideum
-OR
+ORGANA LYMPHOIDEA PRIMARIA
 Medulla ossium
 Thymus
 Lobus
@@ -4995,9 +4997,9 @@ Lobuli thymi
 Cortex thymi
 Medulla thymi
 (Lobuli thymici accessorii)
-OR
-Sp;Lien
-Caps;Tunica fibrosa
+ORGANA LYMPHOIDEA SECUNDARIA
+Splen; Lien
+Capsula;Tunica fibrosa
 Trabeculae splenicae
 Pulpa splen;Pulpa lienalis
 Pulpa rubra
@@ -5399,7 +5401,7 @@ Fibrae gracilespinales
 Fibrae spinocuneatae
 Fibrae spinograciles
 Structurae centrales medullae spinalis
-Area spinalis;Lamina spinalis 
+Area spinalis X;Lamina spinalis X
 Commissura grisea anterior
 Commissura grisea posterior
 Commissura alba anterior
@@ -5414,7 +5416,7 @@ Prosencephalon
 Diencephalon
 Telencephalon
 Tr\nuncus encephali
-Myelencepha;Medulla oblong;Myelencepha;Medulla oblong;MielencÈf;MÈdula oblong;Bulbo 
+Myelencepha;Medulla oblong;Myelencepha;Medulla oblong;Mielenc√©f;M√©dula oblong;Bulbo 
 Pons
 Mesencephalon
 MY
@@ -5574,7 +5576,7 @@ Nucleus interfascicularis nervi hypoglossi
 Nucleus reticularis intermedius
 Nucleus reticularis lateralis
 Nucleus gigantocellularis
-Nucleus reticularis intermedius\xe2\x80\xa6ste ha sido descrito en el encÈfalo humano. 
+Nucleus reticularis intermedius\xe2\x80\xa6ste ha sido descrito en el enc√©falo humano. 
 Pars magnocellularis
 Pars parvocellularis
 Pars subtrigeminalis
@@ -5670,7 +5672,7 @@ Subnucleus oralis
 Nucleus principalis nervi trigemini
 Lemniscus spinalis
 Lemniscus trigeminalis
-Nucleus principalis nervi trigemini\xe2\x80\xa6ste es el tÈrmino recomendado
+Nucleus principalis nervi trigemini\xe2\x80\xa6ste es el t√©rmino recomendado
 Nucleus posteromedialis
 Nucleus anterolateralis
 Nucleus mesencephalicus nervi trigemini
@@ -5803,7 +5805,7 @@ Lemniscus medialis
 Lemniscus trigeminales
 Fasciculus longitudinalis medialis
 Tractus mesencephalicus nervi trigemini
-Fasciculus longitudinalis poster;Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culo
+Fasciculus longitudinalis poster;Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culo
 Tractus rubronuclearis
 Tractus rubrospinalis
 Tractus rubroolivaris
@@ -5906,9 +5908,9 @@ Nucleus parapeduncularis
 CE
 Fissurae cerebelli
 Folia cerebelli
-Hemispherium cerebelli [
+Hemispherium cerebelli [H 
 Vallecula cerebelli
-Vermis cerebelli [
+Vermis cerebelli [Lobuli 
 Vestibulocerebellum
 Spinocerebellum
 Pontocerebellum
@@ -5917,52 +5919,52 @@ Paleocerebellum
 Neocerebellum
 Corpus cerebelli
 Lobus cerebelli anterior
-Lingula cerebelli [
+Lingula cerebelli [I]
 Colliculus superior
 Vestibulocerebellum-neocerebellum
 Fissura precentra;Fissura postlingualis
-Lobulus centralis [
-Pars anter;Pars ventralis [
-Pars poster;Pars dorsalis [
+Lobulus centralis [II et 
+Pars anter;Pars ventralis [II]
+Pars poster;Pars dorsalis [II
 Ala lobuli centralis
-Pars infer;Pars ventralis [
-Pars super;Pars dorsalis [
+Pars infer;Pars ventralis [HII]
+Pars super;Pars dorsalis [HIII]
 Fissura preculmina;Fissura postcentralis
-Culmen [
-Pars anter;Pars ventralis [
+Culmen [IV et V]
+Pars anter;Pars ventralis [IV]
 Fissura intraculminalis
-Pars poster;Pars dorsalis [
+Pars poster;Pars dorsalis [V]
 Lobulus quadrangularis anterior 
-Pars anter;Pars ventralis [
-Pars poster;Pars dorsalis [
+Pars anter;Pars ventralis [H 
+Pars poster;Pars dorsalis [H 
 Fissura pr;Fissura preclivalis
 Lobus cerebelli posterior
-Lobulus simplex [
-Declive [
-Lobulus quadrangularis posterior [
+Lobulus simplex [H 
+Declive [VI]
+Lobulus quadrangularis posterior [H 
 Fissura posterior super;Fissura post 
-Folium vermis [
+Folium vermis [VI
 Lobuli semiluna;Lobulus ansiformis
 Lobulus semilunaris super;Crus primum
 Fissurae horizonta;Fissura intercruralis
 Lobulus semilunaris infer;Crus
 Fissura lunograci;Fissura 
-Tuber [
+Tuber [Vll 
 Lobulus graci;Lobulus paramedianus
 Fissura prebiventra;Fissura prepyramidalis
-Pyramis [
-Lobulus biventer [
+Pyramis [VI
+Lobulus biventer [H 
 Pars lateralis lobuli biventra;Pars
 Fissura intrabiventra;Fissura anterior
 Pars medialis lobuli biventra;Lobulus
 Fissura secu;Fissura postpyramidalis
-Uvula [
+Uvula [IX]
 Tonsilla cerebe;Paraflocculus ventralis
 Fissura posterolateralis
 Lobus flocculonodularis
-Nodulus [
+Nodulus [X]
 Pedunculus flocculi
-Flocculus [
+Flocculus [HX]
 Arbor vitae
 Cortex cerebelli
 Stratum granulosum
@@ -6404,12 +6406,12 @@ Allocortex
 Mesocortex
 Isocortex
 Strata isocorticis
-Lamina molecularis [
-Lamina granularis externa [
-Lamina pyramidalis externa [
-Lamina granularis interna [
-Lamina pyramidalis interna [
-Lamina multiformis [
+Lamina molecularis [Lamina 
+Lamina granularis externa [Lamina 
+Lamina pyramidalis externa [Lamina 
+Lamina granularis interna [Lamina 
+Lamina pyramidalis interna [Lamina 
+Lamina multiformis [Lamina 
 Stria laminae molecularis
 Stria laminae granularis externae
 Stria laminae granularis internae
@@ -6423,10 +6425,10 @@ Digitationes hippocampi
 Presubiculum
 Subiculum
 Hippocampus propr;Cornu ammonis
-Regio 
-Regio 
-Regio 
-Regio 
+Regio I hippocampi proprii;Regio I cornus ammonis;CA1
+Regio II hippocampi proprii;Regio II cornus ammonis;CA2
+Regio III hippocampi proprii;Regio III cornus ammonis;CA3
+Regio IV hippocampi proprii;Regio IV cornus ammonis;CA4
 Fimbria hippocampi
 Alveus hippocampi
 Strata hippoca;Strata cornus ammonis
@@ -6490,7 +6492,7 @@ Nucleus septofimbrialis
 Nucleus triangularis septi
 Organum subfornicale
 Pars basalis telencephali
-Corpus amygdaloideum\xe2\x80\xa6ste fue considerado como una parte constitutiva de los nuclei basalisen las terminolog\xe2\x84\xa2as previas
+Corpus amygdaloideum\xe2\x80\xa6ste fue considerado como una parte constitutiva de los nuclei basalisen las terminolog√≠as previas
 Nucleus striae terminalis/pars sublenticularis amygdalae/substantia innominata
 Nuclei basales et structurae pertinentes
 Nucleus caudatus
@@ -6538,7 +6540,7 @@ Fibrae occipitotectales
 Radiatio opt;Fibrae geniculocalcarinae
 Nuclei basales et structurae pertinentes
 Fibrae corticonucleares bulbi
-Crus posteriorde la c‚psula interna
+Crus posteriorde la c√¢psula interna
 Radiatio thalamica posterior
 Pars sublentiformis
 Radiatio acust;Fibrae 
@@ -6556,7 +6558,7 @@ Fibrae associationis telencephali
 Fibrae arcuatae cerebri
 Cingulum
 Fasciculus longitudinales inferior
-Fasciculus longitudinales super;Superior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal super;Fasc\xe2\x84\xa2culo
+Fasciculus longitudinales super;Superior longitudinal fascicu;Fasc√≠culo longitudinal super;Fasc√≠culo
 Fibrae associationis longae
 Fibrae associationis breves
 Fasciculus uncinatus
@@ -6606,7 +6608,7 @@ Cellulae cholinergicae globi pallidi
 Cellulae cholinergicae globi pallidi
 Cellulae cholinergicae substantiae
 Cellulae cholinergicae areae tegmentalis
-Cellulae cholinergicae epithalamicae [
+Cellulae cholinergicae epithalamicae [Ch7]
 Pars peripher;Systema
 Ganglion
 Capsula ganglii
@@ -6655,19 +6657,19 @@ Nn. vasorum
 Nervi craniales
 N. terminalis [0]
 Ganglion terminale
-Nervus olfactorius [
+Nervus olfactorius [I]
 Fila olfactoria
-Nervus opticus [
-Nervus oculomotorius [
+Nervus opticus [II]
+Nervus oculomotorius [II
 R. superior
 R. inferior
 Ramus ad ganglion cili;Radix
-Nervus trochlearis [
-Nervus trigeminus [
+Nervus trochlearis [IV]
+Nervus trigeminus [V]
 Radix sensoria
 Ganglion trigeminale
 Radix motoria
-Nervus ophthalmicus [; V1]
+Nervus ophthalmicus [V1]
 R. meningeus recurr;R. tentorius
 N. lacrimalis
 R. communicans cum nervo zygomatico
@@ -6688,7 +6690,7 @@ Rr. nasales mediales
 R. nasalis externus
 N. infratrochlearis
 Rr. palpebrales
-Nervus maxillaris [; V2]
+Nervus maxillaris [V2]
 R. meningeus
 Rr. ganglionares ad ganglion
 Rr. orbitales
@@ -6715,7 +6717,7 @@ Rr. palpebrales inferiores
 Rr. nasales externi
 Rr. nasales interni
 Rr. labiales superiores
-Nervus mandibularis [; V3]
+Nervus mandibularis [V3]
 R. mening;N. spinosus
 N. pterygoideus medialis
 Rr. ganglionares ad ganglion oti;Radix
@@ -6749,8 +6751,8 @@ N. mentalis
 Rr. mentales
 Rr. labiales
 Rr. gingivales
-Nervus abducens [
-Nervus facialis [
+Nervus abducens [VI]
+Nervus facialis [VI
 Geniculum
 N. stapedius
 N. auricularis posterior
@@ -6772,7 +6774,7 @@ N. petrosus ma;Radix parasympathica
 Chorda tymp;Radix parasympathica
 R. communicans cum plexu tympanico
 R. communicans cum nervo vago
-Nervus vestibulocochlearis [
+Nervus vestibulocochlearis [VI
 Nervus vestibularis
 Ganglion vestibulare
 R. communicans cochlearis
@@ -6786,7 +6788,7 @@ N. ampullaris posterior
 N. saccularis
 Nervus cochlearis
 Ganglion cochle;Ganglion spirale cochleae
-Nervus glossopharyngeus [
+Nervus glossopharyngeus [IX]
 Ganglion superius
 Ganglion inferius
 N. tympanicus
@@ -6804,7 +6806,7 @@ N. petrosus mi;Radix parasympathica
 R. communicans cum ramo meningeo
 R. communicans cum nervo 
 R. communicans cum chorda tympani
-Nervus vagus [
+Nervus vagus [X]
 Ganglion superius
 R. meningeus
 R. auricularis
@@ -6836,14 +6838,14 @@ Rr. gastrici posteriores
 N. curvaturae minoris posterior
 Rr. coeliaci
 Rr. renales
-Nervus accessorius [
+Nervus accessorius [XI]
 Radix crania;Pars vagalis
 Radix spina;Pars spinalis
 Tr\nuncus nervi accessorii
 R. internus
 R. externus
 Rr. musculares
-Nervus hypoglossus [
+Nervus hypoglossus [XI
 Rr. linguales
 Nervi spinales
 NE
@@ -6937,7 +6939,7 @@ Nn. digitales dorsales
 N. axillaris
 Rr. musculares
 N. cutaneus brachii lateralis superior
-NE
+NERVI THORACICI [T1-T12]
 Rami posterio;Rami dorsales
 R. medialis
 R. lateralis
@@ -7044,9 +7046,9 @@ R. superficialis
 Nn. digitales plantares communes
 Nn. digitales plantares proprii
 R. profundus
-Divisio autonom;Pars autonomica 
-PA
-Tr\nuncus sympathicus
+Divisio autonom;Pars autonomica systematis nervosi peripherici
+PARS SYMPATHICA
+Truncus sympathicus
 Ganglion trunci sympathici
 Rr. interganglionares
 Rr. communicantes
@@ -7085,7 +7087,7 @@ Ganglia sacralia
 Nn. splanchnici sacrales
 Ganglion impar
 Paraganglia sympathica
-PA
+PARS PARASYMPATHICA
 Pars cranialis
 Ganglion ciliare
 Radix parasympath;Radix oculomoto;
@@ -7132,7 +7134,7 @@ Plexus vertebralis
 Pars thoracica
 Plexus aorticus thoracicus
 Plexus cardiacus
-Ganglia card\xe2\x84\xa2aca 
+Ganglia card√≠aca 
 Plexus oesophageus
 Plexus pulmonalis
 Rr. pulmonales
@@ -7979,11 +7981,11 @@ The;Eminentia thenaris
 Hypothe;Eminentia hypothenaris
 Regio metacarpalis
 Digiti manus
-Pol;Digitus primus [
-In;Digitus secundus [
-Digitus med;Digitus tertius [
-Digitus anula;Digitus quartus [
-Digitus mini;Digitus quintus [
+Pol;Digitus primus [I]
+In;Digitus secundus [II]
+Digitus med;Digitus tertius [II
+Digitus anula;Digitus quartus [IV]
+Digitus mini;Digitus quintus [V]
 Facies palmares digitorum
 Facies dorsales digitorum
 Regiones membri inferioris
@@ -8022,11 +8024,11 @@ Crena ana; crena ; crena interglutealis
 Regio tarsalis
 Regio metatarsalis
 Digiti pedis
-Hal;Digitus primus [
-Digitus secundus [
-Digitus tertius [
-Digitus quartus [
-Digitus mini;Digitus quintus [
+Hal;Digitus primus [I]
+Digitus secundus [II]
+Digitus tertius [II
+Digitus quartus [IV]
+Digitus mini;Digitus quintus [V]
 Facies plantares digitorum
 Facies dorsales digitorum
 O;Systema skeletale
@@ -8569,14 +8571,14 @@ Processus articularis super;Zygapophysis
 Facies articularis superior
 Processus articularis infer;Zygapophysis
 Facies articularis inferior
-Vertebrae cervicales [
+Vertebrae cervicales [C 
 Uncus corpo;Processus uncinatus
 Foramen transversarium
 Tuberculum anterius
 Tuberculum caroticum
 Tuberculum posterius
 Sulcus nervi spinalis
-Atlas [
+Atlas [CI]
 Massa lateralis atlantis
 Facies articularis superior
 Facies articularis inferior
@@ -8589,18 +8591,18 @@ Arcus posterior atlantis
 Sulcus arteriae vertebralis
 (Canalis arteriae vertebralis)
 Tuberculum posterius
-Axis [
+Axis [C 
 Dens axis
 Apex dentis
 Facies articularis anterior
 Facies articularis posterior
-Vertebra prominens [
-Vertebrae thoracicae [
+Vertebra prominens [C 
+Vertebrae thoracicae [TI-TXII]
 Fovea costalis superior
 Fovea costalis inferior
 Fovea costalis processus transversi
 Uncus corporis vertebrae thoracicae pri;
-Vertebrae lumbales [
+Vertebrae lumbales [L 
 Processus accessorius
 Processus costifor;Processus costalis
 Processus mammillaris
@@ -8625,13 +8627,13 @@ Cornu sacrale
 Canalis sacralis
 Hiatus sacralis
 Apex ossis sa;Apex ossis sacralis
-Os coccy;Coccyx [
+Os coccy;Coccyx [Vertebrae
 Cornu coccygeum
 Skeleton thoracis
-Costae [
-Costae verae [
-Costae spuriae [
-Costae fluitantes [
+Costae [I-
+Costae verae [I-
+Costae spuriae [VI
+Costae fluitantes [XI-
 Cartilago costalis
 Costa
 Caput costae
@@ -8646,11 +8648,11 @@ Angulus costae
 Sulcus costae
 Crista costae
 (Costa cervica;Costa colli)
-Costa prima [
+Costa prima [I]
 Tuberculum musculi scaleni anterioris
 Sulcus arteriae subclaviae
 Sulcus venae subclaviae
-Costa secunda [
+Costa secunda [II]
 Tuberositas musculi serrati anterioris
 (Costa lumbalis)
 Sternum
@@ -8662,7 +8664,7 @@ Corpus sterni
 Processus xiphoideus
 Incisurae costales
 (Ossa suprasternalia)
-Vertebrae thoracicae [
+Vertebrae thoracicae [T 
 Cavea thoracis
 Cavitas thoracis
 Apertura thoracis superior
@@ -8672,7 +8674,7 @@ Arcus costalis
 Spatium intercostale
 Angulus infrasternalis
 Ossa membri superioris
-CI
+CINGULUM PECTORALE;CINGULUM MEMBRI SUPERIORIS
 Scapula
 Facies costa;Facies anterior
 Fossa subscapularis
@@ -8686,7 +8688,9 @@ Facies articularis clavicularis
 Angulus acromialis
 Margo medialis
 Cavea thoracis
-Apertura thoracis superior/inferior
+Cavitas thoracis
+Apertura thoracis superior
+Apertura thoracis inferior
 Margo lateralis
 Margo superior
 Incisura scapulae
@@ -8709,7 +8713,7 @@ Facies articularis acromialis
 Tuberositas ligamenti coracoclavicularis
 Tuberculum conoideum
 Linea trapezoidea
-PA
+PARS LIBERA MEMBRI SUPERIORIS
 Humerus
 Caput humeri
 Collum anatomicum
@@ -8791,7 +8795,7 @@ Os capitatum
 Os hamatum
 Hamulus ossis hamati
 Sulcus carpi
-Ossa metaca;Ossa metacarpalia [
+Ossa metaca;Ossa metacarpalia [I-
 Basis ossis metacarpalis
 Corpus ossis metacarpale
 Caput ossis metacarpale
@@ -9004,12 +9008,12 @@ Os cuboideum
 Sulcus tendinis musculi fibularis lo;
 Tuberositas ossis cuboidei
 Processus calcaneus
-Ossa metata;Ossa metatarsalia [
+Ossa metata;Ossa metatarsalia [I-
 Basis ossis metatarsalis
 Corpus ossis metatarsale
 Caput ossis metatarsale
-Tuberositas ossis metatarsi primi [
-Tuberositas ossis metatarsi quinti [
+Tuberositas ossis metatarsi primi [I]
+Tuberositas ossis metatarsi quinti [V]
 Ossa digito;Phalanges
 Phalanx proximalis
 Phalanx media
@@ -9356,7 +9360,7 @@ Pars tibiotalaris posterior
 Lig. collatelare laterale
 Lig. talofibulare anterius
 Lig. talofibullare posterius
-Lig. calc‚neofibulare
+Lig. calc√¢neofibulare
 Articulatio subtala;Articulatio talocalcanea
 Lig. talocalcaneum laterale
 Lig. talocalcaneum mediale
@@ -10758,29 +10762,29 @@ Bronchus principalis dexter
 Bronchus principalis sinister
 Bronchi lobares et segmentales
 Bronchus lobaris superior dexter
-Bronchus segmentalis apicalis [
-Bronchus segmentalis posterior [
-Bronchus segmentalis anterior [
+Bronchus segmentalis apicalis [B 
+Bronchus segmentalis posterior [B 
+Bronchus segmentalis anterior [B 
 Bronchus lobaris medius
-Bronchus segmentalis lateralis [
-Bronchus segmentalis medialis [
+Bronchus segmentalis lateralis [B 
+Bronchus segmentalis medialis [B 
 Bronchus lobaris inferior dexter
-Bronchus segmentalis superior [
+Bronchus segmentalis superior [B 
 Bronchus segmentalis basalis media;
 Bronchus segmentalis basalis
-Bronchus segmentalis basalis lateralis [
-Bronchus segmentalis basalis posterior [
+Bronchus segmentalis basalis lateralis [B 
+Bronchus segmentalis basalis posterior [B 
 Bronchus lobaris superior sinister
 Bronchus segmentalis apicoposterior
-Bronchus segmentalis anterior [
-Bronchus lingularis superior [
-Bronchus lingularis inferior [
+Bronchus segmentalis anterior [B 
+Bronchus lingularis superior [B 
+Bronchus lingularis inferior [B 
 Bronchus lobaris inferior sinister
-Bronchus segmentalis superior [
+Bronchus segmentalis superior [B 
 Bronchus segmentalis basalis media;
 Bronchus segmentalis basalis anterior
-Bronchus segmentalis basalis lateralis [
-Bronchus segmentalis basalis posterior [
+Bronchus segmentalis basalis lateralis [B 
+Bronchus segmentalis basalis posterior [B 
 Bronchi intrasegmentales
 Tunica fibromusculocartilaginea
 Tela submucosa
@@ -10811,29 +10815,29 @@ Fissura horizontalis pulmonis dextri
 Vasa sanguinea intrapulmonalia
 Segmenta bronchopulmonalia
 Pulmo dexter
-Segmentum apicale [
-Segmentum posterius [
-Segmentum anterius [
+Segmentum apicale [S 
+Segmentum posterius [S 
+Segmentum anterius [S 
 Pulmo dexter
-Segmentum laterale [
-Segmentum mediale [
+Segmentum laterale [S 
+Segmentum mediale [S 
 Pulmo dexter
-Segmentum superius [
+Segmentum superius [S 
 Segmentum basale medi;Segmentum
-Segmentum basale anterius [
-Segmentum basale laterale [
-Segmentum basale posterius [
+Segmentum basale anterius [S 
+Segmentum basale laterale [S 
+Segmentum basale posterius [S 
 Pulmo sinister
-Segmentum apicoposterius [
-Segmentum anterius [
-Segmentum lingulare superius [
-Segmentum lingulare inferius [
+Segmentum apicoposterius [S 
+Segmentum anterius [S 
+Segmentum lingulare superius [S 
+Segmentum lingulare inferius [S 
 Pulmo sinister
-Segmentum superius [
+Segmentum superius [S 
 Segmentum basale medi;Segmentum
-Segmentum basale anterius [
-Segmentum basale laterale [
-Segmentum basale posterius [
+Segmentum basale anterius [S 
+Segmentum basale laterale [S 
+Segmentum basale posterius [S 
 Bronchioli
 Lobulus
 Cavitas thora;Thoracic cav;Thorax
@@ -11432,7 +11436,7 @@ V. centralis
 Glandulae suprarenales accessoriae
 Insulae pancreaticae
 Glandula pinealis
-Nota a la ediciÛn espa\xc5\x92ola:
+Nota a la edici√≥n espa\xc5\x92ola:
 Systema cardiovasculare
 Vas sanguineum
 Anastomosis arteriolovenula;Arteriolovenular anastomo;
@@ -13182,7 +13186,7 @@ Prosencephalon
 Diencephalon
 Telencephalon
 Tr\nuncus encephali
-Myelencepha;Medulla oblong;Myelencepha;Medulla oblong;MielencÈf;MÈdula oblong;Bulbo 
+Myelencepha;Medulla oblong;Myelencepha;Medulla oblong;Mielenc√©f;M√©dula oblong;Bulbo 
 Pons
 Mesencephalon
 MY
@@ -13342,7 +13346,7 @@ Nucleus interfascicularis nervi hypoglossi
 Nucleus reticularis intermedius
 Nucleus reticularis lateralis
 Nucleus gigantocellularis
-Nucleus reticularis intermedius\xe2\x80\xa6ste ha sido descrito en el encÈfalo humano. 
+Nucleus reticularis intermedius\xe2\x80\xa6ste ha sido descrito en el enc√©falo humano. 
 Pars magnocellularis
 Pars parvocellularis
 Pars subtrigeminalis
@@ -13438,7 +13442,7 @@ Subnucleus oralis
 Nucleus principalis nervi trigemini
 Lemniscus spinalis
 Lemniscus trigeminalis
-Nucleus principalis nervi trigemini\xe2\x80\xa6ste es el tÈrmino recomendado
+Nucleus principalis nervi trigemini\xe2\x80\xa6ste es el t√©rmino recomendado
 Nucleus posteromedialis
 Nucleus anterolateralis
 Nucleus mesencephalicus nervi trigemini
@@ -13571,7 +13575,7 @@ Lemniscus medialis
 Lemniscus trigeminales
 Fasciculus longitudinalis medialis
 Tractus mesencephalicus nervi trigemini
-Fasciculus longitudinalis poster;Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culo
+Fasciculus longitudinalis poster;Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culo
 Tractus rubronuclearis
 Tractus rubrospinalis
 Tractus rubroolivaris
@@ -13674,9 +13678,9 @@ Nucleus parapeduncularis
 CE
 Fissurae cerebelli
 Folia cerebelli
-Hemispherium cerebelli [
+Hemispherium cerebelli [H 
 Vallecula cerebelli
-Vermis cerebelli [
+Vermis cerebelli [Lobuli 
 Vestibulocerebellum
 Spinocerebellum
 Pontocerebellum
@@ -13685,52 +13689,52 @@ Paleocerebellum
 Neocerebellum
 Corpus cerebelli
 Lobus cerebelli anterior
-Lingula cerebelli [
+Lingula cerebelli [I]
 Colliculus superior
 Vestibulocerebellum-neocerebellum
 Fissura precentra;Fissura postlingualis
-Lobulus centralis [
-Pars anter;Pars ventralis [
-Pars poster;Pars dorsalis [
+Lobulus centralis [II et 
+Pars anter;Pars ventralis [II]
+Pars poster;Pars dorsalis [II
 Ala lobuli centralis
-Pars infer;Pars ventralis [
-Pars super;Pars dorsalis [
+Pars infer;Pars ventralis [H 
+Pars super;Pars dorsalis [H 
 Fissura preculmina;Fissura postcentralis
-Culmen [
-Pars anter;Pars ventralis [
+Culmen [IV et 
+Pars anter;Pars ventralis [IV]
 Fissura intraculminalis
-Pars poster;Pars dorsalis [
+Pars poster;Pars dorsalis [V]
 Lobulus quadrangularis anterior 
-Pars anter;Pars ventralis [
-Pars poster;Pars dorsalis [
+Pars anter;Pars ventralis [H 
+Pars poster;Pars dorsalis [H 
 Fissura pr;Fissura preclivalis
 Lobus cerebelli posterior
-Lobulus simplex [
-Declive [
-Lobulus quadrangularis posterior [
+Lobulus simplex [H 
+Declive [VI]
+Lobulus quadrangularis posterior [H 
 Fissura posterior super;Fissura post 
-Folium vermis [
+Folium vermis [VI
 Lobuli semiluna;Lobulus ansiformis
 Lobulus semilunaris super;Crus primum
 Fissurae horizonta;Fissura intercruralis
 Lobulus semilunaris infer;Crus
 Fissura lunograci;Fissura 
-Tuber [
+Tuber [Vll 
 Lobulus graci;Lobulus paramedianus
 Fissura prebiventra;Fissura prepyramidalis
-Pyramis [
-Lobulus biventer [
+Pyramis [VI
+Lobulus biventer [H 
 Pars lateralis lobuli biventra;Pars
 Fissura intrabiventra;Fissura anterior
 Pars medialis lobuli biventra;Lobulus
 Fissura secu;Fissura postpyramidalis
-Uvula [
+Uvula [IX]
 Tonsilla cerebe;Paraflocculus ventralis
 Fissura posterolateralis
 Lobus flocculonodularis
-Nodulus [
+Nodulus [X]
 Pedunculus flocculi
-Flocculus [
+Flocculus [HX]
 Arbor vitae
 Cortex cerebelli
 Stratum granulosum
@@ -14172,12 +14176,12 @@ Allocortex
 Mesocortex
 Isocortex
 Strata isocorticis
-Lamina molecularis [
-Lamina granularis externa [
-Lamina pyramidalis externa [
-Lamina granularis interna [
-Lamina pyramidalis interna [
-Lamina multiformis [
+Lamina molecularis [Lamina 
+Lamina granularis externa [Lamina 
+Lamina pyramidalis externa [Lamina 
+Lamina granularis interna [Lamina 
+Lamina pyramidalis interna [Lamina 
+Lamina multiformis [Lamina 
 Stria laminae molecularis
 Stria laminae granularis externae
 Stria laminae granularis internae
@@ -14258,7 +14262,7 @@ Nucleus septofimbrialis
 Nucleus triangularis septi
 Organum subfornicale
 Pars basalis telencephali
-Corpus amygdaloideum\xe2\x80\xa6ste fue considerado como una parte constitutiva de los nuclei basalisen las terminolog\xe2\x84\xa2as previas
+Corpus amygdaloideum\xe2\x80\xa6ste fue considerado como una parte constitutiva de los nuclei basalisen las terminolog√≠as previas
 Nucleus striae terminalis/pars sublenticularis amygdalae/substantia innominata
 Nuclei basales et structurae pertinentes
 Nucleus caudatus
@@ -14306,7 +14310,7 @@ Fibrae occipitotectales
 Radiatio opt;Fibrae geniculocalcarinae
 Nuclei basales et structurae pertinentes
 Fibrae corticonucleares bulbi
-Crus posteriorde la c‚psula interna
+Crus posteriorde la c√¢psula interna
 Radiatio thalamica posterior
 Pars sublentiformis
 Radiatio acust;Fibrae 
@@ -14324,7 +14328,7 @@ Fibrae associationis telencephali
 Fibrae arcuatae cerebri
 Cingulum
 Fasciculus longitudinales inferior
-Fasciculus longitudinales super;Superior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal super;Fasc\xe2\x84\xa2culo
+Fasciculus longitudinales super;Superior longitudinal fascicu;Fasc√≠culo longitudinal super;Fasc√≠culo
 Fibrae associationis longae
 Fibrae associationis breves
 Fasciculus uncinatus
@@ -14374,7 +14378,7 @@ Cellulae cholinergicae globi pallidi
 Cellulae cholinergicae globi pallidi
 Cellulae cholinergicae substantiae
 Cellulae cholinergicae areae tegmentalis
-Cellulae cholinergicae epithalamicae [
+Cellulae cholinergicae epithalamicae [Ch7]
 Pars peripher;Systema
 Ganglion
 Capsula ganglii
@@ -14423,19 +14427,19 @@ Nn. vasorum
 Nervi craniales
 N. terminalis [0]
 Ganglion terminale
-Nervus olfactorius [
+Nervus olfactorius [I]
 Fila olfactoria
-Nervus opticus [
-Nervus oculomotorius [
+Nervus opticus [II]
+Nervus oculomotorius [II
 R. superior
 R. inferior
 Ramus ad ganglion cili;Radix
-Nervus trochlearis [
-Nervus trigeminus [
+Nervus trochlearis [IV]
+Nervus trigeminus [V]
 Radix sensoria
 Ganglion trigeminale
 Radix motoria
-Nervus ophthalmicus [; V1]
+Nervus ophthalmicus [V1]
 R. meningeus recurr;R. tentorius
 N. lacrimalis
 R. communicans cum nervo zygomatico
@@ -14456,7 +14460,7 @@ Rr. nasales mediales
 R. nasalis externus
 N. infratrochlearis
 Rr. palpebrales
-Nervus maxillaris [; V2]
+Nervus maxillaris [V2]
 R. meningeus
 Rr. ganglionares ad ganglion
 Rr. orbitales
@@ -14483,7 +14487,7 @@ Rr. palpebrales inferiores
 Rr. nasales externi
 Rr. nasales interni
 Rr. labiales superiores
-Nervus mandibularis [; V3]
+Nervus mandibularis [V3]
 R. mening;N. spinosus
 N. pterygoideus medialis
 Rr. ganglionares ad ganglion oti;Radix
@@ -14517,8 +14521,8 @@ N. mentalis
 Rr. mentales
 Rr. labiales
 Rr. gingivales
-Nervus abducens [
-Nervus facialis [
+Nervus abducens [VI]
+Nervus facialis [VI
 Geniculum
 N. stapedius
 N. auricularis posterior
@@ -14540,7 +14544,7 @@ N. petrosus ma;Radix parasympathica
 Chorda tymp;Radix parasympathica
 R. communicans cum plexu tympanico
 R. communicans cum nervo vago
-Nervus vestibulocochlearis [
+Nervus vestibulocochlearis [VI
 Nervus vestibularis
 Ganglion vestibulare
 R. communicans cochlearis
@@ -14554,7 +14558,7 @@ N. ampullaris posterior
 N. saccularis
 Nervus cochlearis
 Ganglion cochle;Ganglion spirale cochleae
-Nervus glossopharyngeus [
+Nervus glossopharyngeus [IX]
 Ganglion superius
 Ganglion inferius
 N. tympanicus
@@ -14572,7 +14576,7 @@ N. petrosus mi;Radix parasympathica
 R. communicans cum ramo meningeo
 R. communicans cum nervo 
 R. communicans cum chorda tympani
-Nervus vagus [
+Nervus vagus [X]
 Ganglion superius
 R. meningeus
 R. auricularis
@@ -14604,14 +14608,14 @@ Rr. gastrici posteriores
 N. curvaturae minoris posterior
 Rr. coeliaci
 Rr. renales
-Nervus accessorius [
+Nervus accessorius [XI]
 Radix crania;Pars vagalis
 Radix spina;Pars spinalis
 Tr\nuncus nervi accessorii
 R. internus
 R. externus
 Rr. musculares
-Nervus hypoglossus [
+Nervus hypoglossus [XI
 Rr. linguales
 Nervi spinales
 NE
@@ -14900,7 +14904,7 @@ Plexus vertebralis
 Pars thoracica
 Plexus aorticus thoracicus
 Plexus cardiacus
-Ganglia card\xe2\x84\xa2aca 
+Ganglia card√≠aca 
 Plexus oesophageus
 Plexus pulmonalis
 Rr. pulmonales

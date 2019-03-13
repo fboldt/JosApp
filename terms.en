@@ -56,7 +56,7 @@ Nose
 Mouth
 Chin
 Neck
-Tr\nunk
+Trunk
 Thorax
 Front of chest
 Abdomen
@@ -150,7 +150,7 @@ Lesser supraclavicular fossa
 Lateral cervical reg;Posterior 
 Omoclavicular trian;Subclavian
 Greater supraclavicular fossa
-El uso de este tÈrmino difiere en la pr‚ctica. 
+ Planes -- lines and regions
 Posterior cervical region
 Anterior and lateral thoracic regions
 Presternal region
@@ -188,16 +188,16 @@ Brachial region
 Anterior region of arm
 Lateral bicipital groove
 Medial bicipital groove
-Posterior region of arm
+Posterior region of arm posterior
 Cubital region
 Anterior region of elbow
 Cubital fossa
 Posterior region of elbow
 Antebrachial region
 Anterior region of forearm
-La parte de la regiÛn pectoral situada entre las l\xe2\x84\xa2neas axilares anterior y posterior.*
-Este tri‚ngulo est‚ delimitado por el borde lateral del m. trapezius
-Un tri‚ngulo o rombo inconstante a travÈs del cual pueden drenar abscesos o producirse una hernia. 
+Lateral pectoral region
+Este tri√¢ngulo est√¢ delimitado por el borde lateral del m. trapezius
+Un tri√¢ngulo o rombo inconstante a trav√©s del cual pueden drenar abscesos o producirse una hernia. 
 Posterior region of forearm
 Radial bor;Lateral border
 Ulnar bor;Medial border
@@ -211,11 +211,11 @@ Thenar eminence
 Hypothenar eminence
 Metacarpal region
 Digits of h;Fingers including 
-I]
-II]
-II
-IV]
-V]
+Thumb
+Index finger
+Middle finger
+Ring finger
+Little finger
 Palmar surfaces of fingers
 Dorsal surfaces of fingers
 Regions of lower limb
@@ -254,11 +254,11 @@ La hendidura entre las nalgas
 Ankle region
 Metatarsal region
 Digits of f;Toes
-I]
-II]
-II
-IV]
-V]
+Great toe [I]
+Second toe [II]
+Third toe [III]
+Fourth toe [IV]
+Little ;Fifth toe [V]
 Plantar surfaces of toes
 Dorsal surfaces of toes
 Bo;Skeletal system
@@ -307,7 +307,7 @@ Nutrient canal
 Ossification centre
 Primary
 Secondary
-La capa incompleta de cÈlulas Ûseas que algunas veces se observa en la superficie interior de los huesos constituye el endosteum
+Endosteum
 Cranium
 Facial asp;Frontal aspect
 Superior asp;Vertical aspect
@@ -374,7 +374,7 @@ Incisive foramina
 Palatovaginal canal
 Vomerovaginal canal
 Vomerorostral canal
-Orbit\xc3\xaerbita
+Orbit
 Orbital cavity
 Orbital opening
 Orbital margin
@@ -418,13 +418,13 @@ Inferior temporal line
 Parietal tu;Parietal eminence
 Occipital border
 Squamosal border
-El meato nasal com\xc5\x93n es la porciÛn de la cavidad nasal situada entre los cornetes y el tabique nasal.'b'
+Common nasal meatus
 Sagittal border
 Frontal border
-Frontal angle\xc3\xa7ngulo frontal
-Occipital angle\xc3\xa7ngulo occipital
-Sphenoidal angle\xc3\xa7ngulo esfenoidal
-Mastoid angle\xc3\xa7ngulo mastoideo
+Frontal angle
+Occipital angle
+Sphenoidal angle
+Mastoid angle
 Parietal foramen
 Frontal bone
 Squamous part
@@ -741,7 +741,7 @@ Mental tubercle
 Mental foramen
 Oblique line
 Digastric fossa
-Superior mental sp; superior  
+Superior mental spine; superior genial spine
 Inferior mental sp;Inferior  
 Mylohyoid line
 (Mandibular torus)
@@ -756,7 +756,7 @@ Alveolar yokes
 Retromolar triangle
 Retromolar fossa
 Ramus of mandible
-Angle of mandible\xc3\xa7ngulo de la mand\xe2\x84\xa2bula
+Angle of mandible
 (Masseteric tuberosity)
 (Pterygoid tuberosity)
 Mandibular foramen
@@ -801,42 +801,42 @@ Superior articular process
 Superior articular facet
 Inferior articular process
 Inferior articular facet
-C 
+Cervical vertebrae [CI-CVII]
 Uncus of b;Uncinate process
 Foramen transversarium
 Anterior tubercle
 Carotid tubercle
 Posterior tubercle
 Groove for spinal nerve
-C 
+Atlas [CI]
 Lateral mass
 Superior articular surface
 Inferior articular surface
 Anterior arch
 Facet for dens
 Anterior tubercle
-La curvatura primaria de la columna vertebral resulta de la flexiÛn ventral del embriÛn y persiste en las regiones tor‚cica (kyphosis thoracica)y lumbar (kyphosis sacralis).*
-Las curvaturas secundarias de la columna vertebral (lordosis cervicalisylordosis lumbalis)son cÛncavas dorsalmente y son funcionales antes que estructu-rales
+Primary curvature
+Secondary curvatures
 Posterior arch
 Groove for vertebral artery
 (Canal for vertebral artery)
 Posterior tubercle
-C 
+Axis [CII]
 Dens
 Apex
 Anterior articular facet
 Posterior articular facet
-C 
-T 
+Vertebra prominens [CVII]
+Thoracic vertebrae [TI-TXII]
 Superior costal facet
 Inferior costal facet
 Transverse costal facet
 Uncus of body of first thoracic 
-L 
+Lumbar vertebrae [LI-LV]
 Accessory process
 Costal process
 Mammillary process
-I - 
+Sacrum [sacral vertebrae I-V]
 Base
 Promontory
 ;Wing
@@ -857,13 +857,13 @@ Sacral co;Sacral horn
 Sacral canal
 Sacral hiatus
 Apex
-Vertebrae
+Coccyx [Coccygeal vertebrae I
 Coccygeal cornu
 Thoracic skeleton
-I-
-I-
+XI
 VI
-XI-
+II-
+XI
 Costal cartilage
 Rib
 Head
@@ -874,27 +874,27 @@ Crest
 B;Shaft
 Tubercle
 Articular facet
-Angle\xc3\xa7ngulo
+Angle
 Costal groove
 Crest
 (Cervical rib)
-I]
+First rib [I]
 Scalene tubercle
 Groove for subclavian artery
 Groove for subclavian vein
-II]
+Second rib [II]
 Tuberosity for serratus anterior
 (Lumbar rib)
 Sternum
 Manubrium of sternum
 Clavicular notch
 Jugular no;Suprasternal notch
-Sternal angle\xc3\xa7ngulo infraesternal
+Sternal angle
 Body of sternum
 Xiphoid process
 Costal notches
 (Suprasternal bones)
-T 
+Thoracic vertebrae [TI-TXII]
 Thoracic cage
 Thoracic cavity
 Superior thoracic apert;Thoracic inlet
@@ -902,9 +902,9 @@ Inferior thoracic apert;Thoracic outlet
 Pulmonary groove
 Costal mar;Costal arch
 Intercostal space
-Infrasternal an;Subcostal angle\xc3\xa7ngulo infraesternal
+Infrasternal an;Subcostal angle
 Bones of upper limb
-NG
+PECTORAL GIRDLE;SHOULDER GIRDLE
 Scapula
 Costal surface
 Subscapular fossa
@@ -915,16 +915,18 @@ Supraspinous fossa
 Infraspinous fossa
 Acromion
 Clavicular facet
-Acromial angle\xc3\xa7ngulo acromial
+Acromial angle
 Medial border
-El tÈrmino compages thoracisfue introducido en la cuarta ediciÛn de la 
-Los tÈrminos \xc3\x92thoracic inlet\xc3\x93 y \xc3\x92thoracic outlet\xc3\x93 han sido utilizados de forma diferente por los cl\xe2\x84\xa2nicos. 
+Thoracic cage
+Thoracic cavity
+Superior thoracic aperture; Thoracic inlet
+Inferior thoracic aperture; Thoracic outlet
 Lateral border
 Superior border
 Suprascapular notch
-Inferior angle\xc3\xa7ngulo inferior
-Lateral angle\xc3\xa7ngulo lateral
-Superior angle\xc3\xa7ngulo superior
+Inferior angle
+Lateral angle
+Superior angle
 Glenoid cavity
 Supraglenoid tubercle
 Infraglenoid tubercle
@@ -1023,7 +1025,7 @@ Capitate
 Hamate
 Hook of hamate
 Carpal groove
-I-
+V]
 Base
 Sh;Body
 Head
@@ -1094,7 +1096,7 @@ Inferior pubic ramus
 Pelvis
 Pelvic cavity
 Pubic arch
-Subpubic angle\xc3\xa7ngulo subpubiano
+Subpubic angle
 Greater pel;False pelvis
 Lesser pel;True pelvis
 Linea terminalis
@@ -1153,8 +1155,8 @@ Superior articular surface
 Medial condyle
 Lateral condyle
 Fibular articular facet
-Anterior intercondylar area\xc3\xa7rea intercond\xe2\x84\xa2lea anterior
-Posterior intercondylar area\xc3\xa7rea intercond\xe2\x84\xa2lea posterior
+Anterior intercondylar area
+Posterior intercondylar area
 Intercondylar eminence
 Medial intercondylar tubercle
 Lateral intercondylar tubercle
@@ -1236,12 +1238,12 @@ Cuboid
 Groove for tendon of fibularis lon;
 Tuberosity
 Calcaneal process
-I-
+V]
 Base
 Sh;Body
 Head
-I]
-V]
+Tuberosity of first metatarsal bone [I]
+Tuberosity of fifth metatarsal bone [V]
 Phalanges
 Proximal phalanx
 Middle phalanx
@@ -1596,7 +1598,7 @@ Posterior talocalcaneal ligament
 Transverse tarsal joint
 Talocalcaneonavicular joint
 Plantar calcaneonavicular ligam;
-Calc‚neocuboid joint
+Calc√¢neocuboid joint
 Cuneonavicular joint
 Intercuneiform joints
 Tarsal ligaments
@@ -1675,9 +1677,9 @@ Fascia of trunk
 Parietal fascia
 Extraserosal fascia
 Visceral fascia
-La palabra latina insertiosignifica fijaciÛn. 
-En el sentido usado aqu\xe2\x84\xa2
-Fascia parietalisse refiere a un tÈrmino genÈrico para denominar la fascia situada en la superficiede la hoja parietal de una serosa (pericardium
+La palabra latina insertiosignifica fijaci√≥n. 
+En el sentido usado aqu√≠
+Fascia parietalisse refiere a un t√©rmino gen√©rico para denominar la fascia situada en la superficiede la hoja parietal de una serosa (pericardium
 Fascia of limbs
 Fascia of muscles
 Investing layer
@@ -1829,9 +1831,9 @@ Spinalis cervicis
 Spinalis capitis
 Spinotransversales
 Splenius 
-La gl‚ndula tiroides est‚ adherida a los cart\xe2\x84\xa2lagos tiroides y cricoides y a la tr‚quea por el engrosamiento de la fascia pretraqueal. 
-Los m\xc5\x93sculos bajo este encabezamiento son los m\xc5\x93sculos epiaxiales
-Generalmente considerado como la parte m‚s medial del m. semiespinalis capitis
+La gl√¢ndula tiroides est√¢ adherida a los cart√≠lagos tiroides y cricoides y a la tr√¢quea por el engrosamiento de la fascia pretraqueal. 
+Los m√∫sculos bajo este encabezamiento son los m√∫sculos epiaxiales
+Generalmente considerado como la parte m√¢s medial del m. semiespinalis capitis
 Splenius capitis
 Splenius cervicis
 Transversospinales
@@ -1934,8 +1936,8 @@ Fascia of individual intraperitoneal
 Extraperitoneal fascia
 Extraperitoneal ligament
 Parietal abdominal fas;
-Los elementos han sido enumerados de dentro afuera e incluyen tÈrminos que han sido considerados como parte de la fascia abdominis.
-Este tÈrmino es usado a veces genÈricamente para incluir no sÛlo la fascia parietal
+Los elementos han sido enumerados de dentro afuera e incluyen t√©rminos que han sido considerados como parte de la fascia abdominis.
+Este t√©rmino es usado a veces gen√©ricamente para incluir no s√≥lo la fascia parietal
 Fascia of individual extraperitoneal
 Iliopsoas fas;Fascia iliaca
 Psoas fascia
@@ -1990,7 +1992,7 @@ Puboprostati;Levator prostatae
 Pubovaginalis
 Pubo-analis
 Un engrosamiento en la fascia transversalisbajo el ombligo. 
-Este tÈrmino es utilizado a veces genÈricamente para incluir no solamente la fascia parietal
+Este t√©rmino es utilizado a veces gen√©ricamente para incluir no solamente la fascia parietal
 Puborectalis
 Iliococcygeus
 (Tendinous arch of levator ani)
@@ -2040,7 +2042,7 @@ Anconeus
 Articularis cubiti
 Pronator teres
 Humeral head
-El tÈrmino corpus
+El t√©rmino corpus
 Ulnar head
 Flexor carpi radialis
 Palmaris longus
@@ -2271,7 +2273,7 @@ Sciatic bursa of obturator internus
 Subtendinous bursa of obturator 
 Intermuscular gluteal bursae
 Sciatic bursa of gluteus maximus
-(Bolsa ileopect\xe2\x84\xa2nea)
+(Bolsa ileopect√≠nea)
 Subtendin ous bursa of iliacus
 Superior bursa of biceps femoris
 Subcutaneous prepatellar bursa
@@ -2325,7 +2327,7 @@ Lower lip
 Frenulum of upper lip
 Frenulum of lower lip
 Labial commissure
-Angle of mouth\xc3\xa7ngulo de la boca
+Angle of mouth
 Cheek
 Buccal fat pad
 Juxta-oral organ\xc3\xaergano yuxtaoral
@@ -2361,7 +2363,7 @@ Buccal glands
 Molar glands
 Palatine glands
 Lingual glands
-Para una descripciÛn detallada de este Ûrgano secretorio mecanorreceptor ver: 
+Para una descripci√≥n detallada de este √≥rgano secretorio mecanorreceptor ver: 
 Teeth
 Maxillary dental arc;Upper dental
 Mandibular dental arc;Lower
@@ -2372,7 +2374,7 @@ Molar tooth
 Third molar to;Wisdom tooth
 Crown
 C;Cuspid
-Apex of cusp\xc3\xa7pex de la c\xc5\x93spide
+Apex of cusp
 Accessory cusp
 Tubercle
 Transverse ridge
@@ -2393,7 +2395,7 @@ Distal c;Hypoconulid
 Clinical crown
 N;Cervix
 Root
-Root apex\xc3\xa7pex de la ra\xe2\x84\xa2z
+Root apex
 Clinical root
 Occlusal surface
 Vestibular surface
@@ -2404,7 +2406,7 @@ Palatal surface
 Mesial surface
 Distal surface
 Approximal surf;Interproximal 
-Contact zone\xc3\xa7rea de contacto
+Contact zone
 Cingulum
 Marginal ridge
 Incisal margin
@@ -2510,7 +2512,7 @@ Tonsillar pits
 Tonsillar crypts
 Pharyngeal 
 (Pharyngeal bursa)
-Orificio far\xe2\x84\xa2ngeo de la trompa auditiva
+Orificio far√≠ngeo de la trompa auditiva
 Torus tubarius
 Salpingopharyngeal fold
 Salpingopalatine fold
@@ -2543,7 +2545,7 @@ Middle constrictor
 Chondropharyngeal part
 Ceratopharyngeal part
 Inferior constrictor
-Thyropharyngeal p;PorciÛn tirofar\xe2\x84\xa2n;M. tirofar\xe2\x84\xa2ngeo
+Thyropharyngeal p;Porci√≥n tirofar√≠n;M. tirofar√≠ngeo
 M. cricopharyngeus
 Stylopharyngeus
 Salpingopharyngeus
@@ -2598,7 +2600,7 @@ Submucosa
 Muc;Mucous membrane
 Gastric fo;Gastric rugae
 Muscularis mucosae
-Gastric areas\xc3\xa7reas g‚stricas
+Gastric areas
 Villous folds
 Gastric pits
 Gastric glands
@@ -2676,7 +2678,7 @@ Circular layer
 CT
 Sacral flexure
 Lateral flexures
-El orificio ileal se encuentra en el vÈrtice de la papilla ilealis.
+El orificio ileal se encuentra en el v√©rtice de la papilla ilealis.
 Superodextral lateral flex;
 Intermediosinistral lateral f1ex;
 Inferodextral lateral flex;
@@ -2715,7 +2717,7 @@ Cardiac impression
 Anterior part
 Right part
 Posterior part
-Bare area\xc3\xa7rea desnudaï
+Bare area
 Groove for vena cava
 Fissure for ligamentum venosum
 Ligamentum venosum
@@ -2767,7 +2769,7 @@ Lobules of liver
 Interlobular arteries
 Interlobular veins
 Central veins
-Estos son los tradicionales lÛbulos derecho
+Estos son los tradicionales l√≥bulos derecho
 Damme 
  partes
 Interlobular bile ducts
@@ -2793,7 +2795,7 @@ Mucosal fo;Rugae
 Cystic duct
 Spiral fold
 Bile duct
-M. esf\xe2\x84\xa2nter del conducto colÈd;
+M. esf√≠nter del conducto col√©d;
 Superior sphinter
 Inferior sphinter
 Hepatopancreatic ampu;
@@ -2874,7 +2876,7 @@ Sphenoidal sinus
 Frontal sinus
 Ethmoidal cells
 Anterior ethmoidal cells
-El meato nasal com\xc5\x93n es una parte de la cavidad nasal situada entre los cornetes y el tabique nasal.'b'
+El meato nasal com√∫n es una parte de la cavidad nasal situada entre los cornetes y el tabique nasal.'b'
 Middle ethmoidal cells
 Posterior ethmoidal cells
 RY
@@ -2973,7 +2975,7 @@ Quadrangular membrane
 Vestibular ligament
 Conus elasti;Cricovocal membrane
 Vocal ligament
-AC
+Trachea
 Cervical part
 Thoracic part
 Tracheal cartilages
@@ -2985,34 +2987,34 @@ Carina of trachea
 Muc;Mucous membrane
 Tracheal glands
 ON
-Bronchial tree\xc3\xa7rbol bronquial
+Bronchial tree
 Right main bronchus
 Left main bronchus
 Lobar and segmental bronchi
 Right superior lobar bronchus
-B 
-B 
-B 
+I]
+II]
+II
 Middle lobar bronchus
-B 
-B 
+IV]
+V]
 Right inferior lobar bronchus
-B 
+VI]
 Medial basal segmental bronchus 
 Anterior basal segmental
-B 
-B 
+IX]
+X]
 Left superior lobar bronchus
 Apicoposterior segmental bronchus
-B 
-B 
-B 
+II
+IV]
+V]
 Left inferior lobar bronchus
-B 
+VI]
 Medial basal segmental bronchus
 Anterior basal segmental bronchus
-B 
-B 
+IX]
+X]
 Intrasegmental bronchi
 Fibromusculocartilaginous layer
 Submucosa
@@ -3043,32 +3045,32 @@ Horizontal fissure of right lung
 Intrapulmonary blood vessels
 Bronchopulmonary segments
  lobus superior
-S 
-S 
-S 
+I]
+II]
+II
  lobus medius
-S 
-S 
+IV]
+V]
  lobus inferior
-S 
-Medial basal segment [
-S 
-S 
-S 
+VI]
+Medial basal segment [S 
+VI
+IX]
+X]
  lobus superior
-S 
-S 
-S 
-S 
+I + 
+II
+IV]
+V]
  lobus inferior
-S 
-Medial basal segment [
-S 
-S 
-S 
+VI]
+Medial basal segment [S 
+VI
+IX]
+X]
 Bronchioles
 Lobule
-Cavidad tor‚c;TÛrax
+Cavidad tor√¢c;T√≥rax
 Pleural cavity
 Pleura
 Visceral ple;Pulmonary pleura
@@ -3127,7 +3129,7 @@ Inner zone
 Renal papilla
 Renal crest
 Renal pyramids
-Cribriform area\xc3\xa7rea cribosa
+Cribriform area
 Openings of papillary ducts
 Renal segments
 Superior segment
@@ -3150,8 +3152,8 @@ Arcuate veins
 Cortical radiate ve;Interlobular 
 Venulae rec;Straight venules
 Stellate veins
-Las subdivisiones de la corteza y la mÈdula del ri\xc5\x92Ûn siguen las recomendaciones de la 
-Para m‚s detalles en relaciÛn con la nomenclatura de los vasos sangu\xe2\x84\xa2neos renales
+Las subdivisiones de la corteza y la m√©dula del ri\xc5\x92√≥n siguen las recomendaciones de la 
+Para m√¢s detalles en relaci√≥n con la nomenclatura de los vasos sangu√≠neos renales
 Renal pelvis
 Branching type
 Major calices
@@ -3201,7 +3203,7 @@ Ureteric orifice
 Internal urethral orif;
 Female urethra {see page 67}
 Male urethra {see page 70}
-Este tÈrmino describe el orificio de abertura de la uretra en la vejiga. 
+Este t√©rmino describe el orificio de abertura de la uretra en la vejiga. 
 Genital systems
 Female genital system
 Male genital system
@@ -3251,7 +3253,7 @@ Cervix of uterus
 Supravaginal part
 Isthmus of uterus
 Histological internal os
-El orificio histolÛgico interno es el l\xe2\x84\xa2mite inferior del isthmus uteriy puede reconocerse a simple vista: presenta endometrio supradyacentecuando est‚ sometido a cambios menstruales y mucosa cervical subyacente cuando no lo est‚. 
+El orificio histol√≥gico interno es el l√≠mite inferior del isthmus uteriy puede reconocerse a simple vista: presenta endometrio supradyacentecuando est√¢ sometido a cambios menstruales y mucosa cervical subyacente cuando no lo est√¢. 
 Vaginal part
 External os of uterus
 Anterior lip
@@ -3359,7 +3361,7 @@ Vascular layer
 Mediastinum of testis
 Septula testis
 Lobules of testis
-Este tÈrmino describe el orificio de abertura de la uretra en la vejiga. 
+Este t√©rmino describe el orificio de abertura de la uretra en la vejiga. 
 Parenchyma of testis 
 Seminiferous tubu;Convoluted
 Straight tubules
@@ -3376,8 +3378,8 @@ Aberrant ductules
 (Inferior aberrant ductule)
 Appendix of testis
 (Appendix of epididymis)
-RA
-NI
+(PARADIDYMIS)
+PERMATIC CORD
 External spermatic fascia
 Cremaster muscle
 Cremasteric fascia
@@ -3393,7 +3395,7 @@ Diverticula of ampulla
 Adventitia
 Muscular la;Muscular coat
 Muc;Mucous membrane
-AN
+ SEMINAL VESICLE; SEMINAL GLAND
 Adventitia
 Muscular la;Muscular coat
 Muc;Mucous membrane
@@ -3404,8 +3406,8 @@ Base of prostate
 Proximal part
 Peri-urethral gland zone
 Distal part
-Este tÈrmino deber\xe2\x84\xa2a ser usado en lugar de vesicula seminalis
-El tÈrmino gl‚ndula prost‚ticaha sido omitido porque la prÛstata es m‚s que su porciÛn glandular
+Este t√©rmino deber√≠a ser usado en lugar de vesicula seminalis
+El t√©rmino gl√¢ndula prost√¢ticaha sido omitido porque la pr√≥stata es m√¢s que su porci√≥n glandular
 Apex of prostate
 Anterior surface
 Posterior surface
@@ -3423,8 +3425,8 @@ Prostatic ducts
 Muscular tissue
 Puboprostaticus muscle
 Vesicoprostaticus muscle
-Trapezoid area\xc3\xa7rea trapezoidea
-AN
+Trapezoid area
+BULBO-URETHRAL GLAND
 Duct of bulbourethral gland
 Male external genitalia organs\xc3\xaerganos genitales externos masculinos
 NI
@@ -3454,8 +3456,8 @@ Helicine arteries
 Cavernous veins
 Fascia of penis
 Suspensory ligament of penis
-En el interior de cada lÛbulo prost‚tico se distinguen a simple vista cuatro lobulillos definidos por la disposiciÛn de losconductos y el tejido conectivo. 
-Un ‚rea hiperecoica que se encuentra distal a la prÛstata
+En el interior de cada l√≥bulo prost√¢tico se distinguen a simple vista cuatro lobulillos definidos por la disposici√≥n de losconductos y el tejido conectivo. 
+Un √¢rea hiperecoica que se encuentra distal a la pr√≥stata
 Subcutaneous tissue of penis
 Fundiform ligament of penis
 Preputial glands
@@ -3473,7 +3475,7 @@ Prostatic utricle
 Prostatic sinus
 Muscular la;Muscular coat
 Circular layer
-Internal urethral sphinc;M. esf\xe2\x84\xa2nter interno de la ure;Esf\xe2\x84\xa2ntersupracollicularis
+Internal urethral sphinc;M. esf√≠nter interno de la ure;Esf√≠ntersupracollicularis
 Longitudinal layer
 Muc;Mucous membrane
 External urethral sphincter
@@ -3496,11 +3498,11 @@ Raphe of scrotum
 Dartos fas;Superficial fascia
 Septum of scrotum
 Dartos muscle
-Este tÈrmino describe el orificio de abertura de la uretra en la vejiga. 
-Con el abandono del tÈrmino diafragma urogenital
+Este t√©rmino describe el orificio de abertura de la uretra en la vejiga. 
+Con el abandono del t√©rmino diafragma urogenital
 Perineum
-Female external genitalia\xc3\xaerganos genitales externos femeninos{vide paginam 66}{see page 66}{ver p‚gina 66}
-Male external genitalia\xc3\xaerganos genitales externos masculinos{vide paginam 69}{see page 69}{ver p‚gina 69}
+Female external genitalia\xc3\xaerganos genitales externos femeninos{vide paginam 66}{see page 66}{ver p√¢gina 66}
+Male external genitalia\xc3\xaerganos genitales externos masculinos{vide paginam 69}{see page 69}{ver p√¢gina 69}
 Perineal raphe
 Perineal muscles
 Muscle of anal triangle
@@ -3527,12 +3529,12 @@ Sphincter urethrovaginalis muscle
 Ischio-anal fossa
 Fat body of ischio-anal fossa
 Pudendal canal
-Este tÈrmino
-Ha sido omitido tendineumpor el tÈrmino alternativo centrum perinei.
-El tÈrmino corpus
-El saco superficial subcut‚neo es un espacio virtual entre lacapa membranosa de tejido subcut‚neo perineal y la capa superficial de la fascia de revestimiento de los m\xc5\x93sculos perineales. 
-No hay ligamento transverso del perinÈ como en la mujer. 
-El s\xe2\x84\xa2mbolo masculino aparece despuÈs del m. transver-sus perinei profundusporque en la mujer este m\xc5\x93sculo est‚ representado \xc5\x93nicamente por un m\xc5\x93sculo liso. 
+Este t√©rmino
+Ha sido omitido tendineumpor el t√©rmino alternativo centrum perinei.
+El t√©rmino corpus
+El saco superficial subcut√¢neo es un espacio virtual entre lacapa membranosa de tejido subcut√¢neo perineal y la capa superficial de la fascia de revestimiento de los m√∫sculos perineales. 
+No hay ligamento transverso del perin√© como en la mujer. 
+El s√≠mbolo masculino aparece despu√©s del m. transver-sus perinei profundusporque en la mujer este m√∫sculo est√¢ representado √∫nicamente por un m√∫sculo liso. 
 Abdominopelvic cavity
 Abdominal cavity
 Pelvic cavity
@@ -3627,7 +3629,7 @@ Recto uterine fold
 Recto-uterine pouch 
 Recto-vesical pouch
 Pararectal fossa
-Los laparoscopistas entran en el plano de tejido extraperitoneal pÈlvico a travÈs de este tri‚ngulo
+Los laparoscopistas entran en el plano de tejido extraperitoneal p√©lvico a trav√©s de este tri√¢ngulo
 Endocrine glands
 Pituitary gland
 Adenohypophysis: 
@@ -3716,7 +3718,7 @@ Base of heart
 Anterior surf;Sternocostal surface
 Diaphragmatic surf;Inferior surface
 Right/
-Aunque el tÈrmino 
+Aunque el t√©rmino 
 Right border
 Apex of heart
 Notch of cardiac apex
@@ -3813,9 +3815,9 @@ Left bundle
 Subendocardial branches
 Pericardial cavity
 Transverse pericardial sinus
-Por razones did‚cticas
+Por razones did√¢cticas
 Peque\xc5\x92as valvas accesorias que se encuentran casi siempre entre las dos valvas principales de la valva atrioventricularis sinistra.
-Por razones did‚cticas
+Por razones did√¢cticas
 Oblique pericardial sinus
 Pericardium
 Fibrous pericardium
@@ -3862,7 +3864,7 @@ Posterior segmental artery
 Ascending branch
 Descending branch
 Lingular artery
-Una membrana de tejido conjuntivo constituida principalmente de fibras col‚genas que se extiende desde la superficie anterior de la bifurcaciÛn tra-queal
+Una membrana de tejido conjuntivo constituida principalmente de fibras col√¢genas que se extiende desde la superficie anterior de la bifurcaci√≥n tra-queal
 Inferior lingular artery
 Superior lingular artery
 Inferior lobar arteries
@@ -4351,7 +4353,7 @@ Left branch
 Artery of caudate lobe
 Medial segmental artery
 Lateral segmental artery
-Las ramas del ramus dorsalisde la arteria intercostalis posteriorque entran por el foramen intervertebral son: una que discurre por detr‚s del corpus vertebrae(ramus postcentralis)
+Las ramas del ramus dorsalisde la arteria intercostalis posteriorque entran por el foramen intervertebral son: una que discurre por detr√¢s del corpus vertebrae(ramus postcentralis)
 Intermediate branch
 Splenic artery
 Pancreatic branches
@@ -4406,7 +4408,7 @@ Tubal branches
 Testicular artery
 Ureteric branches
 Epididymal branches
-Para m‚s detalles acerca de la nomenclatura de los vasos renales
+Para m√¢s detalles acerca de la nomenclatura de los vasos renales
 Cardiovascular system / 
 Aortic bifurcation
 Common iliac artery
@@ -4562,7 +4564,7 @@ Pulmonary veins
 Right superior pulmonary vein
 Apical v;Apical branch
 Intrasegmental part
-PorciÛn intersegmentaria
+Porci√≥n intersegmentaria
 Anterior v;Anterior branch
 Intrasegmental part
 Intersegmental part
@@ -4898,7 +4900,7 @@ External iliac vein
 Inferior epigastric vein
 (V. obturatoria
 Deep circumflex iliac vein
-Para m‚s detalles en relaciÛn con la nomenclatura de los vasos sangu\xe2\x84\xa2neos renales
+Para m√¢s detalles en relaci√≥n con la nomenclatura de los vasos sangu√≠neos renales
 NA
 Superficial veins of lower limb
 Great saphenous v;Long 
@@ -4934,7 +4936,7 @@ Genicular veins
 Anterior tibial veins
 Posterior tibial veins
 Fibular ve;Peroneal veins
-NA 
+HEPATIC PORTAL VEIN
 Right branch
 Anterior branch
 Posterior branch
@@ -4987,7 +4989,7 @@ Lumbar trunk
 Intestinal trunks
 Regional lymph nodes 
 Lymphoid system
-GA
+PRIMARY LYMPHOID ORGANS
 Bone marrow
 Thymus
 Lobe
@@ -4995,7 +4997,7 @@ Lobules of thymus
 Cortex of thymus
 Medulla of thymus
 (Accessory thymic lobules)
-GA
+SECONDARY LYMPHOID ORGANS
 Spleen
 Fibrous capsule
 Splenic trabeculae
@@ -5248,8 +5250,8 @@ Spinal dura mater
 Epidural space
 Arachnoid mater
 Subarachnoid sp;Leptomeningeal
-Aunque estos tÈrminos son de uso com\xc5\x93n
-Es el espacio subyacente a la hoja externa de la leptomeninge y contiene las trabÈculas aracnoideas. 
+Aunque estos t√©rminos son de uso com√∫n
+Es el espacio subyacente a la hoja externa de la leptomeninge y contiene las trab√©culas aracnoideas. 
 Cerebrospinal fluid
 Cranial arachnoid mater
 Arachnoid granulations
@@ -5391,15 +5393,15 @@ Septomarginal fasciculus
 Interfascicular fasciculus
 Gracile fasciculus
 Cuneate fasciculus
-Dentro de la sustancia blanca de la mÈdula espinal
-Estos tÈrminos se mantienen en esta ediciÛn. 
+Dentro de la sustancia blanca de la m√©dula espinal
+Estos t√©rminos se mantienen en esta edici√≥n. 
  fasciculus cuneatus
 Cuneospinal fibres
 Gracilespinal fibres
 Spinocuneate fibres
 Spinogracile fibres
 Central cord structures
-XSpinal area;Spinal lamina 
+Spinal areaX;Spinal lamina X
 Anterior grey commiss;Ventral 
 Postenor grey commiss;Dorsal 
 Anterior white commiss;Ventral
@@ -5428,12 +5430,12 @@ Lateral funiculus
 Inferior olive
 Anterior external arcuate fibres
 Retro-olivary groove:
-Retro-olivary area\xc3\xa7rea retrolivar
+Retro-olivary area
 Posterolateral sul;Dorsolateral 
-Estos tÈrminos designan aquellas fibras que se originan en cÈlulas del asta dorsal de la mÈdula espinal y ascienden por losfasc\xe2\x84\xa2culos cuneiforme y gr‚cil para terminar en sus respectivos n\xc5\x93cleos en el bulbo raqu\xe2\x84\xa2deo. 
-XEsta regiÛn de la mÈdula espinal fue llamada \xc3\x92‚rea\xc3\x93 en su descripciÛn original. 
-Son l‚minas delgadas de sustancia gris que se extienden a travÈs de la l\xe2\x84\xa2nea media adyacente al conductocentral.*
-La porciÛn entre la mÈdula espinal y el l\xe2\x84\xa2mite caudal del puente se denomina medulla oblongata.
+Estos t√©rminos designan aquellas fibras que se originan en c√©lulas del asta dorsal de la m√©dula espinal y ascienden por losfasc√≠culos cuneiforme y gr√¢cil para terminar en sus respectivos n√∫cleos en el bulbo raqu√≠deo. 
+XEsta regi√≥n de la m√©dula espinal fue llamada \xc3\x92√¢rea\xc3\x93 en su descripci√≥n original. 
+Son l√¢minas delgadas de sustancia gris que se extienden a trav√©s de la l√≠nea media adyacente al conductocentral.*
+La porci√≥n entre la m√©dula espinal y el l√≠mite caudal del puente se denomina medulla oblongata.
 Inferior cerebellar peduncle
 Restiform body
 Trigeminal tubercle
@@ -5456,7 +5458,7 @@ Decussation of medial lemnis;
 Medial lemniscus
 Tectospinal tract
 Medial longitudinal fasciculus
-Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culo
+Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culo
 Spinal tract of trigeminal nerve
 Amiculum of olive
 Spino-olivary tract
@@ -5475,8 +5477,8 @@ Hypothalamospinal fibres
 Interstitiospinal tract
 Lateral raphespinal tract
 Bulboreticulospinal tract
-En terminolog\xe2\x84\xa2as previas estos tÈrminos fueron considerados sinÛnimos. 
-El tÈrmino corticobulbar
+En terminolog√≠as previas estos t√©rminos fueron considerados sin√≥nimos. 
+El t√©rmino corticobulbar
 Medullary reticulospinal fibres
 Lateral vestibulospinal tract
 Posterior spinocerebellar tr;Dorsal
@@ -5523,7 +5525,7 @@ Posterior accessory olivary nucl;
 Medial accessory olivary nucleus
 Nucleus of hypoglossal nerve
 Posterior paramedian nucl;Dorsal
-Posterior nucleus of vagus ne;N\xc5\x93cleo posterior del nervio v;N\xc5\x93cleodorsalis nervi vagi
+Posterior nucleus of vagus ne;N√∫cleo posterior del nervio v;N√∫cleodorsalis nervi vagi
 Contiene una variedad de axones ascendentes y
  fasciculus cuneatus
 Nuclei of solitary tr;Solitary nuclei
@@ -5554,7 +5556,7 @@ Retroambiguus nucleus
 Inferior salivatory nucleus
 Arcuate nucleus
 Raphe nuclei
-Area postrema\xc3\xa7rea postrema
+Area postrema
 Endolemniscal nucleus
 Medial pericuneate nucleus
 Lateral pericuneate nucleus
@@ -5592,7 +5594,7 @@ NS
 Medullopontine sulcus
 Basilar sulcus
 Middle cerebellar peduncle
-Cerebellopontine angle\xc3\xa7ngulo pontocerebeloso
+Cerebellopontine angle
 Frenulum veli
 Superior cerebellar peduncle
 Superior medullary velum
@@ -5621,7 +5623,7 @@ Tegmentum of pons
 White substance
 Raphe of pons
 Medial longitudinal fasciculus
-Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culo
+Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culo
 Medial lemniscus
 Tectospinal tract
 Pretecto-olivars fibres
@@ -5669,7 +5671,7 @@ Spinal nucleus of trigeminal nerve
 Oral subnucleus
 Principal sensory nucleus of trigeminal
 Contiene una variedad de axones ascendentes y
-En el sentido usado aqu\xe2\x84\xa2
+En el sentido usado aqu√≠
  en lugar de nucleus pontinis nervi trigeminalis
 Posteromedial nucl;Dorsomedial
 Anterolateral nucl;Ventrolateral
@@ -5736,7 +5738,7 @@ Locus caeruleus
 Medullary stria of fourth ventricle
 Hypoglossal trig;Trigone
 Vagal trig;Trigone of vagus nerve
-Vestibular area\xc3\xa7rea vestibularï
+Vestibular area
 Funiculus separans
 Grey l;Gray l;
 Roof of fourth ventricle
@@ -5749,7 +5751,7 @@ Superior medullary velum
 Frenulum of superior medullary
 Inferior medullary velum
 Median aperture
-Area postrema\xc3\xa7rea postrema
+Area postrema
 Obex\xc3\xae;Cerrojo
 Sulcus limitans
 Superior fovea
@@ -5821,7 +5823,7 @@ Tectopontine tract
 Tectospinal tract
 Pretectoolivary fibres
 Se prefiere
-sino que est‚ situada ventrolateral a Èl y separ‚ndolo de los fasc\xe2\x84\xa2culos de fibras del crus cerebri.
+sino que est√¢ situada ventrolateral a √©l y separ√¢ndolo de los fasc√≠culos de fibras del crus cerebri.
 Contiene una variedad de axones ascendentes y
 Tecto-olivary fibres
 Tegmental decussations
@@ -5870,8 +5872,8 @@ Dissipated p;Dissipated subnucleus
 Raphe nuclei
 Posterior raphe nucl;Dorsal raphe
 Inferior linear nucleus
-Axones originados en el cÛrtex cerebral y que inervan estructuras mesencef‚licas
-Situado en la regiÛn lateral del mesencÈfalo
+Axones originados en el c√≥rtex cerebral y que inervan estructuras mesencef√¢licas
+Situado en la regi√≥n lateral del mesenc√©falo
 Intermediate linear nucleus
 Superior linear nucleus
 Aqueduct of midbr;Cerebral
@@ -5906,9 +5908,9 @@ Parapeduncular nucleus
 RE
 Cerebellar fissures
 Folia of cerebellum
-H 
+II - 
 Vallecula of cerebellum
-Lobuli 
+I-
 Vestibulocerebellum
 Spinocerebellum
 Pontocerebellum
@@ -5917,58 +5919,58 @@ Paleocerebellum
 Neocerebellum
 Body of cerebellum
 Anterior lobe of cerebellum
-I]
+Lingula [I]
 En su capa gris intermedia incluye dos capas celulares y una capa de axones.*
-Los tÈrminos vestibulocerebellumyspinocerebellumindican que neuronas del ganglio y n\xc5\x93cleos vestibulares
+Los t√©rminos vestibulocerebellumyspinocerebellumindican que neuronas del ganglio y n√∫cleos vestibulares
 Precentral fiss;Post-lingual fissure
-II et 
-II]
 II
+Anterior p;Ventral part [II]
+I]
 Wing of central lobule
-H 
-H 
+Inferior p;Ventral part [H 
+Superior p;Dorsal part [HIII]
 Preculminate fiss;Post-central fissure
-IV et 
-IV]
+Culmen [IV and V]
+Anterior p;Ventral part [IV]
 Inlraculminale fissure
-V]
+Posterior p;Dorsal part [V]
 Anterior quadrangular lobule 
-H 
-H 
+IV]
+V]
 Primary fiss;Preclival fissure
 Posterior lobe of cerebellum
-H 
+VI et 
+Declive [VI]
 VI]
-H 
 Posterior superior fiss;Post-clival
-VI
+I 
 Semilunal lobu;Ansiform lobule
 Superior semilunar lob;First crus 
 Horizontal fiss;Intercrural fissure
 Inferior semilunar lob;Second 
 Lunogracile fiss;Ansoparamedian 
-Vll 
+B]
 Gracile lob;Paramedian lobule
 Prebiventral fis;Prepyramidal fisure
+II]
 VI
-H 
-Lateral p;Pars copularis [
+Lateral p;Pars copularis [H 
 Intrabiventral fis;Anterior inferior
 Medial p;Dorsal parafloccularis
 Secondary fiss;Post-pyramidal fissure
-IX]
+Uvula [IX]\xc3\xb2vula [IX]
 Tonsil of cerebel;Ventral 
 Posterolateral fissure
 Flocculonodular lobe
-X]
+Nodule [X]
 Peduncle of flocculus
-H 
-Arbor vitae\xc3\xa7rbol de la vida
+Flocculus [HX]
+Arbor vitae
 Cerebellar cortex
 Granular layer
 Purkinje cell layer
 Molecular layer
-Se recomienda este tÈrmino antes que el de stratum neurium piriformium
+Se recomienda este t√©rmino antes que el de stratum neurium piriformium
 Cerebellar nuclei
 Dentate nucl;Nucleus lateralis 
 Hilum of dentate nucleus
@@ -6009,13 +6011,13 @@ Optic chi;Optic chiasma
 Optic tract
 Lateral root
 Medial root
-Preoptic area\xc3\xa7rea preÛptica
+Preoptic area
 Tuber cinereum
 Median eminence
 Third ventricle
 Interventricular foramen
-Los tÈrminos \xc3\x92dentado\xc3\x93
-Subfornical organ\xc3\xaergano subfornicalï
+Los t√©rminos \xc3\x92dentado\xc3\x93
+Subfornical organ\xc3\xaergano subfornical‚Ä¢
 Taenia thalami
 Choroid membrane
 Choroid plexus
@@ -6038,7 +6040,7 @@ Fasciculus retroflexus
 Lateral habenular nucleus
 Medial habenular nucleus
 Posterior commissure
-Pretectal area\xc3\xa7rea pretectal
+Pretectal area
 Pretectal nuclei
 Anterior pretectal nucleus
 Nucleus of optic tract
@@ -6146,7 +6148,7 @@ Ventral principal nucleus
 Dorsal nucleus
 Medial magnocellular nucleus
 Hypothalamus
-Anterior hypothalamic a;Anterior\xc3\xa7rea hipotal‚mica anter;RegiÛnhypothalamic regionhipotal‚mica anterior
+Anterior hypothalamic a;Anterior
 Anterior hypothalamic nucleus
 Anteriorper periventricular nucleus
 Interstitial nuclei of anterior
@@ -6160,40 +6162,40 @@ Supra-optic nucleus
 Dorsolateral part
 Dorsomedial part
 Ventromedial part
-Dorsal hypothalamic a;Dorsal\xc3\xa7rea hipotal‚mica dor;RegiÛn hipotal‚micahypothalamic regiondorsal
+Dorsal hypothalamic area;Dorsal √Årea hipotal√¢mica dor;Regi√≥n hipotal√¢micahypothalamic regiondorsal
 Dorsomedial nucleus
 Endopeduncular nucleus
 Nucleus of ansa lenticularis
-Intermediate hypothalamic a;\xc3\xa7rea hipotal‚mica interme;RegiÛn
+Intermediate hypothalamic area;Intermediate hypothalamic region
 Dorsal nucleus
 Dorsomedial nucleus
 Arcuate nucl;Infundibular nucleus
 Periventricular nucleus
 Posterior periventricular nucleus
-Retrochiasmatic a;Retrochiasmatic\xc3\xa7rea retroquiasm‚t;RegiÛnregionretroquiasm‚tica
+Retrochiasmatic a;Retrochiasmatic
 Lateral tuberal nuclei
-Las fibras del campo medial (tambiÈn llamado campo o ‚rea prerrubral)
+Las fibras del campo medial (tambi√©n llamado campo o √¢rea prerrubral)
 Ventromedial nucleus of hypothalamus
-Lateral hypothalamic area\xc3\xa7rea hipotal‚mica lateral
-Preoptic area\xc3\xa7rea preÛptica
+Lateral hypothalamic area
+Preoptic area
 Lateral tuberal nuclei
 Perifornical nucleus
 Tuberomammillary nucleus
-Posterior hypothalamic a;Posterior\xc3\xa7rea hipotal‚mica poster;RegiÛnhypothalamic regionhipotal‚mica posterior
+Posterior hypothalamic a;Posterior
 Dorsal premammillary nucleus
 Lateral nucleus of mammillary body
 Medial nucleus of mammillary body
 Supramammillary nucleus
 Ventral premammillary nucleus
 Posterior nucleus of hypothalamus
-Vascular organ of lamina terminalis\xc3\xaergano vascular de la l‚mina terminal
+Vascular organ of lamina terminalis\xc3\xaergano vascular de la l√¢mina terminal
 Zones of hypothalamus
 Periventricular zone
 Medial zone
 Lateral zone
 Neurohypophysis {see page 74}
 White substance of hypothalamus
-Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culolongitudinalis dorsalis
+Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culolongitudinalis dorsalis
 Dorsal supra-optic commissure
 Fibres of stria terminalis
 Fornix
@@ -6269,7 +6271,7 @@ Superior temporal sulcus
 Middle temporal gyrus
 Inferior temporal sulcus
 Inferior temporal gyrus
-Ins;Insular lobe\xc3\xaans;LÛbulo de la \xe2\x84\xa2nsula
+Ins;Insular lobe\xc3\xaans;L√≥bulo de la √≠nsula
 Insular gyri
 Long gyrus of insula
 Short gyri of insula
@@ -6278,7 +6280,7 @@ Circular sulcus of insula
 Limen insu;Insular threshold
 Medial and inferior surfaces
 Interlobar sulci
-Se ha omitido el tÈrmino rinencÈfalo porque ya no es de uso com\xc5\x93n y porque las ‚reas/estructuras incluidas bajo este ep\xe2\x84\xa2grafe en lasterminolog\xe2\x84\xa2as previas abarcan considerablemente m‚s funciones que las olfatorias. 
+Se ha omitido el t√©rmino rinenc√©falo porque ya no es de uso com√∫n y porque las √¢reas/estructuras incluidas bajo este ep√≠grafe en lasterminolog√≠as previas abarcan considerablemente m√¢s funciones que las olfatorias. 
 
 Sulcus of corpus callosum
 Cingulate sulcus
@@ -6295,7 +6297,7 @@ Anterior paracentral gyrus
 Central sulcus
 Subcallosal area: 
 Paraterminal gyrus
-Paraolfactory area\xc3\xa7rea paraolfatoria
+Paraolfactory area
 Paraolfactory gyri
 Paraolfactory sulci
 Orbital gyri
@@ -6334,7 +6336,7 @@ Fasciolar gyrus
 Parahippocampal gyrus
 Uncus
 Hippocampal sulcus
-Est‚ formado por estructuras que se extienden continuamente por la superficie m‚s medial del hemisferio cerebral. 
+Est√¢ formado por estructuras que se extienden continuamente por la superficie m√¢s medial del hemisferio cerebral. 
 Dentate gyrus
 Fimbriodentate sulcus
 Fimbria of hippocampus
@@ -6353,7 +6355,7 @@ Minor forc;Frontal forceps
 Major forc;Occipital forceps
 Tapetum
 Lamina terminalis
-Vascular organ of lamina terminalis\xc3\xaergano vascular de la l‚mina terminal
+Vascular organ of lamina terminalis\xc3\xaergano vascular de la l√¢mina terminal
 Anterior commissure
 Anterior part
 Posterior part
@@ -6390,8 +6392,8 @@ Atrium
 Collateral eminence
 Choroid enlargement
 Bulb of occipital horn
-Esta secciÛn de nueva creaciÛn ha sido a\xc5\x92adida para facilitar la localizaciÛn de n\xc5\x93cleos que normalmente est‚n agrupados bajo esta desig-naciÛn general. 
-La expansiÛn del ventr\xe2\x84\xa2culo lateral en la encrucijada entre la porciÛn central y las astas temporal y occipital de Èste.'b'
+Esta secci√≥n de nueva creaci√≥n ha sido a\xc5\x92adida para facilitar la localizaci√≥n de n√∫cleos que normalmente est√¢n agrupados bajo esta desig-naci√≥n general. 
+La expansi√≥n del ventr√≠culo lateral en la encrucijada entre la porci√≥n central y las astas temporal y occipital de √©ste.'b'
 Calcarine spur
 Occipital h;Posterior horn
 Temporal h;Inferior horn
@@ -6403,12 +6405,12 @@ Allocortex
 Mesocortex
 Isocortex
 Layers ofisocortex
-Lamina 
-Lamina 
-Lamina 
-Lamina 
-Lamina 
-Lamina 
+I]
+II]
+II
+IV]
+V]
+VI]
 Stria of molecular layer
 Stria of external granular layer
 Stria of internal granular layer
@@ -6422,12 +6424,12 @@ Hippocampal digitations
 Presubiculum
 Subiculum
 Hippocampus pro;Ammon\xc2\xabs horn
-I hippocampi prop;Regio 
-II hippocampi prop;Regio 
-II
-IV hippocampi prop;Regio 
+Region I;CA1
+Region II;CA2
+Region III;CA3
+Region IV;CA4
 Fimbria
-Alveus\xc3\xa7lveo
+Alveus
 Layers of 
 Lacunar-molecular layer
 Oriens layer
@@ -6440,10 +6442,10 @@ Granular layer
 Multiform layer
 Basal forebrain
 Amygdaloid b;Amygdaloid complex
-Amygdaloclaustral area\xc3\xa7rea amigdaloclaustral
-Amygdalohippocampal area\xc3\xa7rea parahipocampal
-Amygdalopiriform transition area\xc3\xa7rea de transiciÛn amigdalopiriforme
-Anterior amygdaloid area\xc3\xa7rea amigdalina anterior
+Amygdaloclaustral area
+Amygdalohippocampal area
+Amygdalopiriform transition area
+Anterior amygdaloid area
 Basolateral amygdaloid nucleus
 Basomedial amygdaloid nucleus
 Central amygdaloid nucleus
@@ -6481,15 +6483,15 @@ Nucleus accumbens
 Lateral p;Core region
 Medial p;Shell region
 Peduncular loop
-Septal area\xc3\xa7rea septal
+Septal area
 Dorsal septal nucleus
 Lateral septal nucleus
 Medial septal nucleus
 Septofimbrial nucleus
 Triangular nucleus of septum
-Subfornical organ\xc3\xaergano subfornicalï
-Esta nueva secciÛn incluye estructuras que
- pero su funciÛn se aparta ampliamente de las activida-des gobernadas por Èstos. 
+Subfornical organ\xc3\xaergano subfornical‚Ä¢
+Esta nueva secci√≥n incluye estructuras que
+ pero su funci√≥n se aparta ampliamente de las activida-des gobernadas por √©stos. 
 La pars sublenticularis amygdalae(que comprende los nuclei amygdalo-rum centralis et medialis)
 Basal nuclei and related structures
 Caudate nucleus
@@ -6499,7 +6501,7 @@ Tail
 Lentiform nucl;Lenticular nucleus
 Putamen
 Lateral medullary lam;External
-Globus pallidus lateral segm;Globo p‚lido late;Globo p‚lido externo
+Globus pallidus lateral segm;Globo p√¢lido late;Globo p√¢lido externo
 Medial medullary lam;Internal
 Globus pallidus medial segm;
 Lateral part
@@ -6536,11 +6538,11 @@ Occipitopontine fibres
 Occipitotectal fibres
 Optic radiat;Geniculocalcarine 
 Algunos textos ense\xc5\x92an
-El tÈrmino corticobulbar
-Est‚ formada por las partes que histÛricamente fueron llamadas talamolenticulares
+El t√©rmino corticobulbar
+Est√¢ formada por las partes que hist√≥ricamente fueron llamadas talamolenticulares
 Posterior thalamic radiation
 Sublentiform l;Sublenticular limb
-Acoustic radiat;RadiaciÛn ac\xc5\x93st;Fibras geniculotemporales
+Acoustic radiat;Radiaci√≥n ac√∫st;Fibras geniculotemporales
 Corticotectall fibres
 Optic radiation
 Temporopontine fibres
@@ -6605,7 +6607,7 @@ Cholinergic cells ol medial septal
  nuclei
 Cholinergic cells ot substantia 
 Cholinergic cells of dorsal tegmental
-Ch7]
+Cholinergic cells of epithalamus [Ch7]
 Peripheral nervous system
 Ganglion
 Capsule of ganglion
@@ -6654,15 +6656,15 @@ Vascular nerves
 Cranial nerves
 Terrninal nerve [0]
 Terminal ganglion
-I]
+Olfactory nerve [I]
 Olfactory nerves
-II]
-II
+Optic nerve [II]
+I]
 Superior branch
 Inferior branch
-Branch to ciliary gangl;Ramo para el ganglio cil;Ra\xe2\x84\xa2zparasympathica ganglii cilia;Radix
-IV]
-V]
+Branch to ciliary gangl;Ramo para el ganglio cil;Ra√≠zparasympathica ganglii cilia;Radix
+Tr\nochlear nerve [IV]
+Trigeminal nerve [V]
 Sensory root
 Trigeminal ganglion
 Motor root
@@ -6748,8 +6750,8 @@ Mental nerve
 Mental branches
 Labial branchest
 Gingival branches
-VI]
-VI
+Abducent ne;Abducens nerve [VI]
+I]
 Geniculum
 Nerve to stapedius
 Posterior auricular nerve
@@ -6767,11 +6769,11 @@ Marginal mandibular branch
 Cervical branch
 Intermediate nerve
 Geniculate ganglion
-Greater petrosal ne;N. petroso ma;Ra\xe2\x84\xa2z parasimp‚ticaganglii pterigopalat;Radix intermedia
+Greater petrosal ne;N. petroso ma;Ra√≠z parasimp√¢ticaganglii pterigopalat;Radix intermedia
 Chorda tymp;Parasympathetic
 Communicating branch with tympanic
 Communicating branch with vagus nerve
-VI
+II]
 Vestibular nerve
 Vestibular ganglion
 Cochlear communicating branch
@@ -6785,7 +6787,7 @@ Posterior ampullary nerve
 Saccular nerve
 Cochlear nerve
 Cochlear gangl;Spiral ganglion
-IX]
+Glossopharyngeal nerve [IX]
 Superior ganglion
 Inferior ganglion
 Tympanic nerve
@@ -6799,11 +6801,11 @@ Stylopharyngeal branch
 Carotid branch
 Tonsillar branches
 Lingual branches
-Lesser petrosal ne;N. petroso me;Ra\xe2\x84\xa2z parasimp‚tica ganglii otici
+Lesser petrosal ne;N. petroso me;Ra√≠z parasimp√¢tica ganglii otici
 Communicating branch with 
 Communicating branch with
 Communicating branch with chorda
-X]
+Vagus nerve [X]
 Superior ganglion
 Meningeal branch
 Auricular branch
@@ -6835,14 +6837,14 @@ Posterior gastric branches
 Posterior nerve of lesser curvature
 Coeliac branches
 Renal branches
-XI]
+Accessory nerve [XI]
 Cranial r;Vagal part
 Spinal r;Spinal part
 Tr\nunk of accessory nerve
 Internal branch
 External branch
 Muscular branches
-XI
+I]
 Lingual branches
 Spinal nerves
 RV
@@ -6901,7 +6903,7 @@ Posterior cord
 Musculocutaneous nerve
 Muscular branches
 Lateral cutaneous nerve of fore;
-Medial cutaneous nerve of ;N. cut‚neo medial del br;N. cut‚neo
+Medial cutaneous nerve of ;N. cut√¢neo medial del br;N. cut√¢neo
 Medial cutaneous nerve of fore;
 Anterior branch
 Posterior branch
@@ -6935,8 +6937,8 @@ Communicating branch with ulnar
 Dorsal digital branches
 Axillary nerve
 Muscular branches
-Superior lateral cutaneous nerve 
-RV
+Superior lateral cutaneous nerve of arm;Superior lateral brachial cutaneous nerve
+THORACIC NERVES [T1-T12]
 Posterior r;Dorsal rami
 Medial branch
 Lateral branch
@@ -6992,7 +6994,7 @@ Muscular branches
 Anterior cutaneous branches
 Saphenous nerve
 Infrapatellar branch
-Medial cutaneous nerve of ;Rr. cut‚neos mediales de la pie;
+Medial cutaneous nerve of ;Rr. cut√¢neos mediales de la pie;
 Lumbosacral trunk
 Sacral plexus
 Nerve to obturator internus
@@ -7043,8 +7045,8 @@ Superficial branch
 Common plantar digital nerves
 Proper plantar digital nerves
 Deep branch
-Autonomic divis;Autonomic part
-RS 
+Autonomic division;Autonomic part of peripheral nervous system
+SYMPATHETIC PART
 Sympathetic trunk
 Ganglion of sympathetic trunk
 Interganglionic branches
@@ -7075,7 +7077,7 @@ Greater splachnic nerve
 Thoracic splanchnic ganglion
 Lesser splanchnic nerve
 Renal branch
-El tÈrmino systema nervosum autonomicumnervioso som‚tico
+El t√©rmino systema nervosum autonomicumnervioso som√¢tico
 Anteriormente conocido con el nombre de n. conarii
 Least splanchnic ne;Lowest 
 Lumbar ganglia
@@ -7084,18 +7086,18 @@ Sacral ganglia
 Sacral splanchnic nerves
 Ganglion impar
 Sympatethic paraganglia
-RS 
+PARASYMPATHETIC PART
 Cranial part
 Ciliary ganglion
 Parasympathetic r;Oculomotor 
 Sympathetic root
-Ra\xe2\x84\xa2z sensit;Ra\xe2\x84\xa2z nasocil;R. communicans n. nasociliaris cum 
+Ra√≠z sensit;Ra√≠z nasocil;R. communicans n. nasociliaris cum 
 Short ciliary nerves
 Pterygopalatine ganglion
 Nerve of pterygoid canal
 Parasympathetic r;Greater 
 Sympathetic r;Deep petrosal nerve
-Ra\xe2\x84\xa2z sensitiva del ganglio pterigopalat;
+Ra√≠z sensitiva del ganglio pterigopalat;
 Submandibular ganglion
 Parasympathetic r;Chorda tympani
 Sympathetic root
@@ -7179,7 +7181,7 @@ Cavernous nerves of clitoris
 Cavernous nerves of penis
 Sense organs\xc3\xaerganos de los sentidos
 Olfactory organ\xc3\xaergano olfato; \xc3\xaergano del olfato
-Olfactory part of nasal muc;
+Olfactory part of nasal mucosa;Olfatory area
 Olfactory glands
 Eye and related structures
 LB
@@ -7270,7 +7272,7 @@ Ganglionic layer
 Layer of nerve fibres
 Inner limiting layer
 Optic disc
-Depression of optic d;ExcavaciÛn del di;ExcavaciÛn 
+Depression of optic d;Excavaci√≥n del di;Excavaci√≥n 
 Macula
 Fovea centralis
 Foveola
@@ -7324,7 +7326,7 @@ Zonular sapces
 Chambers of eyeball
 Aqueous humor
 Anterior chamber
-Iridocorneal angle\xc3\xa7ngulo iridocorneal
+Iridocorneal angle
 Posterior chamber
 Postremal cham;Vitreous chamber
 Retrozonular space
@@ -7335,8 +7337,8 @@ Hyaloid fossa
 Vitreous membrane
 Vitreous stroma
 Vitreous humor
-Este nuevo tÈrmino es compatible con el utilizado para otras c‚maras del ojo
-Este nuevo tÈrmino describe la parte de la c‚mara postremasituada inmediatamente detr‚s de la zonula ciliarisque contiene humor aquosusy comunica conla camera posteriora travÈs de los espatia zonulares.'b'
+Este nuevo t√©rmino es compatible con el utilizado para otras c√¢maras del ojo
+Este nuevo t√©rmino describe la parte de la c√¢mara postremasituada inmediatamente detr√¢s de la zonula ciliarisque contiene humor aquosusy comunica conla camera posteriora trav√©s de los espatia zonulares.'b'
 RU
 Periorbita
 Orbital septum
@@ -7370,8 +7372,8 @@ Posterior surface of eyelid
 Palpebral fissure
 Lateral palpebral commissure
 Medial palpebral commissure
-Lateral angle of eye\xc3\xa7ngulo lateral del ojoï
-Medial angle of eye\xc3\xa7ngulo medial del ojoï
+Lateral angle of eye
+Medial angle of eye
 Anterior palpebral margin
 Posterior palpebral margin
 Eyelash
@@ -7460,7 +7462,7 @@ Tympanic notch
 Cartilaginous external acoustic meatus
 Cartilage of acoustic meatus
 Notch in cartilage of acoustic meatus
-L‚mina del trago
+L√¢mina del trago
 Tympanic membrane
 Pars flaccida
 Pars tensa
@@ -7605,12 +7607,12 @@ Internal acoustic meatus
 Internal acoustic opening
 Fundus ofinternal acoustic meatus
 Transverse crest
-Facial area\xc3\xa7rea del nervio facial
+Facial area
 Vertical crest
-Superior vestibular area\xc3\xa7rea vestibular superior
-Inferior vestibular area\xc3\xa7rea vestibular inferior'b'
+Superior vestibular area
+Inferior vestibular area
 Foramen singulare
-Cochlear area\xc3\xa7rea coclear
+Cochlear area
 Tractus spiralis foraminosus
 Perilymphatic space
 Perilymph
@@ -7751,7 +7753,7 @@ Lobules of mammary gland
 Lactiferous duct
 Lactiferous sinus
 Areola
-Se ha omitido el tÈrmino individualizado de mamma masculinaporque la mama en el varÛn no contiene elementos diferentes de los de la mama femenina
+Se ha omitido el t√©rmino individualizado de mamma masculinaporque la mama en el var√≥n no contiene elementos diferentes de los de la mama femenina
 Areolar glands
 Aerolar tubercles
 Suspensory ligaments of bre;
@@ -7761,7 +7763,7 @@ Muscle layer
 Fibrous layer
 Membranous layer
 Loose connective tissue
-Ninguna de las capas del tejido subcut‚neo se encuentra en todas las partes del cuerpo. 
+Ninguna de las capas del tejido subcut√¢neo se encuentra en todas las partes del cuerpo. 
 Iymphoidei membri inferioris/
 Popliteal nodes
 Deep nodes
@@ -7917,7 +7919,7 @@ Lesser supraclavicular fossa
 Lateral cervical reg;Posterior 
 Omoclavicular trian;Subclavian
 Greater supraclavicular fossa
-El uso de este tÈrmino difiere en la pr‚ctica. 
+El uso de este t√©rmino difiere en la pr√¢ctica. 
 Posterior cervical region
 Anterior and lateral thoracic regions
 Presternal region
@@ -7941,7 +7943,7 @@ Vertebral region
 Sacral region
 (Coccygeal foveola)
 Scapular region
-Auscultatory trian;Triangle of
+Auscultatory triangle;Triangle of auscultation
 Infrascapular region
 Lumbar region
 (Inferior lumbar triangle)
@@ -7962,9 +7964,9 @@ Cubital fossa
 Posterior region of elbow
 Antebrachial region
 Anterior region of forearm
-La parte de la regiÛn pectoral situada entre las l\xe2\x84\xa2neas axilares anterior y posterior.*
-Este tri‚ngulo est‚ delimitado por el borde lateral del m. trapezius
-Un tri‚ngulo o rombo inconstante a travÈs del cual pueden drenar abscesos o producirse una hernia. 
+La parte de la regi√≥n pectoral situada entre las l√≠neas axilares anterior y posterior.*
+Este tri√¢ngulo est√¢ delimitado por el borde lateral del m. trapezius
+Un tri√¢ngulo o rombo inconstante a trav√©s del cual pueden drenar abscesos o producirse una hernia. 
 Posterior region of forearm
 Radial bor;Lateral border
 Ulnar bor;Medial border
@@ -7978,11 +7980,11 @@ Thenar eminence
 Hypothenar eminence
 Metacarpal region
 Digits of h;Fingers including 
+Thumb
+Index finger\xc3\xaand;Segundo dedo [II]
 I]
-II]
-II
-IV]
-V]
+Ring finger
+Little finger
 Palmar surfaces of fingers
 Dorsal surfaces of fingers
 Regions of lower limb
@@ -8021,11 +8023,11 @@ La hendidura entre las nalgas
 Ankle region
 Metatarsal region
 Digits of f;Toes
+Great toe [I]
+Second toe [II]
 I]
-II]
-II
-IV]
-V]
+Fourth toe [IV]
+Little ;Fifth toe [V]
 Plantar surfaces of toes
 Dorsal surfaces of toes
 Bo;Skeletal system
@@ -8074,7 +8076,7 @@ Nutrient canal
 Ossification centre
 Primary
 Secondary
-La capa incompleta de cÈlulas Ûseas que algunas veces se observa en la superficie interior de los huesos constituye el endosteum
+La capa incompleta de c√©lulas √≥seas que algunas veces se observa en la superficie interior de los huesos constituye el endosteum
 Cranium
 Facial asp;Frontal aspect
 Superior asp;Vertical aspect
@@ -8185,13 +8187,13 @@ Inferior temporal line
 Parietal tu;Parietal eminence
 Occipital border
 Squamosal border
-El meato nasal com\xc5\x93n es la porciÛn de la cavidad nasal situada entre los cornetes y el tabique nasal.'b'
+El meato nasal com√∫n es la porci√≥n de la cavidad nasal situada entre los cornetes y el tabique nasal.'b'
 Sagittal border
 Frontal border
-Frontal angle\xc3\xa7ngulo frontal
-Occipital angle\xc3\xa7ngulo occipital
-Sphenoidal angle\xc3\xa7ngulo esfenoidal
-Mastoid angle\xc3\xa7ngulo mastoideo
+Frontal angle
+Occipital angle
+Sphenoidal angle
+Mastoid angle
 Parietal foramen
 Frontal bone
 Squamous part
@@ -8523,7 +8525,7 @@ Alveolar yokes
 Retromolar triangle
 Retromolar fossa
 Ramus of mandible
-Angle of mandible\xc3\xa7ngulo de la mand\xe2\x84\xa2bula
+Angle of mandible
 (Masseteric tuberosity)
 (Pterygoid tuberosity)
 Mandibular foramen
@@ -8568,38 +8570,38 @@ Superior articular process
 Superior articular facet
 Inferior articular process
 Inferior articular facet
-C 
+I - 
 Uncus of b;Uncinate process
 Foramen transversarium
 Anterior tubercle
 Carotid tubercle
 Posterior tubercle
 Groove for spinal nerve
-C 
+Atlas [CI]
 Lateral mass
 Superior articular surface
 Inferior articular surface
 Anterior arch
 Facet for dens
 Anterior tubercle
-La curvatura primaria de la columna vertebral resulta de la flexiÛn ventral del embriÛn y persiste en las regiones tor‚cica (kyphosis thoracica)y lumbar (kyphosis sacralis).*
-Las curvaturas secundarias de la columna vertebral (lordosis cervicalisylordosis lumbalis)son cÛncavas dorsalmente y son funcionales antes que estructu-rales
+La curvatura primaria de la columna vertebral resulta de la flexi√≥n ventral del embri√≥n y persiste en las regiones tor√¢cica (kyphosis thoracica)y lumbar (kyphosis sacralis).*
+Las curvaturas secundarias de la columna vertebral (lordosis cervicalisylordosis lumbalis)son c√≥ncavas dorsalmente y son funcionales antes que estructu-rales
 Posterior arch
 Groove for vertebral artery
 (Canal for vertebral artery)
 Posterior tubercle
-C 
+II]
 Dens
 Apex
 Anterior articular facet
 Posterior articular facet
-C 
-T 
+VI
+Thoracic vertebrae [TI-TXII]
 Superior costal facet
 Inferior costal facet
 Transverse costal facet
 Uncus of body of first thoracic 
-L 
+I - 
 Accessory process
 Costal process
 Mammillary process
@@ -8624,13 +8626,13 @@ Sacral co;Sacral horn
 Sacral canal
 Sacral hiatus
 Apex
-Vertebrae
+Coccyx [Coccygeal vertebrae 
 Coccygeal cornu
 Thoracic skeleton
-I-
-I-
+XI
 VI
-XI-
+II-
+XI
 Costal cartilage
 Rib
 Head
@@ -8641,27 +8643,27 @@ Crest
 B;Shaft
 Tubercle
 Articular facet
-Angle\xc3\xa7ngulo
+Angle
 Costal groove
 Crest
 (Cervical rib)
-I]
+First rib [I]
 Scalene tubercle
 Groove for subclavian artery
 Groove for subclavian vein
-II]
+Second rib [II]
 Tuberosity for serratus anterior
 (Lumbar rib)
 Sternum
 Manubrium of sternum
 Clavicular notch
 Jugular no;Suprasternal notch
-Sternal angle\xc3\xa7ngulo infraesternal
+Sternal angle
 Body of sternum
 Xiphoid process
 Costal notches
 (Suprasternal bones)
-T 
+I- 
 Thoracic cage
 Thoracic cavity
 Superior thoracic apert;Thoracic inlet
@@ -8669,9 +8671,9 @@ Inferior thoracic apert;Thoracic outlet
 Pulmonary groove
 Costal mar;Costal arch
 Intercostal space
-Infrasternal an;Subcostal angle\xc3\xa7ngulo infraesternal
+Infrasternal an;Subcostal angle
 Bones of upper limb
-NG
+PECTORAL GIRDLE;SHOULDER GIRDLE
 Scapula
 Costal surface
 Subscapular fossa
@@ -8682,16 +8684,18 @@ Supraspinous fossa
 Infraspinous fossa
 Acromion
 Clavicular facet
-Acromial angle\xc3\xa7ngulo acromial
+Acromial angle
 Medial border
-El tÈrmino compages thoracisfue introducido en la cuarta ediciÛn de la 
-Los tÈrminos \xc3\x92thoracic inlet\xc3\x93 y \xc3\x92thoracic outlet\xc3\x93 han sido utilizados de forma diferente por los cl\xe2\x84\xa2nicos. 
+Thoracic cage
+Thoracic cavity
+Superior thoracic aperture; Thoracic inlet
+Inferior thoracic aperture; Thoracic outlet
 Lateral border
 Superior border
 Suprascapular notch
-Inferior angle\xc3\xa7ngulo inferior
-Lateral angle\xc3\xa7ngulo lateral
-Superior angle\xc3\xa7ngulo superior
+Inferior angle
+Lateral angle
+Superior angle
 Glenoid cavity
 Supraglenoid tubercle
 Infraglenoid tubercle
@@ -8708,7 +8712,7 @@ Acromial facet
 Tuberosity for coracoclavicular ligament
 Conoid tubercle
 Trapezoid line
-RS 
+FREE PART OF UPPER LIMB
 Humerus
 Head
 Anatomical neck
@@ -8790,7 +8794,7 @@ Capitate
 Hamate
 Hook of hamate
 Carpal groove
-I-
+V]
 Base
 Sh;Body
 Head
@@ -8861,7 +8865,7 @@ Inferior pubic ramus
 Pelvis
 Pelvic cavity
 Pubic arch
-Subpubic angle\xc3\xa7ngulo subpubiano
+Subpubic angle
 Greater pel;False pelvis
 Lesser pel;True pelvis
 Linea terminalis
@@ -8920,8 +8924,8 @@ Superior articular surface
 Medial condyle
 Lateral condyle
 Fibular articular facet
-Anterior intercondylar area\xc3\xa7rea intercond\xe2\x84\xa2lea anterior
-Posterior intercondylar area\xc3\xa7rea intercond\xe2\x84\xa2lea posterior
+Anterior intercondylar area
+Posterior intercondylar area
 Intercondylar eminence
 Medial intercondylar tubercle
 Lateral intercondylar tubercle
@@ -9003,12 +9007,12 @@ Cuboid
 Groove for tendon of fibularis lon;
 Tuberosity
 Calcaneal process
-I-
+V]
 Base
 Sh;Body
 Head
-I]
-V]
+Tuberosity of first metatarsal bone [I]
+Tuberosity of fifth metatarsal bone [V]
 Phalanges
 Proximal phalanx
 Middle phalanx
@@ -9363,7 +9367,7 @@ Posterior talocalcaneal ligament
 Transverse tarsal joint
 Talocalcaneonavicular joint
 Plantar calcaneonavicular ligam;
-Calc‚neocuboid joint
+Calc√¢neocuboid joint
 Cuneonavicular joint
 Intercuneiform joints
 Tarsal ligaments
@@ -9442,9 +9446,9 @@ Fascia of trunk
 Parietal fascia
 Extraserosal fascia
 Visceral fascia
-La palabra latina insertiosignifica fijaciÛn. 
-En el sentido usado aqu\xe2\x84\xa2
-Fascia parietalisse refiere a un tÈrmino genÈrico para denominar la fascia situada en la superficiede la hoja parietal de una serosa (pericardium
+La palabra latina insertiosignifica fijaci√≥n. 
+En el sentido usado aqu√≠
+Fascia parietalisse refiere a un t√©rmino gen√©rico para denominar la fascia situada en la superficiede la hoja parietal de una serosa (pericardium
 Fascia of limbs
 Fascia of muscles
 Investing layer
@@ -9596,9 +9600,9 @@ Spinalis cervicis
 Spinalis capitis
 Spinotransversales
 Splenius 
-La gl‚ndula tiroides est‚ adherida a los cart\xe2\x84\xa2lagos tiroides y cricoides y a la tr‚quea por el engrosamiento de la fascia pretraqueal. 
-Los m\xc5\x93sculos bajo este encabezamiento son los m\xc5\x93sculos epiaxiales
-Generalmente considerado como la parte m‚s medial del m. semiespinalis capitis
+La gl√¢ndula tiroides est√¢ adherida a los cart√≠lagos tiroides y cricoides y a la tr√¢quea por el engrosamiento de la fascia pretraqueal. 
+Los m√∫sculos bajo este encabezamiento son los m√∫sculos epiaxiales
+Generalmente considerado como la parte m√¢s medial del m. semiespinalis capitis
 Splenius capitis
 Splenius cervicis
 Transversospinales
@@ -9701,8 +9705,8 @@ Fascia of individual intraperitoneal
 Extraperitoneal fascia
 Extraperitoneal ligament
 Parietal abdominal fas;
-Los elementos han sido enumerados de dentro afuera e incluyen tÈrminos que han sido considerados como parte de la fascia abdominis.
-Este tÈrmino es usado a veces genÈricamente para incluir no sÛlo la fascia parietal
+Los elementos han sido enumerados de dentro afuera e incluyen t√©rminos que han sido considerados como parte de la fascia abdominis.
+Este t√©rmino es usado a veces gen√©ricamente para incluir no s√≥lo la fascia parietal
 Fascia of individual extraperitoneal
 Iliopsoas fas;Fascia iliaca
 Psoas fascia
@@ -9757,7 +9761,7 @@ Puboprostati;Levator prostatae
 Pubovaginalis
 Pubo-analis
 Un engrosamiento en la fascia transversalisbajo el ombligo. 
-Este tÈrmino es utilizado a veces genÈricamente para incluir no solamente la fascia parietal
+Este t√©rmino es utilizado a veces gen√©ricamente para incluir no solamente la fascia parietal
 Puborectalis
 Iliococcygeus
 (Tendinous arch of levator ani)
@@ -9807,7 +9811,7 @@ Anconeus
 Articularis cubiti
 Pronator teres
 Humeral head
-El tÈrmino corpus
+El t√©rmino corpus
 Ulnar head
 Flexor carpi radialis
 Palmaris longus
@@ -10038,7 +10042,7 @@ Sciatic bursa of obturator internus
 Subtendinous bursa of obturator 
 Intermuscular gluteal bursae
 Sciatic bursa of gluteus maximus
-(Bolsa ileopect\xe2\x84\xa2nea)
+(Bolsa ileopect√≠nea)
 Subtendin ous bursa of iliacus
 Superior bursa of biceps femoris
 Subcutaneous prepatellar bursa
@@ -10092,7 +10096,7 @@ Lower lip
 Frenulum of upper lip
 Frenulum of lower lip
 Labial commissure
-Angle of mouth\xc3\xa7ngulo de la boca
+Angle of mouth
 Cheek
 Buccal fat pad
 Juxta-oral organ\xc3\xaergano yuxtaoral
@@ -10128,7 +10132,7 @@ Buccal glands
 Molar glands
 Palatine glands
 Lingual glands
-Para una descripciÛn detallada de este Ûrgano secretorio mecanorreceptor ver: 
+Para una descripci√≥n detallada de este √≥rgano secretorio mecanorreceptor ver: 
 Teeth
 Maxillary dental arc;Upper dental
 Mandibular dental arc;Lower
@@ -10139,7 +10143,7 @@ Molar tooth
 Third molar to;Wisdom tooth
 Crown
 C;Cuspid
-Apex of cusp\xc3\xa7pex de la c\xc5\x93spide
+Apex of cusp
 Accessory cusp
 Tubercle
 Transverse ridge
@@ -10160,7 +10164,7 @@ Distal c;Hypoconulid
 Clinical crown
 N;Cervix
 Root
-Root apex\xc3\xa7pex de la ra\xe2\x84\xa2z
+Root apex
 Clinical root
 Occlusal surface
 Vestibular surface
@@ -10171,7 +10175,7 @@ Palatal surface
 Mesial surface
 Distal surface
 Approximal surf;Interproximal 
-Contact zone\xc3\xa7rea de contacto
+Contact zone
 Cingulum
 Marginal ridge
 Incisal margin
@@ -10277,7 +10281,7 @@ Tonsillar pits
 Tonsillar crypts
 Pharyngeal 
 (Pharyngeal bursa)
-Orificio far\xe2\x84\xa2ngeo de la trompa auditiva
+Orificio far√≠ngeo de la trompa auditiva
 Torus tubarius
 Salpingopharyngeal fold
 Salpingopalatine fold
@@ -10310,7 +10314,7 @@ Middle constrictor
 Chondropharyngeal part
 Ceratopharyngeal part
 Inferior constrictor
-Thyropharyngeal p;PorciÛn tirofar\xe2\x84\xa2n;M. tirofar\xe2\x84\xa2ngeo
+Thyropharyngeal p;Porci√≥n tirofar√≠n;M. tirofar√≠ngeo
 M. cricopharyngeus
 Stylopharyngeus
 Salpingopharyngeus
@@ -10365,7 +10369,7 @@ Submucosa
 Muc;Mucous membrane
 Gastric fo;Gastric rugae
 Muscularis mucosae
-Gastric areas\xc3\xa7reas g‚stricas
+Gastric areas
 Villous folds
 Gastric pits
 Gastric glands
@@ -10443,7 +10447,7 @@ Circular layer
 CT
 Sacral flexure
 Lateral flexures
-El orificio ileal se encuentra en el vÈrtice de la papilla ilealis.
+El orificio ileal se encuentra en el v√©rtice de la papilla ilealis.
 Superodextral lateral flex;
 Intermediosinistral lateral f1ex;
 Inferodextral lateral flex;
@@ -10482,7 +10486,7 @@ Cardiac impression
 Anterior part
 Right part
 Posterior part
-Bare area\xc3\xa7rea desnudaï
+Bare area
 Groove for vena cava
 Fissure for ligamentum venosum
 Ligamentum venosum
@@ -10534,7 +10538,7 @@ Lobules of liver
 Interlobular arteries
 Interlobular veins
 Central veins
-Estos son los tradicionales lÛbulos derecho
+Estos son los tradicionales l√≥bulos derecho
 Damme 
  partes
 Interlobular bile ducts
@@ -10560,7 +10564,7 @@ Mucosal fo;Rugae
 Cystic duct
 Spiral fold
 Bile duct
-M. esf\xe2\x84\xa2nter del conducto colÈd;
+M. esf√≠nter del conducto col√©d;
 Superior sphinter
 Inferior sphinter
 Hepatopancreatic ampu;
@@ -10641,7 +10645,7 @@ Sphenoidal sinus
 Frontal sinus
 Ethmoidal cells
 Anterior ethmoidal cells
-El meato nasal com\xc5\x93n es una parte de la cavidad nasal situada entre los cornetes y el tabique nasal.'b'
+El meato nasal com√∫n es una parte de la cavidad nasal situada entre los cornetes y el tabique nasal.'b'
 Middle ethmoidal cells
 Posterior ethmoidal cells
 RY
@@ -10752,34 +10756,34 @@ Carina of trachea
 Muc;Mucous membrane
 Tracheal glands
 ON
-Bronchial tree\xc3\xa7rbol bronquial
+Bronchial tree
 Right main bronchus
 Left main bronchus
 Lobar and segmental bronchi
 Right superior lobar bronchus
-B 
-B 
-B 
+I]
+II]
+II
 Middle lobar bronchus
-B 
-B 
+IV]
+V]
 Right inferior lobar bronchus
-B 
+VI]
 Medial basal segmental bronchus 
 Anterior basal segmental
-B 
-B 
+IX]
+X]
 Left superior lobar bronchus
 Apicoposterior segmental bronchus
-B 
-B 
-B 
+II
+IV]
+V]
 Left inferior lobar bronchus
-B 
+VI]
 Medial basal segmental bronchus
 Anterior basal segmental bronchus
-B 
-B 
+IX]
+X]
 Intrasegmental bronchi
 Fibromusculocartilaginous layer
 Submucosa
@@ -10810,32 +10814,32 @@ Horizontal fissure of right lung
 Intrapulmonary blood vessels
 Bronchopulmonary segments
  lobus superior
-S 
-S 
-S 
+I]
+II]
+II
  lobus medius
-S 
-S 
+IV]
+V]
  lobus inferior
-S 
-Medial basal segment [
-S 
-S 
-S 
+VI]
+Medial basal segment [S 
+VI
+IX]
+X]
  lobus superior
-S 
-S 
-S 
-S 
+I + 
+II
+IV]
+V]
  lobus inferior
-S 
-Medial basal segment [
-S 
-S 
-S 
+VI]
+Medial basal segment [S 
+VI
+IX]
+X]
 Bronchioles
 Lobule
-Cavidad tor‚c;TÛrax
+Cavidad tor√¢c;T√≥rax
 Pleural cavity
 Pleura
 Visceral ple;Pulmonary pleura
@@ -10894,7 +10898,7 @@ Inner zone
 Renal papilla
 Renal crest
 Renal pyramids
-Cribriform area\xc3\xa7rea cribosa
+Cribriform area
 Openings of papillary ducts
 Renal segments
 Superior segment
@@ -10917,8 +10921,8 @@ Arcuate veins
 Cortical radiate ve;Interlobular 
 Venulae rec;Straight venules
 Stellate veins
-Las subdivisiones de la corteza y la mÈdula del ri\xc5\x92Ûn siguen las recomendaciones de la 
-Para m‚s detalles en relaciÛn con la nomenclatura de los vasos sangu\xe2\x84\xa2neos renales
+Las subdivisiones de la corteza y la m√©dula del ri\xc5\x92√≥n siguen las recomendaciones de la 
+Para m√¢s detalles en relaci√≥n con la nomenclatura de los vasos sangu√≠neos renales
 Renal pelvis
 Branching type
 Major calices
@@ -10968,7 +10972,7 @@ Ureteric orifice
 Internal urethral orif;
 Female urethra {see page 67}
 Male urethra {see page 70}
-Este tÈrmino describe el orificio de abertura de la uretra en la vejiga. 
+Este t√©rmino describe el orificio de abertura de la uretra en la vejiga. 
 Genital systems
 Female genital system
 Male genital system
@@ -11018,7 +11022,7 @@ Cervix of uterus
 Supravaginal part
 Isthmus of uterus
 Histological internal os
-El orificio histolÛgico interno es el l\xe2\x84\xa2mite inferior del isthmus uteriy puede reconocerse a simple vista: presenta endometrio supradyacentecuando est‚ sometido a cambios menstruales y mucosa cervical subyacente cuando no lo est‚. 
+El orificio histol√≥gico interno es el l√≠mite inferior del isthmus uteriy puede reconocerse a simple vista: presenta endometrio supradyacentecuando est√¢ sometido a cambios menstruales y mucosa cervical subyacente cuando no lo est√¢. 
 Vaginal part
 External os of uterus
 Anterior lip
@@ -11126,7 +11130,7 @@ Vascular layer
 Mediastinum of testis
 Septula testis
 Lobules of testis
-Este tÈrmino describe el orificio de abertura de la uretra en la vejiga. 
+Este t√©rmino describe el orificio de abertura de la uretra en la vejiga. 
 Parenchyma of testis 
 Seminiferous tubu;Convoluted
 Straight tubules
@@ -11171,8 +11175,8 @@ Base of prostate
 Proximal part
 Peri-urethral gland zone
 Distal part
-Este tÈrmino deber\xe2\x84\xa2a ser usado en lugar de vesicula seminalis
-El tÈrmino gl‚ndula prost‚ticaha sido omitido porque la prÛstata es m‚s que su porciÛn glandular
+Este t√©rmino deber√≠a ser usado en lugar de vesicula seminalis
+El t√©rmino gl√¢ndula prost√¢ticaha sido omitido porque la pr√≥stata es m√¢s que su porci√≥n glandular
 Apex of prostate
 Anterior surface
 Posterior surface
@@ -11190,7 +11194,7 @@ Prostatic ducts
 Muscular tissue
 Puboprostaticus muscle
 Vesicoprostaticus muscle
-Trapezoid area\xc3\xa7rea trapezoidea
+Trapezoid area
 AN
 Duct of bulbourethral gland
 Male external genitalia organs\xc3\xaerganos genitales externos masculinos
@@ -11221,8 +11225,8 @@ Helicine arteries
 Cavernous veins
 Fascia of penis
 Suspensory ligament of penis
-En el interior de cada lÛbulo prost‚tico se distinguen a simple vista cuatro lobulillos definidos por la disposiciÛn de losconductos y el tejido conectivo. 
-Un ‚rea hiperecoica que se encuentra distal a la prÛstata
+En el interior de cada l√≥bulo prost√¢tico se distinguen a simple vista cuatro lobulillos definidos por la disposici√≥n de losconductos y el tejido conectivo. 
+Un √¢rea hiperecoica que se encuentra distal a la pr√≥stata
 Subcutaneous tissue of penis
 Fundiform ligament of penis
 Preputial glands
@@ -11240,7 +11244,7 @@ Prostatic utricle
 Prostatic sinus
 Muscular la;Muscular coat
 Circular layer
-Internal urethral sphinc;M. esf\xe2\x84\xa2nter interno de la ure;Esf\xe2\x84\xa2ntersupracollicularis
+Internal urethral sphinc;M. esf√≠nter interno de la ure;Esf√≠ntersupracollicularis
 Longitudinal layer
 Muc;Mucous membrane
 External urethral sphincter
@@ -11263,11 +11267,11 @@ Raphe of scrotum
 Dartos fas;Superficial fascia
 Septum of scrotum
 Dartos muscle
-Este tÈrmino describe el orificio de abertura de la uretra en la vejiga. 
-Con el abandono del tÈrmino diafragma urogenital
+Este t√©rmino describe el orificio de abertura de la uretra en la vejiga. 
+Con el abandono del t√©rmino diafragma urogenital
 Perineum
-Female external genitalia\xc3\xaerganos genitales externos femeninos{vide paginam 66}{see page 66}{ver p‚gina 66}
-Male external genitalia\xc3\xaerganos genitales externos masculinos{vide paginam 69}{see page 69}{ver p‚gina 69}
+Female external genitalia\xc3\xaerganos genitales externos femeninos{vide paginam 66}{see page 66}{ver p√¢gina 66}
+Male external genitalia\xc3\xaerganos genitales externos masculinos{vide paginam 69}{see page 69}{ver p√¢gina 69}
 Perineal raphe
 Perineal muscles
 Muscle of anal triangle
@@ -11294,12 +11298,12 @@ Sphincter urethrovaginalis muscle
 Ischio-anal fossa
 Fat body of ischio-anal fossa
 Pudendal canal
-Este tÈrmino
-Ha sido omitido tendineumpor el tÈrmino alternativo centrum perinei.
-El tÈrmino corpus
-El saco superficial subcut‚neo es un espacio virtual entre lacapa membranosa de tejido subcut‚neo perineal y la capa superficial de la fascia de revestimiento de los m\xc5\x93sculos perineales. 
-No hay ligamento transverso del perinÈ como en la mujer. 
-El s\xe2\x84\xa2mbolo masculino aparece despuÈs del m. transver-sus perinei profundusporque en la mujer este m\xc5\x93sculo est‚ representado \xc5\x93nicamente por un m\xc5\x93sculo liso. 
+Este t√©rmino
+Ha sido omitido tendineumpor el t√©rmino alternativo centrum perinei.
+El t√©rmino corpus
+El saco superficial subcut√¢neo es un espacio virtual entre lacapa membranosa de tejido subcut√¢neo perineal y la capa superficial de la fascia de revestimiento de los m√∫sculos perineales. 
+No hay ligamento transverso del perin√© como en la mujer. 
+El s√≠mbolo masculino aparece despu√©s del m. transver-sus perinei profundusporque en la mujer este m√∫sculo est√¢ representado √∫nicamente por un m√∫sculo liso. 
 Abdominopelvic cavity
 Abdominal cavity
 Pelvic cavity
@@ -11394,7 +11398,7 @@ Recto uterine fold
 Recto-uterine pouch 
 Recto-vesical pouch
 Pararectal fossa
-Los laparoscopistas entran en el plano de tejido extraperitoneal pÈlvico a travÈs de este tri‚ngulo
+Los laparoscopistas entran en el plano de tejido extraperitoneal p√©lvico a trav√©s de este tri√¢ngulo
 Endocrine glands
 Pituitary gland
 Adenohypophysis: 
@@ -11483,7 +11487,7 @@ Base of heart
 Anterior surf;Sternocostal surface
 Diaphragmatic surf;Inferior surface
 Right/
-Aunque el tÈrmino 
+Aunque el t√©rmino 
 Right border
 Apex of heart
 Notch of cardiac apex
@@ -11580,9 +11584,9 @@ Left bundle
 Subendocardial branches
 Pericardial cavity
 Transverse pericardial sinus
-Por razones did‚cticas
+Por razones did√¢cticas
 Peque\xc5\x92as valvas accesorias que se encuentran casi siempre entre las dos valvas principales de la valva atrioventricularis sinistra.
-Por razones did‚cticas
+Por razones did√¢cticas
 Oblique pericardial sinus
 Pericardium
 Fibrous pericardium
@@ -11629,7 +11633,7 @@ Posterior segmental artery
 Ascending branch
 Descending branch
 Lingular artery
-Una membrana de tejido conjuntivo constituida principalmente de fibras col‚genas que se extiende desde la superficie anterior de la bifurcaciÛn tra-queal
+Una membrana de tejido conjuntivo constituida principalmente de fibras col√¢genas que se extiende desde la superficie anterior de la bifurcaci√≥n tra-queal
 Inferior lingular artery
 Superior lingular artery
 Inferior lobar arteries
@@ -12118,7 +12122,7 @@ Left branch
 Artery of caudate lobe
 Medial segmental artery
 Lateral segmental artery
-Las ramas del ramus dorsalisde la arteria intercostalis posteriorque entran por el foramen intervertebral son: una que discurre por detr‚s del corpus vertebrae(ramus postcentralis)
+Las ramas del ramus dorsalisde la arteria intercostalis posteriorque entran por el foramen intervertebral son: una que discurre por detr√¢s del corpus vertebrae(ramus postcentralis)
 Intermediate branch
 Splenic artery
 Pancreatic branches
@@ -12173,7 +12177,7 @@ Tubal branches
 Testicular artery
 Ureteric branches
 Epididymal branches
-Para m‚s detalles acerca de la nomenclatura de los vasos renales
+Para m√¢s detalles acerca de la nomenclatura de los vasos renales
 Cardiovascular system / 
 Aortic bifurcation
 Common iliac artery
@@ -12329,7 +12333,7 @@ Pulmonary veins
 Right superior pulmonary vein
 Apical v;Apical branch
 Intrasegmental part
-PorciÛn intersegmentaria
+Porci√≥n intersegmentaria
 Anterior v;Anterior branch
 Intrasegmental part
 Intersegmental part
@@ -12665,7 +12669,7 @@ External iliac vein
 Inferior epigastric vein
 (V. obturatoria
 Deep circumflex iliac vein
-Para m‚s detalles en relaciÛn con la nomenclatura de los vasos sangu\xe2\x84\xa2neos renales
+Para m√¢s detalles en relaci√≥n con la nomenclatura de los vasos sangu√≠neos renales
 NA
 Superficial veins of lower limb
 Great saphenous v;Long 
@@ -13015,8 +13019,8 @@ Spinal dura mater
 Epidural space
 Arachnoid mater
 Subarachnoid sp;Leptomeningeal
-Aunque estos tÈrminos son de uso com\xc5\x93n
-Es el espacio subyacente a la hoja externa de la leptomeninge y contiene las trabÈculas aracnoideas. 
+Aunque estos t√©rminos son de uso com√∫n
+Es el espacio subyacente a la hoja externa de la leptomeninge y contiene las trab√©culas aracnoideas. 
 Cerebrospinal fluid
 Cranial arachnoid mater
 Arachnoid granulations
@@ -13158,8 +13162,8 @@ Septomarginal fasciculus
 Interfascicular fasciculus
 Gracile fasciculus
 Cuneate fasciculus
-Dentro de la sustancia blanca de la mÈdula espinal
-Estos tÈrminos se mantienen en esta ediciÛn. 
+Dentro de la sustancia blanca de la m√©dula espinal
+Estos t√©rminos se mantienen en esta edici√≥n. 
  fasciculus cuneatus
 Cuneospinal fibres
 Gracilespinal fibres
@@ -13195,12 +13199,12 @@ Lateral funiculus
 Inferior olive
 Anterior external arcuate fibres
 Retro-olivary groove:
-Retro-olivary area\xc3\xa7rea retrolivar
+Retro-olivary area
 Posterolateral sul;Dorsolateral 
-Estos tÈrminos designan aquellas fibras que se originan en cÈlulas del asta dorsal de la mÈdula espinal y ascienden por losfasc\xe2\x84\xa2culos cuneiforme y gr‚cil para terminar en sus respectivos n\xc5\x93cleos en el bulbo raqu\xe2\x84\xa2deo. 
-XEsta regiÛn de la mÈdula espinal fue llamada \xc3\x92‚rea\xc3\x93 en su descripciÛn original. 
-Son l‚minas delgadas de sustancia gris que se extienden a travÈs de la l\xe2\x84\xa2nea media adyacente al conductocentral.*
-La porciÛn entre la mÈdula espinal y el l\xe2\x84\xa2mite caudal del puente se denomina medulla oblongata.
+Estos t√©rminos designan aquellas fibras que se originan en c√©lulas del asta dorsal de la m√©dula espinal y ascienden por losfasc√≠culos cuneiforme y gr√¢cil para terminar en sus respectivos n√∫cleos en el bulbo raqu√≠deo. 
+XEsta regi√≥n de la m√©dula espinal fue llamada \xc3\x92√¢rea\xc3\x93 en su descripci√≥n original. 
+Son l√¢minas delgadas de sustancia gris que se extienden a trav√©s de la l√≠nea media adyacente al conductocentral.*
+La porci√≥n entre la m√©dula espinal y el l√≠mite caudal del puente se denomina medulla oblongata.
 Inferior cerebellar peduncle
 Restiform body
 Trigeminal tubercle
@@ -13223,7 +13227,7 @@ Decussation of medial lemnis;
 Medial lemniscus
 Tectospinal tract
 Medial longitudinal fasciculus
-Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culo
+Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culo
 Spinal tract of trigeminal nerve
 Amiculum of olive
 Spino-olivary tract
@@ -13242,8 +13246,8 @@ Hypothalamospinal fibres
 Interstitiospinal tract
 Lateral raphespinal tract
 Bulboreticulospinal tract
-En terminolog\xe2\x84\xa2as previas estos tÈrminos fueron considerados sinÛnimos. 
-El tÈrmino corticobulbar
+En terminolog√≠as previas estos t√©rminos fueron considerados sin√≥nimos. 
+El t√©rmino corticobulbar
 Medullary reticulospinal fibres
 Lateral vestibulospinal tract
 Posterior spinocerebellar tr;Dorsal
@@ -13290,7 +13294,7 @@ Posterior accessory olivary nucl;
 Medial accessory olivary nucleus
 Nucleus of hypoglossal nerve
 Posterior paramedian nucl;Dorsal
-Posterior nucleus of vagus ne;N\xc5\x93cleo posterior del nervio v;N\xc5\x93cleodorsalis nervi vagi
+Posterior nucleus of vagus ne;N√∫cleo posterior del nervio v;N√∫cleodorsalis nervi vagi
 Contiene una variedad de axones ascendentes y
  fasciculus cuneatus
 Nuclei of solitary tr;Solitary nuclei
@@ -13321,7 +13325,7 @@ Retroambiguus nucleus
 Inferior salivatory nucleus
 Arcuate nucleus
 Raphe nuclei
-Area postrema\xc3\xa7rea postrema
+Area postrema
 Endolemniscal nucleus
 Medial pericuneate nucleus
 Lateral pericuneate nucleus
@@ -13359,7 +13363,7 @@ NS
 Medullopontine sulcus
 Basilar sulcus
 Middle cerebellar peduncle
-Cerebellopontine angle\xc3\xa7ngulo pontocerebeloso
+Cerebellopontine angle
 Frenulum veli
 Superior cerebellar peduncle
 Superior medullary velum
@@ -13388,7 +13392,7 @@ Tegmentum of pons
 White substance
 Raphe of pons
 Medial longitudinal fasciculus
-Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culo
+Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culo
 Medial lemniscus
 Tectospinal tract
 Pretecto-olivars fibres
@@ -13436,7 +13440,7 @@ Spinal nucleus of trigeminal nerve
 Oral subnucleus
 Principal sensory nucleus of trigeminal
 Contiene una variedad de axones ascendentes y
-En el sentido usado aqu\xe2\x84\xa2
+En el sentido usado aqu√≠
  en lugar de nucleus pontinis nervi trigeminalis
 Posteromedial nucl;Dorsomedial
 Anterolateral nucl;Ventrolateral
@@ -13503,7 +13507,7 @@ Locus caeruleus
 Medullary stria of fourth ventricle
 Hypoglossal trig;Trigone
 Vagal trig;Trigone of vagus nerve
-Vestibular area\xc3\xa7rea vestibularï
+Vestibular area
 Funiculus separans
 Grey l;Gray l;
 Roof of fourth ventricle
@@ -13516,7 +13520,7 @@ Superior medullary velum
 Frenulum of superior medullary
 Inferior medullary velum
 Median aperture
-Area postrema\xc3\xa7rea postrema
+Area postrema
 Obex\xc3\xae;Cerrojo
 Sulcus limitans
 Superior fovea
@@ -13588,7 +13592,7 @@ Tectopontine tract
 Tectospinal tract
 Pretectoolivary fibres
 Se prefiere
-sino que est‚ situada ventrolateral a Èl y separ‚ndolo de los fasc\xe2\x84\xa2culos de fibras del crus cerebri.
+sino que est√¢ situada ventrolateral a √©l y separ√¢ndolo de los fasc√≠culos de fibras del crus cerebri.
 Contiene una variedad de axones ascendentes y
 Tecto-olivary fibres
 Tegmental decussations
@@ -13637,8 +13641,8 @@ Dissipated p;Dissipated subnucleus
 Raphe nuclei
 Posterior raphe nucl;Dorsal raphe
 Inferior linear nucleus
-Axones originados en el cÛrtex cerebral y que inervan estructuras mesencef‚licas
-Situado en la regiÛn lateral del mesencÈfalo
+Axones originados en el c√≥rtex cerebral y que inervan estructuras mesencef√¢licas
+Situado en la regi√≥n lateral del mesenc√©falo
 Intermediate linear nucleus
 Superior linear nucleus
 Aqueduct of midbr;Cerebral
@@ -13673,9 +13677,9 @@ Parapeduncular nucleus
 RE
 Cerebellar fissures
 Folia of cerebellum
-H 
+II - 
 Vallecula of cerebellum
-Lobuli 
+I-
 Vestibulocerebellum
 Spinocerebellum
 Pontocerebellum
@@ -13684,58 +13688,58 @@ Paleocerebellum
 Neocerebellum
 Body of cerebellum
 Anterior lobe of cerebellum
-I]
+Lingula [I]
 En su capa gris intermedia incluye dos capas celulares y una capa de axones.*
-Los tÈrminos vestibulocerebellumyspinocerebellumindican que neuronas del ganglio y n\xc5\x93cleos vestibulares
+Los t√©rminos vestibulocerebellumyspinocerebellumindican que neuronas del ganglio y n√∫cleos vestibulares
 Precentral fiss;Post-lingual fissure
-II et 
+II
+Anterior p;Ventral part [II]
+I]
+Wing of central lobule
 II]
 II
-Wing of central lobule
-H 
-H 
 Preculminate fiss;Post-central fissure
-IV et 
-IV]
-Inlraculminale fissure
 V]
+Anterior p;Ventral part [IV]
+Inlraculminale fissure
+Posterior p;Dorsal part [V]
 Anterior quadrangular lobule 
-H 
-H 
+IV]
+V]
 Primary fiss;Preclival fissure
 Posterior lobe of cerebellum
-H 
+VI et 
+Declive [VI]
 VI]
-H 
 Posterior superior fiss;Post-clival
-VI
+I 
 Semilunal lobu;Ansiform lobule
 Superior semilunar lob;First crus 
 Horizontal fiss;Intercrural fissure
 Inferior semilunar lob;Second 
 Lunogracile fiss;Ansoparamedian 
-Vll 
+B]
 Gracile lob;Paramedian lobule
 Prebiventral fis;Prepyramidal fisure
+II]
 VI
-H 
-Lateral p;Pars copularis [
+Lateral p;Pars copularis [H 
 Intrabiventral fis;Anterior inferior
 Medial p;Dorsal parafloccularis
 Secondary fiss;Post-pyramidal fissure
-IX]
+Uvula [IX]\xc3\xb2vula [IX]
 Tonsil of cerebel;Ventral 
 Posterolateral fissure
 Flocculonodular lobe
-X]
+Nodule [X]
 Peduncle of flocculus
-H 
-Arbor vitae\xc3\xa7rbol de la vida
+Flocculus [HX]
+Arbor vitae
 Cerebellar cortex
 Granular layer
 Purkinje cell layer
 Molecular layer
-Se recomienda este tÈrmino antes que el de stratum neurium piriformium
+Se recomienda este t√©rmino antes que el de stratum neurium piriformium
 Cerebellar nuclei
 Dentate nucl;Nucleus lateralis 
 Hilum of dentate nucleus
@@ -13776,13 +13780,13 @@ Optic chi;Optic chiasma
 Optic tract
 Lateral root
 Medial root
-Preoptic area\xc3\xa7rea preÛptica
+Preoptic area
 Tuber cinereum
 Median eminence
 Third ventricle
 Interventricular foramen
-Los tÈrminos \xc3\x92dentado\xc3\x93
-Subfornical organ\xc3\xaergano subfornicalï
+Los t√©rminos \xc3\x92dentado\xc3\x93
+Subfornical organ\xc3\xaergano subfornical‚Ä¢
 Taenia thalami
 Choroid membrane
 Choroid plexus
@@ -13805,7 +13809,7 @@ Fasciculus retroflexus
 Lateral habenular nucleus
 Medial habenular nucleus
 Posterior commissure
-Pretectal area\xc3\xa7rea pretectal
+Pretectal area
 Pretectal nuclei
 Anterior pretectal nucleus
 Nucleus of optic tract
@@ -13913,7 +13917,7 @@ Ventral principal nucleus
 Dorsal nucleus
 Medial magnocellular nucleus
 Hypothalamus
-Anterior hypothalamic a;Anterior\xc3\xa7rea hipotal‚mica anter;RegiÛnhypothalamic regionhipotal‚mica anterior
+Anterior hypothalamic a;Anterior
 Anterior hypothalamic nucleus
 Anteriorper periventricular nucleus
 Interstitial nuclei of anterior
@@ -13927,40 +13931,40 @@ Supra-optic nucleus
 Dorsolateral part
 Dorsomedial part
 Ventromedial part
-Dorsal hypothalamic a;Dorsal\xc3\xa7rea hipotal‚mica dor;RegiÛn hipotal‚micahypothalamic regiondorsal
+Dorsal hypothalamic a;Dorsal
 Dorsomedial nucleus
 Endopeduncular nucleus
 Nucleus of ansa lenticularis
-Intermediate hypothalamic a;\xc3\xa7rea hipotal‚mica interme;RegiÛn
+Intermediate hypothalamic a;
 Dorsal nucleus
 Dorsomedial nucleus
 Arcuate nucl;Infundibular nucleus
 Periventricular nucleus
 Posterior periventricular nucleus
-Retrochiasmatic a;Retrochiasmatic\xc3\xa7rea retroquiasm‚t;RegiÛnregionretroquiasm‚tica
+Retrochiasmatic a;Retrochiasmatic
 Lateral tuberal nuclei
-Las fibras del campo medial (tambiÈn llamado campo o ‚rea prerrubral)
+Las fibras del campo medial (tambi√©n llamado campo o √¢rea prerrubral)
 Ventromedial nucleus of hypothalamus
-Lateral hypothalamic area\xc3\xa7rea hipotal‚mica lateral
-Preoptic area\xc3\xa7rea preÛptica
+Lateral hypothalamic area
+Preoptic area
 Lateral tuberal nuclei
 Perifornical nucleus
 Tuberomammillary nucleus
-Posterior hypothalamic a;Posterior\xc3\xa7rea hipotal‚mica poster;RegiÛnhypothalamic regionhipotal‚mica posterior
+Posterior hypothalamic a;Posterior
 Dorsal premammillary nucleus
 Lateral nucleus of mammillary body
 Medial nucleus of mammillary body
 Supramammillary nucleus
 Ventral premammillary nucleus
 Posterior nucleus of hypothalamus
-Vascular organ of lamina terminalis\xc3\xaergano vascular de la l‚mina terminal
+Vascular organ of lamina terminalis\xc3\xaergano vascular de la l√¢mina terminal
 Zones of hypothalamus
 Periventricular zone
 Medial zone
 Lateral zone
 Neurohypophysis {see page 74}
 White substance of hypothalamus
-Posterior longitudinal fascicu;Fasc\xe2\x84\xa2culo longitudinal poster;Fasc\xe2\x84\xa2culolongitudinalis dorsalis
+Posterior longitudinal fascicu;Fasc√≠culo longitudinal poster;Fasc√≠culolongitudinalis dorsalis
 Dorsal supra-optic commissure
 Fibres of stria terminalis
 Fornix
@@ -14036,7 +14040,7 @@ Superior temporal sulcus
 Middle temporal gyrus
 Inferior temporal sulcus
 Inferior temporal gyrus
-Ins;Insular lobe\xc3\xaans;LÛbulo de la \xe2\x84\xa2nsula
+Ins;Insular lobe\xc3\xaans;L√≥bulo de la √≠nsula
 Insular gyri
 Long gyrus of insula
 Short gyri of insula
@@ -14045,7 +14049,7 @@ Circular sulcus of insula
 Limen insu;Insular threshold
 Medial and inferior surfaces
 Interlobar sulci
-Se ha omitido el tÈrmino rinencÈfalo porque ya no es de uso com\xc5\x93n y porque las ‚reas/estructuras incluidas bajo este ep\xe2\x84\xa2grafe en lasterminolog\xe2\x84\xa2as previas abarcan considerablemente m‚s funciones que las olfatorias. 
+Se ha omitido el t√©rmino rinenc√©falo porque ya no es de uso com√∫n y porque las √¢reas/estructuras incluidas bajo este ep√≠grafe en lasterminolog√≠as previas abarcan considerablemente m√¢s funciones que las olfatorias. 
 
 Sulcus of corpus callosum
 Cingulate sulcus
@@ -14062,7 +14066,7 @@ Anterior paracentral gyrus
 Central sulcus
 Subcallosal area: 
 Paraterminal gyrus
-Paraolfactory area\xc3\xa7rea paraolfatoria
+Paraolfactory area
 Paraolfactory gyri
 Paraolfactory sulci
 Orbital gyri
@@ -14101,7 +14105,7 @@ Fasciolar gyrus
 Parahippocampal gyrus
 Uncus
 Hippocampal sulcus
-Est‚ formado por estructuras que se extienden continuamente por la superficie m‚s medial del hemisferio cerebral. 
+Est√¢ formado por estructuras que se extienden continuamente por la superficie m√¢s medial del hemisferio cerebral. 
 Dentate gyrus
 Fimbriodentate sulcus
 Fimbria of hippocampus
@@ -14120,7 +14124,7 @@ Minor forc;Frontal forceps
 Major forc;Occipital forceps
 Tapetum
 Lamina terminalis
-Vascular organ of lamina terminalis\xc3\xaergano vascular de la l‚mina terminal
+Vascular organ of lamina terminalis\xc3\xaergano vascular de la l√¢mina terminal
 Anterior commissure
 Anterior part
 Posterior part
@@ -14157,8 +14161,8 @@ Atrium
 Collateral eminence
 Choroid enlargement
 Bulb of occipital horn
-Esta secciÛn de nueva creaciÛn ha sido a\xc5\x92adida para facilitar la localizaciÛn de n\xc5\x93cleos que normalmente est‚n agrupados bajo esta desig-naciÛn general. 
-La expansiÛn del ventr\xe2\x84\xa2culo lateral en la encrucijada entre la porciÛn central y las astas temporal y occipital de Èste.'b'
+Esta secci√≥n de nueva creaci√≥n ha sido a\xc5\x92adida para facilitar la localizaci√≥n de n√∫cleos que normalmente est√¢n agrupados bajo esta desig-naci√≥n general. 
+La expansi√≥n del ventr√≠culo lateral en la encrucijada entre la porci√≥n central y las astas temporal y occipital de √©ste.'b'
 Calcarine spur
 Occipital h;Posterior horn
 Temporal h;Inferior horn
@@ -14170,12 +14174,12 @@ Allocortex
 Mesocortex
 Isocortex
 Layers ofisocortex
-Lamina 
-Lamina 
-Lamina 
-Lamina 
-Lamina 
-Lamina 
+I]
+II]
+II
+IV]
+V]
+VI]
 Stria of molecular layer
 Stria of external granular layer
 Stria of internal granular layer
@@ -14194,7 +14198,7 @@ II hippocampi prop;Regio
 II
 IV hippocampi prop;Regio 
 Fimbria
-Alveus\xc3\xa7lveo
+Alveus
 Layers of 
 Lacunar-molecular layer
 Oriens layer
@@ -14207,10 +14211,10 @@ Granular layer
 Multiform layer
 Basal forebrain
 Amygdaloid b;Amygdaloid complex
-Amygdaloclaustral area\xc3\xa7rea amigdaloclaustral
-Amygdalohippocampal area\xc3\xa7rea parahipocampal
-Amygdalopiriform transition area\xc3\xa7rea de transiciÛn amigdalopiriforme
-Anterior amygdaloid area\xc3\xa7rea amigdalina anterior
+Amygdaloclaustral area
+Amygdalohippocampal area
+Amygdalopiriform transition area
+Anterior amygdaloid area
 Basolateral amygdaloid nucleus
 Basomedial amygdaloid nucleus
 Central amygdaloid nucleus
@@ -14248,15 +14252,15 @@ Nucleus accumbens
 Lateral p;Core region
 Medial p;Shell region
 Peduncular loop
-Septal area\xc3\xa7rea septal
+Septal area
 Dorsal septal nucleus
 Lateral septal nucleus
 Medial septal nucleus
 Septofimbrial nucleus
 Triangular nucleus of septum
-Subfornical organ\xc3\xaergano subfornicalï
-Esta nueva secciÛn incluye estructuras que
- pero su funciÛn se aparta ampliamente de las activida-des gobernadas por Èstos. 
+Subfornical organ\xc3\xaergano subfornical‚Ä¢
+Esta nueva secci√≥n incluye estructuras que
+ pero su funci√≥n se aparta ampliamente de las activida-des gobernadas por √©stos. 
 La pars sublenticularis amygdalae(que comprende los nuclei amygdalo-rum centralis et medialis)
 Basal nuclei and related structures
 Caudate nucleus
@@ -14266,7 +14270,7 @@ Tail
 Lentiform nucl;Lenticular nucleus
 Putamen
 Lateral medullary lam;External
-Globus pallidus lateral segm;Globo p‚lido late;Globo p‚lido externo
+Globus pallidus lateral segm;Globo p√¢lido late;Globo p√¢lido externo
 Medial medullary lam;Internal
 Globus pallidus medial segm;
 Lateral part
@@ -14303,11 +14307,11 @@ Occipitopontine fibres
 Occipitotectal fibres
 Optic radiat;Geniculocalcarine 
 Algunos textos ense\xc5\x92an
-El tÈrmino corticobulbar
-Est‚ formada por las partes que histÛricamente fueron llamadas talamolenticulares
+El t√©rmino corticobulbar
+Est√¢ formada por las partes que hist√≥ricamente fueron llamadas talamolenticulares
 Posterior thalamic radiation
 Sublentiform l;Sublenticular limb
-Acoustic radiat;RadiaciÛn ac\xc5\x93st;Fibras geniculotemporales
+Acoustic radiat;Radiaci√≥n ac√∫st;Fibras geniculotemporales
 Corticotectall fibres
 Optic radiation
 Temporopontine fibres
@@ -14372,7 +14376,7 @@ Cholinergic cells ol medial septal
  nuclei
 Cholinergic cells ot substantia 
 Cholinergic cells of dorsal tegmental
-Ch7]
+Cholinergic cells of epithalamus [Ch7]
 Peripheral nervous system
 Ganglion
 Capsule of ganglion
@@ -14421,15 +14425,15 @@ Vascular nerves
 Cranial nerves
 Terrninal nerve [0]
 Terminal ganglion
-I]
+Olfactory nerve [I]
 Olfactory nerves
-II]
-II
+Optic nerve [II]
+I]
 Superior branch
 Inferior branch
-Branch to ciliary gangl;Ramo para el ganglio cil;Ra\xe2\x84\xa2zparasympathica ganglii cilia;Radix
-IV]
-V]
+Branch to ciliary gangl;Ramo para el ganglio cil;Ra√≠zparasympathica ganglii cilia;Radix
+Tr\nochlear nerve [IV]
+Trigeminal nerve [V]
 Sensory root
 Trigeminal ganglion
 Motor root
@@ -14515,8 +14519,8 @@ Mental nerve
 Mental branches
 Labial branchest
 Gingival branches
-VI]
-VI
+Abducent ne;Abducens nerve [VI]
+I]
 Geniculum
 Nerve to stapedius
 Posterior auricular nerve
@@ -14534,11 +14538,11 @@ Marginal mandibular branch
 Cervical branch
 Intermediate nerve
 Geniculate ganglion
-Greater petrosal ne;N. petroso ma;Ra\xe2\x84\xa2z parasimp‚ticaganglii pterigopalat;Radix intermedia
+Greater petrosal ne;N. petroso ma;Ra√≠z parasimp√¢ticaganglii pterigopalat;Radix intermedia
 Chorda tymp;Parasympathetic
 Communicating branch with tympanic
 Communicating branch with vagus nerve
-VI
+II]
 Vestibular nerve
 Vestibular ganglion
 Cochlear communicating branch
@@ -14552,7 +14556,7 @@ Posterior ampullary nerve
 Saccular nerve
 Cochlear nerve
 Cochlear gangl;Spiral ganglion
-IX]
+Glossopharyngeal nerve [IX]
 Superior ganglion
 Inferior ganglion
 Tympanic nerve
@@ -14566,11 +14570,11 @@ Stylopharyngeal branch
 Carotid branch
 Tonsillar branches
 Lingual branches
-Lesser petrosal ne;N. petroso me;Ra\xe2\x84\xa2z parasimp‚tica ganglii otici
+Lesser petrosal ne;N. petroso me;Ra√≠z parasimp√¢tica ganglii otici
 Communicating branch with 
 Communicating branch with
 Communicating branch with chorda
-X]
+Vagus nerve [X]
 Superior ganglion
 Meningeal branch
 Auricular branch
@@ -14602,14 +14606,14 @@ Posterior gastric branches
 Posterior nerve of lesser curvature
 Coeliac branches
 Renal branches
-XI]
+Accessory nerve [XI]
 Cranial r;Vagal part
 Spinal r;Spinal part
 Tr\nunk of accessory nerve
 Internal branch
 External branch
 Muscular branches
-XI
+I]
 Lingual branches
 Spinal nerves
 RV
@@ -14668,7 +14672,7 @@ Posterior cord
 Musculocutaneous nerve
 Muscular branches
 Lateral cutaneous nerve of fore;
-Medial cutaneous nerve of ;N. cut‚neo medial del br;N. cut‚neo
+Medial cutaneous nerve of ;N. cut√¢neo medial del br;N. cut√¢neo
 Medial cutaneous nerve of fore;
 Anterior branch
 Posterior branch
@@ -14759,7 +14763,7 @@ Muscular branches
 Anterior cutaneous branches
 Saphenous nerve
 Infrapatellar branch
-Medial cutaneous nerve of ;Rr. cut‚neos mediales de la pie;
+Medial cutaneous nerve of ;Rr. cut√¢neos mediales de la pie;
 Lumbosacral trunk
 Sacral plexus
 Nerve to obturator internus
@@ -14842,7 +14846,7 @@ Greater splachnic nerve
 Thoracic splanchnic ganglion
 Lesser splanchnic nerve
 Renal branch
-El tÈrmino systema nervosum autonomicumnervioso som‚tico
+El t√©rmino systema nervosum autonomicumnervioso som√¢tico
 Anteriormente conocido con el nombre de n. conarii
 Least splanchnic ne;Lowest 
 Lumbar ganglia
@@ -14856,13 +14860,13 @@ Cranial part
 Ciliary ganglion
 Parasympathetic r;Oculomotor 
 Sympathetic root
-Ra\xe2\x84\xa2z sensit;Ra\xe2\x84\xa2z nasocil;R. communicans n. nasociliaris cum 
+Ra√≠z sensit;Ra√≠z nasocil;R. communicans n. nasociliaris cum 
 Short ciliary nerves
 Pterygopalatine ganglion
 Nerve of pterygoid canal
 Parasympathetic r;Greater 
 Sympathetic r;Deep petrosal nerve
-Ra\xe2\x84\xa2z sensitiva del ganglio pterigopalat;
+Ra√≠z sensitiva del ganglio pterigopalat;
 Submandibular ganglion
 Parasympathetic r;Chorda tympani
 Sympathetic root
@@ -15037,7 +15041,7 @@ Ganglionic layer
 Layer of nerve fibres
 Inner limiting layer
 Optic disc
-Depression of optic d;ExcavaciÛn del di;ExcavaciÛn 
+Depression of optic d;Excavaci√≥n del di;Excavaci√≥n 
 Macula
 Fovea centralis
 Foveola
@@ -15091,7 +15095,7 @@ Zonular sapces
 Chambers of eyeball
 Aqueous humor
 Anterior chamber
-Iridocorneal angle\xc3\xa7ngulo iridocorneal
+Iridocorneal angle
 Posterior chamber
 Postremal cham;Vitreous chamber
 Retrozonular space
@@ -15102,8 +15106,8 @@ Hyaloid fossa
 Vitreous membrane
 Vitreous stroma
 Vitreous humor
-Este nuevo tÈrmino es compatible con el utilizado para otras c‚maras del ojo
-Este nuevo tÈrmino describe la parte de la c‚mara postremasituada inmediatamente detr‚s de la zonula ciliarisque contiene humor aquosusy comunica conla camera posteriora travÈs de los espatia zonulares.'b'
+Este nuevo t√©rmino es compatible con el utilizado para otras c√¢maras del ojo
+Este nuevo t√©rmino describe la parte de la c√¢mara postremasituada inmediatamente detr√¢s de la zonula ciliarisque contiene humor aquosusy comunica conla camera posteriora trav√©s de los espatia zonulares.'b'
 RU
 Periorbita
 Orbital septum
@@ -15137,8 +15141,8 @@ Posterior surface of eyelid
 Palpebral fissure
 Lateral palpebral commissure
 Medial palpebral commissure
-Lateral angle of eye\xc3\xa7ngulo lateral del ojoï
-Medial angle of eye\xc3\xa7ngulo medial del ojoï
+Lateral angle of eye
+Medial angle of eye
 Anterior palpebral margin
 Posterior palpebral margin
 Eyelash
@@ -15227,7 +15231,7 @@ Tympanic notch
 Cartilaginous external acoustic meatus
 Cartilage of acoustic meatus
 Notch in cartilage of acoustic meatus
-L‚mina del trago
+L√¢mina del trago
 Tympanic membrane
 Pars flaccida
 Pars tensa
@@ -15372,12 +15376,12 @@ Internal acoustic meatus
 Internal acoustic opening
 Fundus ofinternal acoustic meatus
 Transverse crest
-Facial area\xc3\xa7rea del nervio facial
+Facial area
 Vertical crest
-Superior vestibular area\xc3\xa7rea vestibular superior
-Inferior vestibular area\xc3\xa7rea vestibular inferior'b'
+Superior vestibular area
+Inferior vestibular area
 Foramen singulare
-Cochlear area\xc3\xa7rea coclear
+Cochlear area
 Tractus spiralis foraminosus
 Perilymphatic space
 Perilymph
