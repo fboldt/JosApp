@@ -2,6 +2,9 @@
 <html>
 <head>
   <title>Agnodice</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <style>
 table {
@@ -16,12 +19,23 @@ table, td, th {
 }
 </style>
 <body onload="getData()">
-<h1>Agnodice</h1>
-
-<p>Busca: <input type="text" id="txt1" onkeyup="showHint(this.value)"></p>
-
+<center>
+<table id="landingtable">
+<tr>
+<td background="img/agnodice.jpg" style="background-repeat:no-repeat;background-position:center;">
+<center>
+<h1><center><br><br>•<u>Agnodice</u>•</h1>
+</center>
+</td>
+</tr>
+<tr>
+<td>
+<p><center>Busca: <input type="text" id="txt1" onkeyup="showHint(this.value)"></center></p>
+</td>
+</tr>
+</table>
 <p><span id="txtHint"></span></p> 
-
+</center>
 <script>
 function getData() {
   var codes = getTerms("codes.txt");

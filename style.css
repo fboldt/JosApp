@@ -1,0 +1,15 @@
+body {
+  background-color: white;
+  padding-top: 25px;
+  padding-left: 25px;
+}
+
+h1 {
+  font-size: 120px;
+  font-family: 'Tangerine';
+  color: black;
+}
+
+table#landingtable {
+	width: 20%;
+}
